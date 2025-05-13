@@ -7,22 +7,3 @@
     }
   ]
 }
-{
-  "questions": [
-    {
-      "question": "What is the capital of Madhya Pradesh?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answerIndex": 1
-    }
-  ]
-}
-
-{
-  "questions": [
-    {
-      "question": "What is the capital of India?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answerIndex": 3
-    }
-  ]
-}
