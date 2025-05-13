@@ -1,18 +1,8 @@
 {
   "questions": [
     {
-      "question": "What is the capital of India?",
-      "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
-      "answerIndex": 0
-    },
-    {
-      "question": "What is 5 x 2?",
-      "options": ["2", "5", "10", "20"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Best Android language?",
-      "options": ["Java", "Swift", "Kotlin", "C++"],
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
       "answerIndex": 2
     }
   ]
