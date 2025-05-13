@@ -7,13 +7,98 @@
     },
     {
       "question": "Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
       "answerIndex": 1
     },
     {
-      "question": "What is 2 + 2?",
-      "options": ["3", "4", "5", "6"],
+      "question": "Who wrote the national anthem of India?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
       "answerIndex": 1
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which organ pumps blood throughout the body?",
+      "options": ["Liver", "Brain", "Heart", "Lungs"],
+      "answerIndex": 2
+    },
+    {
+      "question": "In which direction does the sun rise?",
+      "options": ["West", "North", "South", "East"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which festival is known as the Festival of Lights?",
+      "options": ["Holi", "Eid", "Diwali", "Navratri"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answerIndex": 1
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What do you call animals that eat only plants?",
+      "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which country is famous for sushi?",
+      "options": ["India", "China", "Japan", "Thailand"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": ["Newton", "Edison", "Einstein", "Tesla"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the national sport of India?",
+      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+      "answerIndex": 1
+    },
+    {
+      "question": "How many hours are there in 2 days?",
+      "options": ["24", "36", "48", "72"],
+      "answerIndex": 2
     }
   ]
 }
