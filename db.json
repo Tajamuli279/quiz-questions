@@ -1,14 +1,14 @@
 {
   "questions": [
     {
-      "question": "What is the capital of India?",
-      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
-      "answerIndex": 1
+      "question": "The tallest statue in the world "The Statue of Unity" is located near which dam?",
+      "options": ["Bhakra Nangal Dam", "Sardar Sarovar Dam", "Tehri Dam", "Hirakud Dam"],
+      "answerIndex": 2
     },
     {
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-      "answerIndex": 1
+      "question": "Which Article of the Indian Constitution gives the President the power of pardoning?",
+      "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
+      "answerIndex": 2
     },
     {
       "question": "Who wrote the national anthem of India?",
@@ -16,9 +16,9 @@
       "answerIndex": 1
     },
     {
-      "question": "Which gas do plants absorb from the atmosphere?",
-      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-      "answerIndex": 2
+      "question": "Which is the largest producer of copper in India?",
+      "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
+      "answerIndex": 3
     },
     {
       "question": "What is the smallest prime number?",
