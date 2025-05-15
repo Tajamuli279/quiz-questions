@@ -1,109 +1,109 @@
 {
   "questions": [
     {
-      "question": "The tallest statue in the world 'The Statue of Unity' is located near which dam?",
+      "question": "Q1:-The tallest statue in the world 'The Statue of Unity' is located near which dam?",
       "options": ["Bhakra Nangal Dam", "Sardar Sarovar Dam", "Tehri Dam", "Hirakud Dam"],
       "answerIndex": 2
     },
     {
-      "question": "Which Article of the Indian Constitution gives the President the power of pardoning?",
+      "question": "Q2:-Which Article of the Indian Constitution gives the President the power of pardoning?",
       "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
       "answerIndex": 2
     },
     {
-      "question": "Who wrote the national anthem of India?",
+      "question": "Q3:-Who wrote the national anthem of India?",
       "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
       "answerIndex": 1
     },
     {
-      "question": "Which is the largest producer of copper in India?",
+      "question": "Q4:-Which is the largest producer of copper in India?",
       "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
       "answerIndex": 3
     },
     {
-      "question": "In which Indian state is the Flamingo festival celebrated?",
+      "question": "Q5:-In which Indian state is the Flamingo festival celebrated?",
       "options": ["Rajasthan", "Assam", "Manipur", "Andhra Pradesh"],
       "answerIndex": 4
     },
     {
-      "question": "What is the smallest prime number?",
+      "question": "Q6:-What is the smallest prime number?",
       "options": ["0", "1", "2", "3"],
       "answerIndex": 2
     },
     {
-      "question": "Which organ pumps blood throughout the body?",
+      "question": "Q7:-Which organ pumps blood throughout the body?",
       "options": ["Liver", "Brain", "Heart", "Lungs"],
       "answerIndex": 2
     },
     {
-      "question": "In which direction does the sun rise?",
+      "question": "Q8:-In which direction does the sun rise?",
       "options": ["West", "North", "South", "East"],
       "answerIndex": 3
     },
     {
-      "question": "Which is the largest planet in our solar system?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Which festival is known as the Festival of Lights?",
+      "question": "Q9:-Which festival is known as the Festival of Lights?",
       "options": ["Holi", "Eid", "Diwali", "Navratri"],
       "answerIndex": 2
     },
     {
-      "question": "Which part of the plant conducts photosynthesis?",
+      "question": "Q10:-Which part of the plant conducts photosynthesis?",
       "options": ["Root", "Stem", "Leaf", "Flower"],
       "answerIndex": 2
     },
     {
-      "question": "What is H2O commonly known as?",
+      "question": "Q11:-What is H2O commonly known as?",
       "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
       "answerIndex": 1
     },
     {
-      "question": "How many continents are there on Earth?",
+      "question": "Q12:-How many continents are there on Earth?",
       "options": ["5", "6", "7", "8"],
       "answerIndex": 2
     },
     {
-      "question": "What is the boiling point of water?",
+      "question": "Q13:-What is the boiling point of water?",
       "options": ["90°C", "100°C", "110°C", "120°C"],
       "answerIndex": 1
     },
     {
-      "question": "What do you call animals that eat only plants?",
+      "question": "Q14:-What do you call animals that eat only plants?",
       "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
       "answerIndex": 1
     },
     {
-      "question": "What is the square root of 64?",
+      "question": "Q15:-What is the square root of 64?",
       "options": ["6", "7", "8", "9"],
       "answerIndex": 2
     },
     {
-      "question": "Which is the longest river in the world?",
+      "question": "Q16:-Which is the longest river in the world?",
       "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
       "answerIndex": 2
     },
     {
-      "question": "Which country is famous for sushi?",
+      "question": "Q17:-Which country is famous for sushi?",
       "options": ["India", "China", "Japan", "Thailand"],
       "answerIndex": 2
     },
     {
-      "question": "Who invented the light bulb?",
+      "question": "Q18:-Who invented the light bulb?",
       "options": ["Newton", "Edison", "Einstein", "Tesla"],
       "answerIndex": 1
     },
     {
-      "question": "What is the national sport of India?",
+      "question": "Q19:-What is the national sport of India?",
       "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
       "answerIndex": 1
     },
     {
-      "question": "How many hours are there in 2 days?",
+      "question": "Q20:-How many hours are there in 2 days?",
       "options": ["24", "36", "48", "72"],
       "answerIndex": 2
     }
+    {
+      "question": "Q21:-Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answerIndex": 2
+    },
   ]
 }
