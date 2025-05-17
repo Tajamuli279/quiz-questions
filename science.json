@@ -1,54 +1,7 @@
-{
-  "questions": [
-    {
-      "question": "Q1:-Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answer": 1
-    },
-    {
-      "question": "Q2:-How many continents are there in the world?",
-      "options": ["5", "6", "7", "8"],
-      "answer": 2
-    },
-    {
-      "question": "Q3:-Which is the tallest mountain in the world?",
-      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
-      "answer": 2
-    },
-    {
-      "question": "Q4:-What is the capital of India?",
-      "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
-      "answer": 1
-    },
-    {
-      "question": "Q5:-How many days are there in a leap year?",
-      "options": ["365", "366", "364", "367"],
-      "answer": 1
-    },
-    {
-      "question": "Q6:-Which animal is known as the King of the Jungle?",
-      "options": ["Tiger", "Elephant", "Lion", "Leopard"],
-      "answer": 2
-    },
-    {
-      "question": "Q7:-What is the primary source of energy for Earth?",
-      "options": ["Moon", "Sun", "Wind", "Water"],
-      "answer": 1
-    },
-    {
-      "question": "Q8:-Which color is formed by mixing red and yellow?",
-      "options": ["Green", "Blue", "Orange", "Purple"],
-      "answer": 2
-    },
-    {
-      "question": "Q9:-How many legs does a spider have?",
-      "options": ["6", "8", "10", "12"],
-      "answer": 1
-    },
-    {
-      "question": "Q10:-Which gas do humans breathe in to survive?",
-      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
-      "answer": 0
-    }
-  ]
-}
+[
+  {
+    "question": "Q1:-What is the capital of France?",
+    "options": ["Berlin", "London", "Madrid", "Paris"],
+    "answerIndex": 3
+  },
+]
