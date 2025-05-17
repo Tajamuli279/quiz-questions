@@ -1,1 +1,154 @@
-
+{
+  "questions": [
+  {
+    "question": "Q1:-Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Q2:-How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q3:-Which is the tallest mountain in the world?",
+    "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q4:-What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Q5:-How many days are there in a leap year?",
+    "options": ["365", "366", "364", "367"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Q6:-Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Elephant", "Lion", "Leopard"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q7:-What is the primary source of energy for Earth?",
+    "options": ["Moon", "Sun", "Wind", "Water"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Q8:-Which color is formed by mixing red and yellow?",
+    "options": ["Green", "Blue", "Orange", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q9:-How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Q10:-Which gas do humans breathe in to survive?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answerIndex": 0
+  },
+    {
+      "question": "Q11:-What is H2O commonly known as?",
+      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q12:-Which day comes after Monday?",
+      "options": ["Wednesday", "Sunday", "Tuesday", "Friday"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q13:-What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q14:-What do you call animals that eat only plants?",
+      "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q15:-What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q16:-Which is the longest river in the world?",
+      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q17:-Which country is famous for sushi?",
+      "options": ["India", "China", "Japan", "Thailand"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q18:-Who invented the light bulb?",
+      "options": ["Newton", "Edison", "Einstein", "Tesla"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q19:-What is the national sport of India?",
+      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q20:-How many hours are there in 2 days?",
+      "options": ["24", "36", "48", "72"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q21:-Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q22:-Which Article of the Indian Constitution gives the President the power of pardoning?",
+      "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q23:-Who wrote the national anthem of India?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Q24:-Which is the largest producer of copper in India?",
+      "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q25:-In which Indian state is the Flamingo festival celebrated?",
+      "options": ["Rajasthan", "Assam", "Manipur", "Andhra Pradesh"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Q26:-What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q27:-Which organ pumps blood throughout the body?",
+      "options": ["Liver", "Brain", "Heart", "Lungs"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q28:-In which direction does the sun rise?",
+      "options": ["West", "North", "South", "East"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Q29:-Which festival is known as the Festival of Lights?",
+      "options": ["Holi", "Eid", "Diwali", "Navratri"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q30:-Which part of the plant conducts photosynthesis?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answerIndex": 2
+    }
+  ]
+}
