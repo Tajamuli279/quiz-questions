@@ -1,6 +1,6 @@
 {
   "all": [
-    // --- GK (10)
+    
     {
       "question": "Q1:-What is the capital of France?",
       "options": ["Berlin", "London", "Madrid", "Paris"],
@@ -51,8 +51,6 @@
       "options": ["28", "29", "30", "31"],
       "answer": 0
     },
-
-    // --- Reasoning (10)
     {
       "question": "Q11:-What comes next in the series: 3, 6, 9, 12, ___?",
       "options": ["14", "15", "16", "18"],
@@ -104,7 +102,6 @@
       "answer": 2
     },
 
-    // --- Maths (10)
     {
       "question": "Q21:-What is 7 + 8?",
       "options": ["15", "14", "16", "13"],
@@ -156,7 +153,6 @@
       "answer": 0
     },
 
-    // --- Science (10)
     {
       "question": "Q31:-Which planet is known as the Red Planet?",
       "options": ["Earth", "Mars", "Jupiter", "Venus"],
