@@ -3,52 +3,52 @@
     {
       "question": "Q1:-What is the capital of France?",
       "options": ["Berlin", "London", "Madrid", "Paris"],
-      "answer": 3
+      "answerIndex": 3
     },
     {
       "question": "Q2:-Who is the Prime Minister of India (as of 2024)?",
       "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
-      "answer": 0
+      "answerIndex": 0
     },
     {
       "question": "Q3:-Which is the longest river in the world?",
       "options": ["Amazon", "Ganga", "Nile", "Yamuna"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q4:-Which is the smallest country in the world?",
       "options": ["Maldives", "Vatican City", "Monaco", "Nauru"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q5:-Who wrote the Indian National Anthem?",
       "options": ["Bankim Chandra", "Tagore", "Gandhi", "Tilak"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q6:-Which state is known as the 'Land of Five Rivers'?",
       "options": ["Punjab", "Rajasthan", "Assam", "Bihar"],
-      "answer": 0
+      "answerIndex": 0
     },
     {
       "question": "Q7:-Who discovered America?",
       "options": ["Vasco da Gama", "Columbus", "Newton", "Einstein"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q8:-What currency is used in Japan?",
       "options": ["Won", "Dollar", "Yuan", "Yen"],
-      "answer": 3
+      "answerIndex": 3
     },
     {
       "question": "Q9:-Which is the highest civilian award in India?",
       "options": ["Padma Shri", "Padma Bhushan", "Bharat Ratna", "Padma Vibhushan"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q10:-How many states are there in India?",
       "options": ["28", "29", "30", "31"],
-      "answer": 0
+      "answerIndex": 0
     }
   ]
 }
