@@ -1,54 +1,54 @@
 {
-  "maths": [
+  "questions": [
     {
       "question": "Q1:-What is 12 + 15?",
       "options": ["25", "26", "27", "28"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q2:-What is the square of 9?",
       "options": ["81", "18", "27", "72"],
-      "answer": 0
+      "answerIndex": 0
     },
     {
       "question": "Q3:-What is 7 x 8?",
       "options": ["54", "56", "64", "58"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q4:-What is 100 divided by 4?",
       "options": ["20", "25", "30", "24"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q5:-What is the value of π (pi) up to two decimal places?",
       "options": ["3.14", "3.15", "3.13", "3.16"],
-      "answer": 0
+      "answerIndex": 0
     },
     {
       "question": "Q6:-Which is the smallest prime number?",
       "options": ["0", "1", "2", "3"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q7:-What is 15% of 200?",
       "options": ["25", "30", "35", "40"],
-      "answer": 1
+      "answerIndex": 1
     },
     {
       "question": "Q8:-If a triangle has sides 3 cm, 4 cm and 5 cm, what type of triangle is it?",
       "options": ["Equilateral", "Isosceles", "Right-angled", "Scalene"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q9:-What comes next in the series: 2, 4, 8, 16, ___?",
       "options": ["20", "24", "32", "30"],
-      "answer": 2
+      "answerIndex": 2
     },
     {
       "question": "Q10:-What is 11 x 11?",
       "options": ["111", "121", "131", "141"],
-      "answer": 1
+      "answerIndex": 1
     }
   ]
 }
