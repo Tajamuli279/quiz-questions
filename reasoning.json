@@ -1,54 +1,7 @@
-{
-  "questions": [
-    {
-      "question": "Q1:-What comes next in the series: 3, 6, 9, 12, ___?",
-      "options": ["14", "15", "16", "18"],
-      "answerIndex": 1
-    },
-    {
-      "question": "Q2:-Find the odd one out: Apple, Mango, Banana, Carrot",
-      "options": ["Apple", "Mango", "Banana", "Carrot"],
-      "answerIndex": 3
-    },
-    {
-      "question": "Q3:-Which number is missing: 5, 10, __, 20, 25",
-      "options": ["12", "13", "15", "18"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Q4:-If A=1, B=2, ..., then Z = ?",
-      "options": ["25", "26", "27", "28"],
-      "answerIndex": 1
-    },
-    {
-      "question": "Q5:-If CAT = 24, what is DOG?",
-      "options": ["26", "27", "28", "29"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Q6:-Which word is different: Pen, Pencil, Eraser, Chalk",
-      "options": ["Pen", "Pencil", "Eraser", "Chalk"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Q7:-Which direction is opposite to East?",
-      "options": ["West", "North", "South", "South-East"],
-      "answerIndex": 0
-    },
-    {
-      "question": "Q8:-What comes next: 2, 4, 8, 16, ___?",
-      "options": ["24", "30", "32", "36"],
-      "answerIndex": 2
-    },
-    {
-      "question": "Q9:-How many vowels are there in the word 'EDUCATION'?",
-      "options": ["4", "5", "6", "7"],
-      "answerIndex": 3
-    },
-    {
-      "question": "Q10:-Which number is a square of 7?",
-      "options": ["42", "47", "49", "50"],
-      "answerIndex": 2
-    }
-  ]
-}
+[
+  {
+    "question": "Q1:-What is the capital of France?",
+    "options": ["Berlin", "London", "Madrid", "Paris"],
+    "answerIndex": 3
+  },
+]
