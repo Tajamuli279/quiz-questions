@@ -1,155 +1,54 @@
 {
-  "questions": [
-  {
-    "question": "Q1:-Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "answer": 1
-  },
-  {
-    "question": "Q2:-How many continents are there in the world?",
-    "options": ["5", "6", "7", "8"],
-    "answer": 2
-  },
-  {
-    "question": "Q3:-Which is the tallest mountain in the world?",
-    "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
-    "answer": 2
-  },
-  {
-    "question": "Q4:-What is the capital of India?",
-    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
-    "answer": 1
-  },
-  {
-    "question": "Q5:-How many days are there in a leap year?",
-    "options": ["365", "366", "364", "367"],
-    "answer": 1
-  },
-  {
-    "question": "Q6:-Which animal is known as the King of the Jungle?",
-    "options": ["Tiger", "Elephant", "Lion", "Leopard"],
-    "answer": 2
-  },
-  {
-    "question": "Q7:-What is the primary source of energy for Earth?",
-    "options": ["Moon", "Sun", "Wind", "Water"],
-    "answer": 1
-  },
-  {
-    "question": "Q8:-Which color is formed by mixing red and yellow?",
-    "options": ["Green", "Blue", "Orange", "Purple"],
-    "answer": 2
-  },
-  {
-    "question": "Q9:-How many legs does a spider have?",
-    "options": ["6", "8", "10", "12"],
-    "answer": 1
-  },
-  {
-    "question": "Q10:-Which gas do humans breathe in to survive?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
-    "answer": 0
-  },
+  "reasoning": [
     {
-      "question": "Q11:-What is H2O commonly known as?",
-      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "question": "Q1:-What comes next in the series: 3, 6, 9, 12, ___?",
+      "options": ["14", "15", "16", "18"],
       "answer": 1
     },
     {
-      "question": "Q12:-Which day comes after Monday?",
-      "options": ["Wednesday", "Sunday", "Tuesday", "Friday"],
+      "question": "Q2:-Find the odd one out: Apple, Mango, Banana, Carrot",
+      "options": ["Apple", "Mango", "Banana", "Carrot"],
+      "answer": 3
+    },
+    {
+      "question": "Q3:-Which number is missing: 5, 10, __, 20, 25",
+      "options": ["12", "13", "15", "18"],
       "answer": 2
     },
     {
-      "question": "Q13:-What is the boiling point of water?",
-      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "question": "Q4:-If A=1, B=2, ..., then Z = ?",
+      "options": ["25", "26", "27", "28"],
       "answer": 1
     },
     {
-      "question": "Q14:-What do you call animals that eat only plants?",
-      "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
-      "answer": 1
-    },
-    {
-      "question": "Q15:-What is the square root of 64?",
-      "options": ["6", "7", "8", "9"],
+      "question": "Q5:-If CAT = 24, what is DOG?",
+      "options": ["26", "27", "28", "29"],
       "answer": 2
     },
     {
-      "question": "Q16:-Which is the longest river in the world?",
-      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "question": "Q6:-Which word is different: Pen, Pencil, Eraser, Chalk",
+      "options": ["Pen", "Pencil", "Eraser", "Chalk"],
       "answer": 2
     },
     {
-      "question": "Q17:-Which country is famous for sushi?",
-      "options": ["India", "China", "Japan", "Thailand"],
-      "answer": 2
-    },
-    {
-      "question": "Q18:-Who invented the light bulb?",
-      "options": ["Newton", "Edison", "Einstein", "Tesla"],
-      "answer": 1
-    },
-    {
-      "question": "Q19:-What is the national sport of India?",
-      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
-      "answer": 1
-    },
-    {
-      "question": "Q20:-How many hours are there in 2 days?",
-      "options": ["24", "36", "48", "72"],
-      "answer": 2
-    },
-    {
-      "question": "Q21:-Which is the largest planet in our solar system?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answer": 2
-    },
-    {
-      "question": "Q22:-Which Article of the Indian Constitution gives the President the power of pardoning?",
-      "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
-      "answer": 1
-    },
-    {
-      "question": "Q23:-Who wrote the national anthem of India?",
-      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+      "question": "Q7:-Which direction is opposite to East?",
+      "options": ["West", "North", "South", "South-East"],
       "answer": 0
     },
     {
-      "question": "Q24:-Which is the largest producer of copper in India?",
-      "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
+      "question": "Q8:-What comes next: 2, 4, 8, 16, ___?",
+      "options": ["24", "30", "32", "36"],
       "answer": 2
     },
     {
-      "question": "Q25:-In which Indian state is the Flamingo festival celebrated?",
-      "options": ["Rajasthan", "Assam", "Manipur", "Andhra Pradesh"],
+      "question": "Q9:-How many vowels are there in the word 'EDUCATION'?",
+      "options": ["4", "5", "6", "7"],
       "answer": 3
     },
     {
-      "question": "Q26:-What is the smallest prime number?",
-      "options": ["0", "1", "2", "3"],
-      "answer": 2
-    },
-    {
-      "question": "Q27:-Which organ pumps blood throughout the body?",
-      "options": ["Liver", "Brain", "Heart", "Lungs"],
-      "answer": 2
-    },
-    {
-      "question": "Q28:-In which direction does the sun rise?",
-      "options": ["West", "North", "South", "East"],
-      "answer": 3
-    },
-    {
-      "question": "Q29:-Which festival is known as the Festival of Lights?",
-      "options": ["Holi", "Eid", "Diwali", "Navratri"],
-      "answer": 2
-    },
-    {
-      "question": "Q30:-Which part of the plant conducts photosynthesis?",
-      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "question": "Q10:-Which number is a square of 7?",
+      "options": ["42", "47", "49", "50"],
       "answer": 2
     }
   ]
 }
-
