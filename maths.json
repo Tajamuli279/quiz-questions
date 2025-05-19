@@ -1,7 +1,16 @@
 [
   {
-    "question": "Q1:-What is the capital of France?",
-    "options": ["Berlin", "London", "Madrid", "Paris"],
-    "answerIndex": 3
-  },
+    "question": "If each side of a cube is decreased by 12%, then the percentage decrease in its total surface area is:",
+    "options": [
+      "21.44%",
+      "23.04%",
+      "24.56%",
+      "25.12%"
+    ],
+    "answer": "23.04%",
+    "category": "Reasoning MCQ",
+    "source": "SSC CHSL",
+    "date": "2023-08-10",
+    "shift": "Shift-02"
+  }
 ]
