@@ -1,17 +1,7 @@
 {
   "questions": [
   {
-    "question": "Q1:-At the beginning of day 1 of a
-month, Rajesh has 500 eggs. He
-sells 20% of the eggs by the end of
-the day and added b% of the eggs
-at the beginning of the next day and
-sold 20% of the eggs at the end of
-the next day. This pattern continued
-up to the end of the third day of the
-month when he is left with 1024
-eggs. The value of b is equal to?
-CHSL24",
+    "question": "Q1:-At the beginning of day 1 of a month, Rajesh has 500 eggs. He sells 20% of the eggs by the end of the day and added b% of the eggs at the beginning of the next day and sold 20% of he eggs at the end of the next day. This pattern continued up to the end of the third day of the month when he is left with 1024 eggs. The value of b is equal to? CHSL24",
     "options": ["20", "10", "500", "100"],
     "answerIndex": 3
   },
@@ -44,38 +34,63 @@ CHSL24",
     "answerIndex": 3
   },
   {
-    "question": "Q4:-What is the capital of India?",
-    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
-    "answerIndex": 1
-  },
-  {
-    "question": "Q5:-How many days are there in a leap year?",
-    "options": ["365", "366", "364", "367"],
-    "answerIndex": 1
-  },
-  {
-    "question": "Q6:-Which animal is known as the King of the Jungle?",
-    "options": ["Tiger", "Elephant", "Lion", "Leopard"],
+    "question": "Q4:-In an election, a voter has choices to
+vote for one candidate out of three
+candidates. There is also an option
+'None of the Above' (NOTA) to reject
+all candidates. The three candidates
+get votes that are 6 times NOTA. The
+winner gets votes that are twice the
+second runner-up's votes. The first
+runner-up gets 900 votes more than
+NOTA and defeats the second
+runner-up by 150 votes. What is the
+total number of votes polled?
+CHSL24",
+    "options": ["17715", "15177", "11025", "11577"],
     "answerIndex": 2
   },
   {
-    "question": "Q7:-What is the primary source of energy for Earth?",
-    "options": ["Moon", "Sun", "Wind", "Water"],
-    "answerIndex": 1
+    "question": "Q5:-Which of the following is the least? CGL23",
+    "options": ["12% of 625", "15% of 555", "10% of 720", "9% of 845"],
+    "answerIndex": 3
   },
   {
-    "question": "Q8:-Which color is formed by mixing red and yellow?",
-    "options": ["Green", "Blue", "Orange", "Purple"],
-    "answerIndex": 2
+    "question": "Q6:-If 17% of 630 = 35% of x, then what
+is the value of x?",
+    "options": ["356", "310", "306", "308"],
+    "answerIndex": 3
   },
   {
-    "question": "Q9:-How many legs does a spider have?",
-    "options": ["6", "8", "10", "12"],
-    "answerIndex": 1
+    "question": "Q7:-Two candidates contested an
+election. One of them got 64% of the
+votes and won by 434 votes. What
+was the total number of votes polled? CGL23",
+    "options": ["1550", "1345", "1680", "1684"],
+    "answerIndex": 0
   },
   {
-    "question": "Q10:-Which gas do humans breathe in to survive?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "question": "Q8:-A is 25% more than B, and B is 40%
+less than C. If C is 20% more than
+D, then A is what percentage less
+than D? CGL22",
+    "options": ["10%", "12%", "9%", "11%"],
+    "answerIndex": 0
+  },
+  {
+    "question": "Q9:-A number is increased by 25% and
+then decreased by 16%, By what
+percentage is resulting number less
+than/more than the original number? CHSL23",
+    "options": ["does not change", "decreases by 5%", "increases by 5%", "decreases by 13%"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q10:-The price of a scooter increases
+successively by 10%, 5% and 15%.
+What is the total percentage
+increase in price of scooter? CGL22",
+    "options": ["32.82%", "34.525%", "30.275%", "36.775"],
     "answerIndex": 0
   },
     {
