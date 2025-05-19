@@ -10,20 +10,38 @@ sold 20% of the eggs at the end of
 the next day. This pattern continued
 up to the end of the third day of the
 month when he is left with 1024
-eggs. The value of b is equal to:
-SSC CHSL 24",
+eggs. The value of b is equal to?
+CHSL24",
     "options": ["20", "10", "500", "100"],
     "answerIndex": 3
   },
   {
-    "question": "Q2:-How many continents are there in the world?",
-    "options": ["5", "6", "7", "8"],
+    "question": "Q2:-A man spends 35% of his monthly
+income on food and four-thirteenths
+of the remaining income on transport.
+He incurs some other expenses, but
+also saves 6,300 per month, the
+latter being equal to 20% of the
+balance remaining just after spending
+on food and transport. What is his
+monthly income in Rs?
+CHSL24",
+    "options": ["67500", "72000", "70000", "63000"],
     "answerIndex": 2
   },
   {
-    "question": "Q3:-Which is the tallest mountain in the world?",
-    "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
-    "answerIndex": 2
+    "question": "Q3:-In an election between two
+candidates, the defeated candidate
+secured 42% of the valid votes polled
+and lost the election by 2545800
+votes. If 365500 votes were declared
+invalid and 30% people did not cast
+their vote, what was the approximate
+number of people (in million) in the
+electorate who did not cast their votes?
+CHSL24",
+    "options": ["5", "6", "8", "7"],
+    "answerIndex": 3
   },
   {
     "question": "Q4:-What is the capital of India?",
