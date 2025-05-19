@@ -1,9 +1,19 @@
 {
   "questions": [
   {
-    "question": "Q1:-Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "answerIndex": 1
+    "question": "Q1:-At the beginning of day 1 of a
+month, Rajesh has 500 eggs. He
+sells 20% of the eggs by the end of
+the day and added b% of the eggs
+at the beginning of the next day and
+sold 20% of the eggs at the end of
+the next day. This pattern continued
+up to the end of the third day of the
+month when he is left with 1024
+eggs. The value of b is equal to:
+SSC CHSL 02/07/2024 (Shift-04)",
+    "options": ["20", "10", "500", "100"],
+    "answerIndex": 3
   },
   {
     "question": "Q2:-How many continents are there in the world?",
