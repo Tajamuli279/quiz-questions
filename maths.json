@@ -1,16 +1,23 @@
-[
-  {
-    "question": "If each side of a cube is decreased by 12%, then the percentage decrease in its total surface area is:",
-    "options": [
-      "21.44%",
-      "23.04%",
-      "24.56%",
-      "25.12%"
-    ],
-    "answer": "23.04%",
-    "category": "Maths MCQ",
-    "source": "SSC CHSL",
-    "date": "2023-08-10",
-    "shift": "Shift-02"
-  }
-]
+{
+  "questions": [
+    {
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+      "answer": "Delhi",
+      "category": "Geography",
+      "source": "General Knowledge Book",
+      "date": "2025-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-18",
+      "shift": "Evening"
+    }
+    // Aur bhi questions yaha add karo...
+  ]
+}
