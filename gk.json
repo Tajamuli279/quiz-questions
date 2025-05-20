@@ -17,7 +17,78 @@
       "source": "Science Textbook",
       "date": "2025-05-18",
       "shift": "Evening"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "APJ Abdul Kalam", "Mahatma Gandhi"],
+      "answer": "Dr. Rajendra Prasad",
+      "category": "History",
+      "source": "NCERT",
+      "date": "2025-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+      "answer": "Ganga",
+      "category": "Geography",
+      "source": "Atlas",
+      "date": "2025-05-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Who wrote the Indian National Anthem?",
+      "options": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Sarojini Naidu"],
+      "answer": "Rabindranath Tagore",
+      "category": "Culture",
+      "source": "General Knowledge Book",
+      "date": "2025-05-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Which day is celebrated as Republic Day in India?",
+      "options": ["15 August", "26 January", "2 October", "1 May"],
+      "answer": "26 January",
+      "category": "Civics",
+      "source": "Civics Book",
+      "date": "2025-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Dollar"],
+      "answer": "Yen",
+      "category": "Economics",
+      "source": "General Knowledge Book",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Which element is essential for photosynthesis?",
+      "options": ["Chlorophyll", "Iron", "Calcium", "Zinc"],
+      "answer": "Chlorophyll",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Which is the largest continent in the world?",
+      "options": ["Africa", "Asia", "Europe", "Australia"],
+      "answer": "Asia",
+      "category": "Geography",
+      "source": "Atlas",
+      "date": "2025-05-14",
+      "shift": "Evening"
     }
-
   ]
 }
