@@ -1,23 +1,94 @@
 {
   "questions": [
     {
-      "question": "What is the capital of India?",
-      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
-      "answer": "Delhi",
-      "category": "Geography",
-      "source": "General Knowledge Book",
+      "question": "Q1:-What is the value of π (pi) up to 2 decimal places?",
+      "options": ["3.14", "3.12", "3.15", "3.10"],
+      "answer": "3.14",
+      "category": "Maths",
+      "source": "Math Textbook",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30",
+      "category": "Maths",
+      "source": "Aptitude Book",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12",
+      "category": "Maths",
+      "source": "Math Workbook",
       "date": "2025-05-19",
       "shift": "Morning"
     },
     {
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-      "answer": "Mars",
-      "category": "Science",
-      "source": "Science Textbook",
+      "question": "Q4:-If a = 2 and b = 3, what is the value of a² + b²?",
+      "options": ["13", "12", "11", "10"],
+      "answer": "13",
+      "category": "Maths",
+      "source": "NCERT",
+      "date": "2025-05-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-What is the next prime number after 7?",
+      "options": ["9", "10", "11", "13"],
+      "answer": "11",
+      "category": "Maths",
+      "source": "General Maths",
+      "date": "2025-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-What is the HCF of 18 and 24?",
+      "options": ["2", "3", "6", "12"],
+      "answer": "6",
+      "category": "Maths",
+      "source": "Aptitude Book",
       "date": "2025-05-18",
       "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Solve: 5x = 20. What is x?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4",
+      "category": "Maths",
+      "source": "Math Practice Book",
+      "date": "2025-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the perimeter of a square with side 5 cm?",
+      "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+      "answer": "20 cm",
+      "category": "Maths",
+      "source": "Geometry Book",
+      "date": "2025-05-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-What is 7 × 8?",
+      "options": ["54", "56", "58", "60"],
+      "answer": "56",
+      "category": "Maths",
+      "source": "Multiplication Table",
+      "date": "2025-05-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Convert 0.75 into a fraction.",
+      "options": ["3/5", "1/2", "3/4", "2/3"],
+      "answer": "3/4",
+      "category": "Maths",
+      "source": "Fractions Guide",
+      "date": "2025-05-16",
+      "shift": "Evening"
     }
-
   ]
 }
