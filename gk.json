@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "What is the capital of J&K?",
+      "question": "Q1:-What is the capital of J&K?",
       "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
       "answer": "Delhi",
       "category": "Geography",
@@ -10,7 +10,7 @@
       "shift": "Morning"
     },
     {
-      "question": "Which planet is known as the Green Planet?",
+      "question": "Q2:-Which planet is known as the Green Planet?",
       "options": ["Earth", "Mars", "Jupiter", "Saturn"],
       "answer": "Earth",
       "category": "Science",
@@ -19,7 +19,7 @@
       "shift": "Evening"
     },
     {
-      "question": "Who was the first President of India?",
+      "question": "Q3:-Who was the first President of India?",
       "options": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "APJ Abdul Kalam", "Mahatma Gandhi"],
       "answer": "Dr. Rajendra Prasad",
       "category": "History",
@@ -28,7 +28,7 @@
       "shift": "Morning"
     },
     {
-      "question": "Which is the longest river in India?",
+      "question": "Q4:-Which is the longest river in India?",
       "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
       "answer": "Ganga",
       "category": "Geography",
@@ -37,7 +37,7 @@
       "shift": "Evening"
     },
     {
-      "question": "Who wrote the Indian National Anthem?",
+      "question": "Q5:-Who wrote the Indian National Anthem?",
       "options": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Sarojini Naidu"],
       "answer": "Rabindranath Tagore",
       "category": "Culture",
@@ -46,7 +46,7 @@
       "shift": "Morning"
     },
     {
-      "question": "Which gas do plants absorb from the atmosphere?",
+      "question": "Q6:-Which gas do plants absorb from the atmosphere?",
       "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
       "answer": "Carbon Dioxide",
       "category": "Science",
@@ -55,7 +55,7 @@
       "shift": "Evening"
     },
     {
-      "question": "Which day is celebrated as Republic Day in India?",
+      "question": "Q7:-Which day is celebrated as Republic Day in India?",
       "options": ["15 August", "26 January", "2 October", "1 May"],
       "answer": "26 January",
       "category": "Civics",
@@ -64,7 +64,7 @@
       "shift": "Morning"
     },
     {
-      "question": "What is the currency of Japan?",
+      "question": "Q8:-What is the currency of Japan?",
       "options": ["Yuan", "Won", "Yen", "Dollar"],
       "answer": "Yen",
       "category": "Economics",
@@ -73,7 +73,7 @@
       "shift": "Evening"
     },
     {
-      "question": "Which element is essential for photosynthesis?",
+      "question": "Q9:-Which element is essential for photosynthesis?",
       "options": ["Chlorophyll", "Iron", "Calcium", "Zinc"],
       "answer": "Chlorophyll",
       "category": "Science",
@@ -82,7 +82,7 @@
       "shift": "Morning"
     },
     {
-      "question": "Which is the largest continent in the world?",
+      "question": "Q10:-Which is the largest continent in the world?",
       "options": ["Africa", "Asia", "Europe", "Australia"],
       "answer": "Asia",
       "category": "Geography",
