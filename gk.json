@@ -1,7 +1,23 @@
-[
-  {
-    "question": "Q1:-What is the capital of France?",
-    "options": ["Berlin", "London", "Madrid", "Paris"],
-    "answerIndex": 3
-  },
-]
+{
+  "questions": [
+    {
+      "question": "What is the capital of J&K?",
+      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+      "answer": "Delhi",
+      "category": "Geography",
+      "source": "General Knowledge Book",
+      "date": "2025-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Which planet is known as the Green Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Earth",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-18",
+      "shift": "Evening"
+    }
+
+  ]
+}
