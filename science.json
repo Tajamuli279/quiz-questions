@@ -1,7 +1,184 @@
-[
-  {
-    "question": "Q1:-What is the capital of France?",
-    "options": ["Berlin", "London", "Madrid", "Paris"],
-    "answerIndex": 3
-  },
-]
+{
+  "questions": [
+    {
+      "question": "Q1:-What is the boiling point of water at sea level?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which gas is most abundant in Earth’s atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Which part of the plant conducts photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves",
+      "category": "Science",
+      "source": "NCERT",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Gd", "Go"],
+      "answer": "Au",
+      "category": "Science",
+      "source": "Periodic Table",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Which organ purifies our blood?",
+      "options": ["Heart", "Lungs", "Kidney", "Liver"],
+      "answer": "Kidney",
+      "category": "Science",
+      "source": "Biology Book",
+      "date": "2025-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-Which vitamin is produced by sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which metal is liquid at room temperature?",
+      "options": ["Mercury", "Iron", "Copper", "Aluminium"],
+      "answer": "Mercury",
+      "category": "Science",
+      "source": "Chemistry Notes",
+      "date": "2025-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the SI unit of force?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "Physics Book",
+      "date": "2025-05-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-What type of energy is stored in a stretched rubber band?",
+      "options": ["Thermal energy", "Kinetic energy", "Potential energy", "Sound energy"],
+      "answer": "Potential energy",
+      "category": "Science",
+      "source": "Physics Book",
+      "date": "2025-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which blood cells help in clotting?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "Platelets",
+      "category": "Science",
+      "source": "Biology Book",
+      "date": "2025-05-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars",
+      "category": "Science",
+      "source": "Astronomy Guide",
+      "date": "2025-05-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-What is the process of water turning into vapor called?",
+      "options": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
+      "answer": "Evaporation",
+      "category": "Science",
+      "source": "Science Textbook",
+      "date": "2025-05-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-Which gas is released by green plants during photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+      "answer": "Oxygen",
+      "category": "Science",
+      "source": "NCERT",
+      "date": "2025-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-What is H2O commonly known as?",
+      "options": ["Hydrogen", "Oxygen", "Salt", "Water"],
+      "answer": "Water",
+      "category": "Science",
+      "source": "Chemistry Book",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Which is the smallest unit of life?",
+      "options": ["Atom", "Molecule", "Cell", "Tissue"],
+      "answer": "Cell",
+      "category": "Science",
+      "source": "Biology Notes",
+      "date": "2025-05-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-What causes day and night on Earth?",
+      "options": ["Revolution of Earth", "Rotation of Earth", "Moon's shadow", "Sun’s rotation"],
+      "answer": "Rotation of Earth",
+      "category": "Science",
+      "source": "Geography Textbook",
+      "date": "2025-05-14",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Which part of the human brain controls breathing?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Medulla",
+      "category": "Science",
+      "source": "Biology Book",
+      "date": "2025-05-13",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-What is the main component of natural gas?",
+      "options": ["Butane", "Methane", "Ethane", "Propane"],
+      "answer": "Methane",
+      "category": "Science",
+      "source": "Chemistry Notes",
+      "date": "2025-05-13",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-What instrument is used to measure temperature?",
+      "options": ["Barometer", "Hygrometer", "Thermometer", "Altimeter"],
+      "answer": "Thermometer",
+      "category": "Science",
+      "source": "Physics Book",
+      "date": "2025-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-Which disease is caused by the deficiency of iodine?",
+      "options": ["Anemia", "Scurvy", "Goitre", "Rickets"],
+      "answer": "Goitre",
+      "category": "Science",
+      "source": "Health Book",
+      "date": "2025-05-12",
+      "shift": "Evening"
+    }
+  ]
+}
