@@ -1,138 +1,110 @@
 {
   "questions": [
     {
-      "question": "Q1:-Sample English Question 1?",
+      "question": "Q1:- Select the most appropriate ANTONYM of the given word. *Anxiety*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Discomfort",
+        "Relief",
+        "Agitation",
+        "Stress"
       ],
-      "answer": "Option A",
+      "answer": "Option B",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Sample English Question 2?",
+      "question": "Q2:- Select the most appropriate synonym of the word *Vivid*.",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Dull",
+        "Unclear",
+        "Bright",
+        "Dark"
       ],
-      "answer": "Option A",
+      "answer": "Option C",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q3:-Sample English Question 3?",
+      "question": "Q3:- Identify the part of speech of the underlined word: *He ran very fast to catch the bus.*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Noun",
+        "Verb",
+        "Adverb",
+        "Adjective"
       ],
-      "answer": "Option A",
+      "answer": "Option C",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q4:-Sample English Question 4?",
+      "question": "Q4:- Choose the correctly spelt word.",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Accomodation",
+        "Acommodation",
+        "Accommodation",
+        "Acommadation"
       ],
-      "answer": "Option A",
+      "answer": "Option C",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q5:-Sample English Question 5?",
+      "question": "Q5:- Fill in the blank: He has been working here ______ 2015.",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "from",
+        "since",
+        "for",
+        "by"
       ],
-      "answer": "Option A",
+      "answer": "Option B",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Sample English Question 6?",
+      "question": "Q6:- Find the error: *She don't like playing football.*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "She",
+        "don't",
+        "like",
+        "playing football"
       ],
-      "answer": "Option A",
+      "answer": "Option B",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q7:-Sample English Question 7?",
+      "question": "Q7:- Select the correct passive form of the sentence: *She writes a letter.*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A letter wrote by her.",
+        "A letter is written by her.",
+        "A letter is writing by her.",
+        "A letter was written by her."
       ],
-      "answer": "Option A",
+      "answer": "Option B",
       "category": "English",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q8:-Sample English Question 8?",
+      "question": "Q8:- Choose the correct indirect speech: *He said, 'I am busy now.'*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-Sample English Question 9?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Sample English Question 10?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "He said that he was busy then.",
+        "He said he is busy now.",
+        "He said he will be busy now.",
+        "He said that I am busy now."
       ],
       "answer": "Option A",
       "category": "English",
@@ -141,12 +113,40 @@
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Sample Maths Question 1?",
+      "question": "Q9:- Choose the correct one-word substitution: *One who looks at the bright side of things.*",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Pessimist",
+        "Optimist",
+        "Realist",
+        "Fatalist"
+      ],
+      "answer": "Option B",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:- Identify the correct sentence.",
+      "options": [
+        "He do not plays cricket.",
+        "He does not play cricket.",
+        "He doesn't plays cricket.",
+        "He did not playing cricket."
+      ],
+      "answer": "Option B",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:- What is the value of (256)^0.16 × (256)^0.09?",
+      "options": [
+        "256^0.25",
+        "256^0.20",
+        "256^0.24",
+        "256^0.18"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -155,12 +155,12 @@
       "shift": "Morning"
     },
     {
-      "question": "Q12:-Sample Maths Question 2?",
+      "question": "Q2:- If 12 men can complete a work in 15 days, in how many days will 20 men complete the same work?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "10 days",
+        "8 days",
+        "9 days",
+        "7 days"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -169,12 +169,12 @@
       "shift": "Evening"
     },
     {
-      "question": "Q13:-Sample Maths Question 3?",
+      "question": "Q3:- The average of 5 consecutive odd numbers is 37. What is the largest of these numbers?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "43",
+        "41",
+        "39",
+        "37"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -183,12 +183,12 @@
       "shift": "Morning"
     },
     {
-      "question": "Q14:-Sample Maths Question 4?",
+      "question": "Q4:- A shopkeeper allows a discount of 10% on the marked price. How much is the selling price of an article marked at ₹500?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "₹450",
+        "₹475",
+        "₹400",
+        "₹425"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -197,54 +197,26 @@
       "shift": "Evening"
     },
     {
-      "question": "Q15:-Sample Maths Question 5?",
+      "question": "Q5:- The HCF and LCM of two numbers are 12 and 240 respectively. If one number is 60, what is the other number?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "36",
+        "48",
+        "40",
+        "30"
       ],
-      "answer": "Option A",
+      "answer": "Option C",
       "category": "Maths",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q16:-Sample Maths Question 6?",
+      "question": "Q6:- A sum amounts to ₹1210 in 2 years at 10% per annum simple interest. What is the principal?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-Sample Maths Question 7?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Sample Maths Question 8?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "₹1000",
+        "₹1050",
+        "₹1100",
+        "₹1150"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -253,12 +225,12 @@
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Sample Maths Question 9?",
+      "question": "Q7:- What is the value of 3 + 6 × (5 + 4) ÷ 3 - 7?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "14",
+        "15",
+        "16",
+        "13"
       ],
       "answer": "Option A",
       "category": "Maths",
@@ -267,578 +239,606 @@
       "shift": "Morning"
     },
     {
-      "question": "Q20:-Sample Maths Question 10?",
+      "question": "Q8:- A can do a piece of work in 20 days and B in 30 days. In how many days will they finish it together?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "12 days",
+        "15 days",
+        "10 days",
+        "18 days"
       ],
-      "answer": "Option A",
+      "answer": "Option C",
       "category": "Maths",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q21:-Sample Reasoning Question 1?",
+      "question": "Q9:- The perimeter of a square is 64 cm. What is the area?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "256 cm²",
+        "128 cm²",
+        "144 cm²",
+        "100 cm²"
       ],
       "answer": "Option A",
-      "category": "Reasoning",
+      "category": "Maths",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q22:-Sample Reasoning Question 2?",
+      "question": "Q10:- What is the compound interest on ₹5000 at 10% per annum for 2 years, compounded annually?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "₹1000",
+        "₹1050",
+        "₹1100",
+        "₹1150"
       ],
-      "answer": "Option A",
-      "category": "Reasoning",
+      "answer": "Option B",
+      "category": "Maths",
       "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q23:-Sample Reasoning Question 3?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
+    "question": "Q21:- If ‘PAPER’ is coded as ‘ODODQ’, how is ‘BOARD’ coded?",
+    "options": [
+      "ANZQC",
+      "CNZRB",
+      "AOZQC",
+      "AOBRC"
+    ],
+    "answer": "Option A",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q22:- Find the odd one out: Apple, Banana, Tomato, Carrot",
+    "options": [
+      "Apple",
+      "Banana",
+      "Tomato",
+      "Carrot"
+    ],
+    "answer": "Option D",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q23:- If A = 1, B = 2, ..., Z = 26, what is the sum of the letters in ‘CAT’?",
+    "options": [
+      "24",
+      "27",
+      "29",
+      "26"
+    ],
+    "answer": "Option C",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q24:- Which number will complete the series: 3, 6, 11, 18, 27, ?",
+    "options": [
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "answer": "Option B",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q25:- ‘Book’ is related to ‘Read’ in the same way as ‘Pen’ is related to?",
+    "options": [
+      "Write",
+      "Draw",
+      "Ink",
+      "Paper"
+    ],
+    "answer": "Option A",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q26:- Complete the analogy: 3 : 27 :: 5 : ?",
+    "options": [
+      "125",
+      "25",
+      "15",
+      "75"
+    ],
+    "answer": "Option A",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q27:- If 'WATER' is written as 'XBUFS', then 'VIRUS' will be written as?",
+    "options": [
+      "WJSVT",
+      "WJTVT",
+      "WJTUT",
+      "WJSVS"
+    ],
+    "answer": "Option A",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q28:- Pointing to a girl, Raj said, “She is the daughter of the only child of my father.” How is the girl related to Raj?",
+    "options": [
+      "Daughter",
+      "Sister",
+      "Niece",
+      "Cousin"
+    ],
+    "answer": "Option A",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q29:- Find the missing number: 9, 18, 36, 72, ?",
+    "options": [
+      "108",
+      "144",
+      "96",
+      "100"
+    ],
+    "answer": "Option B",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q30:- If 'EAST' is written as 'VXHG', then how is 'NORTH' written?",
+    "options": [
+      "MLIGS",
+      "MLGSF",
+      "MLGSU",
+      "MLGUF"
+    ],
+    "answer": "Option C",
+    "category": "Reasoning",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+     {
+    "question": "Q31:- Which part of the human brain is responsible for maintaining posture and balance?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Pons"
+    ],
+    "answer": "Option B",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q32:- Which gas is used in the preparation of soda water?",
+    "options": [
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": "Option B",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q33:- What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": "Option C",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q34:- Which vitamin helps in blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answer": "Option C",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q35:- Which of the following is a non-renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Geothermal energy",
+      "Coal"
+    ],
+    "answer": "Option D",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q36:- Which metal is the best conductor of electricity?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Silver",
+      "Gold"
+    ],
+    "answer": "Option C",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q37:- DNA stands for?",
+    "options": [
+      "Deoxyribose Nucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dioxyribonucleic Acid",
+      "Dioxyribose Nucleic Acid"
+    ],
+    "answer": "Option B",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q38:- Which of the following does NOT conduct electricity?",
+    "options": [
+      "Copper",
+      "Graphite",
+      "Wood",
+      "Salt water"
+    ],
+    "answer": "Option C",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q39:- Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Option B",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q40:- Which of the following is acidic in nature?",
+    "options": [
+      "Soap",
+      "Baking soda",
+      "Lemon juice",
+      "Toothpaste"
+    ],
+    "answer": "Option C",
+    "category": "Science",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
     {
-      "question": "Q24:-Sample Reasoning Question 4?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
+    "question": "Q41:- Who was the first President of independent India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q42:- What is the capital of Sri Lanka?",
+    "options": [
+      "Colombo",
+      "Kathmandu",
+      "Dhaka",
+      "Male"
+    ],
+    "answer": "Option A",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q43:- The Great Indian Desert is also known as?",
+    "options": [
+      "Rann of Kutch",
+      "Thar Desert",
+      "Sahara Desert",
+      "Chotanagpur Plateau"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q44:- Who wrote the book 'Discovery of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar"
+    ],
+    "answer": "Option C",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q45:- Which is the longest river in India?",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Brahmaputra"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q46:- Who is known as the 'Father of Indian Constitution'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q47:- Which Indian state shares the longest border with Bangladesh?",
+    "options": [
+      "Assam",
+      "Tripura",
+      "West Bengal",
+      "Meghalaya"
+    ],
+    "answer": "Option C",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q48:- Who was the first woman Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Sushma Swaraj",
+      "Pratibha Patil"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q49:- The 'Quit India Movement' was launched in which year?",
+    "options": [
+      "1942",
+      "1930",
+      "1919",
+      "1947"
+    ],
+    "answer": "Option A",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q50:- In which year did India become a Republic?",
+    "options": [
+      "1947",
+      "1950",
+      "1948",
+      "1952"
+    ],
+    "answer": "Option B",
+    "category": "GK",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
     {
-      "question": "Q25:-Sample Reasoning Question 5?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:-Sample Reasoning Question 6?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:-Sample Reasoning Question 7?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:-Sample Reasoning Question 8?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q29:-Sample Reasoning Question 9?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-Sample Reasoning Question 10?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Reasoning",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q31:-Sample Science Question 1?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q32:-Sample Science Question 2?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:-Sample Science Question 3?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:-Sample Science Question 4?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q35:-Sample Science Question 5?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:-Sample Science Question 6?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q37:-Sample Science Question 7?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:-Sample Science Question 8?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:-Sample Science Question 9?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:-Sample Science Question 10?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Science",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:-Sample GK Question 1?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:-Sample GK Question 2?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q43:-Sample GK Question 3?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:-Sample GK Question 4?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Sample GK Question 5?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:-Sample GK Question 6?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q47:-Sample GK Question 7?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q48:-Sample GK Question 8?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q49:-Sample GK Question 9?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:-Sample GK Question 10?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "GK",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:-Sample Computer Question 1?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:-Sample Computer Question 2?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q53:-Sample Computer Question 3?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:-Sample Computer Question 4?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:-Sample Computer Question 5?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q56:-Sample Computer Question 6?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q57:-Sample Computer Question 7?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-Sample Computer Question 8?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q59:-Sample Computer Question 9?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q60:-Sample Computer Question 10?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "category": "Computer",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    }
+    "question": "Q51:- What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Control Processing Unit",
+      "Central Power Unit"
+    ],
+    "answer": "Option B",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q52:- What is the function of the Ctrl + C shortcut?",
+    "options": [
+      "Cut",
+      "Paste",
+      "Copy",
+      "Close"
+    ],
+    "answer": "Option C",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q53:- Which of the following is an input device?",
+    "options": [
+      "Monitor",
+      "Speaker",
+      "Mouse",
+      "Printer"
+    ],
+    "answer": "Option C",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q54:- Which one is not a type of computer memory?",
+    "options": [
+      "RAM",
+      "ROM",
+      "CPU",
+      "Cache"
+    ],
+    "answer": "Option C",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q55:- What is the full form of HTTP?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Process",
+      "HighText Transfer Protocol",
+      "HyperTransfer Text Protocol"
+    ],
+    "answer": "Option A",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q56:- Which key is used to refresh a webpage?",
+    "options": [
+      "F1",
+      "F5",
+      "F9",
+      "F11"
+    ],
+    "answer": "Option B",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q57:- What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Uniform Retrieval Link",
+      "Unified Resource Link",
+      "Uniform Routing Link"
+    ],
+    "answer": "Option A",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q58:- Which of the following is a storage device?",
+    "options": [
+      "Keyboard",
+      "Pen Drive",
+      "Monitor",
+      "Mouse"
+    ],
+    "answer": "Option B",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  },
+  {
+    "question": "Q59:- What is the brain of the computer?",
+    "options": [
+      "RAM",
+      "Hard Disk",
+      "CPU",
+      "Motherboard"
+    ],
+    "answer": "Option C",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Morning"
+  },
+  {
+    "question": "Q60:- Which software is used for browsing the Internet?",
+    "options": [
+      "MS Word",
+      "Google Chrome",
+      "MS Excel",
+      "Paint"
+    ],
+    "answer": "Option B",
+    "category": "Computer",
+    "source": "SSC",
+    "date": "2025-05-21",
+    "shift": "Evening"
+  }
   ]
 }
