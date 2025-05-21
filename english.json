@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Q1:-What is the synonym of 'Rapid'?",
+      "options": ["Slow", "Fast", "Late", "Weak"],
+      "answer": "Fast",
+      "category": "English",
+      "source": "English Synonyms Guide",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Choose the correct spelling:",
+      "options": ["Definately", "Definitely", "Defanitely", "Definetly"],
+      "answer": "Definitely",
+      "category": "English",
+      "source": "Spelling Mastery Book",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Select the antonym of 'Generous':",
+      "options": ["Kind", "Stingy", "Helpful", "Liberal"],
+      "answer": "Stingy",
+      "category": "English",
+      "source": "Word Antonyms Guide",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
+      "options": ["Adjective", "Verb", "Noun", "Adverb"],
+      "answer": "Adverb",
+      "category": "English",
+      "source": "Grammar Made Easy",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
+      "options": ["since", "for", "from", "at"],
+      "answer": "for",
+      "category": "English",
+      "source": "Prepositions Practice",
+      "date": "2025-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
+      "options": ["A letter is written by her.", "A letter was written by her.", "She is written a letter.", "A letter wrote by her."],
+      "answer": "A letter is written by her.",
+      "category": "English",
+      "source": "Voice Transformation Guide",
+      "date": "2025-05-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
+      "options": ["He said that he would help me.", "He said that I would help him.", "He says that he will help me.", "He said he will help me."],
+      "answer": "He said that he would help me.",
+      "category": "English",
+      "source": "Narration Handbook",
+      "date": "2025-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "an",
+      "category": "English",
+      "source": "Article Usage Manual",
+      "date": "2025-05-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
+      "options": ["at", "in", "on", "with"],
+      "answer": "in",
+      "category": "English",
+      "source": "Preposition Practice Book",
+      "date": "2025-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Choose the correct degree of comparison: 'Mount Everest is the ____ mountain in the world.'",
+      "options": ["high", "higher", "highest", "most high"],
+      "answer": "highest",
+      "category": "English",
+      "source": "Comparison of Adjectives",
+      "date": "2025-05-17",
+      "shift": "Evening"
+    }
+  ]
+}
