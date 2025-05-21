@@ -1,216 +1,844 @@
 {
   "questions": [
     {
-      "question": "Q1:-What is the synonym of 'Abundant'?",
-      "options": ["Scarce", "Plentiful", "Rare", "Meager"],
-      "answer": "Plentiful",
+      "question": "Q1:-Sample English Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "English",
-      "source": "Competitive English Guide",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Choose the correct spelling:",
-      "options": ["Accomodate", "Acommodate", "Accommodate", "Acomodete"],
-      "answer": "Accommodate",
+      "question": "Q2:-Sample English Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "English",
-      "source": "English Vocabulary Builder",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q3:-Select the antonym of 'Benevolent':",
-      "options": ["Kind", "Malevolent", "Generous", "Compassionate"],
-      "answer": "Malevolent",
+      "question": "Q3:-Sample English Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "English",
-      "source": "Word Power Made Easy",
-      "date": "2025-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Identify the part of speech of the underlined word: 'She runs quickly.'",
-      "options": ["Noun", "Adjective", "Adverb", "Verb"],
-      "answer": "Adverb",
-      "category": "English",
-      "source": "Grammar Basics",
-      "date": "2025-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Fill in the blank: 'He has been working here ____ 2010.'",
-      "options": ["for", "since", "from", "at"],
-      "answer": "since",
-      "category": "English",
-      "source": "Tense Usage Guide",
-      "date": "2025-05-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-Choose the correct passive voice: 'They will finish the work by tomorrow.'",
-      "options": ["The work will be finished by them by tomorrow.", "The work will finish by them by tomorrow.", "They will be finished the work by tomorrow.", "The work will be finishing by them by tomorrow."],
-      "answer": "The work will be finished by them by tomorrow.",
-      "category": "English",
-      "source": "Voice Change Handbook",
-      "date": "2025-05-19",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Identify the correct indirect speech: 'He said, \"I am going to the market.\"'",
-      "options": ["He said that he is going to the market.", "He said that he was going to the market.", "He said that I was going to the market.", "He said that he has been going to the market."],
-      "answer": "He said that he was going to the market.",
-      "category": "English",
-      "source": "Reported Speech Manual",
-      "date": "2025-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-Choose the correct article: 'She bought ____ umbrella.'",
-      "options": ["a", "an", "the", "no article needed"],
-      "answer": "an",
-      "category": "English",
-      "source": "Article Usage Guide",
-      "date": "2025-05-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-Select the correct preposition: 'He is good ____ mathematics.'",
-      "options": ["in", "at", "on", "with"],
-      "answer": "at",
-      "category": "English",
-      "source": "Prepositions Handbook",
-      "date": "2025-05-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Identify the correct comparative form: 'This book is ____ than that one.'",
-      "options": ["good", "better", "best", "more good"],
-      "answer": "better",
-      "category": "English",
-      "source": "Degrees of Comparison Guide",
-      "date": "2025-05-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-What is the value of 7 + 5 × 3?",
-      "options": ["36", "22", "26", "17"],
-      "answer": "22",
-      "category": "Mathematics",
-      "source": "Basic Arithmetic",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q12:-Solve: 15% of 200 is:",
-      "options": ["25", "30", "35", "40"],
-      "answer": "30",
-      "category": "Mathematics",
-      "source": "Percentage Calculations",
+      "question": "Q4:-Sample English Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q13:-What is the square root of 144?",
-      "options": ["10", "11", "12", "13"],
-      "answer": "12",
-      "category": "Mathematics",
-      "source": "Square Roots",
-      "date": "2025-05-20",
+      "question": "Q5:-Sample English Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q14:-If x = 2, what is the value of x² + 3x + 4?",
-      "options": ["14", "16", "18", "20"],
-      "answer": "14",
-      "category": "Mathematics",
-      "source": "Algebra Basics",
-      "date": "2025-05-20",
+      "question": "Q6:-Sample English Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q15:-Simplify: (3/4) ÷ (2/5)",
-      "options": ["15/8", "8/15", "6/9", "9/6"],
-      "answer": "15/8",
-      "category": "Mathematics",
-      "source": "Fraction Operations",
-      "date": "2025-05-19",
+      "question": "Q7:-Sample English Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q16:-What is the value of π (pi) up to two decimal places?",
-      "options": ["3.12", "3.14", "3.16", "3.18"],
-      "answer": "3.14",
-      "category": "Mathematics",
-      "source": "Mathematical Constants",
-      "date": "2025-05-19",
+      "question": "Q8:-Sample English Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q17:-Convert 0.75 into a fraction.",
-      "options": ["3/4", "1/2", "2/3", "4/5"],
-      "answer": "3/4",
-      "category": "Mathematics",
-      "source": "Decimal to Fraction",
-      "date": "2025-05-18",
+      "question": "Q9:-Sample English Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q18:-What is the area of a rectangle with length 5 cm and breadth 3 cm?",
-      "options": ["8 cm²", "15 cm²", "10 cm²", "12 cm²"],
-      "answer": "15 cm²",
-      "category": "Mathematics",
-      "source": "Geometry Basics",
-      "date": "2025-05-18",
+      "question": "Q10:-Sample English Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "English",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Find the next number in the series: 2, 4, 8, 16, ?",
-      "options": ["18", "20", "24", "32"],
-      "answer": "32",
-      "category": "Mathematics",
-      "source": "Number Series",
-      "date": "2025-05-17",
+      "question": "Q11:-Sample Maths Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q20:-What is the perimeter of a square with side length 6 cm?",
-      "options": ["12 cm", "18 cm", "24 cm", "30 cm"],
-      "answer": "24 cm",
-      "category": "Mathematics",
-      "source": "Perimeter Calculations",
-      "date": "2025-05-17",
+      "question": "Q12:-Sample Maths Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q21:-Find the odd one out: Apple, Banana, Carrot, Mango",
-      "options": ["Apple", "Banana", "Carrot", "Mango"],
-      "answer": "Carrot",
+      "question": "Q13:-Sample Maths Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Sample Maths Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Sample Maths Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Sample Maths Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Sample Maths Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Sample Maths Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Sample Maths Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-Sample Maths Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Maths",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q21:-Sample Reasoning Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "Reasoning",
-      "source": "Analogy Questions",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q22:-If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
-      "options": ["EPH", "EPI", "FPI", "FQJ"],
-      "answer": "EPH",
+      "question": "Q22:-Sample Reasoning Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "Reasoning",
-      "source": "Coding-Decoding",
+      "source": "SSC",
       "date": "2025-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q23:-Which number comes next in the series: 5, 10, 20, 40, ?",
-      "options": ["50", "60", "70", "80"],
-      "answer": "80",
+      "question": "Q23:-Sample Reasoning Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
       "category": "Reasoning",
-      "source": "Number Series",
-      "date": "2025-05-20",
+      "source": "SSC",
+      "date": "2025-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-If all BLOOMS are FLOWERS and all FLOWERS are PLANTS, then all BLOOMS are:",
-      "options": ["PLANTS", "TREES", "GARDENS", "LEAVES"],
-      "answer": "PLANTS",
-      "category": "Reason
-::contentReference[oaicite:8]{index=8}
- 
+      "question": "Q24:-Sample Reasoning Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q25:-Sample Reasoning Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q26:-Sample Reasoning Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Sample Reasoning Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:-Sample Reasoning Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:-Sample Reasoning Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:-Sample Reasoning Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Reasoning",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q31:-Sample Science Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:-Sample Science Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:-Sample Science Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-Sample Science Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q35:-Sample Science Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q36:-Sample Science Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q37:-Sample Science Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q38:-Sample Science Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q39:-Sample Science Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q40:-Sample Science Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Science",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q41:-Sample GK Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:-Sample GK Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q43:-Sample GK Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-Sample GK Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q45:-Sample GK Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:-Sample GK Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q47:-Sample GK Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-Sample GK Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q49:-Sample GK Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q50:-Sample GK Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "GK",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q51:-Sample Computer Question 1?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:-Sample Computer Question 2?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q53:-Sample Computer Question 3?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:-Sample Computer Question 4?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:-Sample Computer Question 5?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q56:-Sample Computer Question 6?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q57:-Sample Computer Question 7?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:-Sample Computer Question 8?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:-Sample Computer Question 9?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:-Sample Computer Question 10?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "category": "Computer",
+      "source": "SSC",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    }
+  ]
+}
