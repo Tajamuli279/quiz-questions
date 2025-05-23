@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "Q1:-What is the capital of J&K?",
+      "question": "Q1:-What is the capital of India?",
       "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
       "answer": "Delhi",
       "category": "Geography",
@@ -10,9 +10,9 @@
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which planet is known as the Green Planet?",
+      "question": "Q2:-Which planet is known as the Red Planet?",
       "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-      "answer": "Earth",
+      "answer": "Mars",
       "category": "Science",
       "source": "Science Textbook",
       "date": "2025-05-18",
