@@ -2,7 +2,7 @@
   "questions": [
     {
       "question": "Q1:-# : DKR :: PCL : %",
-      "options": ["# = BNQ, % = NFM", "# = FHT, % = NFJ", "# = COQ, % = OGH", "# = BNP, % = NFJ"],
+      "options": ["#=BNQ & %=NFM", "#=FHT & %=NFJ", "#=COQ & %=OGH", "#=BNP & %=NFJ"],
       "answer": "32",
       "category": "Reasoning",
       "source": "CGL MAINS",
@@ -11,7 +11,7 @@
     },
     {
       "question": "Q2:-# : CLQ :: NDK : %",
-      "options": ["# = AJS & % = OGH", "# = AOO & % = PAM", "# = EIT & % = QBN", "# = DIS & % = PBN"],
+      "options": ["#=AJS & %=OGH", "#=AOO & %=PAM", "#=EIT & %=QBN", "#=DIS & %=PBN"],
       "answer": "EPH",
       "category": "Reasoning",
       "source": "CGL MAINS",
@@ -20,7 +20,7 @@
     },
     {
       "question": "Q3:-# : KNF :: QCV : %",
-      "options": ["# = HQC & % = NFS", "# = IPD & % = OET", "# = HPD & % = NFS", "# = MLH & % = OET"],
+      "options": ["#=HQC & %=NFS", "#=IPD & %=OET", "#=HPD & %=NFS", "#=MLH & %=OET"],
       "answer": "38",
       "category": "Reasoning",
       "source": "Sequence Practice Set",
@@ -28,8 +28,8 @@
       "shift": "Morning"
     },
     {
-      "question": "Q4:-Which word does not belong to the group?",
-      "options": ["Apple", "Banana", "Mango", "Carrot"],
+      "question": "Q4:-# : KNE :: PQV : %",
+      "options": ["#=NOB & %=SRY", "#=NKF & %=MTU", "#=MOB & %=RTT", "#=HQD & %=MTV"],
       "answer": "Carrot",
       "category": "Reasoning",
       "source": "Odd One Out Set",
@@ -37,31 +37,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q1:-What comes next in the series: 2, 4, 8, 16, ?",
-      "options": ["18", "24", "32", "20"],
+      "question": "Q5:-(5, 5, 5)\n (2, 5, 10)",
+      "options": ["(4, 4, 20)", "(7, 3, 14)", "(3, 3, 9)", "(9, 3, 26)"],
       "answer": "32",
       "category": "Reasoning",
-      "source": "Reasoning Guide",
-      "date": "2025-05-21",
+      "source": "CGL MAINS",
+      "date": "26/10/2023",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-If CAT is coded as DBU, then DOG is coded as?",
-      "options": ["EPI", "EPH", "FPI", "EOG"],
+      "question": "Q6:-(55, 11, 25)\n (64, 16, 16)",
+      "options": ["(33, 11, 22)", "(33, 11, 3)", "(33, 11, 9)", "(33, 11, 10)"],
       "answer": "EPH",
       "category": "Reasoning",
-      "source": "Coding-Decoding Book",
-      "date": "2025-05-21",
-      "shift": "Evening"
+      "source": "CGL TIER I",
+      "date": "14/07/2023",
+      "shift": "IST"
     },
     {
-      "question": "Q3:-Which number will replace the question mark? 3, 6, 11, 18, 27, ?",
-      "options": ["38", "36", "37", "39"],
+      "question": "Q7:-(14, 378, 9)\n(18, 432, 8)",
+      "options": ["(15, 405, 9)", "(5, 125, 8)", "(15, 305, 7)", "(11, 265, 8)"],
       "answer": "38",
       "category": "Reasoning",
-      "source": "Sequence Practice Set",
-      "date": "2025-05-20",
-      "shift": "Morning"
+      "source": "CGL TIER I",
+      "date": "14/07/2023",
+      "shift": "2ND"
     },
     {
       "question": "Q4:-Which word does not belong to the group?",
