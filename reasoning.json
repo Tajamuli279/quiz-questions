@@ -1,6 +1,114 @@
 {
   "questions": [
     {
+      "question": "Q1:-# : DKR :: PCL : %",
+      "options": ["# = BNQ, % = NFM", "# = FHT, % = NFJ", "# = COQ, % = OGH", "# = BNP, % = NFJ"],
+      "answer": "32",
+      "category": "Reasoning",
+      "source": "CGL MAINS",
+      "date": "02/03/2023",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-# : CLQ :: NDK : %",
+      "options": ["# = AJS & % = OGH", "# = AOO & % = PAM", "# = EIT & % = QBN", "# = DIS & % = PBN"],
+      "answer": "EPH",
+      "category": "Reasoning",
+      "source": "CGL MAINS",
+      "date": "03/03/2023",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-# : KNF :: QCV : %",
+      "options": ["# = HQC & % = NFS", "# = IPD & % = OET", "# = HPD & % = NFS", "# = MLH & % = OET"],
+      "answer": "38",
+      "category": "Reasoning",
+      "source": "Sequence Practice Set",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Which word does not belong to the group?",
+      "options": ["Apple", "Banana", "Mango", "Carrot"],
+      "answer": "Carrot",
+      "category": "Reasoning",
+      "source": "Odd One Out Set",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What comes next in the series: 2, 4, 8, 16, ?",
+      "options": ["18", "24", "32", "20"],
+      "answer": "32",
+      "category": "Reasoning",
+      "source": "Reasoning Guide",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-If CAT is coded as DBU, then DOG is coded as?",
+      "options": ["EPI", "EPH", "FPI", "EOG"],
+      "answer": "EPH",
+      "category": "Reasoning",
+      "source": "Coding-Decoding Book",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Which number will replace the question mark? 3, 6, 11, 18, 27, ?",
+      "options": ["38", "36", "37", "39"],
+      "answer": "38",
+      "category": "Reasoning",
+      "source": "Sequence Practice Set",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Which word does not belong to the group?",
+      "options": ["Apple", "Banana", "Mango", "Carrot"],
+      "answer": "Carrot",
+      "category": "Reasoning",
+      "source": "Odd One Out Set",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What comes next in the series: 2, 4, 8, 16, ?",
+      "options": ["18", "24", "32", "20"],
+      "answer": "32",
+      "category": "Reasoning",
+      "source": "Reasoning Guide",
+      "date": "2025-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-If CAT is coded as DBU, then DOG is coded as?",
+      "options": ["EPI", "EPH", "FPI", "EOG"],
+      "answer": "EPH",
+      "category": "Reasoning",
+      "source": "Coding-Decoding Book",
+      "date": "2025-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Which number will replace the question mark? 3, 6, 11, 18, 27, ?",
+      "options": ["38", "36", "37", "39"],
+      "answer": "38",
+      "category": "Reasoning",
+      "source": "Sequence Practice Set",
+      "date": "2025-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Which word does not belong to the group?",
+      "options": ["Apple", "Banana", "Mango", "Carrot"],
+      "answer": "Carrot",
+      "category": "Reasoning",
+      "source": "Odd One Out Set",
+      "date": "2025-05-20",
+      "shift": "Evening"
+    },
+    {
       "question": "Q1:-What comes next in the series: 2, 4, 8, 16, ?",
       "options": ["18", "24", "32", "20"],
       "answer": "32",
