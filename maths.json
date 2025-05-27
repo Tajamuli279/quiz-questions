@@ -1,93 +1,183 @@
 {
   "questions": [
     {
-      "question": "Q1:-What is the value of π (pi) up to 2 decimal places?",
-      "options": ["3.14", "3.12", "3.15", "3.10"],
-      "answer": "3.14",
+      "question": "Q1:-What is the value of (2 + 3 × 4)?",
+      "options": ["20", "14", "24", "18"],
+      "answer": "14",
       "category": "Maths",
-      "source": "Math Textbook",
-      "date": "2025-05-20",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-What is 15% of 200?",
-      "options": ["25", "30", "35", "40"],
-      "answer": "30",
+      "question": "Q2:-The LCM of 12 and 18 is:",
+      "options": ["36", "54", "72", "24"],
+      "answer": "36",
       "category": "Maths",
-      "source": "Aptitude Book",
-      "date": "2025-05-20",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-15",
       "shift": "Evening"
     },
     {
-      "question": "Q3:-What is the square root of 144?",
-      "options": ["10", "11", "12", "13"],
+      "question": "Q3:-Simplify: 5/8 + 7/12",
+      "options": ["41/48", "11/20", "3/4", "19/24"],
+      "answer": "41/48",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
       "answer": "12",
       "category": "Maths",
-      "source": "Math Workbook",
-      "date": "2025-05-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-If a = 2 and b = 3, what is the value of a² + b²?",
-      "options": ["13", "12", "11", "10"],
-      "answer": "13",
-      "category": "Maths",
-      "source": "NCERT",
-      "date": "2025-05-19",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-10",
       "shift": "Evening"
     },
     {
-      "question": "Q5:-What is the next prime number after 7?",
-      "options": ["9", "10", "11", "13"],
-      "answer": "11",
+      "question": "Q5:-If x + y = 10 and x - y = 4, find x.",
+      "options": ["6", "7", "8", "5"],
+      "answer": "7",
       "category": "Maths",
-      "source": "General Maths",
-      "date": "2025-05-18",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-16",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-What is the HCF of 18 and 24?",
-      "options": ["2", "3", "6", "12"],
-      "answer": "6",
+      "question": "Q6:-A man covers 60 km in 2 hours. His speed is:",
+      "options": ["20 km/h", "25 km/h", "30 km/h", "35 km/h"],
+      "answer": "30 km/h",
       "category": "Maths",
-      "source": "Aptitude Book",
-      "date": "2025-05-18",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-16",
       "shift": "Evening"
     },
     {
-      "question": "Q7:-Solve: 5x = 20. What is x?",
-      "options": ["2", "3", "4", "5"],
-      "answer": "4",
+      "question": "Q7:-What is 20% of 250?",
+      "options": ["40", "50", "60", "70"],
+      "answer": "50",
       "category": "Maths",
-      "source": "Math Practice Book",
-      "date": "2025-05-17",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-11",
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the perimeter of a square with side 5 cm?",
-      "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+      "question": "Q8:-A shopkeeper gains 10% on selling an item for ₹220. Cost price is:",
+      "options": ["₹180", "₹190", "₹200", "₹210"],
+      "answer": "₹200",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-If sin θ = 1/2, then θ is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "answer": "30°",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-The area of a circle with radius 7 cm is:",
+      "options": ["154 cm²", "144 cm²", "164 cm²", "134 cm²"],
+      "answer": "154 cm²",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-The perimeter of a square of side 5 cm is:",
+      "options": ["20 cm", "25 cm", "30 cm", "35 cm"],
       "answer": "20 cm",
       "category": "Maths",
-      "source": "Geometry Book",
-      "date": "2025-05-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-What is 7 × 8?",
-      "options": ["54", "56", "58", "60"],
-      "answer": "56",
-      "category": "Maths",
-      "source": "Multiplication Table",
-      "date": "2025-05-16",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
       "shift": "Morning"
     },
     {
-      "question": "Q10:-Convert 0.75 into a fraction.",
-      "options": ["3/5", "1/2", "3/4", "2/3"],
+      "question": "Q12:-What is the next prime number after 19?",
+      "options": ["21", "23", "25", "29"],
+      "answer": "23",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-If a:b = 2:3, b:c = 4:5, find a:c.",
+      "options": ["8:15", "2:5", "4:15", "6:5"],
+      "answer": "8:15",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Convert 0.75 to a fraction.",
+      "options": ["3/4", "2/3", "1/2", "4/5"],
       "answer": "3/4",
       "category": "Maths",
-      "source": "Fractions Guide",
-      "date": "2025-05-16",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Find the value of 3² + 4².",
+      "options": ["9", "16", "25", "7"],
+      "answer": "25",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-13",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-What is the cube of 5?",
+      "options": ["125", "25", "75", "150"],
+      "answer": "125",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-13",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-What is the average of 10, 20, 30?",
+      "options": ["15", "20", "25", "30"],
+      "answer": "20",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-The value of (a + b)² is:",
+      "options": ["a² + b²", "a² + 2ab + b²", "2a² + 2b²", "a² - 2ab + b²"],
+      "answer": "a² + 2ab + b²",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-If a = 3, b = 4, find (a² + b²).",
+      "options": ["12", "25", "7", "5"],
+      "answer": "25",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-The simple interest on ₹1000 at 5% for 2 years is:",
+      "options": ["₹100", "₹150", "₹200", "₹250"],
+      "answer": "₹100",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-14",
       "shift": "Evening"
     }
   ]
