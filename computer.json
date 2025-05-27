@@ -2,182 +2,182 @@
   "questions": [
     {
       "question": "Q1:-What does CPU stand for?",
-      "options": ["Central Processing Unit", "Computer Processing Unit", "Control Program Unit", "Central Program Utility"],
+      "options": ["Central Processing Unit", "Central Program Unit", "Central Power Unit", "Central Print Unit"],
       "answer": "Central Processing Unit",
       "category": "Computer",
-      "source": "Basic Computer Book",
-      "date": "2025-05-21",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which of the following is not an input device?",
-      "options": ["Mouse", "Keyboard", "Monitor", "Scanner"],
-      "answer": "Monitor",
+      "question": "Q2:-Which one is an input device?",
+      "options": ["Printer", "Monitor", "Mouse", "Speaker"],
+      "answer": "Mouse",
       "category": "Computer",
-      "source": "Computer Fundamentals",
-      "date": "2025-05-21",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
       "shift": "Evening"
     },
     {
-      "question": "Q3:-Which key is used to refresh the current page?",
-      "options": ["F1", "F5", "F12", "Ctrl+R"],
-      "answer": "F5",
+      "question": "Q3:-Which memory is volatile?",
+      "options": ["ROM", "Hard Disk", "RAM", "CD-ROM"],
+      "answer": "RAM",
       "category": "Computer",
-      "source": "Keyboard Shortcuts",
-      "date": "2025-05-20",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q4:-What is the brain of the computer?",
-      "options": ["RAM", "Motherboard", "Hard Drive", "CPU"],
-      "answer": "CPU",
-      "category": "Computer",
-      "source": "Basic Concepts",
-      "date": "2025-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Which one is a web browser?",
-      "options": ["Google", "Yahoo", "Chrome", "Bing"],
-      "answer": "Chrome",
-      "category": "Computer",
-      "source": "Internet Basics",
-      "date": "2025-05-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-What type of storage is a Hard Disk?",
-      "options": ["Primary", "Secondary", "Tertiary", "Volatile"],
-      "answer": "Secondary",
-      "category": "Computer",
-      "source": "Hardware Classification",
-      "date": "2025-05-19",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Which of these is an operating system?",
-      "options": ["Python", "Linux", "Oracle", "Chrome"],
-      "answer": "Linux",
-      "category": "Computer",
-      "source": "Operating System Notes",
-      "date": "2025-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-Which language is used for web development?",
-      "options": ["HTML", "C++", "Python", "Java"],
-      "answer": "HTML",
-      "category": "Computer",
-      "source": "Web Programming",
-      "date": "2025-05-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-What does 'www' stand for?",
-      "options": ["World Web Wide", "Web World Wide", "World Wide Web", "Wide World Web"],
-      "answer": "World Wide Web",
-      "category": "Computer",
-      "source": "Internet Basics",
-      "date": "2025-05-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Which device is used to convert digital signals into analog?",
-      "options": ["Router", "Modem", "Switch", "Repeater"],
-      "answer": "Modem",
-      "category": "Computer",
-      "source": "Networking Devices",
-      "date": "2025-05-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Which part of the computer is used to store information permanently?",
-      "options": ["RAM", "ROM", "Cache", "Hard Disk"],
-      "answer": "Hard Disk",
-      "category": "Computer",
-      "source": "Storage Devices",
-      "date": "2025-05-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-What is the function of ALU?",
-      "options": ["Store data", "Perform arithmetic and logical operations", "Control hardware", "All of the above"],
-      "answer": "Perform arithmetic and logical operations",
-      "category": "Computer",
-      "source": "Computer Architecture",
-      "date": "2025-05-16",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:-Which of the following is not a programming language?",
-      "options": ["HTML", "Python", "Java", "Windows"],
-      "answer": "Windows",
-      "category": "Computer",
-      "source": "Programming Basics",
-      "date": "2025-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-Which key is used to permanently delete a file?",
-      "options": ["Delete", "Shift + Delete", "Ctrl + D", "Alt + D"],
-      "answer": "Shift + Delete",
-      "category": "Computer",
-      "source": "Windows Shortcuts",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:-What is the full form of PDF?",
-      "options": ["Portable Document Format", "Printable Data Format", "Public Document File", "Page Description File"],
-      "answer": "Portable Document Format",
-      "category": "Computer",
-      "source": "File Formats",
-      "date": "2025-05-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which protocol is used to transfer files over the internet?",
-      "options": ["FTP", "HTTP", "TCP", "SMTP"],
-      "answer": "FTP",
-      "category": "Computer",
-      "source": "Network Protocols",
-      "date": "2025-05-14",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-What does RAM stand for?",
-      "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Read Available Memory"],
-      "answer": "Random Access Memory",
-      "category": "Computer",
-      "source": "Hardware Basics",
-      "date": "2025-05-13",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which company developed the Windows operating system?",
-      "options": ["Apple", "Google", "Microsoft", "IBM"],
-      "answer": "Microsoft",
-      "category": "Computer",
-      "source": "History of Computers",
-      "date": "2025-05-13",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:-What type of software is MS Word?",
-      "options": ["System Software", "Application Software", "Programming Software", "Utility Software"],
-      "answer": "Application Software",
-      "category": "Computer",
-      "source": "Software Types",
-      "date": "2025-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-Which shortcut is used to copy text?",
-      "options": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + P"],
+      "question": "Q4:-What is the shortcut for 'Copy'?",
+      "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"],
       "answer": "Ctrl + C",
       "category": "Computer",
-      "source": "Keyboard Shortcuts",
-      "date": "2025-05-12",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-04",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Which one is NOT an operating system?",
+      "options": ["Windows", "Linux", "MacOS", "Microsoft Word"],
+      "answer": "Microsoft Word",
+      "category": "Computer",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "Hyper Transfer Text Protocol", "HyperText Translate Protocol"],
+      "answer": "HyperText Transfer Protocol",
+      "category": "Computer",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which device is used for printing?",
+      "options": ["Scanner", "Printer", "Mouse", "Monitor"],
+      "answer": "Printer",
+      "category": "Computer",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the full form of URL?",
+      "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Retrieval Locator", "Universal Retrieval Locator"],
+      "answer": "Uniform Resource Locator",
+      "category": "Computer",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Which one is a web browser?",
+      "options": ["Google Chrome", "MS Word", "Adobe Photoshop", "Notepad"],
+      "answer": "Google Chrome",
+      "category": "Computer",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which part stores permanent data?",
+      "options": ["RAM", "Cache", "ROM", "Registers"],
+      "answer": "ROM",
+      "category": "Computer",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which software is used for calculations?",
+      "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Outlook"],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC CHSL 2013",
+      "date": "2013-12-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-What is phishing?",
+      "options": ["Stealing sensitive info", "Virus infection", "Software update", "File compression"],
+      "answer": "Stealing sensitive info",
+      "category": "Computer",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-Which key is used to refresh a webpage?",
+      "options": ["F1", "F2", "F5", "F12"],
+      "answer": "F5",
+      "category": "Computer",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-What is the brain of the computer?",
+      "options": ["RAM", "CPU", "Monitor", "Mouse"],
+      "answer": "CPU",
+      "category": "Computer",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Which is an example of an output device?",
+      "options": ["Keyboard", "Mouse", "Speaker", "Scanner"],
+      "answer": "Speaker",
+      "category": "Computer",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-What is the full form of LAN?",
+      "options": ["Large Area Network", "Local Area Network", "Long Area Network", "Linked Area Network"],
+      "answer": "Local Area Network",
+      "category": "Computer",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-What does PDF stand for?",
+      "options": ["Portable Document Format", "Printable Document Format", "Portable Data File", "Printable Data File"],
+      "answer": "Portable Document Format",
+      "category": "Computer",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is not a programming language?",
+      "options": ["Python", "HTML", "Java", "MS Excel"],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-What does IP stand for in IP address?",
+      "options": ["Internet Protocol", "Internal Protocol", "International Protocol", "Internet Package"],
+      "answer": "Internet Protocol",
+      "category": "Computer",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-Which is NOT a type of network?",
+      "options": ["WAN", "LAN", "PAN", "CAN"],
+      "answer": "CAN",
+      "category": "Computer",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
       "shift": "Evening"
     }
   ]
