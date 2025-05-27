@@ -1,93 +1,273 @@
 {
   "questions": [
     {
-      "question": "Q1:-What is the capital of India?",
-      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
-      "answer": "Delhi",
-      "category": "Geography",
-      "source": "General Knowledge Book",
-      "date": "2025-05-19",
+      "question": "Q1:-Who was the first President of India?",
+      "options": ["Rajendra Prasad", "S. Radhakrishnan", "Jawaharlal Nehru", "Vallabhbhai Patel"],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-      "answer": "Mars",
-      "category": "Science",
-      "source": "Science Textbook",
-      "date": "2025-05-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-Who was the first President of India?",
-      "options": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "APJ Abdul Kalam", "Mahatma Gandhi"],
-      "answer": "Dr. Rajendra Prasad",
-      "category": "History",
-      "source": "NCERT",
-      "date": "2025-05-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Which is the longest river in India?",
-      "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+      "question": "Q2:-Which is the longest river in India?",
+      "options": ["Yamuna", "Brahmaputra", "Ganga", "Godavari"],
       "answer": "Ganga",
-      "category": "Geography",
-      "source": "Atlas",
-      "date": "2025-05-17",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q5:-Who wrote the Indian National Anthem?",
-      "options": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Sarojini Naidu"],
-      "answer": "Rabindranath Tagore",
-      "category": "Culture",
-      "source": "General Knowledge Book",
-      "date": "2025-05-16",
+      "question": "Q3:-Which article of the Indian Constitution deals with fundamental rights?",
+      "options": ["Article 12-35", "Article 36-51", "Article 52-78", "Article 79-122"],
+      "answer": "Article 12-35",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Which gas do plants absorb from the atmosphere?",
-      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-      "answer": "Carbon Dioxide",
-      "category": "Science",
-      "source": "Science Textbook",
-      "date": "2025-05-16",
+      "question": "Q4:-Who is known as the Father of Economics?",
+      "options": ["Adam Smith", "Karl Marx", "John Keynes", "David Ricardo"],
+      "answer": "Adam Smith",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
       "shift": "Evening"
     },
     {
-      "question": "Q7:-Which day is celebrated as Republic Day in India?",
-      "options": ["15 August", "26 January", "2 October", "1 May"],
-      "answer": "26 January",
-      "category": "Civics",
-      "source": "Civics Book",
-      "date": "2025-05-15",
+      "question": "Q5:-Where is the Sanchi Stupa located?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Maharashtra"],
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the currency of Japan?",
-      "options": ["Yuan", "Won", "Yen", "Dollar"],
-      "answer": "Yen",
-      "category": "Economics",
-      "source": "General Knowledge Book",
-      "date": "2025-05-15",
+      "question": "Q6:-Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q9:-Which element is essential for photosynthesis?",
-      "options": ["Chlorophyll", "Iron", "Calcium", "Zinc"],
-      "answer": "Chlorophyll",
-      "category": "Science",
-      "source": "Science Textbook",
-      "date": "2025-05-14",
+      "question": "Q7:-The Directive Principles of State Policy are borrowed from the constitution of which country?",
+      "options": ["USA", "UK", "Ireland", "Canada"],
+      "answer": "Ireland",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
       "shift": "Morning"
     },
     {
-      "question": "Q10:-Which is the largest continent in the world?",
-      "options": ["Africa", "Asia", "Europe", "Australia"],
-      "answer": "Asia",
-      "category": "Geography",
-      "source": "Atlas",
-      "date": "2025-05-14",
+      "question": "Q8:-GDP stands for?",
+      "options": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "General Development Product"],
+      "answer": "Gross Domestic Product",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Who built the Red Fort in Delhi?",
+      "options": ["Akbar", "Shah Jahan", "Humayun", "Aurangzeb"],
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which is the smallest state in India by area?",
+      "options": ["Goa", "Sikkim", "Tripura", "Mizoram"],
+      "answer": "Goa",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Who is the head of the Rajya Sabha?",
+      "options": ["President", "Vice President", "Prime Minister", "Speaker"],
+      "answer": "Vice President",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-Inflation refers to?",
+      "options": ["Rise in prices", "Decrease in prices", "Stability in prices", "None"],
+      "answer": "Rise in prices",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-The Battle of Plassey was fought in?",
+      "options": ["1757", "1764", "1857", "1947"],
+      "answer": "1757",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The Tropic of Cancer passes through how many Indian states?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Which schedule of the Constitution contains the list of official languages?",
+      "options": ["8th Schedule", "9th Schedule", "10th Schedule", "11th Schedule"],
+      "answer": "8th Schedule",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which tax is directly paid by individuals to the government?",
+      "options": ["Direct tax", "Indirect tax", "Sales tax", "Excise duty"],
+      "answer": "Direct tax",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Who founded the Maurya Empire?",
+      "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Harsha"],
+      "answer": "Chandragupta Maurya",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is the southernmost point of India?",
+      "options": ["Kanyakumari", "Indira Point", "Rameswaram", "Minicoy"],
+      "answer": "Indira Point",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Who appoints the Chief Minister of a state?",
+      "options": ["President", "Governor", "Prime Minister", "Speaker"],
+      "answer": "Governor",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-The Green Revolution in India mainly focused on which crop?",
+      "options": ["Rice", "Wheat", "Maize", "Sugarcane"],
+      "answer": "Wheat",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q21:-Who was the first woman Governor of an Indian state?",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Sucheta Kriplani", "Annie Besant"],
+      "answer": "Sarojini Naidu",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q22:-The Himalayas are an example of which type of mountains?",
+      "options": ["Block mountains", "Fold mountains", "Volcanic mountains", "Residual mountains"],
+      "answer": "Fold mountains",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:-Which amendment lowered the voting age from 21 to 18 years?",
+      "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "61st Amendment"],
+      "answer": "61st Amendment",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:-What is fiscal deficit?",
+      "options": ["Total expenditure minus total receipts excluding borrowings", "Total income minus total expenditure", "Tax revenue minus expenditure", "None of these"],
+      "answer": "Total expenditure minus total receipts excluding borrowings",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q25:-Who led the Salt March?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Subhas Chandra Bose"],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q26:-Which is the largest desert in India?",
+      "options": ["Sahara", "Thar", "Karakum", "Gobi"],
+      "answer": "Thar",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-26",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which writ is issued to produce a person in court?",
+      "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+      "answer": "Habeas Corpus",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:-Which sector contributes most to India's GDP?",
+      "options": ["Agriculture", "Industry", "Services", "Mining"],
+      "answer": "Services",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:-Who was the first woman Prime Minister of India?",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-27",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:-Which Indian state is the largest by area?",
+      "options": ["Maharashtra", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-27",
       "shift": "Evening"
     }
   ]
