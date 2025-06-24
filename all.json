@@ -1,140 +1,140 @@
 {
   "questions": [
     {
-      "question": "Q9:- Choose the correctly spelt word.",
+      "question": "Q19:- Which word rhymes with 'Cat'?",
       "options": [
-        "Frend",
-        "Friend",
-        "Freind",
-        "Frind"
+        "Cut",
+        "Mat",
+        "Cot",
+        "Sit"
       ],
-      "answer": "Friend",
+      "answer": "Mat",
       "category": "English",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q10:- What is the opposite of *Hot*?",
+      "question": "Q20:- Choose the correct punctuation: Where are you going",
       "options": [
-        "Warm",
-        "Cold",
-        "Cool",
-        "Heat"
+        "Where are you going.",
+        "Where are you going!",
+        "Where are you going?",
+        "Where are you going,"
       ],
-      "answer": "Cold",
+      "answer": "Where are you going?",
       "category": "English",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q11:- What is the sum of 36 and 29?",
+      "question": "Q21:- What is 7 × 6?",
       "options": [
-        "65",
-        "64",
-        "66",
-        "63"
+        "42",
+        "36",
+        "40",
+        "48"
       ],
-      "answer": "65",
+      "answer": "42",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q12:- Which shape has four equal sides?",
+      "question": "Q22:- Which unit is used to measure length?",
       "options": [
-        "Rectangle",
-        "Triangle",
-        "Circle",
-        "Square"
+        "Litre",
+        "Gram",
+        "Metre",
+        "Kilogram"
       ],
-      "answer": "Square",
+      "answer": "Metre",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q13:- Which organ helps us to breathe?",
+      "question": "Q23:- Which sense organ helps us to hear?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Stomach",
-        "Kidney"
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Skin"
       ],
-      "answer": "Lungs",
+      "answer": "Ears",
       "category": "Science",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q14:- Which of these gives us light and heat?",
+      "question": "Q24:- Which part of the plant is usually green and makes food?",
       "options": [
-        "Moon",
-        "Stars",
-        "Sun",
-        "Lamp"
+        "Root",
+        "Flower",
+        "Leaf",
+        "Stem"
       ],
-      "answer": "Sun",
+      "answer": "Leaf",
       "category": "Science",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q15:- Who is known as the 'Father of the Nation'?",
+      "question": "Q25:- What is the capital of Jammu and Kashmir in summer?",
       "options": [
-        "Nehru Ji",
-        "Gandhi Ji",
-        "Ambedkar Ji",
-        "Patel Ji"
+        "Jammu",
+        "Srinagar",
+        "Leh",
+        "Udhampur"
       ],
-      "answer": "Gandhi Ji",
+      "answer": "Srinagar",
       "category": "GK",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q16:- What is the national flower of India?",
+      "question": "Q26:- Which festival is known as the festival of lights?",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Lily",
-        "Lotus"
+        "Holi",
+        "Eid",
+        "Christmas",
+        "Diwali"
       ],
-      "answer": "Lotus",
+      "answer": "Diwali",
       "category": "GK",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q17:- Which part of a computer shows output?",
+      "question": "Q27:- Which of these is a part of the computer?",
       "options": [
+        "Television",
+        "Refrigerator",
         "Mouse",
-        "Monitor",
-        "Keyboard",
-        "CPU"
+        "Switch"
       ],
-      "answer": "Monitor",
+      "answer": "Mouse",
       "category": "Computer",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q18:- Which of these is used to type letters on a computer?",
+      "question": "Q28:- Which one is used to listen to sound from a computer?",
       "options": [
-        "Monitor",
-        "Mouse",
-        "CPU",
-        "Keyboard"
+        "Printer",
+        "Keyboard",
+        "Speaker",
+        "Mouse"
       ],
-      "answer": "Keyboard",
+      "answer": "Speaker",
       "category": "Computer",
       "source": "JKBOSE",
       "date": "2025-06-24",
@@ -142,5 +142,3 @@
     }
   ]
 }
-
-
