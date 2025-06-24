@@ -1,117 +1,146 @@
 {
   "questions": [
     {
-      "question": "Q1:- Select the most appropriate ANTONYM of the word *Kind*.",
+      "question": "Q9:- Choose the correctly spelt word.",
       "options": [
-        "Cruel",
-        "Nice",
-        "Friendly",
-        "Helpful"
+        "Frend",
+        "Friend",
+        "Freind",
+        "Frind"
       ],
-      "answer": "Cruel",
+      "answer": "Friend",
       "category": "English",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q2:- Fill in the blank: She ____ to school every day.",
+      "question": "Q10:- What is the opposite of *Hot*?",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Warm",
+        "Cold",
+        "Cool",
+        "Heat"
       ],
-      "answer": "goes",
+      "answer": "Cold",
       "category": "English",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q3:- What is the value of 8 + 7 × 2?",
+      "question": "Q11:- What is the sum of 36 and 29?",
       "options": [
-        "30",
-        "22",
-        "23",
-        "16"
+        "65",
+        "64",
+        "66",
+        "63"
       ],
-      "answer": "22",
+      "answer": "65",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q4:- If one pencil costs ₹3, how much do 5 pencils cost?",
+      "question": "Q12:- Which shape has four equal sides?",
       "options": [
-        "₹15",
-        "₹8",
-        "₹10",
-        "₹12"
+        "Rectangle",
+        "Triangle",
+        "Circle",
+        "Square"
       ],
-      "answer": "₹15",
+      "answer": "Square",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q5:- Which of these is a living thing?",
+      "question": "Q13:- Which organ helps us to breathe?",
       "options": [
-        "Rock",
-        "Tree",
-        "Car",
-        "Spoon"
+        "Heart",
+        "Lungs",
+        "Stomach",
+        "Kidney"
       ],
-      "answer": "Tree",
+      "answer": "Lungs",
       "category": "Science",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q6:- Which planet do we live on?",
+      "question": "Q14:- Which of these gives us light and heat?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Earth",
-        "Venus"
+        "Moon",
+        "Stars",
+        "Sun",
+        "Lamp"
       ],
-      "answer": "Earth",
+      "answer": "Sun",
       "category": "Science",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q7:- Who is the President of India in 2025?",
+      "question": "Q15:- Who is known as the 'Father of the Nation'?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A. P. J. Abdul Kalam"
+        "Nehru Ji",
+        "Gandhi Ji",
+        "Ambedkar Ji",
+        "Patel Ji"
       ],
-      "answer": "Droupadi Murmu",
+      "answer": "Gandhi Ji",
       "category": "GK",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q8:- What is the capital of Jammu and Kashmir?",
+      "question": "Q16:- What is the national flower of India?",
       "options": [
-        "Leh",
-        "Jammu",
-        "Srinagar",
-        "Kargil"
+        "Rose",
+        "Sunflower",
+        "Lily",
+        "Lotus"
       ],
-      "answer": "Srinagar",
+      "answer": "Lotus",
       "category": "GK",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:- Which part of a computer shows output?",
+      "options": [
+        "Mouse",
+        "Monitor",
+        "Keyboard",
+        "CPU"
+      ],
+      "answer": "Monitor",
+      "category": "Computer",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:- Which of these is used to type letters on a computer?",
+      "options": [
+        "Monitor",
+        "Mouse",
+        "CPU",
+        "Keyboard"
+      ],
+      "answer": "Keyboard",
+      "category": "Computer",
       "source": "JKBOSE",
       "date": "2025-06-24",
       "shift": "Evening"
     }
   ]
 }
+
 
