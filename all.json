@@ -1,844 +1,117 @@
 {
   "questions": [
     {
-      "question": "Q1:- Select the most appropriate ANTONYM of the given word. *Anxiety*",
+      "question": "Q1:- Select the most appropriate ANTONYM of the word *Kind*.",
       "options": [
-        "Discomfort",
-        "Relief",
-        "Agitation",
-        "Stress"
+        "Cruel",
+        "Nice",
+        "Friendly",
+        "Helpful"
       ],
-      "answer": "Relief",
+      "answer": "Cruel",
       "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q2:- Select the most appropriate synonym of the word *Vivid*.",
+      "question": "Q2:- Fill in the blank: She ____ to school every day.",
       "options": [
-        "Dull",
-        "Unclear",
-        "Bright",
-        "Dark"
+        "go",
+        "goes",
+        "going",
+        "gone"
       ],
-      "answer": "Bright",
+      "answer": "goes",
       "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q3:- Identify the part of speech of the underlined word: *He ran very fast to catch the bus.*",
+      "question": "Q3:- What is the value of 8 + 7 × 2?",
       "options": [
-        "Noun",
-        "Verb",
-        "Adverb",
-        "Adjective"
+        "30",
+        "22",
+        "23",
+        "16"
       ],
-      "answer": "Adverb",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "22",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q4:- Choose the correctly spelt word.",
+      "question": "Q4:- If one pencil costs ₹3, how much do 5 pencils cost?",
       "options": [
-        "Accomodation",
-        "Acommodation",
-        "Accommodation",
-        "Acommadation"
+        "₹15",
+        "₹8",
+        "₹10",
+        "₹12"
       ],
-      "answer": "Accommodation",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "₹15",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q5:- Fill in the blank: He has been working here ______ 2015.",
+      "question": "Q5:- Which of these is a living thing?",
       "options": [
-        "from",
-        "since",
-        "for",
-        "by"
+        "Rock",
+        "Tree",
+        "Car",
+        "Spoon"
       ],
-      "answer": "since",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "Tree",
+      "category": "Science",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q6:- Find the error: *She don't like playing football.*",
+      "question": "Q6:- Which planet do we live on?",
       "options": [
-        "She",
-        "don't",
-        "like",
-        "playing football"
+        "Mars",
+        "Jupiter",
+        "Earth",
+        "Venus"
       ],
-      "answer": "don't",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "Earth",
+      "category": "Science",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Evening"
     },
     {
-      "question": "Q7:- Select the correct passive form of the sentence: *She writes a letter.*",
+      "question": "Q7:- Who is the President of India in 2025?",
       "options": [
-        "A letter wrote by her.",
-        "A letter is written by her.",
-        "A letter is writing by her.",
-        "A letter was written by her."
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "A. P. J. Abdul Kalam"
       ],
-      "answer": "A letter is written by her.",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "Droupadi Murmu",
+      "category": "GK",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Morning"
     },
     {
-      "question": "Q8:- Choose the correct indirect speech: *He said, 'I am busy now.'*",
+      "question": "Q8:- What is the capital of Jammu and Kashmir?",
       "options": [
-        "He said that he was busy then.",
-        "He said he is busy now.",
-        "He said he will be busy now.",
-        "He said that I am busy now."
+        "Leh",
+        "Jammu",
+        "Srinagar",
+        "Kargil"
       ],
-      "answer": "He said that he was busy then.",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
+      "answer": "Srinagar",
+      "category": "GK",
+      "source": "JKBOSE",
+      "date": "2025-06-24",
       "shift": "Evening"
-    },
-    {
-      "question": "Q9:- Choose the correct one-word substitution: *One who looks at the bright side of things.*",
-      "options": [
-        "Pessimist",
-        "Optimist",
-        "Realist",
-        "Fatalist"
-      ],
-      "answer": "Optimist",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:- Identify the correct sentence.",
-      "options": [
-        "He do not plays cricket.",
-        "He does not play cricket.",
-        "He doesn't plays cricket.",
-        "He did not playing cricket."
-      ],
-      "answer": "He does not play cricket.",
-      "category": "English",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:- What is the value of (256)^0.16 × (256)^0.09?",
-      "options": [
-        "256^0.25",
-        "256^0.20",
-        "256^0.24",
-        "256^0.18"
-      ],
-      "answer": "256^0.25",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- If 12 men can complete a work in 15 days, in how many days will 20 men complete the same work?",
-      "options": [
-        "10 days",
-        "8 days",
-        "9 days",
-        "7 days"
-      ],
-      "answer": "10 days",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:- The average of 5 consecutive odd numbers is 37. What is the largest of these numbers?",
-      "options": [
-        "43",
-        "41",
-        "39",
-        "37"
-      ],
-      "answer": "43",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:- A shopkeeper allows a discount of 10% on the marked price. How much is the selling price of an article marked at ₹500?",
-      "options": [
-        "₹450",
-        "₹475",
-        "₹400",
-        "₹425"
-      ],
-      "answer": "₹450",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:- The HCF and LCM of two numbers are 12 and 240 respectively. If one number is 60, what is the other number?",
-      "options": [
-        "36",
-        "48",
-        "40",
-        "30"
-      ],
-      "answer": "40",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:- A sum amounts to ₹1210 in 2 years at 10% per annum simple interest. What is the principal?",
-      "options": [
-        "₹1000",
-        "₹1050",
-        "₹1100",
-        "₹1150"
-      ],
-      "answer": "₹1000",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- What is the value of 3 + 6 × (5 + 4) ÷ 3 - 7?",
-      "options": [
-        "14",
-        "15",
-        "16",
-        "13"
-      ],
-      "answer": "14",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:- A can do a piece of work in 20 days and B in 30 days. In how many days will they finish it together?",
-      "options": [
-        "12 days",
-        "15 days",
-        "10 days",
-        "18 days"
-      ],
-      "answer": "10 days",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:- The perimeter of a square is 64 cm. What is the area?",
-      "options": [
-        "256 cm²",
-        "128 cm²",
-        "144 cm²",
-        "100 cm²"
-      ],
-      "answer": "256 cm²",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- What is the compound interest on ₹5000 at 10% per annum for 2 years, compounded annually?",
-      "options": [
-        "₹1000",
-        "₹1050",
-        "₹1100",
-        "₹1150"
-      ],
-      "answer":"₹1050",
-      "category": "Maths",
-      "source": "SSC",
-      "date": "2025-05-21",
-      "shift": "Evening"
-    },
-    {
-    "question": "Q21:- If ‘PAPER’ is coded as ‘ODODQ’, how is ‘BOARD’ coded?",
-    "options": [
-      "ANZQC",
-      "CNZRB",
-      "AOZQC",
-      "AOBRC"
-    ],
-    "answer": "ANZQC",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q22:- Find the odd one out: Apple, Banana, Tomato, Carrot",
-    "options": [
-      "Apple",
-      "Banana",
-      "Tomato",
-      "Carrot"
-    ],
-    "answer": "Carrot",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q23:- If A = 1, B = 2, ..., Z = 26, what is the sum of the letters in ‘CAT’?",
-    "options": [
-      "24",
-      "27",
-      "29",
-      "26"
-    ],
-    "answer": "29",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q24:- Which number will complete the series: 3, 6, 11, 18, 27, ?",
-    "options": [
-      "36",
-      "37",
-      "38",
-      "39"
-    ],
-    "answer": "37",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q25:- ‘Book’ is related to ‘Read’ in the same way as ‘Pen’ is related to?",
-    "options": [
-      "Write",
-      "Draw",
-      "Ink",
-      "Paper"
-    ],
-    "answer": "Write",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q26:- Complete the analogy: 3 : 27 :: 5 : ?",
-    "options": [
-      "125",
-      "25",
-      "15",
-      "75"
-    ],
-    "answer": "125",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q27:- If 'WATER' is written as 'XBUFS', then 'VIRUS' will be written as?",
-    "options": [
-      "WJSVT",
-      "WJTVT",
-      "WJTUT",
-      "WJSVS"
-    ],
-    "answer": "WJSVT",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q28:- Pointing to a girl, Raj said, “She is the daughter of the only child of my father.” How is the girl related to Raj?",
-    "options": [
-      "Sister",
-      "Daughter",
-      "Niece",
-      "Cousin"
-    ],
-    "answer": "Daughter",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q29:- Find the missing number: 9, 18, 36, 72, ?",
-    "options": [
-      "108",
-      "144",
-      "96",
-      "100"
-    ],
-    "answer": "144",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q30:- If 'EAST' is written as 'VXHG', then how is 'NORTH' written?",
-    "options": [
-      "MLIGS",
-      "MLGSF",
-      "MLGSU",
-      "MLGUF"
-    ],
-    "answer": "MLGSU",
-    "category": "Reasoning",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-     {
-    "question": "Q31:- Which part of the human brain is responsible for maintaining posture and balance?",
-    "options": [
-      "Cerebrum",
-      "Cerebellum",
-      "Medulla",
-      "Pons"
-    ],
-    "answer": "Cerebellum",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q32:- Which gas is used in the preparation of soda water?",
-    "options": [
-      "Carbon monoxide",
-      "Carbon dioxide",
-      "Oxygen",
-      "Nitrogen"
-    ],
-    "answer": "Carbon dioxide",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q33:- What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Watt",
-      "Newton",
-      "Pascal"
-    ],
-    "answer": "Newton",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q34:- Which vitamin helps in blood clotting?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin K",
-      "Vitamin C"
-    ],
-    "answer": "Vitamin K",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q35:- Which of the following is a non-renewable source of energy?",
-    "options": [
-      "Solar energy",
-      "Wind energy",
-      "Geothermal energy",
-      "Coal"
-    ],
-    "answer": "Coal",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q36:- Which metal is the best conductor of electricity?",
-    "options": [
-      "Copper",
-      "Aluminum",
-      "Silver",
-      "Gold"
-    ],
-    "answer": "Silver",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q37:- DNA stands for?",
-    "options": [
-      "Deoxyribose Nucleic Acid",
-      "Deoxyribonucleic Acid",
-      "Dioxyribonucleic Acid",
-      "Dioxyribose Nucleic Acid"
-    ],
-    "answer": "Deoxyribonucleic Acid",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q38:- Which of the following does NOT conduct electricity?",
-    "options": [
-      "Copper",
-      "Graphite",
-      "Wood",
-      "Salt water"
-    ],
-    "answer": "Wood",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q39:- Which organelle is known as the powerhouse of the cell?",
-    "options": [
-      "Nucleus",
-      "Mitochondria",
-      "Ribosome",
-      "Chloroplast"
-    ],
-    "answer": "Mitochondria",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q40:- Which of the following is acidic in nature?",
-    "options": [
-      "Soap",
-      "Baking soda",
-      "Lemon juice",
-      "Toothpaste"
-    ],
-    "answer": "Lemon juice",
-    "category": "Science",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-    {
-    "question": "Q41:- Who was the first President of independent India?",
-    "options": [
-      "Mahatma Gandhi",
-      "Dr. Rajendra Prasad",
-      "Jawaharlal Nehru",
-      "Sardar Patel"
-    ],
-    "answer": "Dr. Rajendra Prasad",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q42:- What is the capital of Sri Lanka?",
-    "options": [
-      "Colombo",
-      "Kathmandu",
-      "Dhaka",
-      "Male"
-    ],
-    "answer": "Colombo",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q43:- The Great Indian Desert is also known as?",
-    "options": [
-      "Rann of Kutch",
-      "Thar Desert",
-      "Sahara Desert",
-      "Chotanagpur Plateau"
-    ],
-    "answer": "Thar Desert",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q44:- Who wrote the book 'Discovery of India'?",
-    "options": [
-      "Mahatma Gandhi",
-      "Rabindranath Tagore",
-      "Jawaharlal Nehru",
-      "Dr. B.R. Ambedkar"
-    ],
-    "answer": "Jawaharlal Nehru",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q45:- Which is the longest river in India?",
-    "options": [
-      "Yamuna",
-      "Ganga",
-      "Godavari",
-      "Brahmaputra"
-    ],
-    "answer": "Ganga",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q46:- Who is known as the 'Father of Indian Constitution'?",
-    "options": [
-      "Jawaharlal Nehru",
-      "Dr. B.R. Ambedkar",
-      "Mahatma Gandhi",
-      "Sardar Patel"
-    ],
-    "answer": "Dr. B.R. Ambedkar",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q47:- Which Indian state shares the longest border with Bangladesh?",
-    "options": [
-      "Assam",
-      "Tripura",
-      "West Bengal",
-      "Meghalaya"
-    ],
-    "answer": "West Bengal",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q48:- Who was the first woman Prime Minister of India?",
-    "options": [
-      "Sarojini Naidu",
-      "Indira Gandhi",
-      "Sushma Swaraj",
-      "Pratibha Patil"
-    ],
-    "answer": "Indira Gandhi",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q49:- The 'Quit India Movement' was launched in which year?",
-    "options": [
-      "1942",
-      "1930",
-      "1919",
-      "1947"
-    ],
-    "answer": "1942",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q50:- In which year did India become a Republic?",
-    "options": [
-      "1947",
-      "1950",
-      "1948",
-      "1952"
-    ],
-    "answer": "1950",
-    "category": "GK",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-    {
-    "question": "Q51:- What does CPU stand for?",
-    "options": [
-      "Central Process Unit",
-      "Central Processing Unit",
-      "Control Processing Unit",
-      "Central Power Unit"
-    ],
-    "answer": "Central Processing Unit",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q52:- What is the function of the Ctrl + C shortcut?",
-    "options": [
-      "Cut",
-      "Paste",
-      "Copy",
-      "Close"
-    ],
-    "answer": "Copy",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q53:- Which of the following is an input device?",
-    "options": [
-      "Monitor",
-      "Speaker",
-      "Mouse",
-      "Printer"
-    ],
-    "answer": "Mouse",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q54:- Which one is not a type of computer memory?",
-    "options": [
-      "RAM",
-      "ROM",
-      "CPU",
-      "Cache"
-    ],
-    "answer": "CPU",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q55:- What is the full form of HTTP?",
-    "options": [
-      "HyperText Transfer Protocol",
-      "HyperText Transmission Process",
-      "HighText Transfer Protocol",
-      "HyperTransfer Text Protocol"
-    ],
-    "answer": "HyperText Transfer Protocol",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q56:- Which key is used to refresh a webpage?",
-    "options": [
-      "F1",
-      "F5",
-      "F9",
-      "F11"
-    ],
-    "answer":  "F5",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q57:- What does 'URL' stand for?",
-    "options": [
-      "Uniform Resource Locator",
-      "Uniform Retrieval Link",
-      "Unified Resource Link",
-      "Uniform Routing Link"
-    ],
-    "answer": "Uniform Resource Locator",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q58:- Which of the following is a storage device?",
-    "options": [
-      "Keyboard",
-      "Pen Drive",
-      "Monitor",
-      "Mouse"
-    ],
-    "answer": "Pen Drive",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  },
-  {
-    "question": "Q59:- What is the brain of the computer?",
-    "options": [
-      "RAM",
-      "Hard Disk",
-      "CPU",
-      "Motherboard"
-    ],
-    "answer": "CPU",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Morning"
-  },
-  {
-    "question": "Q60:- Which software is used for browsing the Internet?",
-    "options": [
-      "MS Word",
-      "Google Chrome",
-      "MS Excel",
-      "Paint"
-    ],
-    "answer": "Google Chrome",
-    "category": "Computer",
-    "source": "SSC",
-    "date": "2025-05-21",
-    "shift": "Evening"
-  }
+    }
   ]
 }
+
