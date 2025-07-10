@@ -1,144 +1,75 @@
 {
   "questions": [
     {
-      "question": "Q19:- Which word rhymes with 'Cat'?",
+      "question": "Q29:- What is 20% of 150?",
       "options": [
-        "Cut",
-        "Mat",
-        "Cot",
-        "Sit"
+        "25",
+        "30",
+        "35",
+        "20"
       ],
-      "answer": "Mat",
-      "category": "English",
-      "source": "JKBOSE",
-      "date": "2025-06-24",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Choose the correct punctuation: Where are you going",
-      "options": [
-        "Where are you going.",
-        "Where are you going!",
-        "Where are you going?",
-        "Where are you going,"
-      ],
-      "answer": "Where are you going?",
-      "category": "English",
-      "source": "JKBOSE",
-      "date": "2025-06-24",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q21:- What is 7 × 6?",
-      "options": [
-        "42",
-        "36",
-        "40",
-        "48"
-      ],
-      "answer": "42",
+      "answer": "30",
       "category": "Maths",
       "source": "JKBOSE",
-      "date": "2025-06-24",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q22:- Which unit is used to measure length?",
+      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
       "options": [
-        "Litre",
-        "Gram",
-        "Metre",
-        "Kilogram"
+        "90",
+        "95",
+        "100",
+        "105"
       ],
-      "answer": "Metre",
+      "answer": "100",
       "category": "Maths",
       "source": "JKBOSE",
-      "date": "2025-06-24",
+      "date": "2025-07-10",
       "shift": "Evening"
     },
     {
-      "question": "Q23:- Which sense organ helps us to hear?",
+      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
       "options": [
-        "Eyes",
-        "Ears",
-        "Nose",
-        "Skin"
+        "60%",
+        "62%",
+        "65%",
+        "68%"
       ],
-      "answer": "Ears",
-      "category": "Science",
+      "answer": "60%",
+      "category": "Maths",
       "source": "JKBOSE",
-      "date": "2025-06-24",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q24:- Which part of the plant is usually green and makes food?",
+      "question": "Q32:- If 45 is 75% of a number, what is the number?",
       "options": [
-        "Root",
-        "Flower",
-        "Leaf",
-        "Stem"
+        "50",
+        "55",
+        "60",
+        "65"
       ],
-      "answer": "Leaf",
-      "category": "Science",
+      "answer": "60",
+      "category": "Maths",
       "source": "JKBOSE",
-      "date": "2025-06-24",
+      "date": "2025-07-10",
       "shift": "Evening"
     },
     {
-      "question": "Q25:- What is the capital of Jammu and Kashmir in summer?",
+      "question": "Q33:- Price of a shirt is ₹400. It was sold at 10% discount. What was the selling price?",
       "options": [
-        "Jammu",
-        "Srinagar",
-        "Leh",
-        "Udhampur"
+        "₹360",
+        "₹370",
+        "₹380",
+        "₹390"
       ],
-      "answer": "Srinagar",
-      "category": "GK",
+      "answer": "₹360",
+      "category": "Maths",
       "source": "JKBOSE",
-      "date": "2025-06-24",
+      "date": "2025-07-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q26:- Which festival is known as the festival of lights?",
-      "options": [
-        "Holi",
-        "Eid",
-        "Christmas",
-        "Diwali"
-      ],
-      "answer": "Diwali",
-      "category": "GK",
-      "source": "JKBOSE",
-      "date": "2025-06-24",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:- Which of these is a part of the computer?",
-      "options": [
-        "Television",
-        "Refrigerator",
-        "Mouse",
-        "Switch"
-      ],
-      "answer": "Mouse",
-      "category": "Computer",
-      "source": "JKBOSE",
-      "date": "2025-06-24",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:- Which one is used to listen to sound from a computer?",
-      "options": [
-        "Printer",
-        "Keyboard",
-        "Speaker",
-        "Mouse"
-      ],
-      "answer": "Speaker",
-      "category": "Computer",
-      "source": "JKBOSE",
-      "date": "2025-06-24",
-      "shift": "Evening"
     }
   ]
 }
+
