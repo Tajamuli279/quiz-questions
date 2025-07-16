@@ -2,29 +2,38 @@ import json
 import random
 from datetime import datetime
 
-def generate_question_set():
+def generate_gk_questions():
     sample_questions = [
         {
-            "question": "Which Indian river is called the 'Sorrow of Bihar'?",
-            "options": ["Ganga", "Kosi", "Son", "Gandak"],
-            "answer": "Kosi",
-            "category": "Indian Geography",
-            "source": "Auto Gen SSC",
+            "question": "Who was the first President of India?",
+            "options": ["Rajendra Prasad", "S. Radhakrishnan", "Jawaharlal Nehru", "Vallabhbhai Patel"],
+            "answer": "Rajendra Prasad",
+            "category": "GK",
+            "source": "Auto Gen",
             "date": str(datetime.today().date()),
             "shift": random.choice(["Morning", "Evening"])
         },
         {
-            "question": "Where is Chilika Lake located?",
-            "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Karnataka"],
-            "answer": "Odisha",
-            "category": "Indian Geography",
-            "source": "Auto Gen SSC",
+            "question": "Which is the largest desert in India?",
+            "options": ["Sahara", "Thar", "Gobi", "Karakum"],
+            "answer": "Thar",
+            "category": "GK",
+            "source": "Auto Gen",
+            "date": str(datetime.today().date()),
+            "shift": random.choice(["Morning", "Evening"])
+        },
+        {
+            "question": "What is the capital of Uttarakhand?",
+            "options": ["Dehradun", "Haridwar", "Rishikesh", "Nainital"],
+            "answer": "Dehradun",
+            "category": "GK",
+            "source": "Auto Gen",
             "date": str(datetime.today().date()),
             "shift": random.choice(["Morning", "Evening"])
         }
     ]
-    return {"questions": random.sample(sample_questions * 5, 10)}  # total 10
+    return {"questions": random.sample(sample_questions * 5, 10)}  # 10 MCQs
 
-# Generate and overwrite file
+# Step: Save to gk.json
 with open("questions/gk.json", "w") as f:
-    json.dump(generate_question_set(), f, indent=2)
+    json.dump(generate_gk_questions(), f, indent=2)
