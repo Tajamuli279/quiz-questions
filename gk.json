@@ -1,143 +1,73 @@
 {
   "questions": [
     {
-      "question": "What is the capital of Uttarakhand?",
+      "question": "Q29:- What is 20% of 150?",
       "options": [
-        "Dehradun",
-        "Haridwar",
-        "Rishikesh",
-        "Nainital"
+        "25",
+        "30",
+        "35",
+        "20"
       ],
-      "answer": "Dehradun",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
+      "answer": "30",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "105"
+      ],
+      "answer": "100",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
       "shift": "Evening"
     },
     {
-      "question": "Who was the first President of India?",
+      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel"
+        "60%",
+        "62%",
+        "65%",
+        "68%"
       ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
+      "answer": "60%",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Who was the first President of India?",
+      "question": "Q32:- If 45 is 75% of a number, what is the number?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel"
+        "50",
+        "55",
+        "60",
+        "65"
       ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Which is the largest desert in India?",
-      "options": [
-        "Sahara",
-        "Thar",
-        "Gobi",
-        "Karakum"
-      ],
-      "answer": "Thar",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Which is the largest desert in India?",
-      "options": [
-        "Sahara",
-        "Thar",
-        "Gobi",
-        "Karakum"
-      ],
-      "answer": "Thar",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Which is the largest desert in India?",
-      "options": [
-        "Sahara",
-        "Thar",
-        "Gobi",
-        "Karakum"
-      ],
-      "answer": "Thar",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "What is the capital of Uttarakhand?",
-      "options": [
-        "Dehradun",
-        "Haridwar",
-        "Rishikesh",
-        "Nainital"
-      ],
-      "answer": "Dehradun",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
+      "answer": "60",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
       "shift": "Evening"
     },
     {
-      "question": "Who was the first President of India?",
+      "question": "Q33:- Price of a shirt is \u20b9400. It was sold at 10% discount. What was the selling price?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel"
+        "\u20b9360",
+        "\u20b9370",
+        "\u20b9380",
+        "\u20b9390"
       ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "Auto Gen",
-      "date": "2025-07-16",
+      "answer": "\u20b9360",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
       "shift": "Morning"
     }
   ]
