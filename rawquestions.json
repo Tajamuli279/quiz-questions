@@ -1,75 +1,155 @@
 {
   "questions": [
+  {
+    "question": "Q1:-At the beginning of day 1 of a month, Rajesh has 500 eggs. He sells 20% of the eggs by the end of the day and added b% of the eggs at the beginning of the next day and sold 20% of he eggs at the end of the next day. This pattern continued up to the end of the third day of the month when he is left with 1024 eggs. The value of b is equal to? CHSL24",
+    "options": ["20", "10", "500", "100"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q2:-A man spends 35% of his monthly income on food and four-thirteenthsof the remaining income on transport.He incurs some other expenses, but also saves 6,300 per month, the latter being equal to 20% of the balance remaining just after spendingon food and transport. What is his monthly income in Rs? CHSL24",
+    "options": ["67500", "72000", "70000", "63000"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q3:-In an election between two candidates, the defeated candidate secured 42% of the valid votes polled and lost the election by 2545800 votes. If 365500 votes were declared invalid and 30% people did not cast their vote, what was the approximate number of people (in million) in the electorate who did not cast their votes? CHSL24",
+    "options": ["5 Million", "6 Million", "8 Million", "7 Million"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q4:-In an election, a voter has choices tovote for one candidate out of threecandidates. There is also an option'None of the Above' (NOTA) to reject all candidates. The three candidates get votes that are 6 times NOTA. The winner gets votes that are twice the second runner-up's votes. The first runner-up gets 900 votes more than NOTA and defeats the second runner-up by 150 votes. What is the total number of votes polled? CHSL24",
+    "options": ["17715", "15177", "11025", "11577"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Q5:-Which of the following is the least? CGL23",
+    "options": ["12% of 625", "15% of 555", "10% of 720", "9% of 845"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q6:-If 17% of 630 = 35% of x, then what is the value of x?",
+    "options": ["356", "310", "306", "308"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q7:-Two candidates contested an election. One of them got 64% of the votes and won by 434 votes. What was the total number of votes polled? CGL23",
+    "options": ["1550", "1345", "1680", "1684"],
+    "answerIndex": 0
+  },
+  {
+    "question": "Q8:-A is 25% more than B, and B is 40% less than C. If C is 20% more than D, then A is what percentage less
+than D? CGL22",
+    "options": ["10%", "12%", "9%", "11%"],
+    "answerIndex": 0
+  },
+  {
+    "question": "Q9:-A number is increased by 25% and then decreased by 16%, By what percentage is resulting number less than/more than the original number? CHSL23",
+    "options": ["does not change", "decreases by 5%", "increases by 5%", "decreases by 13%"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Q10:-The price of a scooter increases successively by 10%, 5% and 15%. What is the total percentage increase in price of scooter? CGL22",
+    "options": ["32.82%", "34.525%", "30.275%", "36.775"],
+    "answerIndex": 0
+  },
     {
-      "question": "Q29:- What is 20% of 150?",
-      "options": [
-        "25",
-        "30",
-        "35",
-        "20"
-      ],
-      "answer": "30",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Morning"
+      "question": "Q11:-What is H2O commonly known as?",
+      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answerIndex": 1
     },
     {
-      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
-      "options": [
-        "90",
-        "95",
-        "100",
-        "105"
-      ],
-      "answer": "100",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Evening"
+      "question": "Q12:-Which day comes after Monday?",
+      "options": ["Wednesday", "Sunday", "Tuesday", "Friday"],
+      "answerIndex": 2
     },
     {
-      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
-      "options": [
-        "60%",
-        "62%",
-        "65%",
-        "68%"
-      ],
-      "answer": "60%",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Morning"
+      "question": "Q13:-What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answerIndex": 1
     },
     {
-      "question": "Q32:- If 45 is 75% of a number, what is the number?",
-      "options": [
-        "50",
-        "55",
-        "60",
-        "65"
-      ],
-      "answer": "60",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Evening"
+      "question": "Q14:-What do you call animals that eat only plants?",
+      "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+      "answerIndex": 1
     },
     {
-      "question": "Q33:- Price of a shirt is ₹400. It was sold at 10% discount. What was the selling price?",
-      "options": [
-        "₹360",
-        "₹370",
-        "₹380",
-        "₹390"
-      ],
-      "answer": "₹360",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Morning"
+      "question": "Q15:-What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q16:-Which is the longest river in the world?",
+      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q17:-Which country is famous for sushi?",
+      "options": ["India", "China", "Japan", "Thailand"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q18:-Who invented the light bulb?",
+      "options": ["Newton", "Edison", "Einstein", "Tesla"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q19:-What is the national sport of India?",
+      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q20:-How many hours are there in 2 days?",
+      "options": ["24", "36", "48", "72"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q21:-Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q22:-Which Article of the Indian Constitution gives the President the power of pardoning?",
+      "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Q23:-Who wrote the national anthem of India?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Q24:-Which is the largest producer of copper in India?",
+      "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q25:-In which Indian state is the Flamingo festival celebrated?",
+      "options": ["Rajasthan", "Assam", "Manipur", "Andhra Pradesh"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Q26:-What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q27:-Which organ pumps blood throughout the body?",
+      "options": ["Liver", "Brain", "Heart", "Lungs"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q28:-In which direction does the sun rise?",
+      "options": ["West", "North", "South", "East"],
+      "answerIndex": 3
+    },
+    {
+      "question": "Q29:-Which festival is known as the Festival of Lights?",
+      "options": ["Holi", "Eid", "Diwali", "Navratri"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Q30:-Which part of the plant conducts photosynthesis?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answerIndex": 2
     }
   ]
 }
-
