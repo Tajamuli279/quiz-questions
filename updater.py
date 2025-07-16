@@ -2,17 +2,19 @@ import json
 import random
 import requests
 
-url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/ssc-gk-source.json"
+# URL where SSC GK JSON is hosted
+url = "https://raw.githubusercontent.com/Tajamuli279/quiz-questions/refs/heads/main/gk.json"
 
+# Step 1: Fetch questions from GitHub
 response = requests.get(url)
 data = response.json()
 
-questions = data.get("questions", [])
+# Step 2: Get only questions list
+all_questions = data.get("questions", [])
 
-# Pick 10 random SSC questions
-output = {"questions": random.sample(questions, 10)}
+# Step 3: Randomly select 10 questions
+selected_questions = random.sample(all_questions, 10) if len(all_questions) >= 10 else all_questions
 
-# Save to gk.json
+# Step 4: Overwrite gk.json in the repo with 10 selected questions
 with open("gk.json", "w") as f:
-    json.dump(output, f, indent=2)
-
+    json.dump({"questions": selected_questions}, f, indent=2)
