@@ -1,155 +1,184 @@
 {
   "questions": [
-  {
-    "question": "Q1:-At the beginning of day 1 of a month, Rajesh has 500 eggs. He sells 20% of the eggs by the end of the day and added b% of the eggs at the beginning of the next day and sold 20% of he eggs at the end of the next day. This pattern continued up to the end of the third day of the month when he is left with 1024 eggs. The value of b is equal to? CHSL24",
-    "options": ["20", "10", "500", "100"],
-    "answerIndex": 3
-  },
-  {
-    "question": "Q2:-A man spends 35% of his monthly income on food and four-thirteenthsof the remaining income on transport.He incurs some other expenses, but also saves 6,300 per month, the latter being equal to 20% of the balance remaining just after spendingon food and transport. What is his monthly income in Rs? CHSL24",
-    "options": ["67500", "72000", "70000", "63000"],
-    "answerIndex": 2
-  },
-  {
-    "question": "Q3:-In an election between two candidates, the defeated candidate secured 42% of the valid votes polled and lost the election by 2545800 votes. If 365500 votes were declared invalid and 30% people did not cast their vote, what was the approximate number of people (in million) in the electorate who did not cast their votes? CHSL24",
-    "options": ["5 Million", "6 Million", "8 Million", "7 Million"],
-    "answerIndex": 3
-  },
-  {
-    "question": "Q4:-In an election, a voter has choices tovote for one candidate out of threecandidates. There is also an option'None of the Above' (NOTA) to reject all candidates. The three candidates get votes that are 6 times NOTA. The winner gets votes that are twice the second runner-up's votes. The first runner-up gets 900 votes more than NOTA and defeats the second runner-up by 150 votes. What is the total number of votes polled? CHSL24",
-    "options": ["17715", "15177", "11025", "11577"],
-    "answerIndex": 2
-  },
-  {
-    "question": "Q5:-Which of the following is the least? CGL23",
-    "options": ["12% of 625", "15% of 555", "10% of 720", "9% of 845"],
-    "answerIndex": 3
-  },
-  {
-    "question": "Q6:-If 17% of 630 = 35% of x, then what is the value of x?",
-    "options": ["356", "310", "306", "308"],
-    "answerIndex": 3
-  },
-  {
-    "question": "Q7:-Two candidates contested an election. One of them got 64% of the votes and won by 434 votes. What was the total number of votes polled? CGL23",
-    "options": ["1550", "1345", "1680", "1684"],
-    "answerIndex": 0
-  },
-  {
-    "question": "Q8:-A is 25% more than B, and B is 40% less than C. If C is 20% more than D, then A is what percentage less
-than D? CGL22",
-    "options": ["10%", "12%", "9%", "11%"],
-    "answerIndex": 0
-  },
-  {
-    "question": "Q9:-A number is increased by 25% and then decreased by 16%, By what percentage is resulting number less than/more than the original number? CHSL23",
-    "options": ["does not change", "decreases by 5%", "increases by 5%", "decreases by 13%"],
-    "answerIndex": 3
-  },
-  {
-    "question": "Q10:-The price of a scooter increases successively by 10%, 5% and 15%. What is the total percentage increase in price of scooter? CGL22",
-    "options": ["32.82%", "34.525%", "30.275%", "36.775"],
-    "answerIndex": 0
-  },
     {
-      "question": "Q11:-What is H2O commonly known as?",
-      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
-      "answerIndex": 1
+      "question": "Q1:-What is the SI unit of force?",
+      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q12:-Which day comes after Monday?",
-      "options": ["Wednesday", "Sunday", "Tuesday", "Friday"],
-      "answerIndex": 2
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q13:-What is the boiling point of water?",
-      "options": ["90°C", "100°C", "110°C", "120°C"],
-      "answerIndex": 1
+      "question": "Q3:-Who discovered the neutron?",
+      "options": ["Chadwick", "Rutherford", "Bohr", "Thomson"],
+      "answer": "Chadwick",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
     },
     {
-      "question": "Q14:-What do you call animals that eat only plants?",
-      "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
-      "answerIndex": 1
+      "question": "Q4:-Which organ in the human body produces bile?",
+      "options": ["Pancreas", "Liver", "Gallbladder", "Kidney"],
+      "answer": "Liver",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q15:-What is the square root of 64?",
-      "options": ["6", "7", "8", "9"],
-      "answerIndex": 2
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": ["NaCl", "Na2CO3", "NaHCO3", "NaOH"],
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
     },
     {
-      "question": "Q16:-Which is the longest river in the world?",
-      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
-      "answerIndex": 2
+      "question": "Q6:-Which part of the cell contains genetic material?",
+      "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+      "answer": "Nucleus",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Evening"
     },
     {
-      "question": "Q17:-Which country is famous for sushi?",
-      "options": ["India", "China", "Japan", "Thailand"],
-      "answerIndex": 2
+      "question": "Q7:-What is the speed of light in vacuum?",
+      "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^5 m/s", "3 × 10^4 m/s"],
+      "answer": "3 × 10^8 m/s",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
     },
     {
-      "question": "Q18:-Who invented the light bulb?",
-      "options": ["Newton", "Edison", "Einstein", "Tesla"],
-      "answerIndex": 1
+      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Evening"
     },
     {
-      "question": "Q19:-What is the national sport of India?",
-      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
-      "answerIndex": 1
+      "question": "Q9:-pH value of neutral solution is?",
+      "options": ["5", "7", "9", "11"],
+      "answer": "7",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Morning"
     },
     {
-      "question": "Q20:-How many hours are there in 2 days?",
-      "options": ["24", "36", "48", "72"],
-      "answerIndex": 2
+      "question": "Q10:-Which blood cells help in clotting?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "Platelets",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q21:-Which is the largest planet in our solar system?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answerIndex": 2
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "None"],
+      "answer": "Convex mirror",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Morning"
     },
     {
-      "question": "Q22:-Which Article of the Indian Constitution gives the President the power of pardoning?",
-      "options": ["Article 71", "Article 72", "Article 73", "Article 74"],
-      "answerIndex": 1
+      "question": "Q12:-What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Evening"
     },
     {
-      "question": "Q23:-Who wrote the national anthem of India?",
-      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
-      "answerIndex": 0
+      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "options": ["Cornea", "Pupil", "Lens", "Retina"],
+      "answer": "Pupil",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Morning"
     },
     {
-      "question": "Q24:-Which is the largest producer of copper in India?",
-      "options": ["Jharkhand", "Bihar", "Madhya Pradesh", "Rajasthan"],
-      "answerIndex": 2
+      "question": "Q14:-Which acid is present in lemon?",
+      "options": ["Acetic acid", "Citric acid", "Lactic acid", "Oxalic acid"],
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
     },
     {
-      "question": "Q25:-In which Indian state is the Flamingo festival celebrated?",
-      "options": ["Rajasthan", "Assam", "Manipur", "Andhra Pradesh"],
-      "answerIndex": 3
+      "question": "Q15:-What is the boiling point of water?",
+      "options": ["50°C", "75°C", "100°C", "125°C"],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
     },
     {
-      "question": "Q26:-What is the smallest prime number?",
-      "options": ["0", "1", "2", "3"],
-      "answerIndex": 2
+      "question": "Q16:-Which element is common in all acids?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon"],
+      "answer": "Hydrogen",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Evening"
     },
     {
-      "question": "Q27:-Which organ pumps blood throughout the body?",
-      "options": ["Liver", "Brain", "Heart", "Lungs"],
-      "answerIndex": 2
+      "question": "Q17:-Which part of the brain controls balance?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+      "answer": "Cerebellum",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Morning"
     },
     {
-      "question": "Q28:-In which direction does the sun rise?",
-      "options": ["West", "North", "South", "East"],
-      "answerIndex": 3
+      "question": "Q18:-Which is the lightest metal?",
+      "options": ["Lithium", "Sodium", "Potassium", "Calcium"],
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
     },
     {
-      "question": "Q29:-Which festival is known as the Festival of Lights?",
-      "options": ["Holi", "Eid", "Diwali", "Navratri"],
-      "answerIndex": 2
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Ammeter"],
+      "answer": "Barometer",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Morning"
     },
     {
-      "question": "Q30:-Which part of the plant conducts photosynthesis?",
-      "options": ["Root", "Stem", "Leaf", "Flower"],
-      "answerIndex": 2
+      "question": "Q20:-Which process converts sugar into alcohol?",
+      "options": ["Fermentation", "Distillation", "Evaporation", "Sublimation"],
+      "answer": "Fermentation",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Evening"
     }
   ]
 }
