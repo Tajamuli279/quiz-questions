@@ -1,0 +1,30 @@
+name: Auto Update gk JSON
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Run Python script to update questions
+        run: |
+          python updater.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "bot@example.com"
+          git config --global user.name "GitHub Bot"
+          git add .
+          git commit -m "🔄 Auto updated gk questions"
+          git push
