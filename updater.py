@@ -3,7 +3,7 @@ import random
 import requests
 
 # URL where SSC GK JSON is hosted
-url = "https://raw.githubusercontent.com/Tajamuli279/quiz-questions/refs/heads/main/gk.json"
+url = "https://raw.githubusercontent.com/Tajamuli279/quiz-questions/refs/heads/main/rawquestions.json"
 
 # Step 1: Fetch questions from GitHub
 response = requests.get(url)
