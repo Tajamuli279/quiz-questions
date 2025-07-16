@@ -34,6 +34,6 @@ def generate_gk_questions():
     ]
     return {"questions": random.sample(sample_questions * 5, 10)}  # 10 MCQs
 
-# Step: Save to gk.json
-with open("questions/gk.json", "w") as f:
+# ✅ Updated Path: gk.json is in root folder
+with open("gk.json", "w") as f:
     json.dump(generate_gk_questions(), f, indent=2)
