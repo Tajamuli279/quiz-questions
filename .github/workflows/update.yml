@@ -5,26 +5,28 @@ on:
     - cron: "*/30 * * * *"  # Every 30 minutes
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-gk:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.x'
 
-      - name: Run GK updater script
-        run: |
-          python updater.py
+      - name: Run Python Script
+        run: python updater.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push changes
         run: |
           git config --global user.email "bot@example.com"
           git config --global user.name "GitHub Bot"
           git add .
-          git commit -m "🔁 Auto updated GK questions"
+          git commit -m "🔁 Auto update GK questions" || echo "No changes to commit"
           git push
