@@ -1,32 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
       "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Pupil",
+      "answer": "Carbon dioxide",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
-      "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
-      ],
-      "answer": "Barometer",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
-      "shift": "Morning"
+      "date": "2024-05-20",
+      "shift": "Evening"
     },
     {
       "question": "Q5:-What is the chemical formula of washing soda?",
@@ -43,60 +29,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q7:-What is the speed of light in vacuum?",
+      "question": "Q14:-Which acid is present in lemon?",
       "options": [
-        "3 \u00d7 10^8 m/s",
-        "3 \u00d7 10^6 m/s",
-        "3 \u00d7 10^5 m/s",
-        "3 \u00d7 10^4 m/s"
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
       ],
-      "answer": "3 \u00d7 10^8 m/s",
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-What is the boiling point of water?",
+      "options": [
+        "50\u00b0C",
+        "75\u00b0C",
+        "100\u00b0C",
+        "125\u00b0C"
+      ],
+      "answer": "100\u00b0C",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "date": "2024-04-18",
       "shift": "Morning"
     },
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
+      "question": "Q18:-Which is the lightest metal?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
       ],
-      "answer": "Nitrogen",
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
+      ],
+      "answer": "Convex mirror",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:-Which gas is used in the preparation of soda water?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon dioxide",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
-      "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
-      ],
-      "answer": "Vitamin D",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Evening"
+      "shift": "Morning"
     },
     {
       "question": "Q17:-Which part of the brain controls balance?",
@@ -113,18 +99,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
+      "question": "Q16:-Which element is common in all acids?",
       "options": [
-        "50\u00b0C",
-        "75\u00b0C",
-        "100\u00b0C",
-        "125\u00b0C"
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
       ],
-      "answer": "100\u00b0C",
+      "answer": "Hydrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-18",
-      "shift": "Morning"
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:-Which part of the cell contains genetic material?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
+      ],
+      "answer": "Nucleus",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Evening"
     },
     {
       "question": "Q20:-Which process converts sugar into alcohol?",
