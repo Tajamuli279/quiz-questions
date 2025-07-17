@@ -1,130 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Methane",
+      "answer": "Wular Lake",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q36:-The highest civilian award in India is:",
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "1990",
+        "1993",
+        "1995",
+        "1998"
       ],
-      "answer": "543",
+      "answer": "1993",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
-      "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
     },
     {
       "question": "Q35:- The highest civilian award in India is:",
@@ -139,6 +55,90 @@
       "source": "SSC MTS 2025",
       "date": "2025-04-15",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q39:- The largest island in the world is:",
+      "options": [
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
+      ],
+      "answer": "Greenland",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": "Atal Bihari Vajpayee",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
+      "shift": "Morning"
     }
   ]
 }
