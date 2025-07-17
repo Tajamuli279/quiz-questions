@@ -1,74 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
-      "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
+      "answer": "India",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "North India",
+        "South India",
+        "East India",
+        "West India"
       ],
-      "answer": "Karnataka",
+      "answer": "South India",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
+      "shift": "Evening"
     },
     {
       "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
@@ -85,59 +99,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
       ],
-      "answer": "Gujarat",
+      "answer": "IT Industry",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
       "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
       ],
-      "answer": "April 18",
+      "answer": "Red Sea and Mediterranean Sea",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     }
   ]
