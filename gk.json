@@ -1,59 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "2002",
+        "2005",
+        "2007",
+        "2010"
       ],
-      "answer": "Tamil Nadu",
+      "answer": "2005",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "date": "2025-07-05",
       "shift": "Morning"
     },
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
       ],
-      "answer": "Rajasthan",
+      "answer": "Babur",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     },
     {
@@ -71,73 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Karnataka",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Rajasthan",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
       "shift": "Evening"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Lactometer",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "USA",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q49:-The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Angel Falls",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
