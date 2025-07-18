@@ -1,101 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-The study of earthquakes is known as:",
-      "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
-      ],
-      "answer": "Seismology",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:-The smallest ocean in the world is:",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
-      ],
-      "answer": "Arctic Ocean",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Astronomy",
+      "answer": "Wular Lake",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Asia",
+      "answer": "Northern Railway",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q61:- The largest river in India by volume is:",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
+      ],
+      "answer": "Brahmaputra",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
@@ -113,31 +99,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
       "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
       ],
-      "answer": "Methane",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
       "shift": "Evening"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Yuan",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "options": [
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
+      ],
+      "answer": "Dadasaheb Phalke",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
       "shift": "Morning"
     }
   ]
