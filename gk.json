@@ -1,115 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:-The chemical name of common salt is:",
-      "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
-      ],
-      "answer": "Sodium Chloride",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
         "Mars",
-        "Venus",
-        "Pluto"
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Mercury",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
       ],
-      "answer": "Vatican City",
+      "answer": "Mumbai and Mangaluru",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC GD 2025",
+      "date": "2025-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:- Who designed the Indian Parliament House?",
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
+      ],
+      "answer": "Edwin Lutyens and Herbert Baker",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
@@ -125,20 +139,6 @@
       "source": "SSC MTS 2022",
       "date": "2022-07-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
     }
   ]
 }
