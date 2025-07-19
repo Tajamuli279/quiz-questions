@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "question": "Q15:- The national aquatic animal of India is:",
       "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
       ],
-      "answer": "C. V. Raman",
+      "answer": "Dolphin",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
+      "answer": "Chandragupta Maurya",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q28:- Who invented the light bulb?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
-      ],
-      "answer": "Thomas Edison",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
+      "date": "2023-03-15",
+      "shift": "Evening"
     },
     {
       "question": "Q67:- The largest railway network in the world is in which country?",
@@ -71,17 +43,59 @@
       "shift": "Morning"
     },
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Manila",
+      "answer": "Dr. B.R. Ambedkar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "date": "2021-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "options": [
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
+      ],
+      "answer": "January 25",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-10",
       "shift": "Morning"
     },
     {
@@ -99,45 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "India",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
       "shift": "Morning"
     }
   ]
