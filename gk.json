@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Lions",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
+      "answer": "Nile",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
-      "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
-      ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
         "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Mumbai",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q86:-The 'India Gate' is located in which city?",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "New Delhi",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Sahara Desert",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
