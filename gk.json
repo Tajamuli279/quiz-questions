@@ -1,46 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Paintings",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "The time immediately following the Question Hour",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
     },
     {
       "question": "Q16:-Which city is known as the 'Pink City' of India?",
@@ -54,90 +138,6 @@
       "category": "GK",
       "source": "SSC CGL 2020",
       "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
       "shift": "Morning"
     }
   ]
