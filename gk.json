@@ -1,102 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Kerala",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q18:-Which is the highest mountain peak in India?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "answer": "Greenland",
+      "answer": "Kangchenjunga",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Shah Jahan",
+      "answer": "Kosi",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q94:-The first woman Prime Minister of India was:",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Indira Gandhi",
+      "answer": "Coal",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
-      ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
+      "date": "2022-07-25",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
     },
     {
       "question": "Q36:-The highest civilian award in India is:",
@@ -111,34 +139,6 @@
       "source": "SSC CGL 2020",
       "date": "2020-03-02",
       "shift": "Morning"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
     }
   ]
 }
