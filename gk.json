@@ -1,104 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
-      "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
-      ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
       "question": "Q59:- The 'Grand Canyon' is located in which country?",
       "options": [
         "Canada",
@@ -113,32 +15,130 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q36:-The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:- The unit of power is:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
+      ],
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
       "shift": "Evening"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "options": [
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
+      "shift": "Morning"
     }
   ]
 }
