@@ -1,76 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q23:- The chemical symbol for silver is:",
-      "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Ag",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
-      "shift": "Morning"
-    },
-    {
       "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
         "Uttar Pradesh",
@@ -85,60 +15,130 @@
       "shift": "Evening"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
-      "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
-      ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Yen",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "options": [
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
+      ],
+      "answer": "Forests",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q80:-The deepest lake in the world is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Lake Baikal",
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:-The deepest ocean trench in the world is:",
+      "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
+      "date": "2023-08-10",
+      "shift": "Morning"
     }
   ]
 }
