@@ -1,45 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q25:-What is the capital of Canada?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Ottawa",
+      "answer": "Saturn",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
+      "date": "2021-04-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
       ],
-      "answer": "Karnataka",
+      "answer": "Valmiki",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Northern Railway",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
       "shift": "Evening"
     },
     {
@@ -57,88 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "11",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "India",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
       ],
-      "answer": "Liver",
+      "answer": "12 years",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Dadasaheb Phalke",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
+      "answer": "Gujarat",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
     }
   ]
 }
