@@ -1,116 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q51:- The instrument used to measure wind speed is:",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Anemometer",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
-      ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
     },
     {
       "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
@@ -127,18 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "Angel Falls",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:-The largest freshwater lake in India is:",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
     }
   ]
 }
