@@ -1,88 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Australia",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
-      "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "question": "Q51:- The instrument used to measure wind speed is:",
       "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
       ],
-      "answer": "June 21",
+      "answer": "Anemometer",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
+      ],
+      "answer": "Raja Ram Mohan Roy",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
+      "shift": "Morning"
     },
     {
       "question": "Q30:-The first Indian woman to win an Olympic medal was:",
@@ -99,35 +85,35 @@
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
       "shift": "Evening"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
         "USA",
         "India",
@@ -136,8 +122,22 @@
       ],
       "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     }
   ]
