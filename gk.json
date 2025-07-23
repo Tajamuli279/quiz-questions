@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "Rajasthan",
+      "answer": "Amritsar",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
       "shift": "Morning"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "USA",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
-      "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
-      ],
-      "answer": "Liver",
+      "answer": "Mars",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
+      "date": "2023-07-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Valmiki",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q49:-The capital of Australia is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Canberra",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q15:- The national aquatic animal of India is:",
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
       "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
       ],
-      "answer": "Dolphin",
+      "answer": "C. V. Raman",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q7:- The largest freshwater lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
+      ],
+      "answer": "Lake Superior",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "date": "2024-06-05",
       "shift": "Morning"
     }
   ]
