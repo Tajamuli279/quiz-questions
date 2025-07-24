@@ -1,21 +1,35 @@
 {
   "questions": [
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "Anemometer",
+      "answer": "Mariana Trench",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "options": [
+        "1928",
+        "1930",
+        "1932",
+        "1935"
+      ],
+      "answer": "1930",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
         "Chandigarh",
         "Lakshadweep",
@@ -24,93 +38,23 @@
       ],
       "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
     },
     {
       "question": "Q38:-Which planet is known as the 'Red Planet'?",
@@ -127,17 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q94:-The first woman Prime Minister of India was:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Indira Gandhi",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q23:- The chemical symbol for silver is:",
+      "options": [
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Ag",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     }
   ]
