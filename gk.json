@@ -1,77 +1,63 @@
 {
   "questions": [
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "Saturn",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q49:-The capital of Australia is:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Canberra",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q35:- The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Kosi",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q9:- The Red Planet is:",
       "options": [
         "Jupiter",
         "Mars",
@@ -80,65 +66,79 @@
       ],
       "answer": "Mars",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
       ],
-      "answer": "1764",
+      "answer": "Forests",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
       ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
+      "answer": "IT Industry",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-10-20",
+      "date": "2025-04-22",
       "shift": "Morning"
+    },
+    {
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "answer": "Paris",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     }
   ]
 }
