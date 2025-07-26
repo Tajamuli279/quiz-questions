@@ -1,87 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "India",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Vallabhbhai Patel",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
       "shift": "Evening"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q61:- The largest river in India by volume is:",
-      "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
-      ],
-      "answer": "Brahmaputra",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
         "Won",
-        "Baht"
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "Won",
+      "answer": "Yuan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
+      "shift": "Morning"
     },
     {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Sucheta Kriplani",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-02-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
       "shift": "Morning"
     },
     {
@@ -99,45 +71,73 @@
       "shift": "Evening"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Hyderabad",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "Liver",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
       "shift": "Afternoon"
     }
   ]
