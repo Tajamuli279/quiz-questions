@@ -1,17 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "30 years",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q57:-The largest producer of coffee in India is:",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
@@ -27,118 +139,6 @@
       "source": "SSC CHSL 2024",
       "date": "2024-04-12",
       "shift": "Evening"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q53:- Who discovered the theory of relativity?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
-      ],
-      "answer": "Albert Einstein",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
-      "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
-      ],
-      "answer": "The time immediately following the Question Hour",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
-      "shift": "Morning"
     }
   ]
 }
