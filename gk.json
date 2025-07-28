@@ -1,34 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
       "question": "Q25:-What is the capital of Canada?",
       "options": [
         "Toronto",
@@ -43,102 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q76:- The 'Bicameral Legislature' means:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "One House of Parliament",
+        "Two Houses of Parliament",
+        "Three Houses of Parliament",
+        "No Houses of Parliament"
       ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
+      "answer": "Two Houses of Parliament",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "date": "2025-03-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "June 21",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
       "shift": "Afternoon"
     },
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
       ],
-      "answer": "Lions",
+      "answer": "July 22, 1947",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "options": [
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
+      ],
+      "answer": "Girl child education and gender ratio",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q26:- The longest river in Asia is:",
+      "options": [
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
+      ],
+      "answer": "Yangtze River",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
     }
   ]
 }
