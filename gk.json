@@ -1,60 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "35 years",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
     },
     {
       "question": "Q81:- The 'Tsunami' is caused by:",
@@ -71,73 +29,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "Albert Einstein",
+      "answer": "30 years",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     },
     {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Sucheta Kriplani",
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q77:- The largest plateau in the world is:",
+      "options": [
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
+      ],
+      "answer": "Tibetan Plateau",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
       "category": "GK",
       "source": "SSC GD 2024",
-      "date": "2024-02-10",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Kerala",
+      "answer": "Chandragupta Maurya",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-03-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "C. V. Raman",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Forest conservation",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
       "shift": "Afternoon"
     }
   ]
