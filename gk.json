@@ -1,32 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Sucheta Kriplani",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-02-10",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Barometer",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
     },
     {
       "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
@@ -43,101 +99,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Greenland",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
-        "Canada",
         "USA",
-        "Mexico",
-        "Australia"
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
+      "answer": "India",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-07-01",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     }
   ]
