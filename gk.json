@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q80:-The deepest lake in the world is:",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Lake Baikal",
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q17:- The largest state in India by area is:",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
+      ],
+      "answer": "Jaipur",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "date": "2023-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q98:-The highest dam in India is:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
       ],
-      "answer": "South India",
+      "answer": "Tehri Dam",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Thomas Edison",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
       ],
-      "answer": "January 25",
+      "answer": "Guru Nanak Dev",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Manila",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
       "shift": "Morning"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "France and Germany",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Vatican City",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
       "shift": "Morning"
     }
   ]
