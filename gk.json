@@ -1,115 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "1954",
+      "answer": "Photosynthesis",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
@@ -127,17 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Mercury",
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-05-10",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     }
   ]
