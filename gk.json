@@ -1,35 +1,35 @@
 {
   "questions": [
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
       ],
-      "answer": "Brahmaputra",
+      "answer": "Thomas Munro",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "Wular Lake",
+      "answer": "1983",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "date": "2021-10-25",
       "shift": "Evening"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q9:- The Red Planet is:",
       "options": [
         "Jupiter",
         "Mars",
@@ -38,36 +38,8 @@
       ],
       "answer": "Mars",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
       "shift": "Afternoon"
     },
     {
@@ -85,59 +57,87 @@
       "shift": "Evening"
     },
     {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Red Sea and Mediterranean Sea",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
+      "answer": "Yen",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
+      "date": "2023-02-05",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "India",
+      "answer": "Ammeter",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "11",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:- The currency of China is:",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
+      ],
+      "answer": "Yuan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
       "shift": "Morning"
     }
   ]
