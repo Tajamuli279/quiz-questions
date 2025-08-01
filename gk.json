@@ -1,46 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "1945",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "North India",
+        "South India",
+        "East India",
+        "West India"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "South India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Geneva",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
     },
     {
       "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
@@ -57,88 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "June 21",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "USA",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Uttarakhand",
-        "Sikkim"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Uttarakhand",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-09-08",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Mars",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
       "shift": "Morning"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Coal",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
     }
   ]
 }
