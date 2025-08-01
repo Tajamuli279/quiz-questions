@@ -1,31 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "North India",
+        "South India",
+        "East India",
+        "West India"
       ],
-      "answer": "April 18",
+      "answer": "South India",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "1764",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:-The smallest ocean in the world is:",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
@@ -40,104 +138,6 @@
       "category": "GK",
       "source": "SSC MTS 2022",
       "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "answer": "Vitamin K",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
       "shift": "Morning"
     }
   ]
