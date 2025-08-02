@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Odisha",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
       "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
       ],
-      "answer": "Au",
+      "answer": "Forests",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Maharashtra",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
       "shift": "Evening"
     },
     {
-      "question": "Q93:-Which continent has no deserts?",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "Europe",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     },
     {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "January 15",
-        "February 28",
         "March 22",
-        "April 7"
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
+      "answer": "March 22",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
       ],
-      "answer": "Thomas Munro",
+      "answer": "Raja Ram Mohan Roy",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
     }
   ]
 }
