@@ -1,130 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "2002",
+        "2005",
+        "2007",
+        "2010"
       ],
-      "answer": "Lions",
+      "answer": "2005",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
       "date": "2025-07-05",
       "shift": "Morning"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Won",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
       ],
-      "answer": "Food grains",
+      "answer": "Atal Bihari Vajpayee",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "India",
+      "answer": "Yuan",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
+      "date": "2024-08-15",
+      "shift": "Morning"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "Seismology",
+      "answer": "Greenland",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "options": [
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
+      ],
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
     },
     {
       "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
@@ -138,6 +110,34 @@
       "category": "GK",
       "source": "SSC CHSL 2022",
       "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     }
   ]
