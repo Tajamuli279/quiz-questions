@@ -1,102 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "1950",
+        "1952",
+        "1954",
+        "1956"
       ],
-      "answer": "India",
+      "answer": "1954",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
       ],
-      "answer": "Mars",
+      "answer": "Sucheta Kriplani",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
       "shift": "Morning"
     },
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Swami Vivekananda",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
+      "date": "2023-09-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q4:- Who wrote the epic 'Ramayana'?",
@@ -113,31 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Lake Superior",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     }
   ]
