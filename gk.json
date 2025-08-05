@@ -1,116 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q68:-The process by which plants make their own food is called:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Photosynthesis",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Forest conservation",
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "options": [
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
+      ],
+      "answer": "Rana Sanga",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-18",
+      "date": "2025-07-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q53:- Who discovered the theory of relativity?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
-      ],
-      "answer": "Albert Einstein",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
-      "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
-      ],
-      "answer": "Dadasaheb Phalke",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
     },
     {
       "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
@@ -127,18 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Au",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "date": "2023-01-18",
       "shift": "Evening"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
     }
   ]
 }
