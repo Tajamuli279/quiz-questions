@@ -1,116 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
         "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Hyderabad",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Neptune",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Kosi",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "30 years",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
     },
     {
       "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
@@ -127,18 +99,46 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
       ],
-      "answer": "Forests",
+      "answer": "Football",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
     }
   ]
 }
