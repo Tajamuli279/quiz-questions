@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "USA",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Asia",
+      "answer": "Kerala",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
       ],
-      "answer": "Stapes",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "The Hague",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
       "shift": "Evening"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Astronomy",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q26:- The longest river in Asia is:",
+      "options": [
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
+      ],
+      "answer": "Yangtze River",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
+      "shift": "Morning"
     }
   ]
 }
