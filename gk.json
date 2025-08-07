@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q23:-The currency of Japan is:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Yen",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
       "shift": "Afternoon"
     },
     {
-      "question": "Q84:-The minimum age for voting in India is:",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "18 years",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
+      "answer": "Solar energy",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "date": "2025-06-20",
       "shift": "Evening"
     },
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "Lions",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Red Sea and Mediterranean Sea",
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
+      "date": "2025-08-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Au",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
     },
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
       ],
-      "answer": "Forests",
+      "answer": "Sucheta Kriplani",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
-      "shift": "Evening"
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
+      "shift": "Morning"
     }
   ]
 }
