@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "Tamil Nadu",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Odisha",
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-07-10",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
       ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
-      "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
-      ],
-      "answer": "Red Sea and Mediterranean Sea",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
+      "answer": "USA",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-04-28",
+      "date": "2025-10-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
       "shift": "Morning"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
+      "date": "2025-08-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
+        "Uttar Pradesh",
         "Madhya Pradesh",
-        "Maharashtra",
         "Rajasthan",
-        "Uttar Pradesh"
+        "Odisha"
       ],
-      "answer": "Rajasthan",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "options": [
+        "2002",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "answer": "2005",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
       "shift": "Morning"
     }
   ]
