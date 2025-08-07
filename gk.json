@@ -1,118 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q85:-The world's largest flower is:",
-      "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
-      ],
-      "answer": "Rafflesia Arnoldii",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
-      ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:-The currency of Japan is:",
-      "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
-      ],
-      "answer": "Yen",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:-The smallest ocean in the world is:",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
-      ],
-      "answer": "Arctic Ocean",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
-    },
-    {
       "question": "Q31:- The smallest bone in the human body is:",
       "options": [
         "Femur",
@@ -127,18 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "South India",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:-The chemical name of common salt is:",
+      "options": [
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
+      ],
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "options": [
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
+      ],
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
       "shift": "Evening"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
     }
   ]
 }
