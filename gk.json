@@ -1,45 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
@@ -71,18 +43,46 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "1951",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
     },
     {
       "question": "Q66:-Who is known as the 'Missile Man of India'?",
@@ -99,46 +99,46 @@
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
         "Jupiter",
+        "Mars",
         "Saturn",
-        "Uranus"
+        "Venus"
       ],
-      "answer": "Saturn",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
     }
   ]
 }
