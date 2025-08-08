@@ -1,45 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
       ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
+      "answer": "Mumbai and Mangaluru",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-06-28",
+      "date": "2025-08-25",
       "shift": "Morning"
     },
     {
@@ -57,87 +29,115 @@
       "shift": "Morning"
     },
     {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "February 28",
+      "answer": "11",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "options": [
+        "Kerala",
         "Karnataka",
-        "Maharashtra",
-        "Telangana",
+        "Tamil Nadu",
         "Andhra Pradesh"
       ],
-      "answer": "Karnataka",
+      "answer": "Tamil Nadu",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "answer": "Vitamin K",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
       "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Asia",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
       "shift": "Morning"
     },
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Vallabhbhai Patel",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
+      ],
+      "answer": "July 22, 1947",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
       "shift": "Evening"
     }
   ]
