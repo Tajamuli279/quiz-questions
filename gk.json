@@ -1,129 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q43:- The study of insects is called:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Entomology",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
       "shift": "Evening"
     },
     {
-      "question": "Q19:- The unit of power is:",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Watt",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
       "shift": "Morning"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "Asia",
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "date": "2022-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the highest mountain peak in India?",
-      "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
@@ -139,6 +97,48 @@
       "source": "SSC CHSL 2021",
       "date": "2021-09-05",
       "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "options": [
+        "2002",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "answer": "2005",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
     }
   ]
 }
