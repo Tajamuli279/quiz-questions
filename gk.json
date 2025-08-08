@@ -1,87 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q23:-The currency of Japan is:",
+      "question": "Q18:-Which is the highest mountain peak in India?",
       "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "answer": "Yen",
+      "answer": "Kangchenjunga",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
-      "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
       ],
-      "answer": "Brahmaputra",
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "date": "2025-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
       ],
-      "answer": "Seismology",
+      "answer": "February 28",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Yuan",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "answer": "India",
+      "answer": "Vitamin K",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
       "shift": "Morning"
     },
     {
@@ -96,48 +138,6 @@
       "category": "GK",
       "source": "SSC CHSL 2021",
       "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Atal Bihari Vajpayee",
-        "Dr. B.R. Ambedkar"
-      ],
-      "answer": "Atal Bihari Vajpayee",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
       "shift": "Evening"
     }
   ]
