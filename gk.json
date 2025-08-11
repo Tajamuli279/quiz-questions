@@ -1,101 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
+      "answer": "Mars",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "date": "2023-07-25",
       "shift": "Morning"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Helium",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2023-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Godavari",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "1954",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "options": [
+        "540",
+        "543",
+        "545",
+        "552"
+      ],
+      "answer": "543",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-25",
       "shift": "Morning"
     },
     {
@@ -111,34 +139,6 @@
       "source": "SSC MTS 2024",
       "date": "2024-09-01",
       "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
     }
   ]
 }
