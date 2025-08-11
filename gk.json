@@ -1,17 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Ammeter",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
@@ -29,116 +57,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Greenland",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Dubai",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Ag",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Thomas Munro",
+      "answer": "Hyderabad",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "date": "2025-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Africa",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Rajasthan",
+      "answer": "Helium",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
     }
   ]
 }
