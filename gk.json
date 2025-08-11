@@ -1,74 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "82.5\u00b0 E",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
+      "shift": "Morning"
     },
     {
       "question": "Q87:-The second largest planet in our solar system is:",
@@ -85,60 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "35 years",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
-      "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
-      "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
-      ],
-      "answer": "Food grains",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
+      "date": "2021-04-22",
       "shift": "Evening"
+    },
+    {
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
+      "shift": "Morning"
     }
   ]
 }
