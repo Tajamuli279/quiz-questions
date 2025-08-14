@@ -1,115 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Greenland",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q36:-The highest civilian award in India is:",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "Forest conservation",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Manila",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "date": "2021-12-05",
       "shift": "Morning"
     },
     {
@@ -127,17 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
       ],
-      "answer": "Joule",
+      "answer": "C. V. Raman",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:-The process by which plants make their own food is called:",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
       "shift": "Morning"
     }
   ]
