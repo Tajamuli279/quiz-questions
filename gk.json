@@ -1,20 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
       "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
       "options": [
         "Samudragupta",
@@ -29,31 +15,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "Dubai",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
       ],
-      "answer": "Vatican City",
+      "answer": "Babur",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
@@ -71,74 +127,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "answer": "Vitamin K",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
-      ],
-      "answer": "Godavari",
+      "answer": "India",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-10-18",
+      "date": "2022-10-05",
       "shift": "Morning"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
     }
   ]
 }
