@@ -1,18 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "The Hague",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
     },
     {
       "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
@@ -29,46 +29,88 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q48:-The longest river in the world is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Nile",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q51:-Which of the following is a unit of energy?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
       ],
-      "answer": "Yuan",
+      "answer": "Joule",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
       "shift": "Morning"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
       "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Japan",
+      "answer": "Tamil Nadu",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
       "shift": "Evening"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
     },
     {
       "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
@@ -85,60 +127,18 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q25:-What is the capital of Canada?",
+      "question": "Q63:-The largest continent in the world is:",
       "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
       ],
-      "answer": "Ottawa",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
+      "answer": "Asia",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
+      "date": "2022-11-20",
+      "shift": "Morning"
     }
   ]
 }
