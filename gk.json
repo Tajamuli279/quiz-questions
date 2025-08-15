@@ -1,45 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
       ],
-      "answer": "The Hague",
+      "answer": "Girl child education and gender ratio",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
       "shift": "Morning"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "12 years",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
         "Alexander Graham Bell",
         "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
       "shift": "Evening"
     },
     {
@@ -57,88 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
       ],
-      "answer": "Tamil Nadu",
+      "answer": "Raja Ram Mohan Roy",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
       "shift": "Morning"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
+      "answer": "Nile",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
+      "date": "2022-11-03",
+      "shift": "Evening"
     }
   ]
 }
