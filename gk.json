@@ -1,60 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
-      "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
-      ],
-      "answer": "Lions",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q97:- The 'Currency of South Korea' is:",
+      "question": "Q16:- Which of the following is a direct tax?",
       "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
       ],
-      "answer": "Won",
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q42:-The national animal of India is:",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
+      ],
+      "answer": "Tiger",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "35 years",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
     },
     {
       "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
@@ -71,74 +99,46 @@
       "shift": "Evening"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Seismology",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "USA",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "Shah Jahan",
+      "answer": "Photosynthesis",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
       "shift": "Morning"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
     }
   ]
 }
