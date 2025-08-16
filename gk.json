@@ -1,116 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Kosi",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
       "shift": "Morning"
     },
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
       ],
-      "answer": "Anemometer",
+      "answer": "February 28",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
-      "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
-      ],
-      "answer": "2005",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
       "shift": "Morning"
     },
     {
-      "question": "Q93:-Which continent has no deserts?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "Europe",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Protons",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
       "shift": "Morning"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
     },
     {
       "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
@@ -127,17 +71,73 @@
       "shift": "Evening"
     },
     {
-      "question": "Q61:-The national tree of India is:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Banyan",
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-10-15",
+      "date": "2021-07-01",
       "shift": "Afternoon"
     }
   ]
