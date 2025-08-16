@@ -1,31 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q85:-The world's largest flower is:",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Rafflesia Arnoldii",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "options": [
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
+      ],
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Manila",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
       "shift": "Morning"
     },
     {
@@ -43,101 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
-      "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
-      ],
-      "answer": "Chandragupta Maurya",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
-      "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
-      ],
-      "answer": "June 5",
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
+      "date": "2020-03-02",
       "shift": "Morning"
     }
   ]
