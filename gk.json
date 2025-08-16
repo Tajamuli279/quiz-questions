@@ -1,32 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "July 22, 1947",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q85:-The world's largest flower is:",
-      "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
-      ],
-      "answer": "Rafflesia Arnoldii",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
     },
     {
       "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
@@ -43,101 +29,115 @@
       "shift": "Morning"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
+      "answer": "India",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q20:- Who designed the Indian Parliament House?",
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
+      ],
+      "answer": "Edwin Lutyens and Herbert Baker",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "options": [
+        "540",
+        "543",
+        "545",
+        "552"
+      ],
+      "answer": "543",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
+      "date": "2022-06-28",
       "shift": "Evening"
     },
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "2005",
+      "answer": "Mariana Trench",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
       "shift": "Morning"
     }
   ]
