@@ -1,31 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Dr. B.R. Ambedkar",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
@@ -43,101 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "question": "Q15:- The national aquatic animal of India is:",
       "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
       ],
-      "answer": "Mumbai",
+      "answer": "Dolphin",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
       "shift": "Evening"
     },
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "options": [
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
+      ],
+      "answer": "Lions",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:- The largest state in India by area is:",
+      "options": [
+        "Madhya Pradesh",
         "Maharashtra",
-        "Madhya Pradesh"
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
       "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q84:-The minimum age for voting in India is:",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "18 years",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
+      "answer": "Cricket",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "date": "2024-05-20",
       "shift": "Morning"
     }
   ]
