@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
-      "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "35 years",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
-      "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
-      ],
-      "answer": "Lions",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
+      "answer": "Vatican City",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-08-10",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Ladakh",
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Punjab",
+      "answer": "Pacific Ocean",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q76:- The 'Bicameral Legislature' means:",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "One House of Parliament",
+        "Two Houses of Parliament",
+        "Three Houses of Parliament",
+        "No Houses of Parliament"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Two Houses of Parliament",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:- The chemical symbol for silver is:",
+      "options": [
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Ag",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     }
   ]
