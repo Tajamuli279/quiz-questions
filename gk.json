@@ -1,74 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Barometer",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
       ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
+      "answer": "Guru Nanak Dev",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "date": "2024-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q23:-The currency of Japan is:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Yen",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
+      "shift": "Morning"
     },
     {
       "question": "Q97:- The 'Currency of South Korea' is:",
@@ -85,59 +71,73 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
       ],
-      "answer": "Yuan",
+      "answer": "Dubai",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
     },
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
       "shift": "Afternoon"
     }
   ]
