@@ -1,130 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Solar energy",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Bengaluru",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Godavari",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-18",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q17:-The study of earthquakes is known as:",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
       ],
-      "answer": "Angel Falls",
+      "answer": "Seismology",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "date": "2024-12-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
-      "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "35 years",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
-      ],
-      "answer": "July 22, 1947",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
     },
     {
       "question": "Q61:- The largest river in India by volume is:",
@@ -138,6 +110,34 @@
       "category": "GK",
       "source": "SSC CGL 2025",
       "date": "2025-11-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "options": [
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
+      ],
+      "answer": "Girl child education and gender ratio",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
       "shift": "Morning"
     }
   ]
