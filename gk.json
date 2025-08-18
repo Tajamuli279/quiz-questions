@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q76:- The 'Bicameral Legislature' means:",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "One House of Parliament",
+        "Two Houses of Parliament",
+        "Three Houses of Parliament",
+        "No Houses of Parliament"
       ],
-      "answer": "Mercury",
+      "answer": "Two Houses of Parliament",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC GD 2025",
+      "date": "2025-03-25",
       "shift": "Evening"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
     },
     {
       "question": "Q67:-The study of celestial bodies and the universe is called:",
@@ -71,73 +43,101 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
       ],
-      "answer": "Dadasaheb Phalke",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
-      "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
-      ],
-      "answer": "Thomas Munro",
+      "answer": "Madhya Pradesh",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "date": "2025-04-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-25",
       "shift": "Morning"
     }
   ]
