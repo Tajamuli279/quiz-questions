@@ -1,116 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
+      "answer": "Kerala",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
+      "date": "2021-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
     },
     {
       "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
@@ -127,18 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Mars",
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:- The currency of China is:",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
+      ],
+      "answer": "Yuan",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
+      "date": "2024-08-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:- The largest freshwater lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
+      ],
+      "answer": "Lake Superior",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
     }
   ]
 }
