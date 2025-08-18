@@ -1,87 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Africa",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
@@ -99,45 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "12 years",
+      "answer": "543",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
     },
     {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "1945",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q84:-The minimum age for voting in India is:",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "18 years",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
