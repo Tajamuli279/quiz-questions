@@ -1,46 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Ladakh",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
       "shift": "Evening"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
       ],
-      "answer": "Mars",
+      "answer": "July 22, 1947",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
     },
     {
       "question": "Q100:-The 'Sun Temple' is located in which state?",
@@ -57,87 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
+      "date": "2022-05-30",
       "shift": "Evening"
     }
   ]
