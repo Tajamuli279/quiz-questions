@@ -1,32 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
       "options": [
-        "Homi J. Bhabha",
-        "C. V. Raman",
-        "A. P. J. Abdul Kalam",
-        "Vikram Sarabhai"
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
       ],
-      "answer": "A. P. J. Abdul Kalam",
+      "answer": "The time immediately following the Question Hour",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
       "shift": "Morning"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "1942",
+        "1945",
+        "1948",
+        "1950"
       ],
-      "answer": "March 22",
+      "answer": "1945",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
     },
     {
       "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
@@ -43,101 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
+      "options": [
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
+      ],
+      "answer": "Uttarakhand",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "date": "2025-09-08",
       "shift": "Evening"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
+      "answer": "Odisha",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:- The currency of China is:",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
+      ],
+      "answer": "Yuan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:- The largest democracy in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     }
   ]
