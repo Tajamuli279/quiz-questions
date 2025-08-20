@@ -1,60 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Football",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-07-03",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "USA",
+      "answer": "1983",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
     },
     {
       "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
@@ -71,73 +99,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q16:- Which of the following is a direct tax?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Income Tax",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
     }
   ]
