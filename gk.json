@@ -1,115 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q61:-The national tree of India is:",
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
       "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
       ],
-      "answer": "Banyan",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Lactometer",
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q31:-The smallest ocean in the world is:",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "date": "2023-01-05",
       "shift": "Morning"
     },
     {
@@ -127,17 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Jaipur",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     }
   ]
