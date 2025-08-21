@@ -1,88 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
         "Africa",
-        "North America"
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
+      "answer": "Asia",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
+      "date": "2025-07-22",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
     },
     {
       "question": "Q39:-The instrument used to measure atmospheric pressure is:",
@@ -99,18 +43,88 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "1983",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "options": [
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
     },
     {
       "question": "Q61:- The largest river in India by volume is:",
@@ -125,20 +139,6 @@
       "source": "SSC CGL 2025",
       "date": "2025-11-05",
       "shift": "Morning"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
     }
   ]
 }
