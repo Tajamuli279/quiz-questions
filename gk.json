@@ -1,87 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "Babur",
+      "answer": "543",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
         "Mahatma Gandhi",
         "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Seismology",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
       "shift": "Morning"
     },
     {
@@ -99,46 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
       ],
-      "answer": "35 years",
+      "answer": "April 18",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
+        "Earth",
         "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Saturn",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "answer": "Paris",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q49:-The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
+      "shift": "Afternoon"
     }
   ]
 }
