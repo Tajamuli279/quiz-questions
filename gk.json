@@ -1,6 +1,34 @@
 {
   "questions": [
     {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
       "question": "Q42:-The national animal of India is:",
       "options": [
         "Elephant",
@@ -15,129 +43,101 @@
       "shift": "Morning"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "12 years",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
+      "source": "SSC CHSL 2025",
       "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "March 22",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "options": [
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
+      ],
+      "answer": "82.5\u00b0 E",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q48:-The longest river in the world is:",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Nile",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     }
   ]
