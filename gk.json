@@ -1,88 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Freon",
+      "answer": "Pacific Ocean",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Northern Railway",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
+        "West Bengal",
+        "Odisha",
         "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "Tamil Nadu"
       ],
       "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "options": [
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
+      ],
+      "answer": "Girl child education and gender ratio",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     },
     {
       "question": "Q82:-The 'National Science Day' in India is celebrated on:",
@@ -99,46 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Coal",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "8",
+      "answer": "Vitamin A",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
     }
   ]
 }
