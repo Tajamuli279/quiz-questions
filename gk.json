@@ -1,74 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Mumbai",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
       "shift": "Evening"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Babur",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "June 21",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "January 25",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
       "shift": "Morning"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
@@ -83,62 +139,6 @@
       "source": "SSC CGL 2025",
       "date": "2025-02-15",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
-      "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
-      ],
-      "answer": "Swami Vivekananda",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
     }
   ]
 }
