@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Yangtze River",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:-The minimum age for voting in India is:",
-      "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
-      ],
-      "answer": "18 years",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
-      "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:- The chemical symbol for silver is:",
-      "options": [
-        "Au",
         "Ag",
+        "Au",
         "Cu",
         "Fe"
       ],
-      "answer": "Ag",
+      "answer": "Au",
       "category": "GK",
-      "source": "SSC MTS 2024",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
       "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
       "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "India",
+      "answer": "11",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "options": [
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
+      ],
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Bengaluru",
+      "answer": "Rome",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
+      "shift": "Morning"
     }
   ]
 }
