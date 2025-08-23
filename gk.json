@@ -1,59 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Won",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "1983",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
-      "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
-      ],
-      "answer": "Lions",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     },
     {
@@ -71,18 +43,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Paris",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "options": [
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "answer": "Kathakali",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
     },
     {
       "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
@@ -99,45 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "The Hague",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
       "shift": "Morning"
     }
   ]
