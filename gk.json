@@ -1,130 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Mars",
+      "answer": "March 22",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
       ],
-      "answer": "Sahara Desert",
+      "answer": "Forests",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
-      "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Yuan",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
       "shift": "Morning"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
       ],
-      "answer": "Paintings",
+      "answer": "Geneva",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
       "shift": "Afternoon"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "The Hague",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
@@ -138,6 +110,34 @@
       "category": "GK",
       "source": "SSC CGL 2025",
       "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:- The largest democracy in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     }
   ]
