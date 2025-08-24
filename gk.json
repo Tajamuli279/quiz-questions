@@ -1,46 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Gujarat",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
       "shift": "Evening"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q77:- The largest plateau in the world is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Tibetan Plateau",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
       "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
     },
     {
       "question": "Q84:-The minimum age for voting in India is:",
@@ -57,88 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q49:-The capital of Australia is:",
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
       ],
-      "answer": "Canberra",
+      "answer": "Football",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
     }
   ]
 }
