@@ -1,6 +1,76 @@
 {
   "questions": [
     {
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "answer": "Paris",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
+    },
+    {
       "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
         "2002",
@@ -15,130 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "Solar energy",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Income Tax",
+      "answer": "Gujarat",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "date": "2022-06-22",
       "shift": "Evening"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
     }
   ]
 }
