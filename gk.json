@@ -1,18 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Itanagar",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "options": [
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
+      ],
+      "answer": "February 28",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
+      "shift": "Morning"
     },
     {
       "question": "Q4:-Who invented the telephone?",
@@ -29,115 +71,73 @@
       "shift": "Evening"
     },
     {
-      "question": "Q61:-The national tree of India is:",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
-      "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
+      "answer": "Kathakali",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
+      "date": "2022-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "The Hague",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     }
   ]
