@@ -1,129 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
-      "answer": "France and Germany",
+      "answer": "Arctic Ocean",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q16:- Which of the following is a direct tax?",
       "options": [
         "GST",
-        "Sales Tax",
+        "Customs Duty",
         "Income Tax",
-        "Excise Duty"
+        "Service Tax"
       ],
       "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
     },
     {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "question": "Q43:- The study of insects is called:",
       "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
       ],
-      "answer": "1942",
+      "answer": "Entomology",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
       "shift": "Evening"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
       ],
-      "answer": "543",
+      "answer": "Lions",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
       "shift": "Evening"
     },
     {
@@ -139,6 +97,48 @@
       "source": "SSC MTS 2025",
       "date": "2025-10-10",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "options": [
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II (Vikramaditya)",
+        "Kumargupta I"
+      ],
+      "answer": "Chandragupta II (Vikramaditya)",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
+      ],
+      "answer": "July 22, 1947",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
+      "shift": "Evening"
     }
   ]
 }
