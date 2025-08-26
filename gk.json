@@ -1,60 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
       ],
-      "answer": "Paris",
+      "answer": "June 21",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
       "shift": "Afternoon"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "Punjab",
+      "answer": "1983",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
     },
     {
       "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
@@ -71,74 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
+        "China",
+        "India",
         "USA",
-        "Mexico",
-        "Australia"
+        "Russia"
       ],
       "answer": "USA",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
     }
   ]
 }
