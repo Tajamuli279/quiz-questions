@@ -1,18 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Guru Nanak Dev",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
       "shift": "Morning"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
     },
     {
       "question": "Q16:- Which of the following is a direct tax?",
@@ -29,115 +57,87 @@
       "shift": "Evening"
     },
     {
-      "question": "Q43:- The study of insects is called:",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
-        "Ornithology",
-        "Entomology",
-        "Zoology",
-        "Botany"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Entomology",
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Saturn",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
       "shift": "Evening"
     },
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Lions",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q71:-The gas used in balloons and airships is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answer": "Helium",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Hyderabad",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "July 22, 1947",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     }
   ]
