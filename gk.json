@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "options": [
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
+      ],
+      "answer": "C. V. Raman",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
         "Alexander Graham Bell",
         "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "options": [
+        "540",
+        "543",
+        "545",
+        "552"
+      ],
+      "answer": "543",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
       "shift": "Evening"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
+        "Rajasthan",
+        "Gujarat",
         "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Madhya Pradesh"
       ],
-      "answer": "Maharashtra",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q25:-What is the capital of Canada?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Ottawa",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
-      "options": [
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Uttarakhand",
-        "Sikkim"
-      ],
-      "answer": "Uttarakhand",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-09-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     }
   ]
