@@ -1,45 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "1954",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Ag",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
@@ -57,88 +85,60 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
       ],
-      "answer": "Vatican City",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q17:-The study of earthquakes is known as:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Seismology",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
+      "date": "2021-08-12",
       "shift": "Afternoon"
     },
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Solar energy",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Aryabhata",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
+      "shift": "Morning"
     }
   ]
 }
