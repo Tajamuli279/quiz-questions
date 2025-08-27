@@ -1,88 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
       "shift": "Evening"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "India",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q15:- The national aquatic animal of India is:",
@@ -99,32 +85,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Valmiki",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "Income Tax",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
+      "shift": "Morning"
     },
     {
       "question": "Q83:-The largest railway zone in India is:",
@@ -139,6 +125,20 @@
       "source": "SSC CGL 2022",
       "date": "2022-10-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "options": [
+        "2002",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "answer": "2005",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
     }
   ]
 }
