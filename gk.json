@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
       "shift": "Evening"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:-The world's largest flower is:",
-      "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
-      ],
-      "answer": "Rafflesia Arnoldii",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-10-15",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:- The unit of power is:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
+      ],
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "Forest conservation",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     },
     {
-      "question": "Q84:-The minimum age for voting in India is:",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "18 years",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "IT Industry",
+      "answer": "Greenland",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
       "shift": "Morning"
     }
   ]
