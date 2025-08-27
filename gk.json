@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q71:-The gas used in balloons and airships is:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Helium",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "answer": "Shah Jahan",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
+      "answer": "Income Tax",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:- Who discovered the theory of relativity?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
-      ],
-      "answer": "Albert Einstein",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
+      "date": "2022-04-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
       ],
-      "answer": "30 years",
+      "answer": "Bengaluru",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     }
   ]
