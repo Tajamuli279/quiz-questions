@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Kerala",
         "Karnataka",
-        "Tamil Nadu",
+        "Maharashtra",
+        "Telangana",
         "Andhra Pradesh"
       ],
-      "answer": "Kerala",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
       ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:-What is the capital of Canada?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
-      ],
-      "answer": "Ottawa",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
+      "answer": "April 18",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
+      "date": "2024-10-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
       ],
-      "answer": "Gujarat",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
       "shift": "Evening"
     },
     {
-      "question": "Q85:-The world's largest flower is:",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Rafflesia Arnoldii",
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:- The unit of power is:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
+      ],
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
+      "date": "2023-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:-The chemical name of common salt is:",
+      "options": [
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
+      ],
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
     }
   ]
 }
