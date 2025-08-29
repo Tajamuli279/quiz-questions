@@ -1,46 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Babur",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Sahara Desert",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
       "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
     },
     {
       "question": "Q39:- The largest island in the world is:",
@@ -57,87 +85,59 @@
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
         "Madhya Pradesh"
       ],
-      "answer": "Punjab",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
       "shift": "Evening"
     },
     {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "1951",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
-      "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
-      ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     }
   ]
