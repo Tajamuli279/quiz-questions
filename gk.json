@@ -1,102 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "1757",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     },
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Hyderabad",
+      "answer": "Stapes",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Babur",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
       "shift": "Evening"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q11:-Which of the following is not a UN permanent member country?",
@@ -113,32 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "1526",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:- The largest freshwater lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
+      ],
+      "answer": "Lake Superior",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Kerala",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
       "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     }
   ]
 }
