@@ -1,32 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Babur",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q13:-In which year did India win its first Cricket World Cup?",
@@ -43,46 +29,46 @@
       "shift": "Evening"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "543",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
     },
     {
       "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
@@ -99,45 +85,59 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Aryabhata",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Solar energy",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
     }
   ]
