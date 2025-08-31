@@ -1,6 +1,104 @@
 {
   "questions": [
     {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "options": [
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
+      ],
+      "answer": "82.5\u00b0 E",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
       "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
         "Cricket",
@@ -15,129 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
+      "answer": "Vitamin A",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q19:- The unit of power is:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Watt",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
       "shift": "Morning"
     }
   ]
