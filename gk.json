@@ -1,118 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
       "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
         "Animal conservation",
@@ -127,18 +15,130 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Paris",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:-The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
+      ],
+      "answer": "Raja Ram Mohan Roy",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
     }
   ]
 }
