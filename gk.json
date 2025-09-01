@@ -1,88 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Helium",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "date": "2023-07-01",
       "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
-      "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
-      ],
-      "answer": "Raja Ram Mohan Roy",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
     },
     {
       "question": "Q10:-Who was known as the 'Iron Man of India'?",
@@ -99,45 +29,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "12 years",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Joule",
+      "answer": "New Delhi",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     }
   ]
