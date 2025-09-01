@@ -1,32 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
     },
     {
       "question": "Q64:- The term 'Offside' is associated with which sport?",
@@ -43,102 +57,88 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Saturn",
+      "answer": "Karnataka",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "Northern Railway",
+      "answer": "1983",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Freon",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "35 years",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "Rajasthan",
+      "answer": "Forest conservation",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "answer": "Paris",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     }
   ]
 }
