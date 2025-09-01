@@ -1,102 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Asia",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
       "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
-      "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
-      ],
-      "answer": "Raja Ram Mohan Roy",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
     },
     {
       "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
@@ -113,31 +29,115 @@
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Greenland",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
       "shift": "Morning"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "11",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
       "shift": "Morning"
     }
   ]
