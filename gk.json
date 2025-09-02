@@ -1,102 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q75:-The largest ocean in the world is:",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "answer": "Pacific Ocean",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:- Who invented the light bulb?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
-      ],
-      "answer": "Thomas Edison",
+      "answer": "New York",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-02-01",
+      "date": "2025-01-01",
       "shift": "Morning"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
     },
     {
       "question": "Q35:- The highest civilian award in India is:",
@@ -113,32 +29,116 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "options": [
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "answer": "Kathakali",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "January 25",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "options": [
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
+      ],
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     }
   ]
 }
