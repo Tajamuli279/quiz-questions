@@ -1,102 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Thomas Munro",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
+      "answer": "Sodium Chloride",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "date": "2023-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:- The largest plateau in the world is:",
+      "options": [
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
+      ],
+      "answer": "Tibetan Plateau",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q8:-What is the capital of Arunachal Pradesh?",
@@ -111,34 +139,6 @@
       "source": "SSC CHSL 2020",
       "date": "2020-08-11",
       "shift": "Evening"
-    },
-    {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Tamil Nadu",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
     }
   ]
 }
