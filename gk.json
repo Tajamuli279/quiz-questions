@@ -1,31 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Stapes",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:-The national animal of India is:",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
+      ],
+      "answer": "Tiger",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q46:-The chemical name of common salt is:",
+      "options": [
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
+      ],
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
     },
     {
@@ -43,101 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
-      "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
-      ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
-      "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     }
   ]
