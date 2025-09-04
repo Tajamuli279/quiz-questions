@@ -1,18 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q19:- The unit of power is:",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Watt",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "options": [
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
     },
     {
       "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
@@ -29,115 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Sodium Chloride",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Hyderabad",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "date": "2025-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q68:-The process by which plants make their own food is called:",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Photosynthesis",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
     },
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "Rome",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "date": "2025-03-15",
       "shift": "Morning"
     },
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
       ],
-      "answer": "Yangtze River",
+      "answer": "February 28",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
       ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
-      "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
+      "answer": "Satyamev Jayate",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "date": "2025-04-01",
       "shift": "Morning"
     }
   ]
