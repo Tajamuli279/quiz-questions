@@ -1,18 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Freon",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q81:-Who was the first Indian to go to space?",
+      "options": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "answer": "Rakesh Sharma",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
     },
     {
       "question": "Q62:-Which of the following is a greenhouse gas?",
@@ -29,115 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
         "Rabindranath Tagore",
-        "Amartya Sen"
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
       "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
+      "answer": "Chandragupta Maurya",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "date": "2023-03-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "options": [
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II (Vikramaditya)",
+        "Kumargupta I"
+      ],
+      "answer": "Chandragupta II (Vikramaditya)",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
       "shift": "Morning"
     }
   ]
