@@ -1,116 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "China",
+        "India",
+        "USA",
+        "Russia"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "date": "2021-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "18 years",
       "category": "GK",
       "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "Seismology",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
       "shift": "Morning"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
     },
     {
       "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
@@ -127,18 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
       "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
+        "1757",
+        "1761",
+        "1764",
+        "1773"
       ],
-      "answer": "Protons",
+      "answer": "1764",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "options": [
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
+      ],
+      "answer": "USA",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
+      "date": "2025-10-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
     }
   ]
 }
