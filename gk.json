@@ -1,88 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Stapes",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
       "shift": "Evening"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "options": [
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2023-03-12",
       "shift": "Morning"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
     },
     {
       "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
@@ -99,46 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
       ],
-      "answer": "Canada",
+      "answer": "C. V. Raman",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
       ],
-      "answer": "Kosi",
+      "answer": "The time immediately following the Question Hour",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
       "shift": "Morning"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
     }
   ]
 }
