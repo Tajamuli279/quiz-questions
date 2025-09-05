@@ -1,88 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q80:-The deepest lake in the world is:",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Lake Baikal",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
       ],
-      "answer": "Greenland",
+      "answer": "USA",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "date": "2025-10-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Albert Einstein",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q17:-The study of earthquakes is known as:",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
       ],
-      "answer": "Mercury",
+      "answer": "Seismology",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Jaipur",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
-      "answer": "Mumbai",
+      "answer": "Arctic Ocean",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
+      "shift": "Morning"
     },
     {
       "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
@@ -99,45 +113,31 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
         "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
         "Uttar Pradesh"
       ],
       "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     }
   ]
