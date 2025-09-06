@@ -1,90 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "answer": "Shah Jahan",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
       "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
         "25 years",
@@ -99,46 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "Canada",
+      "answer": "Amritsar",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
       "shift": "Morning"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "Forest conservation",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:- The national aquatic animal of India is:",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "answer": "Dolphin",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
       "shift": "Afternoon"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
+        "USA",
+        "India",
         "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "Canada"
       ],
-      "answer": "Japan",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
     }
   ]
 }
