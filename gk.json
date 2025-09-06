@@ -1,115 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Neptune",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Jaipur",
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:- The largest freshwater lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
+      ],
+      "answer": "Lake Superior",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
       ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
+      "date": "2023-03-01",
       "shift": "Evening"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "January 25",
+      "answer": "Tamil Nadu",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "date": "2025-01-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "options": [
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
+      ],
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
@@ -127,18 +127,18 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Wular Lake",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
     }
   ]
 }
