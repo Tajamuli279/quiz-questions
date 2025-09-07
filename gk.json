@@ -1,88 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
       "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
+        "1940",
+        "1942",
+        "1945",
+        "1947"
       ],
-      "answer": "Protons",
+      "answer": "1942",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Jaipur",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
       "shift": "Morning"
     },
     {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "C. V. Raman",
+      "answer": "Nitrous Oxide",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-01",
+      "date": "2025-07-05",
       "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
-      ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
     },
     {
       "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
@@ -99,46 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "China",
+        "India",
+        "USA",
+        "Russia"
       ],
-      "answer": "January 25",
+      "answer": "USA",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Bengaluru",
+      "answer": "Au",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
       "shift": "Evening"
     },
     {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Sucheta Kriplani",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-02-10",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
     }
   ]
 }
