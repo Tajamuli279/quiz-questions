@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
         "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Hyderabad",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q43:- The study of insects is called:",
-      "options": [
-        "Ornithology",
-        "Entomology",
-        "Zoology",
-        "Botany"
-      ],
-      "answer": "Entomology",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
-      ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
+      "answer": "Kerala",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
+      "date": "2021-12-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Lake Superior",
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
+      ],
+      "answer": "Raja Ram Mohan Roy",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:- The national aquatic animal of India is:",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "answer": "Dolphin",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
+      "date": "2024-07-22",
+      "shift": "Evening"
     }
   ]
 }
