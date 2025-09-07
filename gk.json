@@ -1,102 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "1983",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
       "shift": "Evening"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Swami Vivekananda",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q71:-The gas used in balloons and airships is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answer": "Helium",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     },
     {
       "question": "Q93:-Which continent has no deserts?",
@@ -113,31 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Vitamin K",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
     },
     {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "1942",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     }
   ]
