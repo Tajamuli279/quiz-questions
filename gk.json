@@ -1,18 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
       ],
-      "answer": "30 years",
+      "answer": "Valmiki",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
     },
     {
       "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
@@ -29,115 +43,101 @@
       "shift": "Morning"
     },
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
+      "answer": "Photosynthesis",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-03",
+      "date": "2022-09-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "options": [
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
+      ],
+      "answer": "Forests",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q21:- The largest democracy in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
       "shift": "Evening"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Cricket",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:-The deepest ocean trench in the world is:",
+      "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
       "shift": "Morning"
     }
   ]
