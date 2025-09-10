@@ -1,59 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "1951",
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-10-20",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Vatican City",
+      "answer": "Rome",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
       "shift": "Morning"
     },
     {
@@ -71,74 +113,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Lake Superior",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Ag",
+      "answer": "Manila",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
       "shift": "Morning"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q37:- The planet nearest to the Sun is:",
-      "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "35 years",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
     }
   ]
 }
