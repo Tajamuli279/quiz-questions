@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
       "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
         "Oxygen",
@@ -15,130 +29,116 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q71:-The gas used in balloons and airships is:",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Helium",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q11:- Which is the largest bone in the human body?",
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
       "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
       ],
-      "answer": "Femur",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
       "shift": "Evening"
     },
     {
-      "question": "Q16:- Which of the following is a direct tax?",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
         "GST",
-        "Customs Duty",
+        "Sales Tax",
         "Income Tax",
-        "Service Tax"
+        "Excise Duty"
       ],
       "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "8",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:- The currency of China is:",
-      "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
-      ],
-      "answer": "Yuan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "China",
+        "India",
+        "USA",
+        "Russia"
       ],
-      "answer": "Albert Einstein",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q36:-The highest civilian award in India is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
         "Rome",
-        "Madrid"
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Rome",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
     }
   ]
 }
