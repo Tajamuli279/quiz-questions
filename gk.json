@@ -1,104 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
       "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
         "April 22",
@@ -113,31 +15,129 @@
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Gujarat",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "options": [
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
+      ],
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
       "shift": "Morning"
     }
   ]
