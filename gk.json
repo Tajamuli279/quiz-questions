@@ -1,73 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Maharashtra",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
       "shift": "Evening"
     },
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Asia",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Tamil Nadu",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "A. P. J. Abdul Kalam",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q61:- The largest river in India by volume is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "answer": "Saturn",
+      "answer": "Brahmaputra",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
       "shift": "Evening"
     },
     {
@@ -85,59 +99,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q43:- The study of insects is called:",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Ornithology",
-        "Entomology",
-        "Zoology",
-        "Botany"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Entomology",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Africa",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "1757",
+        "1764",
+        "1773",
+        "1857"
       ],
-      "answer": "Asia",
+      "answer": "1757",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     }
   ]
