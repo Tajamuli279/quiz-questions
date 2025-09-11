@@ -1,102 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "35 years",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Jaipur",
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
         "Udaipur",
         "Jodhpur",
-        "Mysore"
+        "Jaipur",
+        "Agra"
       ],
       "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
       "shift": "Morning"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
     },
     {
       "question": "Q66:- The 'Charminar' is located in which Indian city?",
@@ -113,31 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     }
   ]
