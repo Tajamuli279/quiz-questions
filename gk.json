@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Solar energy",
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "options": [
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
+      ],
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "options": [
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q98:-The highest dam in India is:",
+      "options": [
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
+      ],
+      "answer": "Tehri Dam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
+      "date": "2025-04-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "Yuan",
+      "answer": "30 years",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
-      "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
-      ],
-      "answer": "Sucheta Kriplani",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-02-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     }
   ]
