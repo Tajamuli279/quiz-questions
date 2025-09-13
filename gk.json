@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
       ],
-      "answer": "Joule",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "France and Germany",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
       ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
+      "answer": "Lions",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-02-05",
+      "date": "2025-11-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q42:-The national animal of India is:",
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
       "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
       ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
-      ],
-      "answer": "July 22, 1947",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
+      "answer": "Guru Nanak Dev",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
     }
   ]
