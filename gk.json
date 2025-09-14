@@ -1,45 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Forests",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
       "shift": "Morning"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "1947",
+        "1950",
+        "1951",
+        "1956"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "1951",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
       "shift": "Morning"
     },
     {
@@ -57,87 +43,101 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
+      "answer": "Freon",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q63:-The largest continent in the world is:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
       ],
-      "answer": "South India",
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
       "shift": "Evening"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Babur",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     }
   ]
