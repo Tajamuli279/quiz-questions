@@ -1,130 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
+      "answer": "Won",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
-      "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
-      ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
+      "date": "2025-09-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q94:-The first woman Prime Minister of India was:",
@@ -139,6 +27,118 @@
       "source": "SSC MTS 2022",
       "date": "2022-08-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
     }
   ]
 }
