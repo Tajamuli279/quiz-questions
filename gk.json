@@ -1,6 +1,48 @@
 {
   "questions": [
     {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
       "question": "Q70:-The smallest union territory of India is:",
       "options": [
         "Chandigarh",
@@ -15,130 +57,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "Sahara Desert",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "2002",
+        "2005",
+        "2007",
+        "2010"
       ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
-      ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
+      "answer": "2005",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "date": "2025-07-05",
       "shift": "Morning"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Mumbai",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Cricket",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:- The currency of China is:",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
+      ],
+      "answer": "Yuan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
     }
   ]
 }
