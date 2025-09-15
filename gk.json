@@ -1,88 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "11",
+      "answer": "Freon",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Mars",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "date": "2023-07-25",
       "shift": "Morning"
     },
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
       "shift": "Evening"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
     },
     {
       "question": "Q75:-The largest ocean in the world is:",
@@ -99,46 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "April 18",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Aryabhata",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
       ],
-      "answer": "Sahara Desert",
+      "answer": "June 21",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
     }
   ]
 }
