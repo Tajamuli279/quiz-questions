@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
+    },
+    {
       "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
         "West Bengal",
@@ -15,18 +29,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
       "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "1940",
+        "1942",
+        "1945",
+        "1947"
       ],
-      "answer": "Japan",
+      "answer": "1942",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
     },
     {
       "question": "Q62:- Who founded the 'Sikhism' religion?",
@@ -43,101 +57,87 @@
       "shift": "Morning"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II (Vikramaditya)",
+        "Kumargupta I"
       ],
-      "answer": "12 years",
+      "answer": "Chandragupta II (Vikramaditya)",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
+      "source": "SSC CHSL 2025",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "11",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
       "shift": "Morning"
     },
     {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
       "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
       ],
-      "answer": "Odisha",
+      "answer": "A. P. J. Abdul Kalam",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "June 21",
+      "answer": "Yuan",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "answer": "Canberra",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
       "shift": "Morning"
     },
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "India",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     }
   ]
