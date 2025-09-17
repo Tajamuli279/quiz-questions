@@ -1,45 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "India",
+      "answer": "8",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
       "shift": "Evening"
     },
     {
@@ -57,88 +29,116 @@
       "shift": "Evening"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Rajasthan",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Watt",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Uttarakhand",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "date": "2025-09-08",
       "shift": "Evening"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Yuan",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
       "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "Kerala",
+      "answer": "543",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
     }
   ]
 }
