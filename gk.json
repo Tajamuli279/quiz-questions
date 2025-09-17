@@ -1,34 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
       "question": "Q46:-The chemical name of common salt is:",
       "options": [
         "Calcium Chloride",
@@ -43,101 +15,129 @@
       "shift": "Morning"
     },
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "1757",
+        "1761",
+        "1764",
+        "1773"
       ],
-      "answer": "Hyderabad",
+      "answer": "1764",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
       "shift": "Evening"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "France and Germany",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "options": [
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
+      ],
+      "answer": "January 25",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:- The largest island in the world is:",
+      "options": [
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
+      ],
+      "answer": "Greenland",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "options": [
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
+      ],
+      "answer": "Lions",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:-The smallest ocean in the world is:",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
       "shift": "Morning"
     }
   ]
