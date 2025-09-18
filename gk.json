@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Tamil Nadu",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Hyderabad",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q75:-The largest ocean in the world is:",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "answer": "Pacific Ocean",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
-      "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
-      ],
-      "answer": "Raja Ram Mohan Roy",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
       "shift": "Morning"
     }
   ]
