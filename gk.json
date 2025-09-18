@@ -1,17 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Photosynthesis",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:- The national aquatic animal of India is:",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "answer": "Dolphin",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q20:- Who designed the Indian Parliament House?",
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
+      ],
+      "answer": "Edwin Lutyens and Herbert Baker",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
@@ -29,115 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "USA",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
-      "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
-      ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "Lake Superior",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
       "shift": "Morning"
     }
   ]
