@@ -1,102 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "The Hague",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "date": "2025-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Asia",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Red Sea and Mediterranean Sea",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:- The largest freshwater lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
-      ],
-      "answer": "Lake Superior",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:-The gas used in balloons and airships is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answer": "Helium",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q47:- The smallest Union Territory in India by population is:",
@@ -113,32 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "1757",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q16:- Which of the following is a direct tax?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
       ],
-      "answer": "April 18",
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:- The planet nearest to the Sun is:",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q26:- The longest river in Asia is:",
+      "options": [
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
+      ],
+      "answer": "Yangtze River",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "date": "2024-03-05",
+      "shift": "Morning"
     }
   ]
 }
