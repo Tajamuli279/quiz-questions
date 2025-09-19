@@ -1,101 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Lactometer",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "answer": "Yuan",
+      "answer": "Vitamin K",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
     },
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
     },
     {
-      "question": "Q86:-The 'India Gate' is located in which city?",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Mumbai",
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "options": [
+        "Delhi",
         "Kolkata",
-        "New Delhi",
+        "Mumbai",
         "Chennai"
       ],
-      "answer": "New Delhi",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
       "shift": "Evening"
     },
     {
@@ -113,32 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "March 22",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
     }
   ]
 }
