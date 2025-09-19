@@ -1,60 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Lactometer",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Vitamin K",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "1990",
+        "1993",
+        "1995",
+        "1998"
       ],
-      "answer": "Maharashtra",
+      "answer": "1993",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
+      "shift": "Morning"
     },
     {
       "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
@@ -71,74 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Yangtze River",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "March 22",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "options": [
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
+      ],
+      "answer": "Lions",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
       "shift": "Evening"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
-      "shift": "Morning"
     }
   ]
 }
