@@ -1,46 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q98:-The highest dam in India is:",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
       ],
-      "answer": "Income Tax",
+      "answer": "Tehri Dam",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q16:- Which of the following is a direct tax?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "1757",
+        "1761",
+        "1764",
+        "1773"
       ],
-      "answer": "Bengaluru",
+      "answer": "1764",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
       "shift": "Evening"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": "Atal Bihari Vajpayee",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
     },
     {
       "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
@@ -55,90 +139,6 @@
       "source": "SSC GD 2024",
       "date": "2024-02-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
-      "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
-      ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
     }
   ]
 }
