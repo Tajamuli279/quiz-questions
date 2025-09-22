@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "April 18",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "1930",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
     },
     {
       "question": "Q5:-Which is the smallest planet in our solar system?",
@@ -71,31 +43,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "1993",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q17:-The study of earthquakes is known as:",
+      "options": [
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
+      ],
+      "answer": "Seismology",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
       "shift": "Afternoon"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
       ],
-      "answer": "Saturn",
+      "answer": "Geneva",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
@@ -113,32 +127,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Cricket",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
     }
   ]
 }
