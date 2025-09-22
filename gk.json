@@ -1,73 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Ag",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q60:-The deepest ocean trench in the world is:",
+      "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q36:-The highest civilian award in India is:",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the highest mountain peak in India?",
-      "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
+      "answer": "Mars",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Tamil Nadu",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
@@ -85,59 +127,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
-      ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
-      ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
       "shift": "Morning"
     }
   ]
