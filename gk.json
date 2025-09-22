@@ -1,87 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
+        "1757",
+        "1764",
+        "1773",
+        "1857"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "1757",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Vitamin K",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "1757",
+        "1761",
+        "1764",
+        "1773"
       ],
-      "answer": "Punjab",
+      "answer": "1764",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "options": [
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "IT Industry",
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-04-22",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
@@ -99,45 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
       ],
-      "answer": "Paintings",
+      "answer": "Girl child education and gender ratio",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
       "shift": "Morning"
     }
   ]
