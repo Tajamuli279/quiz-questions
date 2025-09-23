@@ -1,115 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q42:-The national animal of India is:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Tiger",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Neptune",
+      "answer": "Wular Lake",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
-      "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
         "China",
         "India",
-        "Bangladesh",
-        "Nepal"
+        "USA",
+        "Russia"
       ],
-      "answer": "India",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
       "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
+        "1950",
+        "1952",
+        "1954",
+        "1956"
       ],
-      "answer": "1945",
+      "answer": "1954",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     },
     {
@@ -127,17 +85,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "30 years",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "options": [
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
+      ],
+      "answer": "Sucheta Kriplani",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
       "shift": "Morning"
     }
   ]
