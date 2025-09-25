@@ -1,115 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q25:-What is the capital of Canada?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Ottawa",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
@@ -127,17 +29,115 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "Gujarat",
+      "answer": "1930",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
