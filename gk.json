@@ -1,87 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q71:-The gas used in balloons and airships is:",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Helium",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
+      "answer": "Astronomy",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
+      "date": "2021-07-08",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Gujarat",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "date": "2022-05-30",
       "shift": "Evening"
     },
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "1950",
+        "1952",
+        "1954",
+        "1956"
       ],
-      "answer": "Angel Falls",
+      "answer": "1954",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
       "shift": "Morning"
     },
     {
@@ -99,45 +71,73 @@
       "shift": "Evening"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "North India",
+        "South India",
+        "East India",
+        "West India"
       ],
-      "answer": "Saturn",
+      "answer": "South India",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "The time immediately following the Question Hour",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "1764",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
+      "options": [
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
+      ],
+      "answer": "Uttarakhand",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
       "shift": "Evening"
     }
   ]
