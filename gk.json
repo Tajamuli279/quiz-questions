@@ -1,17 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "Mercury",
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "answer": "Madhya Pradesh",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Tamil Nadu",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
       "shift": "Morning"
     },
     {
@@ -29,116 +127,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
       ],
-      "answer": "France and Germany",
+      "answer": "Red Sea and Mediterranean Sea",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
+      "date": "2025-03-10",
+      "shift": "Evening"
     }
   ]
 }
