@@ -1,45 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
-      "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
-      ],
-      "answer": "March 22",
+      "answer": "France and Germany",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-12-18",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Kosi",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": "Atal Bihari Vajpayee",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
@@ -57,87 +127,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "Karnataka",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
-      "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     }
   ]
