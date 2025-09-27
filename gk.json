@@ -1,31 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "March 22",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "2005",
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-07-05",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
@@ -43,102 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Dubai",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
       "shift": "Evening"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "Aryabhata",
+      "answer": "Yuan",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
       "shift": "Morning"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
     }
   ]
 }
