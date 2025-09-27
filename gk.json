@@ -1,18 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "India",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q75:-The largest ocean in the world is:",
@@ -29,116 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
         "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q98:-The highest dam in India is:",
+      "options": [
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
+      ],
+      "answer": "Tehri Dam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Watt",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "11",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
-      "shift": "Evening"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
+      "shift": "Morning"
     },
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Mercury",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "date": "2023-05-18",
       "shift": "Morning"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "1947",
+        "1950",
+        "1951",
+        "1956"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "1951",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
       "shift": "Morning"
-    },
-    {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
-      "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
     }
   ]
 }
