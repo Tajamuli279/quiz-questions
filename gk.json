@@ -1,46 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Asia",
+      "answer": "Helium",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Mumbai",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
       "shift": "Evening"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Neptune",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
     },
     {
       "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
@@ -57,88 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
       ],
-      "answer": "Sahara Desert",
+      "answer": "January 25",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Ag",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "options": [
+        "2002",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "answer": "2005",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
       "shift": "Morning"
     },
     {
-      "question": "Q49:-The capital of Australia is:",
+      "question": "Q43:- The study of insects is called:",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
       ],
-      "answer": "Canberra",
+      "answer": "Entomology",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
     }
   ]
 }
