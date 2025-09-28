@@ -1,6 +1,48 @@
 {
   "questions": [
     {
+      "question": "Q39:- The largest island in the world is:",
+      "options": [
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
+      ],
+      "answer": "Greenland",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
       "question": "Q33:-The gas responsible for global warming is:",
       "options": [
         "Oxygen",
@@ -15,129 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "Vatican City",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "2005",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Raja Ram Mohan Roy",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
       "shift": "Morning"
     },
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "1757",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Vitamin A",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
       "shift": "Morning"
     }
   ]
