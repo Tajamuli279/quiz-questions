@@ -1,76 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
       "question": "Q56:-The minimum age to be eligible for election as President of India is:",
       "options": [
         "25 years",
@@ -85,60 +15,130 @@
       "shift": "Evening"
     },
     {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
       "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
       ],
-      "answer": "North India",
+      "answer": "Liver",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
       ],
-      "answer": "Forest conservation",
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
+      "date": "2025-06-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:-The national animal of India is:",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
+      ],
+      "answer": "Tiger",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
+      "shift": "Morning"
     }
   ]
 }
