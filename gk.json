@@ -1,6 +1,48 @@
 {
   "questions": [
     {
+      "question": "Q81:-Who was the first Indian to go to space?",
+      "options": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "answer": "Rakesh Sharma",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
       "question": "Q16:- Which of the following is a direct tax?",
       "options": [
         "GST",
@@ -15,59 +57,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q86:-The 'India Gate' is located in which city?",
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
       "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
+        "1942",
+        "1945",
+        "1948",
+        "1950"
       ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "1945",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
@@ -85,60 +99,46 @@
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q51:- The instrument used to measure wind speed is:",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
       ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:- The largest railway network in the world is in which country?",
-      "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
-      ],
-      "answer": "USA",
+      "answer": "Anemometer",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "date": "2025-08-20",
       "shift": "Evening"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
     }
   ]
 }
