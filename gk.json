@@ -1,60 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Africa",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
-      "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q70:-The smallest union territory of India is:",
@@ -71,73 +29,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Ag",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Methane",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
       "shift": "Evening"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q19:- The unit of power is:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
+      ],
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "USA",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Canada",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Atal Bihari Vajpayee",
-        "Dr. B.R. Ambedkar"
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
       ],
-      "answer": "Atal Bihari Vajpayee",
+      "answer": "Lactometer",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     }
   ]
