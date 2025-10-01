@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Cricket",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
     },
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Paintings",
+      "answer": "Asia",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
+      "date": "2025-07-22",
       "shift": "Afternoon"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "Gujarat",
+      "answer": "Yuan",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
       "shift": "Morning"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "Joule",
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "date": "2023-05-18",
       "shift": "Morning"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
       "shift": "Evening"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "June 5",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
       "shift": "Morning"
     }
   ]
