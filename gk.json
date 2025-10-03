@@ -1,88 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
-      ],
-      "answer": "Satyamev Jayate",
+      "answer": "Thomas Edison",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-04-01",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Vitamin A",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
     },
     {
       "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
@@ -99,46 +43,102 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "Hyderabad",
+      "answer": "Solar energy",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
       "shift": "Evening"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q15:- The national aquatic animal of India is:",
+      "question": "Q49:-The capital of Australia is:",
       "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
       ],
-      "answer": "Dolphin",
+      "answer": "Canberra",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
     }
   ]
 }
