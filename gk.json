@@ -1,116 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Rajasthan",
+      "answer": "March 22",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
       ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "A. P. J. Abdul Kalam",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "date": "2023-06-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
     },
     {
       "question": "Q48:-The longest river in the world is:",
@@ -127,18 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Joule",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q37:- The planet nearest to the Sun is:",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:- The largest freshwater lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
+      ],
+      "answer": "Lake Superior",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "options": [
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
+      ],
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
     }
   ]
 }
