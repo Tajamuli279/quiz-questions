@@ -1,7 +1,63 @@
 {
   "questions": [
     {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "question": "Q57:-The largest producer of coffee in India is:",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
         "Chandigarh",
         "Lakshadweep",
@@ -10,135 +66,79 @@
       ],
       "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Forests",
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:-The deepest ocean trench in the world is:",
+      "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
+      "date": "2023-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Football",
+      "answer": "Australia",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "1954",
+      "answer": "Freon",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
+      "date": "2025-02-05",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
-      ],
-      "answer": "July 22, 1947",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
     }
   ]
 }
