@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Punjab",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "IT Industry",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "January 25",
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q39:- The largest island in the world is:",
+      "options": [
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
+      ],
+      "answer": "Greenland",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "date": "2025-05-30",
       "shift": "Morning"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Ag",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
       ],
-      "answer": "Yuan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
+      "date": "2023-10-25",
+      "shift": "Morning"
     },
     {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "February 28",
+      "answer": "Amritsar",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
       "shift": "Morning"
     }
   ]
