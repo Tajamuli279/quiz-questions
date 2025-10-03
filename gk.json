@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
       ],
-      "answer": "June 21",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:- The currency of China is:",
-      "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
-      ],
-      "answer": "Yuan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
+      "answer": "Dubai",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Vallabhbhai Patel",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": "Atal Bihari Vajpayee",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "options": [
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
+      ],
+      "answer": "Rana Sanga",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
-      "question": "Q48:-The longest river in the world is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Nile",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
     }
   ]
 }
