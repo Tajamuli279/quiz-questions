@@ -1,46 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
       ],
-      "answer": "Punjab",
+      "answer": "Babur",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
+        "West Bengal",
         "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Odisha",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
     },
     {
       "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
@@ -57,18 +43,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "8",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
     },
     {
       "question": "Q39:- The largest island in the world is:",
@@ -85,60 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "Freon",
+      "answer": "8",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Godavari",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
     }
   ]
 }
