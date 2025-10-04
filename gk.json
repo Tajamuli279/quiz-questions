@@ -1,91 +1,119 @@
 {
   "questions": [
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "The Hague",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "June 5",
+      "answer": "Forest conservation",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "March 22",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Lake Superior",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Methane",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
         "Chandigarh",
         "Lakshadweep",
@@ -94,51 +122,23 @@
       ],
       "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
       "shift": "Evening"
-    },
-    {
-      "question": "Q75:-The largest ocean in the world is:",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "answer": "Pacific Ocean",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
     }
   ]
 }
