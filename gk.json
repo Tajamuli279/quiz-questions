@@ -1,6 +1,118 @@
 {
   "questions": [
     {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "options": [
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
+    },
+    {
       "question": "Q69:- The capital of Italy is:",
       "options": [
         "Paris",
@@ -15,130 +127,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "South India",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q37:- The planet nearest to the Sun is:",
-      "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
-      "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
-      "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
-      ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
     }
   ]
 }
