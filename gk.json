@@ -1,102 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
       ],
-      "answer": "January 25",
+      "answer": "Dubai",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q17:- The largest state in India by area is:",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "options": [
+        "2002",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "answer": "2005",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "date": "2025-07-05",
       "shift": "Morning"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
-      "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
-      ],
-      "answer": "March 22",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
-      "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
-      ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
     },
     {
       "question": "Q56:-The minimum age to be eligible for election as President of India is:",
@@ -113,32 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q41:-The largest river in South India is:",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Godavari",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q36:-The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
         "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "Mumbai",
+      "answer": "Amritsar",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
     }
   ]
 }
