@@ -1,101 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "July 22, 1947",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Japan",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
       "shift": "Morning"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Income Tax",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
@@ -113,32 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "June 5",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "1983",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:- The largest democracy in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
       "shift": "Evening"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
     }
   ]
 }
