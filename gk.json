@@ -1,119 +1,77 @@
 {
   "questions": [
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Northern Railway",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
       "shift": "Evening"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Karnataka",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
-      "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
-      ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
         "USA",
         "India",
@@ -122,22 +80,64 @@
       ],
       "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "options": [
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
+      ],
+      "answer": "C. V. Raman",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     }
   ]
