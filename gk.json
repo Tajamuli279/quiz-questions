@@ -1,130 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Wular Lake",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:-The smallest ocean in the world is:",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
-      ],
-      "answer": "Arctic Ocean",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:-The world's largest flower is:",
-      "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
-      ],
-      "answer": "Rafflesia Arnoldii",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
+      "answer": "Yangtze River",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "date": "2024-03-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "options": [
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
+      ],
+      "answer": "April 18",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q73:-The 'Durand Line' is the border between which two countries?",
@@ -139,6 +125,20 @@
       "source": "SSC CGL 2021",
       "date": "2021-06-25",
       "shift": "Morning"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
     }
   ]
 }
