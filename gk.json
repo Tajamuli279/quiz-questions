@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "The Hague",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q43:- The study of insects is called:",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Ornithology",
-        "Entomology",
-        "Zoology",
-        "Botany"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Entomology",
+      "answer": "New Delhi",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-15",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q63:-The largest continent in the world is:",
       "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
       ],
-      "answer": "Japan",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Kerala",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
@@ -71,74 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
-      "answer": "1764",
+      "answer": "Arctic Ocean",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Hyderabad",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Football",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "date": "2025-11-25",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
+      "shift": "Morning"
     }
   ]
 }
