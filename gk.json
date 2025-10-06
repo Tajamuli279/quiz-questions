@@ -1,18 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Barometer",
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "options": [
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
+      ],
+      "answer": "Dadasaheb Phalke",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
+      "shift": "Morning"
     },
     {
       "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
@@ -29,116 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "82.5\u00b0 E",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
+      "answer": "Yangtze River",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "1764",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Liver",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Forests",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
     }
   ]
 }
