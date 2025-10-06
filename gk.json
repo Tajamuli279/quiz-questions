@@ -1,88 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Ag",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC MTS 2024",
+      "source": "SSC CGL 2024",
       "date": "2024-09-01",
-      "shift": "Morning"
+      "shift": "Afternoon"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Gujarat",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
-      "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
-      ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
-      "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
-      ],
-      "answer": "The time immediately following the Question Hour",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q63:-The largest continent in the world is:",
@@ -99,46 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Food grains",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
     }
   ]
 }
