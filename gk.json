@@ -1,60 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Karnataka",
+      "answer": "Coal",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-08-10",
+      "date": "2022-07-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Itanagar",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Au",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q88:- The 'Green Revolution' in India was led by:",
@@ -71,74 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-04-15",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
       "shift": "Afternoon"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Gujarat",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     }
   ]
 }
