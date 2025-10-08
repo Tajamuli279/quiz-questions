@@ -1,115 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Girl child education and gender ratio",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
       "shift": "Morning"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Rome",
+      "answer": "Wular Lake",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Greenland",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Gujarat",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "options": [
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II (Vikramaditya)",
+        "Kumargupta I"
+      ],
+      "answer": "Chandragupta II (Vikramaditya)",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-05-15",
       "shift": "Evening"
     },
     {
@@ -127,18 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q63:-The largest continent in the world is:",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
     }
   ]
 }
