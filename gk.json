@@ -1,116 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q51:-Which of the following is a unit of energy?",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "Joule",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "date": "2023-03-20",
       "shift": "Morning"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
-      ],
-      "answer": "June 5",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
+        "New York",
         "London",
-        "Geneva"
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Paris",
+      "answer": "The Hague",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
-      "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "543",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
     },
     {
       "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
@@ -127,18 +85,60 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "April 18",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
     }
   ]
 }
