@@ -1,74 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
         "Maharashtra",
-        "Madhya Pradesh"
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Rajasthan",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
     },
     {
       "question": "Q76:- The 'Bicameral Legislature' means:",
@@ -85,60 +29,116 @@
       "shift": "Evening"
     },
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Africa",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q98:-The highest dam in India is:",
+      "question": "Q5:- The currency of China is:",
       "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
       ],
-      "answer": "Tehri Dam",
+      "answer": "Yuan",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
+      "shift": "Morning"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
+      ],
+      "answer": "Hyderabad",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-03-05",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
       "shift": "Morning"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
     }
   ]
 }
