@@ -1,102 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
       ],
-      "answer": "30 years",
+      "answer": "Football",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:- The planet nearest to the Sun is:",
-      "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "1757",
+        "1764",
+        "1773",
+        "1857"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "1757",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "2005",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q62:-Which of the following is a greenhouse gas?",
@@ -113,32 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Stapes",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "35 years",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
       "shift": "Evening"
+    },
+    {
+      "question": "Q61:- The largest river in India by volume is:",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
+      ],
+      "answer": "Brahmaputra",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
+      "shift": "Morning"
     }
   ]
 }
