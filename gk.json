@@ -1,31 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Rome",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
       "shift": "Evening"
     },
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "1757",
+        "1761",
+        "1764",
+        "1773"
       ],
-      "answer": "Africa",
+      "answer": "1764",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
       "shift": "Morning"
     },
     {
@@ -43,102 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Lactometer",
+      "answer": "Japan",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Babur",
+      "answer": "Dr. B.R. Ambedkar",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Yuan",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "answer": "Shah Jahan",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
     }
   ]
 }
