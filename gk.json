@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "Canada",
+      "answer": "Won",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "Au",
+      "answer": "Astronomy",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
-      ],
-      "answer": "Greenland",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
@@ -71,73 +43,101 @@
       "shift": "Morning"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
+      "answer": "Swami Vivekananda",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Cricket",
+      "answer": "Tamil Nadu",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     }
   ]
