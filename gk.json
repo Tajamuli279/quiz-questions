@@ -1,87 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Rome",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "January 25",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
       ],
-      "answer": "Vatican City",
+      "answer": "Valmiki",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
-      "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:-The smallest ocean in the world is:",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
-      ],
-      "answer": "Arctic Ocean",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
@@ -99,46 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Freon",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
       ],
-      "answer": "Ladakh",
+      "answer": "Mumbai and Mangaluru",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "date": "2025-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Godavari",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-18",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
     }
   ]
 }
