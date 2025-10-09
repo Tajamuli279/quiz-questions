@@ -1,60 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Rome",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Punjab",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Au",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
     },
     {
       "question": "Q54:-The 'Quit India Movement' was launched in which year?",
@@ -71,73 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q51:-Which of the following is a unit of energy?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Joule",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "Japan",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
-      "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
-      ],
-      "answer": "June 5",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     }
   ]
