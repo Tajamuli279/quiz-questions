@@ -1,18 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q97:- The 'Currency of South Korea' is:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Won",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "options": [
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
+      ],
+      "answer": "January 25",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
     },
     {
       "question": "Q67:-The study of celestial bodies and the universe is called:",
@@ -29,115 +85,59 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "Punjab",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     },
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "Swami Vivekananda",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Tamil Nadu",
+      "answer": "Greenland",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
+      "date": "2025-05-30",
+      "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "2002",
+        "2005",
+        "2007",
+        "2010"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "2005",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "June 5",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
       "shift": "Morning"
     }
   ]
