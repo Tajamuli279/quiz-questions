@@ -1,130 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q61:- The largest river in India by volume is:",
-      "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
-      ],
-      "answer": "Brahmaputra",
+      "answer": "Vitamin A",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Punjab",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Atal Bihari Vajpayee",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": "Atal Bihari Vajpayee",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "options": [
+        "540",
+        "543",
+        "545",
+        "552"
+      ],
+      "answer": "543",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
       "shift": "Evening"
-    },
-    {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
-      "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
-      "shift": "Morning"
     },
     {
       "question": "Q54:-The 'Quit India Movement' was launched in which year?",
@@ -139,6 +83,62 @@
       "source": "SSC MTS 2023",
       "date": "2023-07-03",
       "shift": "Morning"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Russia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
     }
   ]
 }
