@@ -1,102 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
       ],
-      "answer": "Ag",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "Wular Lake",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
       "shift": "Evening"
     },
     {
-      "question": "Q93:-Which continent has no deserts?",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
+        "Rajasthan",
+        "Andhra Pradesh",
         "Gujarat",
-        "Tamil Nadu"
+        "Uttar Pradesh"
       ],
-      "answer": "Gujarat",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
     },
     {
       "question": "Q67:-The study of celestial bodies and the universe is called:",
@@ -113,31 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "1947",
+        "1950",
+        "1951",
+        "1956"
       ],
-      "answer": "Brahmaputra",
+      "answer": "1951",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
       "shift": "Morning"
     },
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Mariana Trench",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     }
   ]
