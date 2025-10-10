@@ -1,46 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Asia",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Aryabhata",
+      "answer": "Rome",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Bengaluru",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q85:- The 'International Court of Justice' is located in:",
@@ -57,88 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
-      "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
-      ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
-      "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
-      ],
-      "answer": "Raja Ram Mohan Roy",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
+      "answer": "Lake Superior",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-08-10",
-      "shift": "Afternoon"
+      "date": "2024-06-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Maharashtra",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
     }
   ]
 }
