@@ -1,60 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
-      "answer": "Rajasthan",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "Brahmaputra",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "date": "2025-07-15",
       "shift": "Morning"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Canada",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "April 18",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
     },
     {
       "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
@@ -71,74 +113,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
       "options": [
         "25 years",
         "30 years",
         "35 years",
         "40 years"
       ],
-      "answer": "30 years",
+      "answer": "35 years",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2020",
+      "date": "2020-02-15",
+      "shift": "Evening"
     }
   ]
 }
