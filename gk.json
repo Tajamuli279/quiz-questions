@@ -1,31 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Atal Bihari Vajpayee",
-        "Dr. B.R. Ambedkar"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Atal Bihari Vajpayee",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-25",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Madhya Pradesh",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
@@ -43,101 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Rajasthan",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
-      "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:-What is the capital of Canada?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
-      ],
-      "answer": "Ottawa",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
       "shift": "Morning"
     }
   ]
