@@ -1,88 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Manila",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q16:- Which of the following is a direct tax?",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
       ],
-      "answer": "The Hague",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
       "shift": "Evening"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "Liver",
+      "answer": "Forest conservation",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "March 22",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
     },
     {
       "question": "Q3:- The smallest country in the world by area is:",
@@ -99,46 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "12 years",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q28:-The largest freshwater lake in India is:",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Solar energy",
+      "answer": "New Delhi",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Morning"
     }
   ]
 }
