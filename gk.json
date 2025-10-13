@@ -1,32 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
       ],
-      "answer": "Mercury",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Brahmaputra",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
-      "shift": "Morning"
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q54:-The 'Quit India Movement' was launched in which year?",
@@ -43,62 +43,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
-      "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
       "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
         "Prithviraj Chauhan",
@@ -113,32 +57,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
       ],
-      "answer": "Ladakh",
+      "answer": "Geneva",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
       ],
-      "answer": "Karnataka",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
     }
   ]
 }
