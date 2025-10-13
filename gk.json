@@ -1,129 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Ag",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
     },
     {
-      "question": "Q77:- The largest plateau in the world is:",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
+      "date": "2023-09-22",
+      "shift": "Morning"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "543",
+      "answer": "30 years",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Stapes",
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Tamil Nadu",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
-      "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
-      ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
+      "date": "2025-01-20",
       "shift": "Evening"
     },
     {
@@ -139,6 +83,62 @@
       "source": "SSC GD 2025",
       "date": "2025-08-28",
       "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
     }
   ]
 }
