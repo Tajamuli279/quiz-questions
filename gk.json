@@ -1,74 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Rajasthan",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "Asia",
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
-      "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
-      ],
-      "answer": "1951",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
     },
     {
       "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
@@ -82,6 +68,34 @@
       "category": "GK",
       "source": "SSC MTS 2025",
       "date": "2025-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:-The chemical name of common salt is:",
+      "options": [
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
+      ],
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
     },
     {
@@ -99,46 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Australia",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Maharashtra",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
     }
   ]
 }
