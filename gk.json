@@ -1,101 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Swami Vivekananda",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Gujarat",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "date": "2022-05-30",
       "shift": "Evening"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Paris",
+      "answer": "Dr. B.R. Ambedkar",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-05-08",
+      "date": "2025-05-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q61:-The national tree of India is:",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Banyan",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "Jaipur",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q84:-The minimum age for voting in India is:",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "18 years",
+      "answer": "Photosynthesis",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
-      ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
       "shift": "Morning"
     },
     {
@@ -113,31 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q71:-The gas used in balloons and airships is:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Helium",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     }
   ]
