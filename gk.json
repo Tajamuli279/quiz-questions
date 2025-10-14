@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Rana Sanga",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
-      "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
-      ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "1947",
+        "1950",
+        "1951",
+        "1956"
       ],
-      "answer": "Mercury",
+      "answer": "1951",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
     },
     {
       "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
@@ -71,74 +43,102 @@
       "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
+      "answer": "Undersea earthquakes",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-01",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Rome",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Gujarat",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
       "shift": "Evening"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Sucheta Kriplani",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
+      "shift": "Morning"
     }
   ]
 }
