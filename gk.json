@@ -1,6 +1,34 @@
 {
   "questions": [
     {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
         "Ag",
@@ -15,115 +43,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Rome",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q25:-What is the capital of Canada?",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
       ],
-      "answer": "Odisha",
+      "answer": "Ottawa",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "Manila",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q7:- The largest freshwater lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
-      ],
-      "answer": "Lake Superior",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
       "shift": "Morning"
     },
     {
@@ -139,6 +97,48 @@
       "source": "SSC CGL 2025",
       "date": "2025-11-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
     }
   ]
 }
