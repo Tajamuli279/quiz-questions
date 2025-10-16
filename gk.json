@@ -1,101 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "USA",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:-What is the capital of Canada?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
-      ],
-      "answer": "Ottawa",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-The study of earthquakes is known as:",
-      "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
-      ],
-      "answer": "Seismology",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     },
     {
@@ -113,31 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q94:-The first woman Prime Minister of India was:",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "Indira Gandhi",
+      "answer": "Astronomy",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Lactometer",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "options": [
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
+      ],
+      "answer": "April 18",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     }
   ]
