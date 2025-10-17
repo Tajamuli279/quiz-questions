@@ -1,46 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q11:- Which is the largest bone in the human body?",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Femur",
+      "answer": "Ag",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "date": "2024-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q61:-The national tree of India is:",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Banyan",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
     },
     {
       "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
@@ -57,88 +127,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q51:-Which of the following is a unit of energy?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
-      ],
-      "answer": "Greenland",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
-      "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
-      ],
-      "answer": "2005",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
+      "answer": "Joule",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-12",
+      "date": "2023-03-20",
       "shift": "Morning"
-    },
-    {
-      "question": "Q37:- The planet nearest to the Sun is:",
-      "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
     }
   ]
 }
