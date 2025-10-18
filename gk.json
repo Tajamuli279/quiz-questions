@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
       ],
-      "answer": "8",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
       "options": [
         "Rajasthan",
         "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Rajasthan",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
+      ],
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
+        "USA",
         "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Greenland",
+      "answer": "Australia",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
       "shift": "Morning"
     },
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Swami Vivekananda",
+      "answer": "Bengaluru",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
-      "shift": "Afternoon"
+      "date": "2023-06-10",
+      "shift": "Evening"
     }
   ]
 }
