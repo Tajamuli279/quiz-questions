@@ -1,46 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "30 years",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Karnataka",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
     },
     {
       "question": "Q5:-Which is the smallest planet in our solar system?",
@@ -57,87 +43,101 @@
       "shift": "Morning"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
-        "Homi J. Bhabha",
-        "C. V. Raman",
-        "A. P. J. Abdul Kalam",
-        "Vikram Sarabhai"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "A. P. J. Abdul Kalam",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-05",
-      "shift": "Morning"
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
     },
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Thomas Munro",
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "35 years",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "date": "2025-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q68:-The process by which plants make their own food is called:",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
       "shift": "Morning"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Coal",
+      "answer": "Stapes",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
