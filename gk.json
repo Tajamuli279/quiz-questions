@@ -1,101 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Seismology",
+      "answer": "Kathakali",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
+      "answer": "543",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
+      "date": "2022-06-28",
       "shift": "Evening"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
@@ -113,31 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q97:- The 'Currency of South Korea' is:",
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
       "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
       ],
-      "answer": "Won",
+      "answer": "Food grains",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
       ],
-      "answer": "Jaipur",
+      "answer": "Sucheta Kriplani",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
       "shift": "Morning"
     }
   ]
