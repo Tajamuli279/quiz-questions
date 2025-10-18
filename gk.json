@@ -1,18 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "1945",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q21:- The largest democracy in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1773",
+        "1857"
+      ],
+      "answer": "1757",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
     },
     {
       "question": "Q87:-The second largest planet in our solar system is:",
@@ -29,116 +113,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
       ],
-      "answer": "Joule",
+      "answer": "February 28",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
       "shift": "Morning"
     },
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "1993",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
-      "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
-      ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:- The largest railway network in the world is in which country?",
-      "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
-      "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
-      ],
-      "answer": "Satyamev Jayate",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
     }
   ]
 }
