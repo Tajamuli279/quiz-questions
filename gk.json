@@ -1,60 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q85:-The world's largest flower is:",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Rafflesia Arnoldii",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
       "shift": "Evening"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q39:-The instrument used to measure atmospheric pressure is:",
@@ -71,73 +127,17 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Africa",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
-      "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
-      ],
-      "answer": "Valmiki",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q46:-The chemical name of common salt is:",
-      "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
-      ],
-      "answer": "Sodium Chloride",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
       "shift": "Morning"
     }
   ]
