@@ -1,116 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "July 22, 1947",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
-      "shift": "Evening"
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Mercury",
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "answer": "Madhya Pradesh",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-11-20",
+      "date": "2023-04-10",
       "shift": "Morning"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Won",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
-      ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "Mars",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Forest conservation",
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
+      "date": "2025-02-01",
+      "shift": "Morning"
     },
     {
       "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
@@ -125,20 +139,6 @@
       "source": "SSC CHSL 2023",
       "date": "2023-10-25",
       "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
     }
   ]
 }
