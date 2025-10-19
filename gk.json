@@ -1,116 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Gujarat",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
       "shift": "Evening"
     },
     {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "1945",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "June 21",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
+      "date": "2023-01-30",
       "shift": "Afternoon"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Japan",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "date": "2025-07-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
     },
     {
       "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
@@ -124,20 +138,6 @@
       "category": "GK",
       "source": "SSC GD 2025",
       "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
       "shift": "Morning"
     }
   ]
