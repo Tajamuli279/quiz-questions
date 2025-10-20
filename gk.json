@@ -1,73 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "Itanagar",
       "category": "GK",
       "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
+      "date": "2020-08-11",
       "shift": "Evening"
     },
     {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "options": [
+        "Canada",
         "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Mexico",
+        "Australia"
       ],
-      "answer": "Australia",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
@@ -83,62 +139,6 @@
       "source": "SSC CHSL 2025",
       "date": "2025-05-15",
       "shift": "Evening"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
-      "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
-      ],
-      "answer": "April 18",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
     }
   ]
 }
