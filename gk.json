@@ -1,18 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q35:- The highest civilian award in India is:",
+      "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Bharat Ratna",
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-04-15",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
     },
     {
       "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
@@ -29,116 +85,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "Income Tax",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "1757",
+        "1764",
+        "1773",
+        "1857"
       ],
-      "answer": "Odisha",
+      "answer": "1757",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
       ],
-      "answer": "Astronomy",
+      "answer": "Red Sea and Mediterranean Sea",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
       "shift": "Evening"
     },
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Forests",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
+      "date": "2023-08-05",
+      "shift": "Afternoon"
     }
   ]
 }
