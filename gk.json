@@ -1,46 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "1950",
+        "1952",
+        "1954",
+        "1956"
       ],
-      "answer": "Kosi",
+      "answer": "1954",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Liver",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Dubai",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
     },
     {
       "question": "Q6:- Which state is known as the 'Granary of India'?",
@@ -57,88 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Africa",
+      "answer": "Tibetan Plateau",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "date": "2025-05-01",
       "shift": "Morning"
     },
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
+      "answer": "France and Germany",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "date": "2025-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
+      "answer": "Sodium Chloride",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "date": "2023-08-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
     }
   ]
 }
