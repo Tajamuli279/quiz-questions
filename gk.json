@@ -1,87 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Atal Bihari Vajpayee",
-        "Dr. B.R. Ambedkar"
-      ],
-      "answer": "Atal Bihari Vajpayee",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:- The chemical symbol for silver is:",
-      "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Ag",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Wular Lake",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
+      "date": "2021-06-01",
       "shift": "Evening"
     },
     {
-      "question": "Q11:- Which is the largest bone in the human body?",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Femur",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "options": [
+        "North India",
+        "South India",
+        "East India",
+        "West India"
+      ],
+      "answer": "South India",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     },
     {
@@ -97,48 +139,6 @@
       "source": "SSC MTS 2024",
       "date": "2024-08-10",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
-      "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
-      ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
     }
   ]
 }
