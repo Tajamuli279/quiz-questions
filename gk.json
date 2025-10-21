@@ -1,34 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
-      "shift": "Morning"
-    },
-    {
       "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
         "Akbar",
@@ -43,102 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
-      "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
-      ],
-      "answer": "June 5",
+      "answer": "11",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
       "shift": "Evening"
     },
     {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "12 years",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "options": [
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
+      "shift": "Morning"
     }
   ]
 }
