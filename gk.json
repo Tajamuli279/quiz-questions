@@ -1,115 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Karnataka",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
-      "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
-      ],
-      "answer": "Thomas Munro",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "USA",
+      "answer": "Won",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Gujarat",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Barometer",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q70:-The smallest union territory of India is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
       "shift": "Evening"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q49:-The capital of Australia is:",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
       ],
-      "answer": "Seismology",
+      "answer": "Canberra",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q93:-Which continent has no deserts?",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "answer": "Europe",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
       "shift": "Afternoon"
     },
     {
@@ -127,17 +85,59 @@
       "shift": "Morning"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Rome",
+      "answer": "Vitamin A",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     }
   ]
