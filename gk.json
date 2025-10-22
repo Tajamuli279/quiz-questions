@@ -1,88 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "Forests",
+      "answer": "Mariana Trench",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
+      "date": "2023-08-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Mars",
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Valmiki",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q68:-The process by which plants make their own food is called:",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "Photosynthesis",
+      "answer": "Carbon Dioxide",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
+      "date": "2022-08-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
@@ -99,32 +71,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Coal",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
+      "shift": "Evening"
     },
     {
       "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
@@ -138,6 +96,48 @@
       "category": "GK",
       "source": "SSC MTS 2025",
       "date": "2025-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
       "shift": "Morning"
     }
   ]
