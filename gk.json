@@ -1,73 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "11",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-The capital of Australia is:",
-      "options": [
+        "London",
+        "Dubai",
         "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Mumbai"
       ],
-      "answer": "Canberra",
+      "answer": "Dubai",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     },
     {
@@ -85,60 +57,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "1757",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Thomas Munro",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Methane",
+      "answer": "Kathakali",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q26:- The longest river in Asia is:",
+      "options": [
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
+      ],
+      "answer": "Yangtze River",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
     }
   ]
 }
