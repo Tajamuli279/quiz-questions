@@ -1,87 +1,73 @@
 {
   "questions": [
     {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "question": "Q76:- The 'Bicameral Legislature' means:",
       "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
+        "One House of Parliament",
+        "Two Houses of Parliament",
+        "Three Houses of Parliament",
+        "No Houses of Parliament"
       ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:-The first artificial satellite launched by India was:",
-      "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
-      ],
-      "answer": "July 22, 1947",
+      "answer": "Two Houses of Parliament",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-09-12",
+      "date": "2025-03-25",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
       ],
-      "answer": "Bengaluru",
+      "answer": "Uttarakhand",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
       "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Income Tax",
+      "answer": "Mumbai",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
+      "date": "2022-04-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Odisha",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
       "shift": "Morning"
     },
     {
@@ -99,46 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "1526",
+      "answer": "1983",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
+    },
+    {
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
+      ],
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
     }
   ]
 }
