@@ -1,46 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Seismology",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
+      "date": "2021-04-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Jaipur",
+      "answer": "New Delhi",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
       "shift": "Morning"
     },
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Asia",
+      "answer": "Protons",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
     },
     {
       "question": "Q21:- The largest democracy in the world is:",
@@ -57,87 +85,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "January 25",
+      "answer": "8",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Astronomy",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     }
   ]
