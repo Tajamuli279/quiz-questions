@@ -1,18 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Barometer",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
     },
     {
       "question": "Q42:-The national animal of India is:",
@@ -29,115 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Asia",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "June 5",
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:-The smallest ocean in the world is:",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
-      ],
-      "answer": "Arctic Ocean",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
-      "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
-      ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2020-03-02",
       "shift": "Morning"
     }
   ]
