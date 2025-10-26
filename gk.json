@@ -1,32 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "1764",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
       "shift": "Evening"
     },
     {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Asia",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
+      "shift": "Morning"
     },
     {
       "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
@@ -43,101 +113,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q16:- Which of the following is a direct tax?",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Income Tax",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
       "shift": "Morning"
     }
   ]
