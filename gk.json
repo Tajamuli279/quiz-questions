@@ -1,46 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Hyderabad",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Ammeter",
+      "answer": "Kerala",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "Valmiki",
-        "Tulsidas",
-        "Vyasa",
-        "Kalidasa"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "Valmiki",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-01-25",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
     },
     {
       "question": "Q17:-The study of earthquakes is known as:",
@@ -57,87 +71,73 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Methane",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "date": "2023-01-22",
       "shift": "Evening"
     },
     {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "Karnataka",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Dadasaheb Phalke",
+      "answer": "Japan",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     }
   ]
