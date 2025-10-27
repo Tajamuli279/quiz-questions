@@ -1,133 +1,21 @@
 {
   "questions": [
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Anemometer",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q60:-The deepest ocean trench in the world is:",
-      "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
-      ],
-      "answer": "Mariana Trench",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
-      "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
-      "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
-      ],
-      "answer": "C. V. Raman",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
         "Chandigarh",
         "Lakshadweep",
@@ -136,9 +24,121 @@
       ],
       "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
+    },
+    {
+      "question": "Q28:-The largest freshwater lake in India is:",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:- The currency of China is:",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Rupee"
+      ],
+      "answer": "Yuan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-08-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
+      "shift": "Evening"
     }
   ]
 }
