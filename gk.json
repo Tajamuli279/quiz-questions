@@ -1,60 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
-      "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
-      ],
-      "answer": "Red Sea and Mediterranean Sea",
+      "answer": "March 22",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-10",
+      "date": "2025-12-18",
       "shift": "Evening"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
     },
     {
       "question": "Q39:- The largest island in the world is:",
@@ -71,74 +43,102 @@
       "shift": "Morning"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II (Vikramaditya)",
+        "Kumargupta I"
       ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-The study of earthquakes is known as:",
-      "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
-      ],
-      "answer": "Seismology",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
+      "answer": "Chandragupta II (Vikramaditya)",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
+      "date": "2025-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q42:-The national animal of India is:",
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
       ],
-      "answer": "Tiger",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
     }
   ]
 }
