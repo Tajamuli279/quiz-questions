@@ -1,60 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "Vallabhbhai Patel",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
       "shift": "Evening"
     },
     {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Red Sea and Mediterranean Sea",
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
+      "date": "2025-05-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
       ],
-      "answer": "India",
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:- The Red Planet is:",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
-      "shift": "Evening"
+      "date": "2024-09-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
@@ -71,73 +113,31 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
       "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
       ],
-      "answer": "Australia",
+      "answer": "C. V. Raman",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
       ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Atal Bihari Vajpayee",
-        "Dr. B.R. Ambedkar"
-      ],
-      "answer": "Atal Bihari Vajpayee",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
+      "answer": "Yen",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-30",
+      "date": "2023-02-05",
       "shift": "Afternoon"
     }
   ]
