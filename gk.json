@@ -1,45 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Geneva",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q85:-The world's largest flower is:",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Rafflesia Arnoldii",
+      "answer": "Ag",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
       ],
-      "answer": "1930",
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
+      "date": "2023-10-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:-The largest continent in the world is:",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
@@ -57,87 +127,17 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
         "Rabindranath Tagore",
         "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
       "shift": "Evening"
     }
   ]
