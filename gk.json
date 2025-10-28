@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Stapes",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "India",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Coal",
+      "answer": "Kerala",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q18:-Which is the highest mountain peak in India?",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "answer": "Paintings",
+      "answer": "Kangchenjunga",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
         "Rajasthan",
+        "Andhra Pradesh",
         "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "Uttar Pradesh"
       ],
       "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
       "shift": "Morning"
     }
   ]
