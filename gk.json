@@ -1,32 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Jaipur",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Swami Vivekananda",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
     },
     {
       "question": "Q84:-The minimum age for voting in India is:",
@@ -43,102 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "India",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
       "shift": "Evening"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "date": "2020-03-02",
       "shift": "Morning"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
       "shift": "Morning"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
     }
   ]
 }
