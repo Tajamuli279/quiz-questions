@@ -1,88 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "April 18",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
     },
     {
       "question": "Q31:-The smallest ocean in the world is:",
@@ -99,46 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
       ],
-      "answer": "New York",
+      "answer": "Madhya Pradesh",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "options": [
+        "Mumbai and Chennai",
+        "Mumbai and Goa",
+        "Mumbai and Mangaluru",
+        "Mumbai and Kochi"
+      ],
+      "answer": "Mumbai and Mangaluru",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-01-01",
+      "date": "2025-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Gujarat",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "12 years",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "options": [
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
+      "shift": "Afternoon"
     }
   ]
 }
