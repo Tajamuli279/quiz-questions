@@ -1,116 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Manila",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Stapes",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
     },
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
       ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
+      "answer": "July 22, 1947",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
+      "date": "2025-09-12",
+      "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Asia",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "answer": "Rajasthan",
+      "answer": "Vitamin K",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
     },
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Geneva",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
+      "shift": "Evening"
     },
     {
       "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
@@ -127,18 +99,46 @@
       "shift": "Morning"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Forest conservation",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
     }
   ]
 }
