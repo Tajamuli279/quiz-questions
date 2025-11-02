@@ -1,115 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q23:-The currency of Japan is:",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Yen",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
+      "answer": "Ladakh",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
-      "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "answer": "Kathakali",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Methane",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Yuan",
+      "answer": "Ammeter",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
-      "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
-      ],
-      "answer": "C. V. Raman",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
-      ],
-      "answer": "Bankim Chandra Chatterjee",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
@@ -127,17 +57,87 @@
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "options": [
+        "1757",
+        "1761",
+        "1764",
+        "1773"
+      ],
+      "answer": "1764",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-06-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q42:-The national animal of India is:",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
+      ],
+      "answer": "Tiger",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
       "shift": "Morning"
     }
   ]
