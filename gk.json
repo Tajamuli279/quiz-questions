@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
+      "answer": "Vitamin A",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-05-01",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
       "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
       ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q42:-The national animal of India is:",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
-      ],
-      "answer": "Tiger",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
+      "answer": "Raja Ram Mohan Roy",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
+      "date": "2023-04-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "options": [
+        "France",
+        "Canada",
+        "China",
+        "Russia"
+      ],
+      "answer": "Canada",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "options": [
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
+      ],
+      "answer": "82.5\u00b0 E",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "options": [
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
       "shift": "Morning"
     }
   ]
