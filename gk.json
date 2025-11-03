@@ -1,46 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Paris",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
       "shift": "Evening"
     },
     {
-      "question": "Q18:-Which is the highest mountain peak in India?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Kangchenjunga",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     },
     {
       "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
@@ -57,88 +43,102 @@
       "shift": "Evening"
     },
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q47:- The smallest Union Territory in India by population is:",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "1757",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Hyderabad",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Yangtze River",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "Kerala",
-        "Karnataka",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
         "Tamil Nadu",
-        "Andhra Pradesh"
+        "Karnataka",
+        "Kerala"
       ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
+      "answer": "Odisha",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "options": [
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
+      ],
+      "answer": "Ganga and Brahmaputra",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
+      "shift": "Morning"
     }
   ]
 }
