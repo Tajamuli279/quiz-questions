@@ -1,62 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q75:-The largest ocean in the world is:",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "answer": "Pacific Ocean",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
       "question": "Q17:- The largest state in India by area is:",
       "options": [
         "Madhya Pradesh",
@@ -71,74 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Rakesh Sharma",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
+      "options": [
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
+      ],
+      "answer": "C. V. Raman",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "1764",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "Shah Jahan",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q42:-The national animal of India is:",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
+      ],
+      "answer": "Tiger",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Bengaluru",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
     }
   ]
 }
