@@ -1,116 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "Yangtze River",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
       "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
       ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
+      "answer": "Dadasaheb Phalke",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q37:- The planet nearest to the Sun is:",
-      "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "date": "2023-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q27:-Which of the following is a direct tax?",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
       ],
-      "answer": "Geneva",
+      "answer": "Income Tax",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "1993",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "answer": "Northern Railway",
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
+      "date": "2022-08-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q15:- The national aquatic animal of India is:",
@@ -127,18 +113,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "January 25",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
     }
   ]
 }
