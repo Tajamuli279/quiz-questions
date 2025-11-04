@@ -1,73 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Lake Superior",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
       "shift": "Morning"
     },
     {
@@ -85,60 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
       "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
       ],
-      "answer": "1993",
+      "answer": "Uttarakhand",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
+      "shift": "Evening"
     },
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
+      ],
+      "answer": "February 28",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
         "Madhya Pradesh"
       ],
-      "answer": "Rajasthan",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Watt",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
     }
   ]
 }
