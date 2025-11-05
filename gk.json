@@ -1,129 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "Liver",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
-      "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
-      ],
-      "answer": "Raja Ram Mohan Roy",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Assam"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
-      "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
-      ],
-      "answer": "Itanagar",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q35:- The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Bharat Ratna",
-        "Padma Shri"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
       "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
       "shift": "Morning"
     },
     {
@@ -139,6 +55,90 @@
       "source": "SSC GD 2025",
       "date": "2025-04-22",
       "shift": "Morning"
+    },
+    {
+      "question": "Q20:- Who designed the Indian Parliament House?",
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
+      ],
+      "answer": "Edwin Lutyens and Herbert Baker",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
     }
   ]
 }
