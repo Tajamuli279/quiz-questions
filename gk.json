@@ -1,18 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
       "shift": "Evening"
+    },
+    {
+      "question": "Q26:- The longest river in Asia is:",
+      "options": [
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
+      ],
+      "answer": "Yangtze River",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
     },
     {
       "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
@@ -29,116 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "Odisha",
-        "Gujarat",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
         "Rajasthan",
-        "Madhya Pradesh"
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "Odisha",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Odisha",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q43:-The largest democratic country in the world is:",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
+        "Earth",
         "Mars",
-        "Saturn",
+        "Mercury",
         "Venus"
       ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q23:-The currency of Japan is:",
-      "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
-      ],
-      "answer": "Yen",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q97:- The 'Currency of South Korea' is:",
-      "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
-      ],
-      "answer": "Won",
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "date": "2025-05-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
     }
   ]
 }
