@@ -1,46 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q85:- The 'International Court of Justice' is located in:",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "The Hague",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "April 18",
+      "answer": "Lake Superior",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "answer": "Australia",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
-      "shift": "Afternoon"
+      "date": "2024-07-07",
+      "shift": "Morning"
     },
     {
       "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
@@ -57,88 +113,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:- The highest waterfall in the world is:",
-      "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
-      ],
-      "answer": "Angel Falls",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
-      "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
-      ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
-      "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
-      ],
-      "answer": "March 22",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
+      "answer": "Swami Vivekananda",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     }
   ]
 }
