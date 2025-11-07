@@ -1,74 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
-      "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
-      ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "date": "2025-08-10",
       "shift": "Morning"
+    },
+    {
+      "question": "Q77:- The largest plateau in the world is:",
+      "options": [
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
+      ],
+      "answer": "Tibetan Plateau",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q19:- The unit of power is:",
@@ -85,59 +57,87 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:- Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Customs Duty",
+        "Income Tax",
+        "Service Tax"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-04-05",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
+        "Mumbai",
         "Hyderabad",
         "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Chennai"
       ],
       "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
       ],
-      "answer": "South India",
+      "answer": "Food grains",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "Kathakali",
+      "answer": "Tiger",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
+      "source": "SSC GD 2023",
+      "date": "2023-01-28",
       "shift": "Morning"
     }
   ]
