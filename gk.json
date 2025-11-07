@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
         "Cricket",
         "Football",
         "Hockey",
-        "Basketball"
+        "Badminton"
       ],
-      "answer": "Football",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "1942",
+        "1945",
+        "1948",
+        "1950"
       ],
-      "answer": "March 22",
+      "answer": "1945",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q18:-Which is the highest mountain peak in India?",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
+      "answer": "Kangchenjunga",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-12",
+      "date": "2023-06-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
     }
   ]
 }
