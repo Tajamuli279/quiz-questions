@@ -1,6 +1,118 @@
 {
   "questions": [
     {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
+      ],
+      "answer": "Protons",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Jai Hind",
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:-The largest freshwater lake in India is:",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "options": [
+        "1928",
+        "1930",
+        "1932",
+        "1935"
+      ],
+      "answer": "1930",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
+      "shift": "Evening"
+    },
+    {
       "question": "Q83:-The largest railway zone in India is:",
       "options": [
         "Northern Railway",
@@ -15,129 +127,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Shah Jahan",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
-      ],
-      "answer": "Greenland",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "9"
-      ],
-      "answer": "11",
+      "answer": "Aryabhata",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
+      "date": "2020-02-28",
       "shift": "Evening"
     }
   ]
