@@ -1,115 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
         "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Freon",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q61:- The largest river in India by volume is:",
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
       "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
-      "answer": "Brahmaputra",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
+      "answer": "Vallabhbhai Patel",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "date": "2021-04-22",
       "shift": "Evening"
     },
     {
-      "question": "Q11:- Which is the largest bone in the human body?",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Femur",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
       "shift": "Morning"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "France and Germany",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
@@ -127,17 +71,73 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q7:- The largest freshwater lake in the world is:",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Bear Lake",
+        "Lake Victoria"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Lake Superior",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
+      "source": "SSC MTS 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
       "shift": "Morning"
     }
   ]
