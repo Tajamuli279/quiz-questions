@@ -1,45 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Kerala",
+      "answer": "North India",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
     },
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
@@ -57,88 +43,102 @@
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "1950",
+        "1952",
+        "1954",
+        "1956"
       ],
-      "answer": "Aryabhata",
+      "answer": "1954",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Coal",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "options": [
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
+      ],
+      "answer": "Forests",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "8",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Uttarakhand",
-        "Sikkim"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Uttarakhand",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-09-08",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
     }
   ]
 }
