@@ -1,130 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Ag",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "USA",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "IT Industry",
+      "answer": "Mariana Trench",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
-      "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
-      ],
-      "answer": "Chandragupta Maurya",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
-      "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
-      "shift": "Evening"
     },
     {
       "question": "Q69:- The capital of Italy is:",
@@ -139,6 +55,90 @@
       "source": "SSC CGL 2025",
       "date": "2025-03-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "options": [
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Raj Kapoor",
+        "Guru Dutt"
+      ],
+      "answer": "Dadasaheb Phalke",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-09-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
     }
   ]
 }
