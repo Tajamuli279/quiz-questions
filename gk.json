@@ -1,18 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q2:-Which Indian state has the longest coastline?",
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
       "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
       ],
-      "answer": "Gujarat",
+      "answer": "Lactometer",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
     },
     {
       "question": "Q61:-The national tree of India is:",
@@ -29,115 +43,101 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Yuan",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q49:- Which vitamin is important for good eyesight?",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "Vitamin A",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "2005",
+      "answer": "Bharat Ratna",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
-      ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:-The highest dam in India is:",
-      "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
-      ],
-      "answer": "Tehri Dam",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
+      "date": "2025-04-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "M.S. Swaminathan",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
+      ],
+      "answer": "Raja Ram Mohan Roy",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
       "shift": "Morning"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q23:- The chemical symbol for silver is:",
+      "options": [
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Ag",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
       "shift": "Morning"
     }
   ]
