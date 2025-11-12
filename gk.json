@@ -1,115 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
       ],
-      "answer": "Hyderabad",
+      "answer": "The time immediately following the Question Hour",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
       "shift": "Morning"
     },
     {
-      "question": "Q98:-The highest dam in India is:",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "Tehri Dam",
+      "answer": "Mariana Trench",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q86:-The 'India Gate' is located in which city?",
-      "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
-      ],
-      "answer": "New Delhi",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "India",
+      "answer": "Kerala",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "Paris",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
       "shift": "Morning"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "Mumbai",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
       "shift": "Evening"
     },
     {
@@ -127,18 +99,46 @@
       "shift": "Morning"
     },
     {
-      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
       "options": [
-        "1947",
-        "1950",
-        "1951",
-        "1956"
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
       ],
-      "answer": "1951",
+      "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-10-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
     }
   ]
 }
