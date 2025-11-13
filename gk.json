@@ -1,32 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q20:- Who designed the Indian Parliament House?",
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
       "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
       ],
-      "answer": "Edwin Lutyens and Herbert Baker",
+      "answer": "Lions",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-Who was the first President of India?",
-      "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
-      ],
-      "answer": "Rajendra Prasad",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
+      "shift": "Evening"
     },
     {
       "question": "Q24:-The first artificial satellite launched by India was:",
@@ -43,60 +29,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q23:-The currency of Japan is:",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
       ],
-      "answer": "Yen",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Anemometer",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Sardar Vallabhbhai Patel",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
       "shift": "Morning"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q37:- The planet nearest to the Sun is:",
@@ -113,31 +113,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Forest conservation",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Yuan",
+      "answer": "Australia",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
       "shift": "Morning"
     }
   ]
