@@ -1,87 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Rajasthan",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
       "shift": "Evening"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Paris",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
@@ -99,46 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q39:- The largest island in the world is:",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Greenland",
+      "answer": "Kathakali",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "question": "Q70:-The smallest union territory of India is:",
       "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
       ],
-      "answer": "1930",
+      "answer": "Lakshadweep",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "options": [
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
+      ],
+      "answer": "Rana Sanga",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q77:- The largest plateau in the world is:",
+      "options": [
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
+      ],
+      "answer": "Tibetan Plateau",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
     }
   ]
 }
