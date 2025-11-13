@@ -1,18 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
       "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
       ],
-      "answer": "Vitamin A",
+      "answer": "July 22, 1947",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q61:- The largest river in India by volume is:",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
+      ],
+      "answer": "Brahmaputra",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-08-01",
+      "date": "2025-11-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q98:-The highest dam in India is:",
+      "options": [
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
+      ],
+      "answer": "Tehri Dam",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q17:-The study of earthquakes is known as:",
+      "options": [
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
+      ],
+      "answer": "Seismology",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
+      "shift": "Afternoon"
     },
     {
       "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
@@ -29,116 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:- Who invented the light bulb?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
-      ],
-      "answer": "Thomas Edison",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
+      "answer": "Nile",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
-      "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
-      ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
-      "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
-      "options": [
-        "540",
-        "543",
-        "545",
-        "552"
-      ],
-      "answer": "543",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Gujarat",
+      "answer": "Ag",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q61:-The national tree of India is:",
+      "options": [
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "options": [
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
+      ],
+      "answer": "Lions",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
+      "shift": "Evening"
     }
   ]
 }
