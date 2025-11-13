@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q63:- The 'Gir National Park' is famous for which animal?",
       "options": [
         "Tigers",
@@ -15,45 +29,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
-      ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
         "Rajasthan",
-        "Odisha"
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     },
     {
@@ -71,74 +57,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "B.R. Ambedkar",
-        "Subhas Chandra Bose"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "Sardar Vallabhbhai Patel",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-18",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Astronomy",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "Mercury",
+      "answer": "Amritsar",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
       "shift": "Morning"
     },
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "Australia",
+      "answer": "Angel Falls",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "date": "2024-09-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
     }
   ]
 }
