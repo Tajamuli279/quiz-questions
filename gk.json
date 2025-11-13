@@ -1,46 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Rome",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
     },
     {
       "question": "Q43:-The largest democratic country in the world is:",
@@ -57,74 +29,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Kathakali",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
       "shift": "Morning"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Gujarat",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "date": "2023-05-10",
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Paris",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Geneva",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
     },
     {
       "question": "Q77:- The largest plateau in the world is:",
@@ -138,6 +124,20 @@
       "category": "GK",
       "source": "SSC CGL 2025",
       "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     }
   ]
