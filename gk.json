@@ -1,129 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q19:- The unit of power is:",
+      "question": "Q98:-The highest dam in India is:",
       "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
       ],
-      "answer": "Watt",
+      "answer": "Tehri Dam",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
+      "question": "Q66:-Who is known as the 'Missile Man of India'?",
       "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
       ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
-      "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
-      ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
+      "answer": "A. P. J. Abdul Kalam",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2023-06-05",
       "shift": "Morning"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q15:- The national aquatic animal of India is:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
       ],
-      "answer": "Mumbai",
+      "answer": "Dolphin",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
       "shift": "Evening"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
-      ],
-      "answer": "Dadasaheb Phalke",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
         "China",
-        "Canada"
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
       "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "options": [
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "answer": "Kathakali",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
       "shift": "Evening"
     },
     {
@@ -138,6 +96,48 @@
       "category": "GK",
       "source": "SSC CHSL 2025",
       "date": "2025-08-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-10-25",
       "shift": "Morning"
     }
   ]
