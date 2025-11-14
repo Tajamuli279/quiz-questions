@@ -1,116 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
       "shift": "Evening"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
       "shift": "Morning"
     },
     {
-      "question": "Q68:-The process by which plants make their own food is called:",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "Photosynthesis",
+      "answer": "30 years",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "8",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
-      "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
-      ],
-      "answer": "Lakshadweep",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
       ],
-      "answer": "Kosi",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
+      "date": "2021-05-15",
+      "shift": "Evening"
     },
     {
       "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
@@ -127,18 +85,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
       ],
-      "answer": "USA",
+      "answer": "Lactometer",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
     }
   ]
 }
