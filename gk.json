@@ -1,88 +1,74 @@
 {
   "questions": [
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "Raja Ram Mohan Roy",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
       "shift": "Morning"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Mahatma Gandhi",
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q37:- The planet nearest to the Sun is:",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "date": "2025-05-10",
       "shift": "Evening"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "Chandragupta Maurya",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
-      "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
+      "answer": "Godavari",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "date": "2022-10-18",
       "shift": "Morning"
+    },
+    {
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
     },
     {
       "question": "Q68:-The process by which plants make their own food is called:",
@@ -99,45 +85,59 @@
       "shift": "Morning"
     },
     {
-      "question": "Q5:- The currency of China is:",
+      "question": "Q41:-The largest river in South India is:",
       "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
       ],
-      "answer": "Yuan",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
       "shift": "Morning"
     },
     {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "February 28",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
       "shift": "Morning"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q76:- The 'Bicameral Legislature' means:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "One House of Parliament",
+        "Two Houses of Parliament",
+        "Three Houses of Parliament",
+        "No Houses of Parliament"
       ],
-      "answer": "Bengaluru",
+      "answer": "Two Houses of Parliament",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC GD 2025",
+      "date": "2025-03-25",
       "shift": "Evening"
     }
   ]
