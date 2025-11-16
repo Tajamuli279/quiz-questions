@@ -1,18 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Amritsar",
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-08-28",
+      "date": "2025-10-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
     },
     {
       "question": "Q26:- The longest river in Asia is:",
@@ -29,115 +99,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
       "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
       ],
-      "answer": "New York",
+      "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "question": "Q61:- The largest river in India by volume is:",
       "options": [
-        "540",
-        "543",
-        "545",
-        "552"
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "answer": "543",
+      "answer": "Brahmaputra",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-28",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Paris",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q51:-Which of the following is a unit of energy?",
-      "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Joule",
+      "answer": "Helium",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
-      "options": [
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Uttarakhand",
-        "Sikkim"
-      ],
-      "answer": "Uttarakhand",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-09-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
-      "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
-      ],
-      "answer": "IT Industry",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
-      "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
-      ],
-      "answer": "M.S. Swaminathan",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
+      "date": "2023-07-01",
       "shift": "Morning"
     }
   ]
