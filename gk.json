@@ -1,116 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q7:- The largest freshwater lake in the world is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
-      ],
-      "answer": "Lake Superior",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
+        "Kerala",
         "Karnataka",
-        "Maharashtra",
-        "Telangana",
+        "Tamil Nadu",
         "Andhra Pradesh"
       ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
+      "answer": "Kerala",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
+      "date": "2021-12-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q51:- The instrument used to measure wind speed is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Anemometer",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
       "shift": "Evening"
     },
     {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
       "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
       ],
-      "answer": "June 5",
+      "answer": "Jaipur",
       "category": "GK",
       "source": "SSC CGL 2020",
-      "date": "2020-03-10",
+      "date": "2020-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Food grains",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
     },
     {
       "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
@@ -127,18 +71,74 @@
       "shift": "Evening"
     },
     {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Methane",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
     }
   ]
 }
