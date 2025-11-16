@@ -1,45 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
       ],
-      "answer": "Aryabhata",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
+      "answer": "Amritsar",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
-      "options": [
-        "January 15",
-        "February 28",
-        "March 22",
-        "April 7"
-      ],
-      "answer": "February 28",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-18",
+      "date": "2025-08-28",
       "shift": "Morning"
     },
     {
@@ -57,87 +29,115 @@
       "shift": "Morning"
     },
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "30 years",
+      "answer": "New York",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "Liver",
+      "answer": "543",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
       "shift": "Evening"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
       ],
-      "answer": "Neptune",
+      "answer": "Paris",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
       "shift": "Afternoon"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q51:-Which of the following is a unit of energy?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
       ],
-      "answer": "Kerala",
+      "answer": "Joule",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
       "shift": "Morning"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
       ],
-      "answer": "11",
+      "answer": "Uttarakhand",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
       "shift": "Morning"
     }
   ]
