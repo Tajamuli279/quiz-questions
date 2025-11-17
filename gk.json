@@ -1,46 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Paintings",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
       "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
+        "London",
+        "Dubai",
+        "Sydney",
+        "Mumbai"
       ],
-      "answer": "Vitamin A",
+      "answer": "Dubai",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
     },
     {
       "question": "Q72:- The 'Statue of Liberty' is located in which city?",
@@ -57,88 +43,102 @@
       "shift": "Morning"
     },
     {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
       "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Chandragupta II (Vikramaditya)",
+      "answer": "Tamil Nadu",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
       "shift": "Evening"
     },
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "35 years",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "July 22, 1947",
-        "January 24, 1950"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "July 22, 1947",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-12",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q50:- The highest waterfall in the world is:",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "answer": "Angel Falls",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
       "shift": "Evening"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
     }
   ]
 }
