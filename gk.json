@@ -1,74 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "USA",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:- The currency of China is:",
-      "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
-      ],
-      "answer": "Yuan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
-      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
       "options": [
-        "Swami Dayanand Saraswati",
-        "Ramakrishna Paramahamsa",
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy"
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
       ],
-      "answer": "Swami Vivekananda",
+      "answer": "Food grains",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-09-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:- The instrument used to measure wind speed is:",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hydrometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "options": [
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
+      ],
+      "answer": "April 18",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
       "shift": "Afternoon"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "options": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
+      ],
+      "answer": "M.S. Swaminathan",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
     },
     {
       "question": "Q70:-The smallest union territory of India is:",
@@ -85,60 +127,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Pacific Ocean",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
     }
   ]
 }
