@@ -1,88 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
       ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
-      "options": [
-        "June 5",
-        "June 21",
-        "July 11",
-        "August 12"
-      ],
-      "answer": "June 21",
+      "answer": "Au",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-30",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
+      "date": "2023-01-18",
+      "shift": "Evening"
     },
     {
       "question": "Q33:-The gas responsible for global warming is:",
@@ -99,46 +29,116 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "1757",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Saturn",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q70:-The smallest union territory of India is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Kerala",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-05-20",
-      "shift": "Evening"
+      "date": "2023-07-20",
+      "shift": "Morning"
     }
   ]
 }
