@@ -1,101 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "question": "Q31:- The smallest bone in the human body is:",
       "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
       ],
-      "answer": "Nitrous Oxide",
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-05",
+      "date": "2025-03-15",
       "shift": "Morning"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q43:- The study of insects is called:",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
       ],
-      "answer": "Canada",
+      "answer": "Entomology",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
-      "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
       "shift": "Evening"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Paris",
+      "answer": "Kathakali",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
+      "question": "Q20:-The largest desert in the world is:",
       "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
       ],
-      "answer": "Lions",
+      "answer": "Sahara Desert",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
     },
     {
@@ -113,32 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Chandragupta Maurya",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-03-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Income Tax",
+      "answer": "Shah Jahan",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
     }
   ]
 }
