@@ -1,74 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "540",
+        "543",
+        "545",
+        "552"
       ],
-      "answer": "Forest conservation",
+      "answer": "543",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
-      "options": [
-        "Nitrous Oxide",
-        "Carbon Dioxide",
-        "Sulphur Dioxide",
-        "Methane"
-      ],
-      "answer": "Nitrous Oxide",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
     },
     {
       "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
@@ -85,59 +29,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "answer": "Manila",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q84:-The minimum age for voting in India is:",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "answer": "18 years",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
       "shift": "Evening"
     },
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Mercury",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-10",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
       "shift": "Evening"
     },
     {
-      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "9"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "11",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-08",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     }
   ]
