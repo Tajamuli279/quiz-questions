@@ -1,74 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "The time immediately following the Question Hour",
+      "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
-      "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
-      ],
-      "answer": "Karnam Malleswari",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
-      "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
-      ],
-      "answer": "Rana Sanga",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q61:- The largest river in India by volume is:",
-      "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
-      ],
-      "answer": "Brahmaputra",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
     },
     {
       "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
@@ -85,60 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q56:- The 'National Flag of India' was adopted on:",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "January 24, 1950"
+      ],
+      "answer": "July 22, 1947",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-12",
       "shift": "Evening"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q21:- The largest democracy in the world is:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Cricket",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
+      "source": "SSC CGL 2024",
+      "date": "2024-12-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
-      "shift": "Evening"
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "1990",
+        "1993",
+        "1995",
+        "1998"
       ],
-      "answer": "Northern Railway",
+      "answer": "1993",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "options": [
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
+      ],
+      "answer": "Barometer",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
     }
   ]
 }
