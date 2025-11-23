@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q15:-What is the chemical symbol for gold?",
+      "question": "Q23:- The chemical symbol for silver is:",
       "options": [
-        "Ag",
         "Au",
+        "Ag",
         "Cu",
         "Fe"
       ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
+      "answer": "Ag",
       "category": "GK",
       "source": "SSC MTS 2024",
-      "date": "2024-04-20",
+      "date": "2024-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Mercury",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q43:- The study of insects is called:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
       ],
-      "answer": "USA",
+      "answer": "Entomology",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "date": "2025-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q42:-The national animal of India is:",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "Elephant",
-        "Lion",
-        "Tiger",
-        "Peacock"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "answer": "Tiger",
+      "answer": "Vitamin K",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-28",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q86:-The 'India Gate' is located in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
       "shift": "Morning"
     }
   ]
