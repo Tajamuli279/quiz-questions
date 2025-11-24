@@ -1,62 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:- Who invented the light bulb?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
-      ],
-      "answer": "Thomas Edison",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
-      "shift": "Morning"
-    },
-    {
       "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
         "Maharashtra",
@@ -71,73 +15,129 @@
       "shift": "Evening"
     },
     {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Forest conservation",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "date": "2025-07-18",
       "shift": "Afternoon"
     },
     {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Punjab",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "options": [
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
+      ],
+      "answer": "April 18",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
       "shift": "Evening"
     }
   ]
