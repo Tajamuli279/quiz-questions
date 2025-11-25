@@ -1,34 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
-      "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
-      ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
       "question": "Q28:- Who invented the light bulb?",
       "options": [
         "Alexander Graham Bell",
@@ -43,102 +15,130 @@
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Nitrous Oxide",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:- The study of insects is called:",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Botany"
+      ],
+      "answer": "Entomology",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-15",
       "shift": "Evening"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Ladakh",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
       ],
-      "answer": "Northern Railway",
+      "answer": "Africa",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
       "shift": "Evening"
     },
     {
-      "question": "Q75:-The largest ocean in the world is:",
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Pacific Ocean",
+      "answer": "Punjab",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:- The chemical symbol for silver is:",
-      "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Ag",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
       "shift": "Evening"
+    },
+    {
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:- The largest plateau in the world is:",
+      "options": [
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
+      ],
+      "answer": "Tibetan Plateau",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
     }
   ]
 }
