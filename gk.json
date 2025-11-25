@@ -1,73 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "J. Jayalalithaa",
+        "Mamata Banerjee",
+        "Sucheta Kriplani",
+        "Mayawati"
       ],
-      "answer": "Angel Falls",
+      "answer": "Sucheta Kriplani",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "source": "SSC GD 2024",
+      "date": "2024-02-10",
       "shift": "Morning"
     },
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "North India",
+        "South India",
+        "East India",
+        "West India"
       ],
-      "answer": "January 25",
+      "answer": "South India",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:-The highest civilian award in India is:",
-      "options": [
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri",
-        "Bharat Ratna"
-      ],
-      "answer": "Bharat Ratna",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
+      "source": "SSC CHSL 2025",
+      "date": "2025-02-20",
       "shift": "Evening"
     },
     {
@@ -85,59 +43,101 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Jaipur",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
       "options": [
-        "Rome",
-        "Paris",
-        "London",
-        "Geneva"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Paris",
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-05-08",
+      "date": "2025-02-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:-What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Astronomy",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
       "shift": "Afternoon"
     }
   ]
