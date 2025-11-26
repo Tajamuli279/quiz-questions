@@ -1,87 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Mumbai",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
-      "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
-      ],
-      "answer": "Canada",
+      "answer": "Godavari",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-01",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
       "shift": "Morning"
     },
     {
@@ -99,46 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
       ],
-      "answer": "Anemometer",
+      "answer": "Valmiki",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
       ],
-      "answer": "Coal",
+      "answer": "The time immediately following the Question Hour",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
       "shift": "Afternoon"
     },
     {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "USA",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-10-10",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     }
   ]
 }
