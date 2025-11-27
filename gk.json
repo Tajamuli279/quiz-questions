@@ -1,60 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
       "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
     },
     {
       "question": "Q83:- The 'Good Governance Day' in India is celebrated on the birthday of:",
@@ -68,6 +26,20 @@
       "category": "GK",
       "source": "SSC MTS 2025",
       "date": "2025-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
@@ -85,60 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Sahara Desert",
+      "answer": "Europe",
       "category": "GK",
       "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Indian Ocean",
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
         "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Pacific Ocean",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Rajasthan",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "1954",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q23:-The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupee"
+      ],
+      "answer": "Yen",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
     }
   ]
 }
