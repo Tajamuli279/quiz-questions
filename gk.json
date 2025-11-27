@@ -1,73 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
       ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
-      "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
-      ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q21:- The largest democracy in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q53:- Who discovered the theory of relativity?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
-      ],
-      "answer": "Albert Einstein",
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "date": "2025-07-15",
       "shift": "Morning"
     },
     {
@@ -85,60 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Japan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-25",
       "shift": "Morning"
     },
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Delhi",
+        "Lucknow",
+        "Hyderabad",
+        "Agra"
       ],
-      "answer": "Stapes",
+      "answer": "Hyderabad",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "source": "SSC GD 2023",
+      "date": "2023-02-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q28:- Who invented the light bulb?",
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Marie Curie"
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
       ],
-      "answer": "Thomas Edison",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-02-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
       "shift": "Morning"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Liver",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
-      "shift": "Morning"
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
     }
   ]
 }
