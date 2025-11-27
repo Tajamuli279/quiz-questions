@@ -1,18 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Pakistan and Afghanistan",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q52:-The total number of Lok Sabha constituencies in India is:",
+      "options": [
+        "540",
+        "543",
+        "545",
+        "552"
+      ],
+      "answer": "543",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
+      "options": [
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
+      ],
+      "answer": "USA",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q84:- The 'UNESCO' headquarters is located in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "answer": "Paris",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-05-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q54:- The 'World Heritage Day' is celebrated on:",
@@ -29,115 +71,73 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Kavi Pradeep",
-        "Allama Iqbal"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Shah Jahan",
       "category": "GK",
       "source": "SSC CHSL 2021",
-      "date": "2021-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
+      "date": "2021-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
       "options": [
-        "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
       ],
-      "answer": "Australia",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
-      "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
+      "answer": "Mumbai",
       "category": "GK",
       "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
+      "date": "2022-04-01",
       "shift": "Evening"
     },
     {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "Karnataka",
+      "answer": "Astronomy",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q60:-The deepest ocean trench in the world is:",
+      "options": [
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
+      ],
+      "answer": "Mariana Trench",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
       "shift": "Afternoon"
     }
   ]
