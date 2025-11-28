@@ -1,115 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Paintings",
+      "answer": "New Delhi",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
-      ],
-      "answer": "Japan",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
-      ],
-      "answer": "Coal",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
-      "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
-      ],
-      "answer": "1954",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
       "shift": "Morning"
     },
     {
@@ -127,18 +29,116 @@
       "shift": "Evening"
     },
     {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
       "options": [
-        "Mumbai",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "options": [
+        "Red Sea and Mediterranean Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Black Sea and Aegean Sea",
+        "Arctic Ocean and Atlantic Ocean"
+      ],
+      "answer": "Red Sea and Mediterranean Sea",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-03-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
         "Hyderabad",
         "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Thiruvananthapuram"
       ],
       "answer": "Bengaluru",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
       "shift": "Evening"
+    },
+    {
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
     }
   ]
 }
