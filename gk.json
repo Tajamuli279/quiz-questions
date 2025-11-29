@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Protons",
+      "answer": "Watt",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q20:-The largest desert in the world is:",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
+        "Ganga",
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Sahara Desert",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q2:-Which Indian state has the longest coastline?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
       ],
-      "answer": "Wular Lake",
+      "answer": "Gujarat",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q84:-The minimum age for voting in India is:",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
       ],
-      "answer": "Rome",
+      "answer": "18 years",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Jaipur",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q98:-The highest dam in India is:",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Tehri Dam",
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-11-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "options": [
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
+      ],
+      "answer": "Astronomy",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q17:-The study of earthquakes is known as:",
+      "options": [
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
+      ],
+      "answer": "Seismology",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q1:-Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Rajendra Prasad",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
-      "options": [
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Uttarakhand",
-        "Sikkim"
-      ],
-      "answer": "Uttarakhand",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-09-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "date": "2023-07-14",
       "shift": "Morning"
     }
   ]
