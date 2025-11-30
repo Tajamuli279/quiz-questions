@@ -1,73 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q3:- The smallest country in the world by area is:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
       ],
-      "answer": "Lactometer",
+      "answer": "Vatican City",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
       "shift": "Morning"
     },
     {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Bengaluru",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:- The national aquatic animal of India is:",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "answer": "Dolphin",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
       "shift": "Evening"
     },
     {
-      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
       "options": [
-        "Chandigarh",
-        "Lakshadweep",
-        "Daman and Diu",
-        "Puducherry"
+        "C. V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
       ],
-      "answer": "Lakshadweep",
+      "answer": "Rabindranath Tagore",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-10",
+      "source": "SSC GD 2023",
+      "date": "2023-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
       ],
-      "answer": "Liver",
+      "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
       "shift": "Morning"
     },
     {
@@ -85,60 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q13:- The instrument used to measure electric current is:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Ammeter",
+      "answer": "Rajasthan",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-10-10",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Chandragupta Maurya",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
+      "answer": "Punjab",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-20",
+      "date": "2022-09-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
-      "options": [
-        "Tigers",
-        "Elephants",
-        "Lions",
-        "Rhinos"
-      ],
-      "answer": "Lions",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-11-15",
-      "shift": "Evening"
     }
   ]
 }
