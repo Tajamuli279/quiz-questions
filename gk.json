@@ -1,102 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
-      ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q83:-The largest railway zone in India is:",
-      "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
-      ],
-      "answer": "Northern Railway",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
-      "options": [
-        "C. V. Raman",
-        "Rabindranath Tagore",
-        "Amartya Sen",
-        "Hargobind Khorana"
-      ],
-      "answer": "C. V. Raman",
+      "answer": "Undersea earthquakes",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
+      "date": "2025-06-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
       ],
-      "answer": "Coal",
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-07-25",
-      "shift": "Afternoon"
+      "date": "2022-09-05",
+      "shift": "Evening"
     },
     {
       "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
@@ -113,32 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Mercury",
+      "answer": "Chandragupta Maurya",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-03-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q63:-The largest continent in the world is:",
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
       "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
       ],
-      "answer": "Asia",
+      "answer": "Maharashtra",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
+      "shift": "Evening"
     }
   ]
 }
