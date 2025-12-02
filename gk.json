@@ -1,32 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q23:-The currency of Japan is:",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:- The currency of China is:",
-      "options": [
+        "Yuan",
         "Won",
         "Yen",
-        "Yuan",
         "Rupee"
       ],
-      "answer": "Yuan",
+      "answer": "Yen",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
+      "source": "SSC GD 2023",
+      "date": "2023-02-05",
+      "shift": "Afternoon"
     },
     {
       "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
@@ -43,102 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Paintings",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
         "Oxygen",
         "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "Freon",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
       "shift": "Afternoon"
     },
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Isotopes"
       ],
-      "answer": "Anemometer",
+      "answer": "Protons",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q94:-The first woman Prime Minister of India was:",
-      "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
-      ],
-      "answer": "Indira Gandhi",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
+      "date": "2025-04-28",
       "shift": "Morning"
     },
     {
-      "question": "Q19:- The unit of power is:",
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
       "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
       ],
-      "answer": "Watt",
+      "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Astronomy",
+      "answer": "Rome",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
     }
   ]
 }
