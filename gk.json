@@ -1,45 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Yangtze River",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
       "shift": "Afternoon"
     },
     {
@@ -57,87 +29,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
       ],
-      "answer": "Hyderabad",
+      "answer": "March 22",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
-      "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
-      ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
+      "source": "SSC GD 2025",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q18:- The 'Panchayati Raj' system was first adopted by which state in India?",
+      "question": "Q61:- The largest river in India by volume is:",
       "options": [
-        "Rajasthan",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Uttar Pradesh"
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "answer": "Rajasthan",
+      "answer": "Brahmaputra",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-10-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
       "shift": "Morning"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
-        "Jai Hind",
-        "Incredible India"
+        "Ammeter",
+        "Barometer",
+        "Thermometer",
+        "Hydrometer"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "Barometer",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
+      "source": "SSC MTS 2022",
+      "date": "2022-10-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "India",
+      "answer": "Photosynthesis",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": "Babur",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "date": "2024-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:- The planet nearest to the Sun is:",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "answer": "Mercury",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     }
   ]
