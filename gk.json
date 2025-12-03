@@ -1,6 +1,34 @@
 {
   "questions": [
     {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
+      "shift": "Morning"
+    },
+    {
       "question": "Q48:-The longest river in the world is:",
       "options": [
         "Amazon",
@@ -15,129 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "Africa",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-12-01",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q77:- The largest plateau in the world is:",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "Deccan Plateau",
+        "Tibetan Plateau",
+        "Patagonian Plateau",
+        "Colorado Plateau"
       ],
-      "answer": "Madhya Pradesh",
+      "answer": "Tibetan Plateau",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q69:- The capital of Italy is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
       ],
-      "answer": "Bengaluru",
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "India",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
-      "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the highest mountain peak in India?",
-      "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
       "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q95:-The famous 'Charminar' is located in which Indian city?",
+      "question": "Q98:-The highest dam in India is:",
       "options": [
-        "Delhi",
-        "Lucknow",
-        "Hyderabad",
-        "Agra"
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
       ],
-      "answer": "Hyderabad",
+      "answer": "Tehri Dam",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-20",
-      "shift": "Evening"
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "M.S. Swaminathan",
+      "answer": "Greenland",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
       "shift": "Morning"
     },
     {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
+      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
       "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
+        "Amazon and Orinoco",
+        "Mississippi and Missouri",
+        "Ganga and Brahmaputra",
+        "Nile and Congo"
       ],
-      "answer": "Mumbai and Mangaluru",
+      "answer": "Ganga and Brahmaputra",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-08-18",
       "shift": "Morning"
     }
   ]
