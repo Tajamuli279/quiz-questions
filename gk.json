@@ -1,563 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q1:- Who was the first Lieutenant Governor of the Union Territory of Jammu and Kashmir?",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Satya Pal Malik",
-        "Girish Chandra Murmu",
-        "Manoj Sinha",
-        "Radha Krishna Mathur"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Girish Chandra Murmu",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "JKSSB Panchayat Account Assistant 2020",
-      "date": "2020-11-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which article of the Indian Constitution deals with the abolition of Untouchability?",
-      "options": [
-        "Article 16",
-        "Article 17",
-        "Article 18",
-        "Article 21"
-      ],
-      "answer": "Article 17",
-      "category": "Polity",
-      "source": "SSC CGL 2022",
-      "date": "2022-12-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q3:- The 'Hemis National Park', famous for Snow Leopards, is located in:",
-      "options": [
-        "Himachal Pradesh",
-        "Arunachal Pradesh",
-        "Ladakh",
-        "Jammu & Kashmir"
-      ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "JKSSB Class IV 2021",
-      "date": "2021-02-27",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Chemical formula for 'Laughing Gas' is:",
-      "options": [
-        "NO",
-        "N2O",
-        "NO2",
-        "N2O5"
-      ],
-      "answer": "N2O",
-      "category": "Science",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:- Which river is known as 'Vitasta' in ancient Sanskrit texts?",
-      "options": [
-        "Chenab",
-        "Ravi",
-        "Jhelum",
-        "Indus"
-      ],
-      "answer": "Jhelum",
-      "category": "GK",
-      "source": "JKSSB Junior Assistant 2022",
-      "date": "2022-01-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:- The Battle of Plassey was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1857",
-        "1947"
-      ],
-      "answer": "1757",
-      "category": "History",
-      "source": "SSC CGL 2020",
-      "date": "2021-08-13",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:- Which instrument is used to measure atmospheric pressure?",
-      "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Seismograph"
-      ],
-      "answer": "Barometer",
-      "category": "Science",
-      "source": "SSC MTS 2022",
-      "date": "2023-05-02",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q8:- Who is known as the 'Iron Man of India'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Subhash Chandra Bose"
-      ],
-      "answer": "Sardar Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:- The 'Martand Sun Temple' is located in which district of J&K?",
-      "options": [
-        "Srinagar",
-        "Anantnag",
-        "Baramulla",
-        "Jammu"
-      ],
-      "answer": "Anantnag",
-      "category": "GK",
-      "source": "JKSSB Sub Inspector 2022",
-      "date": "2022-03-27",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:- Which vitamin is also known as Ascorbic Acid?",
-      "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
-      ],
-      "answer": "Vitamin C",
-      "category": "Science",
-      "source": "SSC CGL 2019",
-      "date": "2020-03-03",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q11:- In computer terminology, what does 'RAM' stand for?",
-      "options": [
-        "Read Access Memory",
-        "Random Access Memory",
-        "Read Automated Memory",
-        "Random Automated Memory"
-      ],
-      "answer": "Random Access Memory",
-      "category": "Computer",
-      "source": "SSC CHSL 2020",
-      "date": "2020-10-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:- Which is the largest freshwater lake in India?",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Loktak Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "JKSSB Finance Account Assistant 2024",
-      "date": "2024-01-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:- The 2024 Summer Olympics were held in:",
-      "options": [
-        "Tokyo",
-        "Paris",
-        "Los Angeles",
-        "London"
-      ],
-      "answer": "Paris",
-      "category": "Current Affairs",
       "source": "SSC CGL 2024",
-      "date": "2024-09-09",
+      "date": "2024-10-10",
       "shift": "Morning"
     },
     {
-      "question": "Q14:- Who wrote the book 'Rajtarangini'?",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "Kalhana",
-        "Bilhana",
-        "Banabhatta",
-        "Kautilya"
+        "USA",
+        "India",
+        "China",
+        "Canada"
       ],
-      "answer": "Kalhana",
-      "category": "History",
-      "source": "JKSSB Graduate Level 2021",
-      "date": "2021-10-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:- Which gas is used in electric bulbs?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Hydrogen"
-      ],
-      "answer": "Argon",
-      "category": "Science",
-      "source": "SSC CGL 2021",
-      "date": "2022-04-11",
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
     },
     {
-      "question": "Q16:- The 'Gulmarg' hill station was originally known as:",
-      "options": [
-        "Gaurimarg",
-        "Sonamarg",
-        "Yusmarg",
-        "Khilanmarg"
-      ],
-      "answer": "Gaurimarg",
-      "category": "GK",
-      "source": "JKSSB Naib Tehsildar 2018",
-      "date": "2018-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:- Deficiancy of Iron causes:",
-      "options": [
-        "Goitre",
-        "Anaemia",
-        "Scurvy",
-        "Rickets"
-      ],
-      "answer": "Anaemia",
-      "category": "Science",
-      "source": "SSC CHSL 2022",
-      "date": "2023-03-09",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q18:- What is the SI unit of Force?",
-      "options": [
-        "Pascal",
-        "Joule",
-        "Newton",
-        "Watt"
-      ],
-      "answer": "Newton",
-      "category": "Science",
-      "source": "SSC MTS 2021",
-      "date": "2022-07-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:- Who appoints the Chief Justice of India?",
-      "options": [
-        "Prime Minister",
-        "President",
-        "Lok Sabha Speaker",
-        "Law Minister"
-      ],
-      "answer": "President",
-      "category": "Polity",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- The 'Dachigam National Park' is famous for which animal?",
-      "options": [
-        "Musk Deer",
-        "Hangul (Kashmir Stag)",
-        "Snow Leopard",
-        "Asiatic Lion"
-      ],
-      "answer": "Hangul (Kashmir Stag)",
-      "category": "GK",
-      "source": "JKSSB Forester 2022",
-      "date": "2022-06-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:- Which lake in Kashmir is known as the 'Jewel in the Crown of Kashmir'?",
-      "options": [
-        "Wular Lake",
-        "Dal Lake",
-        "Manasbal Lake",
-        "Gangabal Lake"
-      ],
-      "answer": "Dal Lake",
-      "category": "GK",
-      "source": "JKSSB Panchayat Secretary 2022",
-      "date": "2022-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:- Who founded the 'Arya Samaj' in 1875?",
-      "options": [
-        "Raja Ram Mohan Roy",
-        "Swami Vivekananda",
-        "Swami Dayanand Saraswati",
-        "Ishwar Chandra Vidyasagar"
-      ],
-      "answer": "Swami Dayanand Saraswati",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-17",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q23:- The 'Instrument of Accession' of J&K to India was signed by:",
-      "options": [
-        "Sheikh Abdullah",
-        "Maharaja Hari Singh",
-        "Mehr Chand Mahajan",
-        "Karan Singh"
-      ],
-      "answer": "Maharaja Hari Singh",
-      "category": "GK",
-      "source": "JKSSB Sub Inspector 2022",
-      "date": "2022-03-27",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q24:- Which Article of the Indian Constitution deals with the 'Finance Commission'?",
-      "options": [
-        "Article 280",
-        "Article 324",
-        "Article 360",
-        "Article 110"
-      ],
-      "answer": "Article 280",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-04",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:- 'Pampore' in Jammu & Kashmir is famous worldwide for the cultivation of:",
-      "options": [
-        "Apple",
-        "Walnut",
-        "Saffron",
-        "Apricot"
-      ],
-      "answer": "Saffron",
-      "category": "GK",
-      "source": "JKSSB Class IV 2021",
-      "date": "2021-02-28",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q26:- The classical dance form 'Kuchipudi' belongs to which state?",
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
       "options": [
         "Kerala",
+        "Karnataka",
         "Tamil Nadu",
-        "Andhra Pradesh",
-        "Odisha"
+        "Andhra Pradesh"
       ],
-      "answer": "Andhra Pradesh",
+      "answer": "Tamil Nadu",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2023-05-09",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
       "shift": "Evening"
     },
     {
-      "question": "Q27:- Who wrote the famous book 'Discovery of India'?",
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Patel",
-        "Rabindranath Tagore"
+        "1942",
+        "1945",
+        "1948",
+        "1950"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "1945",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2021-08-16",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
       "shift": "Morning"
     },
     {
-      "question": "Q28:- The 'Baglihar Hydroelectric Power Project' is built on which river?",
-      "options": [
-        "Indus",
-        "Jhelum",
-        "Chenab",
-        "Ravi"
-      ],
-      "answer": "Chenab",
-      "category": "GK",
-      "source": "JKSSB Junior Engineer 2023",
-      "date": "2023-11-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q29:- Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Venus",
-        "Jupiter",
-        "Mars",
-        "Saturn"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2023-01-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q30:- The 'Shankaracharya Temple' in Srinagar is dedicated to which deity?",
-      "options": [
-        "Lord Vishnu",
-        "Lord Shiva",
-        "Goddess Durga",
-        "Lord Rama"
-      ],
-      "answer": "Lord Shiva",
-      "category": "GK",
-      "source": "JKSSB Naib Tehsildar 2018",
-      "date": "2018-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q31:- In which year was the 'Project Tiger' launched in India?",
-      "options": [
-        "1972",
-        "1973",
-        "1980",
-        "1986"
-      ],
-      "answer": "1973",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q32:- Which Mughal Emperor built the 'Shalimar Bagh' in Srinagar?",
-      "options": [
-        "Akbar",
-        "Jahangir",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "answer": "Jahangir",
-      "category": "GK",
-      "source": "JKSSB Finance Account Assistant 2024",
-      "date": "2024-01-28",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q33:- What is the full form of 'GDP' in economics?",
-      "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "Global Domestic Product",
-        "Gross Daily Production"
-      ],
-      "answer": "Gross Domestic Product",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-02",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q34:- The 'Reorganization Act of J&K' came into effect on:",
-      "options": [
-        "5th August 2019",
-        "31st October 2019",
-        "26th January 2020",
-        "15th August 2019"
-      ],
-      "answer": "31st October 2019",
-      "category": "GK",
-      "source": "JKSSB Depot Assistant 2021",
-      "date": "2021-09-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q35:- Who was the first woman President of Indian National Congress?",
-      "options": [
-        "Sarojini Naidu",
-        "Annie Besant",
-        "Indira Gandhi",
-        "Sucheta Kripalani"
-      ],
-      "answer": "Annie Besant",
-      "category": "GK",
-      "source": "SSC CGL 2019",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q36:- Which soil is best suited for Cotton cultivation?",
-      "options": [
-        "Alluvial Soil",
-        "Red Soil",
-        "Black Soil (Regur)",
-        "Laterite Soil"
-      ],
-      "answer": "Black Soil (Regur)",
-      "category": "GK",
-      "source": "SSC MTS 2021",
-      "date": "2022-07-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q37:- 'Burzahom', an ancient archaeological site, is located in:",
-      "options": [
-        "Jammu",
-        "Kashmir Valley",
-        "Ladakh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Kashmir Valley",
-      "category": "GK",
-      "source": "JKSSB Supervisor 2024",
-      "date": "2024-06-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:- Which acid is present in Ant stings?",
-      "options": [
-        "Acetic Acid",
-        "Formic Acid (Methanoic Acid)",
-        "Citric Acid",
-        "Lactic Acid"
-      ],
-      "answer": "Formic Acid (Methanoic Acid)",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2023-03-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:- The 'Karakoram Pass' connects India with which country?",
-      "options": [
-        "Pakistan",
-        "Afghanistan",
-        "China",
-        "Nepal"
-      ],
-      "answer": "China",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:- Which is the longest river in Peninsular India?",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
         "Krishna",
-        "Cauvery",
         "Godavari",
+        "Cauvery",
         "Narmada"
       ],
       "answer": "Godavari",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2022-04-13",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:- The national aquatic animal of India is:",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "answer": "Dolphin",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-07-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
+        "Satyamev Jayate",
+        "Vande Mataram",
+        "Jai Hind",
+        "Incredible India"
+      ],
+      "answer": "Satyamev Jayate",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
+      "options": [
+        "1990",
+        "1993",
+        "1995",
+        "1998"
+      ],
+      "answer": "1993",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-08-01",
       "shift": "Afternoon"
     }
   ]
