@@ -1,6 +1,90 @@
 {
   "questions": [
     {
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:- The smallest country in the world by area is:",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Nauru",
+        "San Marino"
+      ],
+      "answer": "Vatican City",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
       "options": [
         "Samudragupta",
@@ -15,130 +99,46 @@
       "shift": "Evening"
     },
     {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "question": "Q59:- The 'Grand Canyon' is located in which country?",
       "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
+        "Canada",
+        "USA",
+        "Mexico",
+        "Australia"
       ],
-      "answer": "Bengaluru",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-03-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:- The unit of power is:",
-      "options": [
-        "Joule",
-        "Watt",
-        "Volt",
-        "Ampere"
-      ],
-      "answer": "Watt",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-08-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-10-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
+      "question": "Q37:- The planet nearest to the Sun is:",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
-      "options": [
-        "Mercury",
+        "Earth",
         "Mars",
-        "Venus",
-        "Pluto"
+        "Mercury",
+        "Venus"
       ],
       "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q85:-The world's largest flower is:",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
       ],
-      "answer": "Kathakali",
+      "answer": "Rafflesia Arnoldii",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
-      "shift": "Morning"
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
     }
   ]
 }
