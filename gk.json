@@ -1,6 +1,48 @@
 {
   "questions": [
     {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
+      ],
+      "answer": "Freon",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-02-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
+    },
+    {
       "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
         "Kerala",
@@ -15,130 +57,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "question": "Q28:- Who invented the light bulb?",
       "options": [
-        "82.5\u00b0 E",
-        "78.5\u00b0 E",
-        "90.5\u00b0 E",
-        "75.5\u00b0 E"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
       ],
-      "answer": "82.5\u00b0 E",
+      "answer": "Thomas Edison",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-10",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     },
     {
-      "question": "Q51:- The instrument used to measure wind speed is:",
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
       "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
       ],
-      "answer": "Anemometer",
+      "answer": "Girl child education and gender ratio",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q66:- The 'Charminar' is located in which Indian city?",
-      "options": [
-        "Lucknow",
-        "Hyderabad",
-        "Agra",
-        "Delhi"
-      ],
-      "answer": "Hyderabad",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-01-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "question": "Q26:- The longest river in Asia is:",
       "options": [
         "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
+        "Yellow River",
+        "Yangtze River",
+        "Mekong River"
       ],
-      "answer": "Kosi",
+      "answer": "Yangtze River",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
+      "source": "SSC CHSL 2024",
+      "date": "2024-03-05",
       "shift": "Morning"
     },
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q39:- The largest island in the world is:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
       ],
-      "answer": "USA",
+      "answer": "Greenland",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "date": "2025-05-30",
       "shift": "Morning"
     },
     {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
       "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
       ],
-      "answer": "South India",
+      "answer": "IT Industry",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q81:-Who was the first Indian to go to space?",
+      "options": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "answer": "Rakesh Sharma",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
     }
   ]
 }
