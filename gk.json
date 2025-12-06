@@ -1,143 +1,143 @@
 {
   "questions": [
     {
-      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
+        "China",
+        "India",
         "USA",
-        "Australia",
-        "Brazil",
-        "Indonesia"
+        "Russia"
       ],
-      "answer": "Australia",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-07-07",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q98:-The highest dam in India is:",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Nagarjuna Sagar Dam"
       ],
-      "answer": "April 18",
+      "answer": "Tehri Dam",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "question": "Q61:-The national tree of India is:",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Mango",
+        "Neem",
+        "Banyan",
+        "Peepal"
       ],
-      "answer": "30 years",
+      "answer": "Banyan",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-10-15",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q88:- The 'Green Revolution' in India was led by:",
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
       "options": [
-        "M.S. Swaminathan",
-        "Verghese Kurien",
-        "Homi J. Bhabha",
-        "C.V. Raman"
+        "1975",
+        "1983",
+        "1992",
+        "2011"
       ],
-      "answer": "M.S. Swaminathan",
+      "answer": "1983",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-28",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
+      "shift": "Evening"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "France and Germany",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "Lactometer",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:- The capital of Italy is:",
-      "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
-      ],
-      "answer": "Rome",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:-The chemical name of common salt is:",
-      "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
-      ],
-      "answer": "Sodium Chloride",
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-08-01",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q28:-The largest freshwater lake in India is:",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     }
   ]
