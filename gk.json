@@ -1,32 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q67:- The largest railway network in the world is in which country?",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "USA",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q98:-The highest dam in India is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Tehri Dam",
+      "answer": "Madhya Pradesh",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
+      "date": "2023-04-10",
+      "shift": "Morning"
     },
     {
       "question": "Q61:-The national tree of India is:",
@@ -43,101 +43,101 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "1983",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:-The 'Statue of Unity' is dedicated to which Indian leader?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Sardar Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": "Tamil Nadu",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-01-20",
       "shift": "Evening"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
       ],
-      "answer": "Mars",
+      "answer": "Kosi",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "options": [
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
+      ],
+      "answer": "Forests",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "Rabindranath Tagore",
-        "Bankim Chandra Chatterjee",
-        "Muhammad Iqbal",
-        "Sarojini Naidu"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Bankim Chandra Chatterjee",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
       "shift": "Morning"
     }
   ]
