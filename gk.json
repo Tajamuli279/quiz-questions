@@ -1,88 +1,102 @@
 {
   "questions": [
     {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "8",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
-      "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
-      ],
-      "answer": "Red Sea and Mediterranean Sea",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-10",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
       "shift": "Evening"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
       ],
-      "answer": "Punjab",
+      "answer": "Itanagar",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
+      "options": [
+        "1757",
+        "1764",
+        "1773",
+        "1857"
+      ],
+      "answer": "1757",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Forest conservation",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
     },
     {
-      "question": "Q69:- The capital of Italy is:",
+      "question": "Q47:-Who built the 'Red Fort' in Delhi?",
       "options": [
-        "Paris",
-        "Berlin",
-        "Rome",
-        "Madrid"
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer": "Rome",
+      "answer": "Shah Jahan",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-03-15",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Aryabhata",
+      "answer": "Rakesh Sharma",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
     },
     {
       "question": "Q27:-Which of the following is a direct tax?",
@@ -99,45 +113,31 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "IT Industry",
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q26:- The longest river in Asia is:",
-      "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
-      ],
-      "answer": "Yangtze River",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:- The instrument used to measure electric current is:",
-      "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Ohmmeter",
-        "Galvanometer"
-      ],
-      "answer": "Ammeter",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-10-10",
+      "date": "2025-01-01",
       "shift": "Morning"
     }
   ]
