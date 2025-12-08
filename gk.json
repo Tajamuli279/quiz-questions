@@ -1,88 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
       "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
+        "1947",
+        "1950",
+        "1951",
+        "1956"
       ],
-      "answer": "Forests",
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
+      "date": "2023-09-15",
       "shift": "Afternoon"
-    },
-    {
-      "question": "Q82:- The 'Kalidasa' was a famous poet in the court of which Gupta ruler?",
-      "options": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Kumargupta I"
-      ],
-      "answer": "Chandragupta II (Vikramaditya)",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
-      ],
-      "answer": "Greenland",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
-      "options": [
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Karnataka",
-        "Rajasthan"
-      ],
-      "answer": "Maharashtra",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
     },
     {
       "question": "Q87:-The second largest planet in our solar system is:",
@@ -99,45 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "1757",
+        "1764",
+        "1773",
+        "1857"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "1757",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q49:- Which vitamin is important for good eyesight?",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "answer": "Vitamin A",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-08-01",
+      "source": "SSC GD 2024",
+      "date": "2024-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q93:-Which continent has no deserts?",
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
       "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
       ],
-      "answer": "Europe",
+      "answer": "Karnam Malleswari",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-07-01",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:- Who wrote the epic 'Ramayana'?",
+      "options": [
+        "Valmiki",
+        "Tulsidas",
+        "Vyasa",
+        "Kalidasa"
+      ],
+      "answer": "Valmiki",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-01-25",
       "shift": "Afternoon"
     }
   ]
