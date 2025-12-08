@@ -1,46 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
       ],
-      "answer": "Mumbai",
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
+      "options": [
+        "1757",
+        "1761",
+        "1764",
+        "1773"
+      ],
+      "answer": "1764",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "date": "2024-06-18",
       "shift": "Evening"
     },
     {
-      "question": "Q32:- The 'Suez Canal' connects which two bodies of water?",
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
       "options": [
-        "Red Sea and Mediterranean Sea",
-        "Atlantic Ocean and Pacific Ocean",
-        "Black Sea and Aegean Sea",
-        "Arctic Ocean and Atlantic Ocean"
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
       ],
-      "answer": "Red Sea and Mediterranean Sea",
+      "answer": "Cricket",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-10",
-      "shift": "Evening"
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
       ],
-      "answer": "India",
+      "answer": "Babur",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
+      "date": "2024-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "options": [
+        "New York",
+        "London",
+        "The Hague",
+        "Brussels"
+      ],
+      "answer": "The Hague",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
       "shift": "Evening"
+    },
+    {
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "options": [
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
+      ],
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
     },
     {
       "question": "Q31:- The smallest bone in the human body is:",
@@ -57,87 +127,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
-      "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
-      ],
-      "answer": "Barometer",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
-      "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "answer": "Guru Nanak Dev",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q43:-The largest democratic country in the world is:",
-      "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
