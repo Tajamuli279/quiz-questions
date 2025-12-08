@@ -1,88 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q43:-The largest democratic country in the world is:",
       "options": [
-        "China",
+        "USA",
         "India",
-        "Bangladesh",
-        "Nepal"
+        "China",
+        "Canada"
       ],
       "answer": "India",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
       "shift": "Morning"
     },
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q60:-The deepest ocean trench in the world is:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Mariana Trench",
+        "Kermadec Trench"
       ],
-      "answer": "Freon",
+      "answer": "Mariana Trench",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q47:- The smallest Union Territory in India by population is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
-      "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
-      ],
-      "answer": "Rabindranath Tagore",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
+      "date": "2025-07-10",
       "shift": "Morning"
     },
     {
-      "question": "Q94:-The first woman Prime Minister of India was:",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "Sarojini Naidu",
-        "Indira Gandhi",
-        "Pratibha Patil",
-        "Sushma Swaraj"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "Indira Gandhi",
+      "answer": "Solar energy",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
-      "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
-      ],
-      "answer": "Astronomy",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q32:-Which vitamin is essential for blood clotting?",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "answer": "Vitamin K",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-17",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
       "shift": "Evening"
+    },
+    {
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
+      "options": [
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
+      ],
+      "answer": "Forests",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Varanasi",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Amritsar",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-08-28",
+      "shift": "Morning"
     },
     {
       "question": "Q51:- The instrument used to measure wind speed is:",
@@ -99,46 +99,46 @@
       "shift": "Evening"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Thiruvananthapuram"
       ],
-      "answer": "1526",
+      "answer": "Bengaluru",
       "category": "GK",
       "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
+      "date": "2023-04-25",
+      "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
+      "question": "Q33:- Who was the first Indian to win the Nobel Prize in Physics?",
       "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
+        "C. V. Raman",
+        "Rabindranath Tagore",
+        "Amartya Sen",
+        "Hargobind Khorana"
       ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "C. V. Raman",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "date": "2025-04-01",
       "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Vallabhbhai Patel",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-22",
+      "shift": "Evening"
     }
   ]
 }
