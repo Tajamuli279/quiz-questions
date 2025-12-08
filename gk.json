@@ -1,31 +1,129 @@
 {
   "questions": [
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
-      "answer": "Kerala",
+      "answer": "Arctic Ocean",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "question": "Q28:-The largest freshwater lake in India is:",
       "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
       ],
-      "answer": "Punjab",
+      "answer": "Wular Lake",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ramakrishna Paramahamsa"
+      ],
+      "answer": "Raja Ram Mohan Roy",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-04-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-The deepest lake in the world is:",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
+      ],
+      "answer": "Lake Baikal",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "options": [
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
+      ],
+      "answer": "New York",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-01-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
+      "options": [
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
+      ],
+      "answer": "Paintings",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
@@ -40,104 +138,6 @@
       "category": "GK",
       "source": "SSC CGL 2025",
       "date": "2025-10-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-The largest desert in the world is:",
-      "options": [
-        "Gobi Desert",
-        "Kalahari Desert",
-        "Sahara Desert",
-        "Arabian Desert"
-      ],
-      "answer": "Sahara Desert",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q77:- The largest plateau in the world is:",
-      "options": [
-        "Deccan Plateau",
-        "Tibetan Plateau",
-        "Patagonian Plateau",
-        "Colorado Plateau"
-      ],
-      "answer": "Tibetan Plateau",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
-      ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the highest mountain peak in India?",
-      "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "answer": "Kangchenjunga",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q15:- The national aquatic animal of India is:",
-      "options": [
-        "Dolphin",
-        "Shark",
-        "Whale",
-        "Octopus"
-      ],
-      "answer": "Dolphin",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-07-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
-      "options": [
-        "Sculptures",
-        "Paintings",
-        "Architecture",
-        "Relics"
-      ],
-      "answer": "Paintings",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-03-01",
       "shift": "Morning"
     }
   ]
