@@ -1,88 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Bengaluru",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "12 years"
-      ],
-      "answer": "12 years",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-02-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q5:- The currency of China is:",
-      "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Rupee"
-      ],
-      "answer": "Yuan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-08-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1983",
-        "1992",
-        "2011"
-      ],
-      "answer": "1983",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-25",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
+      "question": "Q33:-The gas responsible for global warming is:",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
       ],
-      "answer": "Kerala",
+      "answer": "Carbon Dioxide",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q81:-Who was the first Indian to go to space?",
@@ -99,46 +43,102 @@
       "shift": "Morning"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
-      "answer": "Liver",
+      "answer": "8",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2022",
+      "date": "2022-07-01",
+      "shift": "Evening"
     },
     {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
       "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
       ],
-      "answer": "Girl child education and gender ratio",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
       "shift": "Morning"
     },
     {
-      "question": "Q16:- Which of the following is a direct tax?",
+      "question": "Q57:-The largest producer of coffee in India is:",
       "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
       ],
-      "answer": "Income Tax",
+      "answer": "Karnataka",
       "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:-The smallest ocean in the world is:",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Kavi Pradeep",
+        "Allama Iqbal"
+      ],
+      "answer": "Rabindranath Tagore",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-05-15",
       "shift": "Evening"
+    },
+    {
+      "question": "Q17:- The largest state in India by area is:",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     }
   ]
 }
