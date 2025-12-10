@@ -1,45 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q98:-The highest dam in India is:",
+      "question": "Q11:-Which of the following is not a UN permanent member country?",
       "options": [
-        "Bhakra Dam",
-        "Tehri Dam",
-        "Hirakud Dam",
-        "Nagarjuna Sagar Dam"
+        "France",
+        "Canada",
+        "China",
+        "Russia"
       ],
-      "answer": "Tehri Dam",
+      "answer": "Canada",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-05-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q34:-The famous 'Rann of Kutch' is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-05-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-01",
       "shift": "Morning"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Vatican City",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
+      "source": "SSC GD 2025",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:-The largest democratic country in the world is:",
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "Canada"
+      ],
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
@@ -57,88 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
+      "question": "Q75:-The largest ocean in the world is:",
       "options": [
-        "6",
-        "7",
-        "8",
-        "9"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
-      "answer": "8",
+      "answer": "Pacific Ocean",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q25:-What is the capital of Canada?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montreal"
-      ],
-      "answer": "Ottawa",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-03",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q26:- The longest river in Asia is:",
+      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
       "options": [
-        "Ganga",
-        "Yellow River",
-        "Yangtze River",
-        "Mekong River"
+        "1940",
+        "1942",
+        "1945",
+        "1947"
       ],
-      "answer": "Yangtze River",
+      "answer": "1942",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-03-05",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-03",
       "shift": "Morning"
     },
     {
-      "question": "Q55:- The 'Bharat Ratna' award was instituted in which year?",
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
       ],
-      "answer": "1954",
+      "answer": "January 25",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-09-05",
+      "date": "2025-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "Guru Gobind Singh",
-        "Guru Nanak Dev",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "Guru Nanak Dev",
+      "answer": "Japan",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-12-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which Indian state has the longest coastline?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Gujarat",
-        "Tamil Nadu"
-      ],
-      "answer": "Gujarat",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-22",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
+    },
+    {
+      "question": "Q36:-The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
+      "shift": "Morning"
     }
   ]
 }
