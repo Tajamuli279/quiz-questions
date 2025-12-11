@@ -1,129 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "Bengaluru",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q5:-Which is the smallest planet in our solar system?",
+      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
       "options": [
-        "Mercury",
-        "Mars",
-        "Venus",
-        "Pluto"
+        "Forests",
+        "Wetlands",
+        "Rivers",
+        "Mountains"
       ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:- Who is known as the 'Father of the Indian Constitution'?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Dr. B.R. Ambedkar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-05-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
-      "options": [
-        "Udaipur",
-        "Jodhpur",
-        "Jaipur",
-        "Agra"
-      ],
-      "answer": "Jaipur",
+      "answer": "Forests",
       "category": "GK",
       "source": "SSC CHSL 2023",
       "date": "2023-08-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
-      ],
-      "answer": "Freon",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Prithviraj Chauhan",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Raja Man Singh"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Rana Sanga",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:- The largest state in India by area is:",
-      "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
-      ],
-      "answer": "Rajasthan",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
+      "source": "SSC GD 2025",
+      "date": "2025-07-12",
       "shift": "Evening"
     },
     {
@@ -138,6 +54,90 @@
       "category": "GK",
       "source": "SSC MTS 2025",
       "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q46:-The chemical name of common salt is:",
+      "options": [
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
+      ],
+      "answer": "Sodium Chloride",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "options": [
+        "Elected members of Lok Sabha and Rajya Sabha",
+        "Elected members of Parliament and State Legislative Assemblies",
+        "All members of Parliament",
+        "All members of Parliament and State Legislative Assemblies"
+      ],
+      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q82:-The 'National Science Day' in India is celebrated on:",
+      "options": [
+        "January 15",
+        "February 28",
+        "March 22",
+        "April 7"
+      ],
+      "answer": "February 28",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "options": [
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
+      ],
+      "answer": "France and Germany",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:-The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
       "shift": "Morning"
     }
   ]
