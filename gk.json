@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
+        "South India",
+        "East India",
+        "North India",
+        "West India"
       ],
-      "answer": "Football",
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-11-25",
+      "date": "2025-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
     },
     {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
-      "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
-      ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
-      "options": [
-        "India and Pakistan",
-        "India and China",
-        "Pakistan and Afghanistan",
-        "India and Bangladesh"
-      ],
-      "answer": "Pakistan and Afghanistan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:- The 'Atomic Number' of an element is equal to the number of:",
-      "options": [
-        "Neutrons",
-        "Protons",
-        "Electrons",
-        "Isotopes"
-      ],
-      "answer": "Protons",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q28:-The largest freshwater lake in India is:",
-      "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
-      ],
-      "answer": "Wular Lake",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
-      "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
-      ],
-      "answer": "The Hague",
+      "answer": "Undersea earthquakes",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-01",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-The first woman Prime Minister of India was:",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": "Indira Gandhi",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-05-30",
+      "shift": "Evening"
     }
   ]
 }
