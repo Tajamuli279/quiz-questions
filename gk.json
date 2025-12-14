@@ -1,88 +1,130 @@
 {
   "questions": [
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q90:- The 'Gobi Desert' is located in:",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Asia",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
+      ],
+      "answer": "Ladakh",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     },
     {
-      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "The first hour of the session",
-        "The time immediately following the Question Hour",
-        "The last hour of the session",
-        "The time when no business is transacted"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "The time immediately following the Question Hour",
+      "answer": "India",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-01",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
       "shift": "Morning"
     },
     {
-      "question": "Q92:-The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "Satyamev Jayate",
-        "Vande Mataram",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "options": [
         "Jai Hind",
-        "Incredible India"
+        "Vande Mataram",
+        "Satyamev Jayate",
+        "Bharat Mata Ki Jai"
       ],
       "answer": "Satyamev Jayate",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q72:-The 'Gateway of India' is located in which city?",
-      "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC GD 2025",
+      "date": "2025-04-01",
       "shift": "Morning"
     },
     {
-      "question": "Q11:-Which of the following is not a UN permanent member country?",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "France",
-        "Canada",
-        "China",
-        "Russia"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Canada",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
+      "options": [
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
+      ],
+      "answer": "Uttarakhand",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
+      "shift": "Evening"
     },
     {
       "question": "Q5:-Which is the smallest planet in our solar system?",
@@ -96,48 +138,6 @@
       "category": "GK",
       "source": "SSC CGL 2023",
       "date": "2023-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-The deepest lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Slave Lake",
-        "Lake Tanganyika"
-      ],
-      "answer": "Lake Baikal",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q96:-The 'World Environment Day' is celebrated on:",
-      "options": [
-        "April 22",
-        "June 5",
-        "July 11",
-        "September 16"
-      ],
-      "answer": "June 5",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
       "shift": "Morning"
     }
   ]
