@@ -1,101 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q86:-The 'India Gate' is located in which city?",
+      "question": "Q65:- The 'National Song of India' 'Vande Mataram' was composed by:",
       "options": [
-        "Mumbai",
-        "Kolkata",
-        "New Delhi",
-        "Chennai"
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
       ],
-      "answer": "New Delhi",
+      "answer": "Bankim Chandra Chatterjee",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-02-28",
+      "source": "SSC CGL 2025",
+      "date": "2025-12-01",
       "shift": "Morning"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
       ],
-      "answer": "1526",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:-The minimum age for voting in India is:",
-      "options": [
-        "16 years",
-        "18 years",
-        "21 years",
-        "25 years"
-      ],
-      "answer": "18 years",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:- The largest freshwater lake in the world is:",
-      "options": [
-        "Lake Superior",
-        "Lake Baikal",
-        "Great Bear Lake",
-        "Lake Victoria"
-      ],
-      "answer": "Lake Superior",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-The 'Tropic of Cancer' passes through how many Indian states?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
+      "answer": "Japan",
       "category": "GK",
       "source": "SSC MTS 2022",
-      "date": "2022-07-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q70:- The 'Chola Dynasty' was prominent in which part of India?",
-      "options": [
-        "North India",
-        "South India",
-        "East India",
-        "West India"
-      ],
-      "answer": "South India",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-02-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
-      "options": [
-        "London",
-        "Dubai",
-        "Sydney",
-        "Mumbai"
-      ],
-      "answer": "Dubai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
@@ -113,31 +43,101 @@
       "shift": "Morning"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q61:- The largest river in India by volume is:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "answer": "Bengaluru",
+      "answer": "Brahmaputra",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC CGL 2025",
+      "date": "2025-11-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q90:- The 'Gobi Desert' is located in:",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Australia"
+      ],
+      "answer": "Asia",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-07-22",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "options": [
+        "1928",
+        "1930",
+        "1932",
+        "1935"
+      ],
+      "answer": "1930",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
       "shift": "Evening"
     },
     {
-      "question": "Q1:-Who was the first President of India?",
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
       "options": [
-        "Rajendra Prasad",
-        "S. Radhakrishnan",
-        "Zakir Husain",
-        "V. V. Giri"
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
       ],
-      "answer": "Rajendra Prasad",
+      "answer": "April 18",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-10-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:-The smallest ocean in the world is:",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
+      ],
+      "answer": "Arctic Ocean",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-07-14",
+      "date": "2023-01-05",
       "shift": "Morning"
     }
   ]
