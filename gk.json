@@ -1,20 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
-      "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
-      ],
-      "answer": "2005",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
       "question": "Q21:- The largest democracy in the world is:",
       "options": [
         "USA",
@@ -29,59 +15,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q81:-Who was the first Indian to go to space?",
+      "question": "Q53:- Who discovered the theory of relativity?",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
       ],
-      "answer": "Rakesh Sharma",
+      "answer": "Albert Einstein",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "question": "Q83:-The largest railway zone in India is:",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
       ],
-      "answer": "Itanagar",
+      "answer": "Northern Railway",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
       "shift": "Evening"
     },
     {
-      "question": "Q65:-The headquarters of ISRO (Indian Space Research Organisation) is located in:",
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
       "options": [
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai",
-        "Thiruvananthapuram"
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
       ],
-      "answer": "Bengaluru",
+      "answer": "Forest conservation",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-04-25",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q2:-Which Indian state has the longest coastline?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "answer": "Gujarat",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-22",
       "shift": "Evening"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Dadasaheb Phalke",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "options": [
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
+      ],
+      "answer": "IT Industry",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
       "shift": "Morning"
     },
     {
@@ -99,45 +127,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
       ],
-      "answer": "Rajasthan",
+      "answer": "Odisha",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-09-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
-      "options": [
-        "1928",
-        "1930",
-        "1932",
-        "1935"
-      ],
-      "answer": "1930",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-11-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q61:- The largest river in India by volume is:",
-      "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
-      ],
-      "answer": "Brahmaputra",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-11-05",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
       "shift": "Morning"
     }
   ]
