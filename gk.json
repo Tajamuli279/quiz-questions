@@ -1,101 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q96:- The 'Konkan Railway' connects which two major cities?",
-      "options": [
-        "Mumbai and Chennai",
-        "Mumbai and Goa",
-        "Mumbai and Mangaluru",
-        "Mumbai and Kochi"
-      ],
-      "answer": "Mumbai and Mangaluru",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
-      ],
-      "answer": "Mumbai",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q59:- The 'Grand Canyon' is located in which country?",
-      "options": [
-        "Canada",
-        "USA",
-        "Mexico",
-        "Australia"
-      ],
-      "answer": "USA",
+      "answer": "Freon",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-10-10",
+      "date": "2025-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
+      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
       "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
+        "China",
+        "India",
+        "Bangladesh",
+        "Nepal"
       ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
+      "answer": "India",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
+      "options": [
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "answer": "Guru Nanak Dev",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Which of the following is a unit of energy?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": "Joule",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q10:- The famous 'Hawa Mahal' is located in which Indian city?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Agra"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-05",
       "shift": "Morning"
     },
     {
@@ -113,31 +99,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q31:-The smallest ocean in the world is:",
+      "question": "Q63:- The 'Gir National Park' is famous for which animal?",
       "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Southern Ocean"
+        "Tigers",
+        "Elephants",
+        "Lions",
+        "Rhinos"
       ],
-      "answer": "Arctic Ocean",
+      "answer": "Lions",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-01-05",
-      "shift": "Morning"
+      "source": "SSC MTS 2025",
+      "date": "2025-11-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Joule",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
       "shift": "Morning"
     }
   ]
