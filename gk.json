@@ -1,31 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Albert Einstein",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
       "shift": "Morning"
     },
     {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Narmada"
       ],
-      "answer": "Odisha",
+      "answer": "Godavari",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:- The largest state in India by area is:",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Thomas Munro",
+        "Lord Dalhousie"
+      ],
+      "answer": "Thomas Munro",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-06-05",
       "shift": "Morning"
     },
     {
@@ -43,101 +113,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "question": "Q93:-Which continent has no deserts?",
       "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
       ],
-      "answer": "Jaipur",
+      "answer": "Europe",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     },
     {
-      "question": "Q16:- Which of the following is a direct tax?",
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
       "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
       ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-The longest river in the world is:",
-      "options": [
-        "Amazon",
-        "Nile",
-        "Yangtze",
-        "Mississippi"
-      ],
-      "answer": "Nile",
+      "answer": "Punjab",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-11-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:- The largest island in the world is:",
-      "options": [
-        "Australia",
-        "Greenland",
-        "New Guinea",
-        "Madagascar"
-      ],
-      "answer": "Greenland",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "date": "2022-09-10",
       "shift": "Morning"
     }
   ]
