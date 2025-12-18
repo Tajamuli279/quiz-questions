@@ -1,115 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q1:-Who was the first President of India?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Rajendra Prasad",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-14",
       "shift": "Morning"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
       ],
-      "answer": "Food grains",
+      "answer": "Geneva",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q18:-Which is the highest mountain peak in India?",
+      "options": [
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Mumbai",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-06-10",
       "shift": "Evening"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q61:- The largest river in India by volume is:",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:-The currency of Japan is:",
-      "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
-      ],
-      "answer": "Yen",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q90:- The 'Gobi Desert' is located in:",
-      "options": [
-        "Africa",
-        "South America",
-        "Asia",
-        "Australia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-07-22",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
-      "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
-      ],
-      "answer": "Thomas Munro",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Kerala",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:- Who discovered the theory of relativity?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
-      ],
-      "answer": "Albert Einstein",
+      "answer": "Brahmaputra",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "date": "2025-11-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "answer": "Africa",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-01-10",
       "shift": "Morning"
     },
     {
@@ -127,17 +99,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Ag",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-The largest river in South India is:",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "answer": "Godavari",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:- Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "answer": "Thomas Edison",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-02-01",
       "shift": "Morning"
     }
   ]
