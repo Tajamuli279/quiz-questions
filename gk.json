@@ -1,18 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q53:- Who discovered the theory of relativity?",
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Marie Curie",
-        "Stephen Hawking"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "answer": "Albert Einstein",
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-10",
+      "date": "2025-03-15",
       "shift": "Morning"
+    },
+    {
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "options": [
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
+      ],
+      "answer": "Girl child education and gender ratio",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q93:-Which continent has no deserts?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "answer": "Europe",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-07-01",
+      "shift": "Afternoon"
     },
     {
       "question": "Q55:-The planet farthest from the Sun is:",
@@ -29,116 +99,46 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q10:-Who was known as the 'Iron Man of India'?",
+      "question": "Q42:-The national animal of India is:",
       "options": [
-        "Jawaharlal Nehru",
-        "Vallabhbhai Patel",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Peacock"
       ],
-      "answer": "Vallabhbhai Patel",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
-      "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
-      ],
-      "answer": "Odisha",
+      "answer": "Tiger",
       "category": "GK",
       "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "date": "2023-01-28",
       "shift": "Morning"
     },
     {
-      "question": "Q8:- Who was the first woman Chief Minister of an Indian state?",
+      "question": "Q20:- Who designed the Indian Parliament House?",
       "options": [
-        "J. Jayalalithaa",
-        "Mamata Banerjee",
-        "Sucheta Kriplani",
-        "Mayawati"
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
       ],
-      "answer": "Sucheta Kriplani",
+      "answer": "Edwin Lutyens and Herbert Baker",
       "category": "GK",
       "source": "SSC GD 2024",
-      "date": "2024-02-10",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
-      "question": "Q24:-The first artificial satellite launched by India was:",
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
       "options": [
-        "Rohini",
-        "Bhaskara",
-        "Aryabhata",
-        "Chandrayaan-1"
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
       ],
-      "answer": "Aryabhata",
+      "answer": "Geneva",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:- The 'Bharat Natyam' dance form originated from which state?",
-      "options": [
-        "Kerala",
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "answer": "Tamil Nadu",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-01-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-04-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
-      "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
-      ],
-      "answer": "Jawaharlal Nehru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-03-01",
-      "shift": "Evening"
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
     }
   ]
 }
