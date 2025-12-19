@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q83:-The largest railway zone in India is:",
+      "options": [
+        "Northern Railway",
+        "Western Railway",
+        "Southern Railway",
+        "Central Railway"
+      ],
+      "answer": "Northern Railway",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-10-10",
+      "shift": "Evening"
+    },
+    {
       "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
         "Kalpana Chawla",
@@ -15,32 +29,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago",
+        "New York"
       ],
-      "answer": "March 22",
+      "answer": "New York",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
+      "date": "2025-01-01",
+      "shift": "Morning"
     },
     {
-      "question": "Q67:-The study of celestial bodies and the universe is called:",
+      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
       "options": [
-        "Geology",
-        "Biology",
-        "Astronomy",
-        "Physics"
+        "2002",
+        "2005",
+        "2007",
+        "2010"
       ],
-      "answer": "Astronomy",
+      "answer": "2005",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-07-08",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2025",
+      "date": "2025-07-05",
+      "shift": "Morning"
     },
     {
       "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
@@ -57,88 +71,74 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Jupiter",
         "Mars",
-        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q37:- The planet nearest to the Sun is:",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
         "Venus"
       ],
-      "answer": "Mars",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2025",
+      "date": "2025-05-10",
+      "shift": "Evening"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q63:-The largest continent in the world is:",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia"
       ],
-      "answer": "Cricket",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
+      "answer": "Asia",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "date": "2022-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q85:-The world's largest flower is:",
+      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
       "options": [
-        "Rose",
-        "Sunflower",
-        "Rafflesia Arnoldii",
-        "Lotus"
+        "Delhi",
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
       ],
-      "answer": "Rafflesia Arnoldii",
+      "answer": "Mumbai",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q61:-The national tree of India is:",
-      "options": [
-        "Mango",
-        "Neem",
-        "Banyan",
-        "Peepal"
-      ],
-      "answer": "Banyan",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-10-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
+      "source": "SSC CHSL 2024",
+      "date": "2024-08-01",
       "shift": "Evening"
+    },
+    {
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
+      "options": [
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Swami Vivekananda",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
+      "shift": "Afternoon"
     }
   ]
 }
