@@ -1,130 +1,116 @@
 {
   "questions": [
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "China",
+        "India",
+        "USA",
+        "Russia"
       ],
-      "answer": "Wular Lake",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
+      "question": "Q35:- The highest civilian award in India is:",
       "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
       ],
-      "answer": "France and Germany",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:-The chemical name of common salt is:",
-      "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
-      ],
-      "answer": "Sodium Chloride",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
-      ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q58:- The 'Ghumar' folk dance is associated with which Indian state?",
+      "question": "Q67:-The study of celestial bodies and the universe is called:",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Geology",
+        "Biology",
+        "Astronomy",
+        "Physics"
       ],
-      "answer": "Rajasthan",
+      "answer": "Astronomy",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-11-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-07-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Dispur",
+        "Guwahati",
+        "Shillong"
+      ],
+      "answer": "Itanagar",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-11",
       "shift": "Evening"
     },
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Rajasthan",
+      "answer": "Watt",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
+      "options": [
+        "South India",
+        "East India",
+        "North India",
+        "West India"
+      ],
+      "answer": "North India",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q4:-Who invented the telephone?",
@@ -139,6 +125,20 @@
       "source": "SSC CHSL 2020",
       "date": "2020-09-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-10",
+      "shift": "Morning"
     }
   ]
 }
