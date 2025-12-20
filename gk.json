@@ -1,32 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
+      "question": "Q50:- The highest waterfall in the world is:",
       "options": [
-        "Automobile Industry",
-        "IT Industry",
-        "Textile Industry",
-        "Steel Industry"
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
       ],
-      "answer": "IT Industry",
+      "answer": "Angel Falls",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-22",
+      "source": "SSC CHSL 2024",
+      "date": "2024-09-05",
       "shift": "Morning"
     },
     {
-      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "question": "Q35:-Who was the founder of the Mauryan Empire?",
       "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Badminton"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
       ],
-      "answer": "Cricket",
+      "answer": "Chandragupta Maurya",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-03-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "options": [
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
+      ],
+      "answer": "April 18",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
+      "date": "2024-10-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
@@ -43,101 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "Wind energy",
+        "Solar energy",
+        "Hydroelectric energy",
+        "Geothermal energy"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "Solar energy",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-06-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "options": [
+        "March 22",
+        "April 22",
+        "June 5",
+        "July 11"
+      ],
+      "answer": "March 22",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "date": "2025-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q78:-Which organ is primarily affected by Jaundice?",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "Heart",
-        "Lungs",
-        "Liver",
-        "Kidney"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "Liver",
+      "answer": "Helium",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-04-15",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q9:- The Red Planet is:",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
-      "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
-      ],
-      "answer": "30 years",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-20",
+      "date": "2023-07-01",
       "shift": "Morning"
     },
     {
-      "question": "Q49:-The capital of Australia is:",
+      "question": "Q68:-The process by which plants make their own food is called:",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "answer": "Canberra",
+      "answer": "Photosynthesis",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-10",
-      "shift": "Afternoon"
+      "source": "SSC CGL 2022",
+      "date": "2022-09-28",
+      "shift": "Morning"
     },
     {
-      "question": "Q17:- The largest state in India by area is:",
+      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh"
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Ladakh",
+        "Sikkim"
       ],
-      "answer": "Rajasthan",
+      "answer": "Ladakh",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-11-01",
+      "source": "SSC GD 2025",
+      "date": "2025-09-22",
       "shift": "Morning"
     }
   ]
