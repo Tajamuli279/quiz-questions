@@ -1,17 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q50:- The highest waterfall in the world is:",
+      "question": "Q9:- The Red Planet is:",
       "options": [
-        "Niagara Falls",
-        "Victoria Falls",
-        "Angel Falls",
-        "Iguazu Falls"
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
       ],
-      "answer": "Angel Falls",
+      "answer": "Mars",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-09-05",
+      "source": "SSC CGL 2024",
+      "date": "2024-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
@@ -29,115 +43,101 @@
       "shift": "Evening"
     },
     {
-      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
       "options": [
-        "Hydrometer",
-        "Lactometer",
-        "Barometer",
-        "Thermometer"
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
       ],
-      "answer": "Lactometer",
+      "answer": "June 5",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
       "shift": "Morning"
     },
     {
-      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
+      "question": "Q17:-The study of earthquakes is known as:",
       "options": [
-        "April 18",
-        "June 5",
-        "July 11",
-        "October 24"
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
       ],
-      "answer": "April 18",
+      "answer": "Seismology",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-10-15",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
       "shift": "Afternoon"
     },
     {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
       "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
       ],
-      "answer": "Amritsar",
+      "answer": "Jawaharlal Nehru",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q87:- The 'Kochi International Airport' is the first airport in the world to be fully powered by:",
-      "options": [
-        "Wind energy",
-        "Solar energy",
-        "Hydroelectric energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-06-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
       "shift": "Evening"
     },
     {
-      "question": "Q68:- The 'World Water Day' is celebrated on:",
+      "question": "Q31:-The smallest ocean in the world is:",
       "options": [
-        "March 22",
-        "April 22",
-        "June 5",
-        "July 11"
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
-      "answer": "March 22",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q71:-The gas used in balloons and airships is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answer": "Helium",
+      "answer": "Arctic Ocean",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-07-01",
+      "date": "2023-01-05",
       "shift": "Morning"
     },
     {
-      "question": "Q68:-The process by which plants make their own food is called:",
+      "question": "Q80:-The deepest lake in the world is:",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
+        "Lake Superior",
+        "Lake Baikal",
+        "Great Slave Lake",
+        "Lake Tanganyika"
       ],
-      "answer": "Photosynthesis",
+      "answer": "Lake Baikal",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
+      "source": "SSC CHSL 2023",
+      "date": "2023-08-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q34:- The term 'Doosra' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "category": "GK",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q42:- The 'Great Barrier Reef' is located off the coast of which country?",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "USA",
+        "Australia",
+        "Brazil",
+        "Indonesia"
       ],
-      "answer": "Ladakh",
+      "answer": "Australia",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
+      "source": "SSC CHSL 2024",
+      "date": "2024-07-07",
       "shift": "Morning"
     }
   ]
