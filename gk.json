@@ -1,62 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
-      "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
-      ],
-      "answer": "2005",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
-      "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
-      ],
-      "answer": "Ganga and Brahmaputra",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
-      "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
-      ],
-      "answer": "India",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Which Indian city is known as the 'Silicon Valley of India'?",
-      "options": [
-        "Mumbai",
-        "Hyderabad",
-        "Bengaluru",
-        "Chennai"
-      ],
-      "answer": "Bengaluru",
-      "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-06-10",
-      "shift": "Evening"
-    },
-    {
       "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
         "Uttar Pradesh",
@@ -71,73 +15,129 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q46:- The 'Gateway of India' is located in which Indian city?",
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
       "options": [
-        "Delhi",
-        "Kolkata",
-        "Mumbai",
-        "Chennai"
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
       ],
-      "answer": "Mumbai",
+      "answer": "Food grains",
       "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-08-01",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q19:- The unit of power is:",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Joule",
+        "Watt",
+        "Volt",
+        "Ampere"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Watt",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-08-10",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q44:-The famous 'Ajanta Caves' are located in which state?",
+      "options": [
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:-Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q90:-The minimum age to become a member of Rajya Sabha is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "30 years",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:- The 'Zero Hour' in the Indian Parliament refers to:",
+      "options": [
+        "The first hour of the session",
+        "The time immediately following the Question Hour",
+        "The last hour of the session",
+        "The time when no business is transacted"
+      ],
+      "answer": "The time immediately following the Question Hour",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "date": "2025-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q21:-The Preamble to the Indian Constitution is based on the 'Objective Resolution' drafted by:",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-03-01",
       "shift": "Evening"
     },
     {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Amritsar",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-08-28",
+      "date": "2025-06-28",
       "shift": "Morning"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Joule",
+      "answer": "Manila",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q67:- The largest railway network in the world is in which country?",
-      "options": [
-        "China",
-        "India",
-        "USA",
-        "Russia"
-      ],
-      "answer": "USA",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-12-10",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
       "shift": "Morning"
     }
   ]
