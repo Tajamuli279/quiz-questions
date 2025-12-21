@@ -1,32 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "January 25",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q23:- The chemical symbol for silver is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Ag",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
     },
     {
       "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
@@ -43,101 +57,87 @@
       "shift": "Morning"
     },
     {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
+      "question": "Q94:-The first woman Prime Minister of India was:",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
       ],
-      "answer": "Mars",
+      "answer": "Indira Gandhi",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
+      "source": "SSC MTS 2022",
+      "date": "2022-08-05",
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q62:- Who founded the 'Sikhism' religion?",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Guru Gobind Singh",
+        "Guru Nanak Dev",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Guru Nanak Dev",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
+      "source": "SSC CHSL 2024",
+      "date": "2024-12-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Food grains",
+        "Dairy products"
+      ],
+      "answer": "Food grains",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q80:- The 'National Emblem of India' is adapted from the Sarnath Lion Capital of Ashoka with the motto:",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "Jai Hind",
-        "Vande Mataram",
-        "Satyamev Jayate",
-        "Bharat Mata Ki Jai"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "Satyamev Jayate",
+      "answer": "11",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-04-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
-      "question": "Q9:- The Red Planet is:",
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
       "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
       ],
-      "answer": "Mars",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-09-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q9:-Which metal is known as 'liquid silver'?",
-      "options": [
-        "Mercury",
-        "Copper",
-        "Aluminium",
-        "Iron"
-      ],
-      "answer": "Mercury",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-12",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
-      "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
-      ],
-      "answer": "Babur",
-      "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q57:-The largest producer of coffee in India is:",
+      "question": "Q53:-Which Indian state is known as the 'Spice Garden of India'?",
       "options": [
         "Kerala",
         "Karnataka",
         "Tamil Nadu",
-        "Assam"
+        "Andhra Pradesh"
       ],
-      "answer": "Karnataka",
+      "answer": "Kerala",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-01",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-01",
       "shift": "Morning"
     }
   ]
