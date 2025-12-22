@@ -1,45 +1,115 @@
 {
   "questions": [
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "Wular Lake",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
-      "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
-      ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Girl child education and gender ratio",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q60:- The 'First Five-Year Plan' in India was launched in:",
+      "options": [
+        "1947",
+        "1950",
+        "1951",
+        "1956"
+      ],
+      "answer": "1951",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-10-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
+      "options": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
+      ],
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q64:- The term 'Offside' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basketball"
+      ],
+      "answer": "Football",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-11-25",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "answer": "Geneva",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-06-20",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Brahmaputra"
+      ],
+      "answer": "Kosi",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": "Odisha",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-07-10",
       "shift": "Morning"
     },
     {
@@ -57,88 +127,18 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q85:- The 'International Court of Justice' is located in:",
+      "question": "Q24:-The first artificial satellite launched by India was:",
       "options": [
-        "New York",
-        "London",
-        "The Hague",
-        "Brussels"
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
       ],
-      "answer": "The Hague",
+      "answer": "Aryabhata",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
-      "options": [
-        "Animal conservation",
-        "Forest conservation",
-        "Water conservation",
-        "Soil conservation"
-      ],
-      "answer": "Forest conservation",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q37:-The dance form 'Kathak' originated from which part of India?",
-      "options": [
-        "South India",
-        "East India",
-        "North India",
-        "West India"
-      ],
-      "answer": "North India",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-08",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
       "shift": "Evening"
-    },
-    {
-      "question": "Q23:- The chemical symbol for silver is:",
-      "options": [
-        "Au",
-        "Ag",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Ag",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-09-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:-The gas used in balloons and airships is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
-      ],
-      "answer": "Helium",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-01",
-      "shift": "Morning"
     }
   ]
 }
