@@ -1,45 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q37:- The planet nearest to the Sun is:",
+      "question": "Q81:-Who was the first Indian to go to space?",
       "options": [
-        "Earth",
-        "Mars",
-        "Mercury",
-        "Venus"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
       ],
-      "answer": "Mercury",
+      "answer": "Rakesh Sharma",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-11-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q45:- The chemical name of 'Laughing Gas' is:",
+      "options": [
+        "Nitrous Oxide",
+        "Carbon Dioxide",
+        "Sulphur Dioxide",
+        "Methane"
+      ],
+      "answer": "Nitrous Oxide",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-05-10",
+      "date": "2025-07-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q57:-The largest producer of coffee in India is:",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Assam"
+      ],
+      "answer": "Karnataka",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-In which year did India win its first Cricket World Cup?",
+      "options": [
+        "1975",
+        "1983",
+        "1992",
+        "2011"
+      ],
+      "answer": "1983",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-10-25",
       "shift": "Evening"
     },
     {
-      "question": "Q35:-Who was the founder of the Mauryan Empire?",
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
       ],
-      "answer": "Chandragupta Maurya",
+      "answer": "Jaipur",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-15",
-      "shift": "Evening"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
     },
     {
-      "question": "Q29:-Who is known as the 'Father of Indian Cinema'?",
+      "question": "Q36:- The 'Silicon Valley' in USA is famous for:",
       "options": [
-        "Satyajit Ray",
-        "Dadasaheb Phalke",
-        "Raj Kapoor",
-        "Guru Dutt"
+        "Automobile Industry",
+        "IT Industry",
+        "Textile Industry",
+        "Steel Industry"
       ],
-      "answer": "Dadasaheb Phalke",
+      "answer": "IT Industry",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-09-22",
+      "source": "SSC GD 2025",
+      "date": "2025-04-22",
       "shift": "Morning"
     },
     {
@@ -57,87 +99,45 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q69:-The first Indian to receive the Nobel Prize was:",
+      "question": "Q14:- Who founded the 'Ramakrishna Mission'?",
       "options": [
-        "C. V. Raman",
-        "Mother Teresa",
-        "Rabindranath Tagore",
-        "Amartya Sen"
+        "Swami Dayanand Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy"
       ],
-      "answer": "Rabindranath Tagore",
+      "answer": "Swami Vivekananda",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-03-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q41:-The largest river in South India is:",
-      "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Mahanadi"
-      ],
-      "answer": "Godavari",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-09-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q91:- The 'Right to Information Act' (RTI) came into force in India in which year?",
-      "options": [
-        "2002",
-        "2005",
-        "2007",
-        "2010"
-      ],
-      "answer": "2005",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-07-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
-      "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
-      ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
+      "source": "SSC CHSL 2023",
+      "date": "2023-09-15",
       "shift": "Afternoon"
     },
     {
-      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "question": "Q26:-The famous Sanchi Stupa is located in which Indian state?",
       "options": [
-        "P. T. Usha",
-        "Karnam Malleswari",
-        "Saina Nehwal",
-        "Mary Kom"
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "answer": "Karnam Malleswari",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-11-14",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q99:- The 'Khadin System' of water harvesting is prevalent in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Madhya Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-09-15",
       "shift": "Morning"
     }
   ]
