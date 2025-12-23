@@ -1,88 +1,46 @@
 {
   "questions": [
     {
-      "question": "Q24:- The 'World Health Organization' (WHO) headquarters is located in:",
+      "question": "Q5:-Which is the smallest planet in our solar system?",
       "options": [
-        "New York",
-        "Geneva",
-        "Paris",
-        "London"
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
       ],
-      "answer": "Geneva",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-06-20",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q20:- Who designed the Indian Parliament House?",
-      "options": [
-        "Le Corbusier",
-        "Edwin Lutyens and Herbert Baker",
-        "Charles Correa",
-        "B.V. Doshi"
-      ],
-      "answer": "Edwin Lutyens and Herbert Baker",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q63:-The largest continent in the world is:",
-      "options": [
-        "Africa",
-        "Europe",
-        "North America",
-        "Asia"
-      ],
-      "answer": "Asia",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:- Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Customs Duty",
-        "Income Tax",
-        "Service Tax"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-04-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:- Which is the largest bone in the human body?",
-      "options": [
-        "Stapes",
-        "Femur",
-        "Tibia",
-        "Fibula"
-      ],
-      "answer": "Femur",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q18:-Which is the highest mountain peak in India?",
-      "options": [
-        "Mount Everest",
-        "K2 (Godwin Austen)",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "answer": "Kangchenjunga",
+      "answer": "Mercury",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-06-20",
+      "date": "2023-11-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1757"
+      ],
+      "answer": "1526",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CHSL 2023",
+      "date": "2023-07-20",
+      "shift": "Evening"
     },
     {
       "question": "Q30:- The headquarters of the 'International Cricket Council' (ICC) is located in:",
@@ -99,45 +57,87 @@
       "shift": "Evening"
     },
     {
-      "question": "Q79:-The sport of 'Kabaddi' originated in which country?",
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
       "options": [
-        "China",
-        "India",
-        "Bangladesh",
-        "Nepal"
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
       ],
-      "answer": "India",
+      "answer": "Liver",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-20",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q39:- The largest island in the world is:",
+      "options": [
+        "Australia",
+        "Greenland",
+        "New Guinea",
+        "Madagascar"
+      ],
+      "answer": "Greenland",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-05-30",
       "shift": "Morning"
     },
     {
-      "question": "Q86:- The 'Ryotwari System' of land revenue was introduced by:",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Lord Cornwallis",
-        "Lord William Bentinck",
-        "Thomas Munro",
-        "Lord Dalhousie"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "Thomas Munro",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-06-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
+      "question": "Q88:- The 'Green Revolution' in India was led by:",
       "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Homi J. Bhabha",
+        "C.V. Raman"
       ],
-      "answer": "Two Houses of Parliament",
+      "answer": "M.S. Swaminathan",
       "category": "GK",
       "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "date": "2025-06-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q31:- The smallest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Stapes",
+        "Patella",
+        "Humerus"
+      ],
+      "answer": "Stapes",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
       "shift": "Evening"
     }
   ]
