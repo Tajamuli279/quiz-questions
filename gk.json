@@ -1,116 +1,88 @@
 {
   "questions": [
     {
-      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "options": [
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "answer": "Kathakali",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:- Which is the largest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": "Femur",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:- Which state is known as the 'Granary of India'?",
       "options": [
         "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Odisha"
+        "Punjab",
+        "Haryana",
+        "Madhya Pradesh"
       ],
-      "answer": "Madhya Pradesh",
-      "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-04-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q68:-The process by which plants make their own food is called:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Fermentation"
-      ],
-      "answer": "Photosynthesis",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-The 'Chipko Movement' is associated with the conservation of which of the following?",
-      "options": [
-        "Forests",
-        "Wetlands",
-        "Rivers",
-        "Mountains"
-      ],
-      "answer": "Forests",
+      "answer": "Punjab",
       "category": "GK",
       "source": "SSC CHSL 2023",
-      "date": "2023-08-05",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "date": "2023-07-20",
       "shift": "Evening"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q74:- The 'Ajanta Caves' are famous for their:",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Sculptures",
+        "Paintings",
+        "Architecture",
+        "Relics"
       ],
-      "answer": "Seismology",
+      "answer": "Paintings",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
-      "options": [
-        "1942",
-        "1945",
-        "1948",
-        "1950"
-      ],
-      "answer": "1945",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-10-01",
+      "source": "SSC CHSL 2025",
+      "date": "2025-03-01",
       "shift": "Morning"
     },
     {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "question": "Q48:-The longest river in the world is:",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Nile",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
       "shift": "Evening"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q22:- The 'Dandi March' was started by Mahatma Gandhi in which year?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "1928",
+        "1930",
+        "1932",
+        "1935"
       ],
-      "answer": "Joule",
+      "answer": "1930",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
-      "shift": "Morning"
+      "source": "SSC CHSL 2023",
+      "date": "2023-11-08",
+      "shift": "Evening"
     },
     {
       "question": "Q27:-Which of the following is a direct tax?",
@@ -127,17 +99,45 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q56:-The minimum age to be eligible for election as President of India is:",
+      "question": "Q78:-Which organ is primarily affected by Jaundice?",
       "options": [
-        "25 years",
-        "30 years",
-        "35 years",
-        "40 years"
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Kidney"
       ],
-      "answer": "35 years",
+      "answer": "Liver",
       "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-02-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q20:- Who designed the Indian Parliament House?",
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens and Herbert Baker",
+        "Charles Correa",
+        "B.V. Doshi"
+      ],
+      "answer": "Edwin Lutyens and Herbert Baker",
+      "category": "GK",
+      "source": "SSC GD 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
       "shift": "Evening"
     }
   ]
