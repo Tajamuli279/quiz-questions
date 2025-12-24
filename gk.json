@@ -1,73 +1,87 @@
 {
   "questions": [
     {
-      "question": "Q71:- The gas used in refrigerating systems is primarily:",
+      "question": "Q97:- The 'Currency of South Korea' is:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Freon",
-        "Carbon Dioxide"
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
       ],
-      "answer": "Freon",
+      "answer": "Won",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-02-05",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
       "shift": "Afternoon"
     },
     {
-      "question": "Q7:-Which river is known as the 'Dakshin Ganga' (Ganges of the South)?",
+      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
       "options": [
-        "Krishna",
-        "Godavari",
-        "Cauvery",
-        "Narmada"
+        "Tokyo",
+        "Manila",
+        "New Delhi",
+        "Bangkok"
       ],
-      "answer": "Godavari",
+      "answer": "Manila",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-12-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-10-18",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-The largest ocean in the world is:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-15",
       "shift": "Morning"
     },
     {
-      "question": "Q46:-The chemical name of common salt is:",
+      "question": "Q17:-The study of earthquakes is known as:",
       "options": [
-        "Calcium Chloride",
-        "Sodium Chloride",
-        "Potassium Chloride",
-        "Magnesium Chloride"
+        "Geology",
+        "Seismology",
+        "Hydrology",
+        "Meteorology"
       ],
-      "answer": "Sodium Chloride",
+      "answer": "Seismology",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-08-12",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q91:-The instrument used to measure the purity of milk is:",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Lactometer",
       "category": "GK",
       "source": "SSC CGL 2023",
-      "date": "2023-08-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q89:- The 'Electoral College' for the election of the President of India consists of:",
-      "options": [
-        "Elected members of Lok Sabha and Rajya Sabha",
-        "Elected members of Parliament and State Legislative Assemblies",
-        "All members of Parliament",
-        "All members of Parliament and State Legislative Assemblies"
-      ],
-      "answer": "Elected members of Parliament and State Legislative Assemblies",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-07-15",
+      "date": "2023-03-01",
       "shift": "Morning"
     },
     {
@@ -85,60 +99,46 @@
       "shift": "Morning"
     },
     {
-      "question": "Q19:-Who wrote the book 'Discovery of India'?",
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
       "options": [
-        "Mahatma Gandhi",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore"
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
       ],
-      "answer": "Jawaharlal Nehru",
+      "answer": "Pakistan and Afghanistan",
       "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-05-30",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "category": "GK",
+      "source": "SSC MTS 2022",
+      "date": "2022-09-05",
       "shift": "Evening"
     },
     {
-      "question": "Q40:-Who founded the 'Brahmo Samaj'?",
+      "question": "Q86:-The 'India Gate' is located in which city?",
       "options": [
-        "Swami Vivekananda",
-        "Raja Ram Mohan Roy",
-        "Dayanand Saraswati",
-        "Ramakrishna Paramahamsa"
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
       ],
-      "answer": "Raja Ram Mohan Roy",
+      "answer": "New Delhi",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-04-05",
+      "source": "SSC CGL 2023",
+      "date": "2023-02-28",
       "shift": "Morning"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:-The currency of Japan is:",
-      "options": [
-        "Yuan",
-        "Won",
-        "Yen",
-        "Rupee"
-      ],
-      "answer": "Yen",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-02-05",
-      "shift": "Afternoon"
     }
   ]
 }
