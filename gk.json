@@ -1,74 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q6:- Which state is known as the 'Granary of India'?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Madhya Pradesh"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Punjab",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-07-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q25:- Which continent is known as the 'Dark Continent'?",
-      "options": [
-        "Asia",
-        "Africa",
-        "Europe",
-        "South America"
-      ],
-      "answer": "Africa",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-01-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q28:-The largest freshwater lake in India is:",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "Dal Lake",
-        "Wular Lake",
-        "Chilika Lake",
-        "Sambhar Lake"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Wular Lake",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-06-01",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
       "shift": "Evening"
     },
     {
-      "question": "Q31:- The smallest bone in the human body is:",
+      "question": "Q17:- The largest state in India by area is:",
       "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
       ],
-      "answer": "Stapes",
+      "answer": "Rajasthan",
       "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
+      "source": "SSC CGL 2024",
+      "date": "2024-11-01",
       "shift": "Morning"
     },
     {
-      "question": "Q83:-The largest railway zone in India is:",
+      "question": "Q45:-Which of the following is a non-renewable source of energy?",
       "options": [
-        "Northern Railway",
-        "Western Railway",
-        "Southern Railway",
-        "Central Railway"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
       ],
-      "answer": "Northern Railway",
+      "answer": "Coal",
       "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-10-10",
-      "shift": "Evening"
+      "source": "SSC MTS 2022",
+      "date": "2022-07-25",
+      "shift": "Afternoon"
     },
     {
       "question": "Q9:-Which metal is known as 'liquid silver'?",
@@ -85,60 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q94:- The 'World's Largest Delta' is formed by which rivers?",
+      "question": "Q46:-The chemical name of common salt is:",
       "options": [
-        "Amazon and Orinoco",
-        "Mississippi and Missouri",
-        "Ganga and Brahmaputra",
-        "Nile and Congo"
+        "Calcium Chloride",
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Magnesium Chloride"
       ],
-      "answer": "Ganga and Brahmaputra",
+      "answer": "Sodium Chloride",
       "category": "GK",
-      "source": "SSC CHSL 2025",
-      "date": "2025-08-18",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-01",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-The study of earthquakes is known as:",
+      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
       "options": [
-        "Geology",
-        "Seismology",
-        "Hydrology",
-        "Meteorology"
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "answer": "Seismology",
+      "answer": "Kathakali",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-12",
-      "shift": "Afternoon"
+      "source": "SSC MTS 2022",
+      "date": "2022-09-15",
+      "shift": "Morning"
     },
     {
-      "question": "Q21:- The largest democracy in the world is:",
+      "question": "Q71:-The gas used in balloons and airships is:",
       "options": [
-        "USA",
-        "India",
-        "China",
-        "Canada"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
       ],
-      "answer": "India",
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q53:- Who discovered the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "answer": "Albert Einstein",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- The instrument used to measure electric current is:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "answer": "Ammeter",
       "category": "GK",
       "source": "SSC CGL 2024",
-      "date": "2024-12-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
+      "date": "2024-10-10",
+      "shift": "Morning"
     }
   ]
 }
