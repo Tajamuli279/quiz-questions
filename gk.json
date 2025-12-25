@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q49:-The capital of Australia is:",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q54:-The 'Quit India Movement' was launched in which year?",
       "options": [
         "1940",
@@ -15,130 +29,116 @@
       "shift": "Morning"
     },
     {
-      "question": "Q51:-Which of the following is a unit of energy?",
+      "question": "Q62:-Which of the following is a greenhouse gas?",
       "options": [
-        "Watt",
-        "Joule",
-        "Ampere",
-        "Volt"
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "answer": "Joule",
+      "answer": "Methane",
       "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-03-20",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-The 'Gateway of India' is located in which city?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q29:- The 'Kumbh Mela' is held every how many years?",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-02-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q70:-The smallest union territory of India is:",
+      "options": [
+        "Chandigarh",
+        "Lakshadweep",
+        "Daman and Diu",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q69:- The capital of Italy is:",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "answer": "Rome",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-03-15",
       "shift": "Morning"
     },
     {
-      "question": "Q100:- The 'Chadar Trek' is a famous winter trek in which region of India?",
+      "question": "Q71:- The gas used in refrigerating systems is primarily:",
       "options": [
-        "Himachal Pradesh",
-        "Uttarakhand",
-        "Ladakh",
-        "Sikkim"
+        "Oxygen",
+        "Nitrogen",
+        "Freon",
+        "Carbon Dioxide"
       ],
-      "answer": "Ladakh",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-09-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-The famous Konark Sun Temple is located in which state of India?",
-      "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Kerala"
-      ],
-      "answer": "Odisha",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
+      "answer": "Freon",
       "category": "GK",
       "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
+      "date": "2025-02-05",
       "shift": "Afternoon"
     },
     {
-      "question": "Q45:-Which of the following is a non-renewable source of energy?",
+      "question": "Q78:- The 'Khajuraho Group of Monuments' is located in which Indian state?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydroelectric energy"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Odisha"
       ],
-      "answer": "Coal",
+      "answer": "Madhya Pradesh",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-07-25",
+      "source": "SSC CHSL 2025",
+      "date": "2025-04-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q22:-Which of the following is a classical dance form from Kerala?",
+      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
       "options": [
-        "Bharatnatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "France and Germany",
+        "Germany and Poland",
+        "Russia and Ukraine",
+        "USA and Canada"
       ],
-      "answer": "Kathakali",
+      "answer": "France and Germany",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-15",
+      "source": "SSC GD 2025",
+      "date": "2025-06-25",
       "shift": "Morning"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
     }
   ]
 }
