@@ -1,88 +1,32 @@
 {
   "questions": [
     {
-      "question": "Q8:-What is the capital of Arunachal Pradesh?",
+      "question": "Q13:- The instrument used to measure electric current is:",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Guwahati",
-        "Shillong"
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "answer": "Itanagar",
+      "answer": "Ammeter",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-11",
-      "shift": "Evening"
+      "source": "SSC CGL 2024",
+      "date": "2024-10-10",
+      "shift": "Morning"
     },
     {
-      "question": "Q77:-The 'Green Revolution' in India is associated with the increase in production of:",
+      "question": "Q54:- The 'World Heritage Day' is celebrated on:",
       "options": [
-        "Fruits",
-        "Vegetables",
-        "Food grains",
-        "Dairy products"
+        "April 18",
+        "June 5",
+        "July 11",
+        "October 24"
       ],
-      "answer": "Food grains",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
+      "answer": "April 18",
       "category": "GK",
       "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
-      "options": [
-        "January 25",
-        "February 28",
-        "August 15",
-        "October 2"
-      ],
-      "answer": "January 25",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:- The instrument used to measure wind speed is:",
-      "options": [
-        "Barometer",
-        "Anemometer",
-        "Hydrometer",
-        "Thermometer"
-      ],
-      "answer": "Anemometer",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q54:-The 'Quit India Movement' was launched in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "answer": "1942",
-      "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-07-03",
-      "shift": "Morning"
+      "date": "2024-10-15",
+      "shift": "Afternoon"
     },
     {
       "question": "Q91:-The instrument used to measure the purity of milk is:",
@@ -99,46 +43,102 @@
       "shift": "Morning"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q49:-The capital of Australia is:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
       ],
-      "answer": "Neptune",
+      "answer": "Canberra",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "source": "SSC GD 2023",
+      "date": "2023-02-10",
       "shift": "Afternoon"
     },
     {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
       "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
       ],
-      "answer": "New York",
+      "answer": "82.5\u00b0 E",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q33:-The gas responsible for global warming is:",
+      "question": "Q89:-The 'International Yoga Day' is celebrated on:",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 12"
       ],
-      "answer": "Carbon Dioxide",
+      "answer": "June 21",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-30",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q85:-The world's largest flower is:",
+      "options": [
+        "Rose",
+        "Sunflower",
+        "Rafflesia Arnoldii",
+        "Lotus"
+      ],
+      "answer": "Rafflesia Arnoldii",
+      "category": "GK",
+      "source": "SSC MTS 2023",
+      "date": "2023-07-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q66:- The 'Charminar' is located in which Indian city?",
+      "options": [
+        "Lucknow",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Hyderabad",
+      "category": "GK",
+      "source": "SSC CHSL 2025",
+      "date": "2025-01-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
       "category": "GK",
       "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q96:-The 'World Environment Day' is celebrated on:",
+      "options": [
+        "April 22",
+        "June 5",
+        "July 11",
+        "September 16"
+      ],
+      "answer": "June 5",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-10",
+      "shift": "Morning"
     }
   ]
 }
