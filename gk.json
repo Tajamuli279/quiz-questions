@@ -1,88 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q60:-The deepest ocean trench in the world is:",
+      "question": "Q11:- Which is the largest bone in the human body?",
       "options": [
-        "Java Trench",
-        "Puerto Rico Trench",
-        "Mariana Trench",
-        "Kermadec Trench"
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Fibula"
       ],
-      "answer": "Mariana Trench",
+      "answer": "Femur",
       "category": "GK",
-      "source": "SSC CHSL 2023",
-      "date": "2023-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-The headquarters of the Asian Development Bank is located in which city?",
-      "options": [
-        "Tokyo",
-        "Manila",
-        "New Delhi",
-        "Bangkok"
-      ],
-      "answer": "Manila",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-12-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
-      "options": [
-        "Child labor",
-        "Girl child education and gender ratio",
-        "Malnutrition",
-        "Poverty alleviation"
-      ],
-      "answer": "Girl child education and gender ratio",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q52:- The 'Golden Temple' is located in which Indian city?",
-      "options": [
-        "Delhi",
-        "Varanasi",
-        "Amritsar",
-        "Ludhiana"
-      ],
-      "answer": "Amritsar",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-08-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Which city is known as the 'Pink City' of India?",
-      "options": [
-        "Jaipur",
-        "Udaipur",
-        "Jodhpur",
-        "Mysore"
-      ],
-      "answer": "Jaipur",
-      "category": "GK",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-05",
-      "shift": "Morning"
+      "source": "SSC MTS 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
     },
     {
       "question": "Q17:-The study of earthquakes is known as:",
@@ -99,46 +29,116 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q1:- Who was the founder of the Mughal Empire in India?",
+      "question": "Q98:- The 'Valley of Flowers National Park' is located in which Indian state?",
       "options": [
-        "Akbar",
-        "Humayun",
-        "Babur",
-        "Shah Jahan"
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Uttarakhand",
+        "Sikkim"
       ],
-      "answer": "Babur",
+      "answer": "Uttarakhand",
       "category": "GK",
-      "source": "SSC CGL 2024",
-      "date": "2024-07-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:-Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Saturn",
-        "Venus"
-      ],
-      "answer": "Mars",
-      "category": "GK",
-      "source": "SSC CGL 2023",
-      "date": "2023-07-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:- The 'Bicameral Legislature' means:",
-      "options": [
-        "One House of Parliament",
-        "Two Houses of Parliament",
-        "Three Houses of Parliament",
-        "No Houses of Parliament"
-      ],
-      "answer": "Two Houses of Parliament",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-03-25",
+      "source": "SSC CHSL 2025",
+      "date": "2025-09-08",
       "shift": "Evening"
+    },
+    {
+      "question": "Q62:-Which of the following is a greenhouse gas?",
+      "options": [
+        "Oxygen",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": "Methane",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": "Punjab",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-09-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q73:-The 'Durand Line' is the border between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Pakistan and Afghanistan",
+        "India and Bangladesh"
+      ],
+      "answer": "Pakistan and Afghanistan",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-06-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:- Which vitamin is important for good eyesight?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "answer": "Vitamin A",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q75:- The 'National Voters' Day' in India is celebrated on:",
+      "options": [
+        "January 25",
+        "February 28",
+        "August 15",
+        "October 2"
+      ],
+      "answer": "January 25",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-03-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q57:- The 'United Nations Organization' (UNO) was established in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1948",
+        "1950"
+      ],
+      "answer": "1945",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-10-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which city is known as the 'Pink City' of India?",
+      "options": [
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Mysore"
+      ],
+      "answer": "Jaipur",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-05",
+      "shift": "Morning"
     }
   ]
 }
