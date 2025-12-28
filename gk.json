@@ -1,73 +1,59 @@
 {
   "questions": [
     {
-      "question": "Q100:-The 'Sun Temple' is located in which state?",
+      "question": "Q50:-The first battle of Panipat was fought in which year?",
       "options": [
-        "Odisha",
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh"
+        "1526",
+        "1556",
+        "1761",
+        "1757"
       ],
-      "answer": "Odisha",
+      "answer": "1526",
       "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-10",
+      "source": "SSC MTS 2023",
+      "date": "2023-06-15",
       "shift": "Morning"
     },
     {
-      "question": "Q59:-Which country is known as the 'Land of the Rising Sun'?",
+      "question": "Q23:- The chemical symbol for silver is:",
+      "options": [
+        "Au",
+        "Ag",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Ag",
+      "category": "GK",
+      "source": "SSC MTS 2024",
+      "date": "2024-09-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q67:- The largest railway network in the world is in which country?",
       "options": [
         "China",
-        "South Korea",
-        "Japan",
-        "Thailand"
+        "India",
+        "USA",
+        "Russia"
       ],
-      "answer": "Japan",
+      "answer": "USA",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-09-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:- The 'Battle of Plassey' was fought in which year?",
-      "options": [
-        "1757",
-        "1764",
-        "1773",
-        "1857"
-      ],
-      "answer": "1757",
-      "category": "GK",
-      "source": "SSC GD 2024",
-      "date": "2024-03-01",
+      "source": "SSC MTS 2025",
+      "date": "2025-12-10",
       "shift": "Morning"
     },
     {
-      "question": "Q39:-The instrument used to measure atmospheric pressure is:",
+      "question": "Q76:-The number of fundamental duties in the Indian Constitution is:",
       "options": [
-        "Ammeter",
-        "Barometer",
-        "Thermometer",
-        "Hydrometer"
+        "10",
+        "11",
+        "12",
+        "9"
       ],
-      "answer": "Barometer",
+      "answer": "11",
       "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-10-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q81:-Who was the first Indian to go to space?",
-      "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "Ravish Malhotra"
-      ],
-      "answer": "Rakesh Sharma",
-      "category": "GK",
-      "source": "SSC CGL 2021",
-      "date": "2021-11-01",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-08",
       "shift": "Morning"
     },
     {
@@ -85,60 +71,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q92:- The 'Battle of Khanwa' was fought between Babur and which Rajput ruler?",
+      "question": "Q36:-The highest civilian award in India is:",
       "options": [
-        "Prithviraj Chauhan",
-        "Rana Sanga",
-        "Maharana Pratap",
-        "Raja Man Singh"
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri",
+        "Bharat Ratna"
       ],
-      "answer": "Rana Sanga",
+      "answer": "Bharat Ratna",
       "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-07-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q95:- The 'National Human Rights Commission' (NHRC) was established in India in which year?",
-      "options": [
-        "1990",
-        "1993",
-        "1995",
-        "1998"
-      ],
-      "answer": "1993",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-08-01",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q88:-Which state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Haryana",
-        "Punjab",
-        "Uttar Pradesh",
-        "Himachal Pradesh"
-      ],
-      "answer": "Punjab",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-09-10",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-02",
       "shift": "Morning"
     },
     {
-      "question": "Q97:- The 'Currency of South Korea' is:",
+      "question": "Q18:-Which is the highest mountain peak in India?",
       "options": [
-        "Yuan",
-        "Yen",
-        "Won",
-        "Baht"
+        "Mount Everest",
+        "K2 (Godwin Austen)",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "answer": "Won",
+      "answer": "Kangchenjunga",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-06-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q30:-The first Indian woman to win an Olympic medal was:",
+      "options": [
+        "P. T. Usha",
+        "Karnam Malleswari",
+        "Saina Nehwal",
+        "Mary Kom"
+      ],
+      "answer": "Karnam Malleswari",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-11-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:- The 'Chipko Movement' is primarily concerned with:",
+      "options": [
+        "Animal conservation",
+        "Forest conservation",
+        "Water conservation",
+        "Soil conservation"
+      ],
+      "answer": "Forest conservation",
+      "category": "GK",
+      "source": "SSC GD 2025",
+      "date": "2025-07-18",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
       "category": "GK",
       "source": "SSC CGL 2025",
-      "date": "2025-09-01",
-      "shift": "Afternoon"
+      "date": "2025-04-20",
+      "shift": "Evening"
     }
   ]
 }
