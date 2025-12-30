@@ -1,118 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q31:- The smallest bone in the human body is:",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Patella",
-        "Humerus"
-      ],
-      "answer": "Stapes",
-      "category": "GK",
-      "source": "SSC MTS 2025",
-      "date": "2025-03-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q64:- The term 'Offside' is associated with which sport?",
-      "options": [
-        "Cricket",
-        "Football",
-        "Hockey",
-        "Basketball"
-      ],
-      "answer": "Football",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-11-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q3:- The smallest country in the world by area is:",
-      "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:- The 'Maginot Line' is a defensive line between which two countries?",
-      "options": [
-        "France and Germany",
-        "Germany and Poland",
-        "Russia and Ukraine",
-        "USA and Canada"
-      ],
-      "answer": "France and Germany",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-06-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q62:-Which of the following is a greenhouse gas?",
-      "options": [
-        "Oxygen",
-        "Methane",
-        "Hydrogen",
-        "Nitrogen"
-      ],
-      "answer": "Methane",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q97:-Which river is also known as 'Sorrow of Bihar'?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Kosi",
-        "Brahmaputra"
-      ],
-      "answer": "Kosi",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-08-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q74:-The 'Gol Gumbaz' is located in which state?",
-      "options": [
-        "Karnataka",
-        "Maharashtra",
-        "Telangana",
-        "Andhra Pradesh"
-      ],
-      "answer": "Karnataka",
-      "category": "GK",
-      "source": "SSC MTS 2022",
-      "date": "2022-08-10",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q72:- The 'Statue of Liberty' is located in which city?",
-      "options": [
-        "Washington D.C.",
-        "Los Angeles",
-        "Chicago",
-        "New York"
-      ],
-      "answer": "New York",
-      "category": "GK",
-      "source": "SSC GD 2025",
-      "date": "2025-01-01",
-      "shift": "Morning"
-    },
-    {
       "question": "Q68:- The 'World Water Day' is celebrated on:",
       "options": [
         "March 22",
@@ -127,17 +15,129 @@
       "shift": "Evening"
     },
     {
-      "question": "Q50:-The first battle of Panipat was fought in which year?",
+      "question": "Q9:-Which metal is known as 'liquid silver'?",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1757"
+        "Mercury",
+        "Copper",
+        "Aluminium",
+        "Iron"
       ],
-      "answer": "1526",
+      "answer": "Mercury",
       "category": "GK",
-      "source": "SSC MTS 2023",
-      "date": "2023-06-15",
+      "source": "SSC CGL 2023",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q24:-The first artificial satellite launched by India was:",
+      "options": [
+        "Rohini",
+        "Bhaskara",
+        "Aryabhata",
+        "Chandrayaan-1"
+      ],
+      "answer": "Aryabhata",
+      "category": "GK",
+      "source": "SSC CGL 2020",
+      "date": "2020-02-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q35:- The highest civilian award in India is:",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "category": "GK",
+      "source": "SSC MTS 2025",
+      "date": "2025-04-15",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q97:- The 'Currency of South Korea' is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Baht"
+      ],
+      "answer": "Won",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-09-01",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q93:- The 'Indian Standard Time' (IST) is based on the longitude of:",
+      "options": [
+        "82.5\u00b0 E",
+        "78.5\u00b0 E",
+        "90.5\u00b0 E",
+        "75.5\u00b0 E"
+      ],
+      "answer": "82.5\u00b0 E",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-The longest river in the world is:",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-11-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q64:-The 'Beti Bachao, Beti Padhao' scheme was launched to address which issue?",
+      "options": [
+        "Child labor",
+        "Girl child education and gender ratio",
+        "Malnutrition",
+        "Poverty alleviation"
+      ],
+      "answer": "Girl child education and gender ratio",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-The largest desert in the world is:",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "answer": "Sahara Desert",
+      "category": "GK",
+      "source": "SSC CGL 2021",
+      "date": "2021-09-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:-The gas used in balloons and airships is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium",
+      "category": "GK",
+      "source": "SSC CGL 2023",
+      "date": "2023-07-01",
       "shift": "Morning"
     }
   ]
