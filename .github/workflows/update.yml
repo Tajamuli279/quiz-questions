@@ -2,11 +2,16 @@ name: Auto Update All Quizzes
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# ✅ VERY IMPORTANT: Prevent parallel runs
+concurrency:
+  group: quiz-auto-update
+  cancel-in-progress: true
 
 jobs:
   update-quizzes:
@@ -16,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0   # IMPORTANT for rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,15 +34,14 @@ jobs:
       - name: Run quiz reshuffle script
         run: python updater.py
 
-      - name: Commit and push changes (safe)
+      - name: Commit and push changes (FINAL SAFE FIX)
         run: |
           git config --global user.email "bot@example.com"
           git config --global user.name "GitHub Bot"
 
-          # Pull latest changes to avoid push rejection
-          git pull --rebase origin main
-
           git add *.json
           git commit -m "🔁 Auto update all quizzes" || echo "No changes to commit"
 
-          git push origin main
+          # ✅ SAFE force push (prevents fetch-first error)
+          git push --force-with-lease origin main
+
