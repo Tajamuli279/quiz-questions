@@ -1,20 +1,25 @@
 import json
 import random
-import requests
+from pathlib import Path
 
-# URL where SSC GK JSON is hosted
-url = "https://raw.githubusercontent.com/Tajamuli279/quiz-questions/refs/heads/main/rawquestions.json"
+BASE_DIR = Path(".")
 
-# Step 1: Fetch questions from GitHub
-response = requests.get(url)
-data = response.json()
+for file in BASE_DIR.glob("*.json"):
+    try:
+        with open(file, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
-# Step 2: Get only questions list
-all_questions = data.get("questions", [])
+        # ✅ ONLY reshuffle if "questions" key exists
+        if isinstance(data, dict) and "questions" in data:
+            random.shuffle(data["questions"])
 
-# Step 3: Randomly select 10 questions
-selected_questions = random.sample(all_questions, 10) if len(all_questions) >= 10 else all_questions
+            with open(file, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
 
-# Step 4: Overwrite gk.json in the repo with 10 selected questions
-with open("gk.json", "w") as f:
-    json.dump({"questions": selected_questions}, f, indent=2)
+            print(f"✅ Reshuffled: {file.name}")
+        else:
+            print(f"⚠️ Skipped (no questions key): {file.name}")
+
+    except Exception as e:
+        print(f"❌ Error in {file.name}: {e}")
+
