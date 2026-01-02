@@ -1,59 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q6:-What does HTTP stand for?",
+      "question": "Q7:-Which device is used for printing?",
       "options": [
-        "HyperText Transfer Protocol",
-        "HighText Transfer Protocol",
-        "Hyper Transfer Text Protocol",
-        "HyperText Translate Protocol"
+        "Scanner",
+        "Printer",
+        "Mouse",
+        "Monitor"
       ],
-      "answer": "HyperText Transfer Protocol",
+      "answer": "Printer",
       "category": "Computer",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-What is the brain of the computer?",
-      "options": [
-        "RAM",
-        "CPU",
-        "Monitor",
-        "Mouse"
-      ],
-      "answer": "CPU",
-      "category": "Computer",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-Which memory is volatile?",
-      "options": [
-        "ROM",
-        "Hard Disk",
-        "RAM",
-        "CD-ROM"
-      ],
-      "answer": "RAM",
-      "category": "Computer",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q9:-Which one is a web browser?",
+      "question": "Q13:-Which key is used to refresh a webpage?",
       "options": [
-        "Google Chrome",
-        "MS Word",
-        "Adobe Photoshop",
-        "Notepad"
+        "F1",
+        "F2",
+        "F5",
+        "F12"
       ],
-      "answer": "Google Chrome",
+      "answer": "F5",
       "category": "Computer",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
       "shift": "Morning"
     },
     {
@@ -71,17 +43,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q20:-Which is NOT a type of network?",
+      "question": "Q8:-What is the full form of URL?",
       "options": [
-        "WAN",
-        "LAN",
-        "PAN",
-        "CAN"
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retrieval Locator",
+        "Universal Retrieval Locator"
       ],
-      "answer": "CAN",
+      "answer": "Uniform Resource Locator",
       "category": "Computer",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
       "shift": "Evening"
     },
     {
@@ -113,60 +85,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-Which is an example of an output device?",
+      "question": "Q18:-Which is not a programming language?",
       "options": [
-        "Keyboard",
-        "Mouse",
-        "Speaker",
-        "Scanner"
+        "Python",
+        "HTML",
+        "Java",
+        "MS Excel"
       ],
-      "answer": "Speaker",
+      "answer": "MS Excel",
       "category": "Computer",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:-Which device is used for printing?",
-      "options": [
-        "Scanner",
-        "Printer",
-        "Mouse",
-        "Monitor"
-      ],
-      "answer": "Printer",
-      "category": "Computer",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-What is the full form of LAN?",
-      "options": [
-        "Large Area Network",
-        "Local Area Network",
-        "Long Area Network",
-        "Linked Area Network"
-      ],
-      "answer": "Local Area Network",
-      "category": "Computer",
-      "source": "SSC CGL 2008",
-      "date": "2008-07-23",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
       "shift": "Evening"
-    },
-    {
-      "question": "Q13:-Which key is used to refresh a webpage?",
-      "options": [
-        "F1",
-        "F2",
-        "F5",
-        "F12"
-      ],
-      "answer": "F5",
-      "category": "Computer",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
-      "shift": "Morning"
     },
     {
       "question": "Q12:-What is phishing?",
@@ -183,31 +113,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q19:-What does IP stand for in IP address?",
+      "question": "Q6:-What does HTTP stand for?",
       "options": [
-        "Internet Protocol",
-        "Internal Protocol",
-        "International Protocol",
-        "Internet Package"
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "Hyper Transfer Text Protocol",
+        "HyperText Translate Protocol"
       ],
-      "answer": "Internet Protocol",
+      "answer": "HyperText Transfer Protocol",
       "category": "Computer",
-      "source": "SSC CGL 2005",
-      "date": "2005-08-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is not a programming language?",
-      "options": [
-        "Python",
-        "HTML",
-        "Java",
-        "MS Excel"
-      ],
-      "answer": "MS Excel",
-      "category": "Computer",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
       "shift": "Evening"
     },
     {
@@ -225,34 +141,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q10:-Which part stores permanent data?",
-      "options": [
-        "RAM",
-        "Cache",
-        "ROM",
-        "Registers"
-      ],
-      "answer": "ROM",
-      "category": "Computer",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:-What is the full form of URL?",
-      "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Locator",
-        "Uniform Retrieval Locator",
-        "Universal Retrieval Locator"
-      ],
-      "answer": "Uniform Resource Locator",
-      "category": "Computer",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
-      "shift": "Evening"
-    },
-    {
       "question": "Q4:-What is the shortcut for 'Copy'?",
       "options": [
         "Ctrl + C",
@@ -267,6 +155,34 @@
       "shift": "Evening"
     },
     {
+      "question": "Q3:-Which memory is volatile?",
+      "options": [
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "CD-ROM"
+      ],
+      "answer": "RAM",
+      "category": "Computer",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-Which is an example of an output device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Speaker",
+        "Scanner"
+      ],
+      "answer": "Speaker",
+      "category": "Computer",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
       "question": "Q5:-Which one is NOT an operating system?",
       "options": [
         "Windows",
@@ -278,6 +194,90 @@
       "category": "Computer",
       "source": "SSC CHSL 2019",
       "date": "2019-07-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-What does IP stand for in IP address?",
+      "options": [
+        "Internet Protocol",
+        "Internal Protocol",
+        "International Protocol",
+        "Internet Package"
+      ],
+      "answer": "Internet Protocol",
+      "category": "Computer",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q20:-Which is NOT a type of network?",
+      "options": [
+        "WAN",
+        "LAN",
+        "PAN",
+        "CAN"
+      ],
+      "answer": "CAN",
+      "category": "Computer",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q16:-What is the full form of LAN?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Long Area Network",
+        "Linked Area Network"
+      ],
+      "answer": "Local Area Network",
+      "category": "Computer",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:-Which part stores permanent data?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Registers"
+      ],
+      "answer": "ROM",
+      "category": "Computer",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-What is the brain of the computer?",
+      "options": [
+        "RAM",
+        "CPU",
+        "Monitor",
+        "Mouse"
+      ],
+      "answer": "CPU",
+      "category": "Computer",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Which one is a web browser?",
+      "options": [
+        "Google Chrome",
+        "MS Word",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "answer": "Google Chrome",
+      "category": "Computer",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
       "shift": "Morning"
     }
   ]
