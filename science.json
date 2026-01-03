@@ -1,20 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Nitrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
       "question": "Q10:-Which blood cells help in clotting?",
       "options": [
         "Red blood cells",
@@ -27,6 +13,48 @@
       "source": "SSC CGL 2024",
       "date": "2024-05-22",
       "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Pupil",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Morning"
     },
     {
       "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
@@ -43,31 +71,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q4:-Which organ in the human body produces bile?",
+      "question": "Q5:-What is the chemical formula of washing soda?",
       "options": [
-        "Pancreas",
-        "Liver",
-        "Gallbladder",
-        "Kidney"
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
       ],
-      "answer": "Liver",
+      "answer": "Na2CO3",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is the lightest metal?",
+      "options": [
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Which process converts sugar into alcohol?",
+      "question": "Q7:-What is the speed of light in vacuum?",
       "options": [
-        "Fermentation",
-        "Distillation",
-        "Evaporation",
-        "Sublimation"
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
       ],
-      "answer": "Fermentation",
+      "answer": "3 × 10^8 m/s",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "date": "2024-04-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Which element is common in all acids?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Hydrogen",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-Which acid is present in lemon?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
+      ],
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
       "shift": "Evening"
     },
     {
@@ -85,45 +155,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "question": "Q12:-What is the main gas found in the air we breathe?",
       "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Convex mirror",
+      "answer": "Nitrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-Which part of the cell contains genetic material?",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
-      ],
-      "answer": "Nucleus",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:-Which element is common in all acids?",
-      "options": [
-        "Oxygen",
-        "Hydrogen",
-        "Nitrogen",
-        "Carbon"
-      ],
-      "answer": "Hydrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
       "shift": "Evening"
     },
     {
@@ -141,62 +183,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
-      "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
-      ],
-      "answer": "100°C",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:-What is the speed of light in vacuum?",
-      "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
-      ],
-      "answer": "3 × 10^8 m/s",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-Which acid is present in lemon?",
-      "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
-      ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q18:-Which is the lightest metal?",
-      "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
-      ],
-      "answer": "Lithium",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
-      "shift": "Evening"
-    },
-    {
       "question": "Q17:-Which part of the brain controls balance?",
       "options": [
         "Cerebrum",
@@ -211,45 +197,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q2:-Which gas is used in the preparation of soda water?",
+      "question": "Q6:-Which part of the cell contains genetic material?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
       ],
-      "answer": "Carbon dioxide",
+      "answer": "Nucleus",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-20",
+      "date": "2024-05-21",
       "shift": "Evening"
     },
     {
-      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "question": "Q4:-Which organ in the human body produces bile?",
       "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
+        "Pancreas",
+        "Liver",
+        "Gallbladder",
+        "Kidney"
       ],
-      "answer": "Pupil",
+      "answer": "Liver",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Morning"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Evening"
     },
     {
-      "question": "Q1:-What is the SI unit of force?",
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
       "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
       ],
-      "answer": "Newton",
+      "answer": "Convex mirror",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
       "shift": "Morning"
     },
     {
@@ -267,17 +253,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q5:-What is the chemical formula of washing soda?",
+      "question": "Q20:-Which process converts sugar into alcohol?",
       "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
+        "Fermentation",
+        "Distillation",
+        "Evaporation",
+        "Sublimation"
       ],
-      "answer": "Na2CO3",
+      "answer": "Fermentation",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-What is the boiling point of water?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
       "shift": "Morning"
     }
   ]
