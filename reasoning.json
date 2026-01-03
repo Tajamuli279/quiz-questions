@@ -1,916 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q82:-Which letter comes next: C, F, I, L, ?",
-      "options": [
-        "N",
-        "O",
-        "P",
-        "Q"
-      ],
-      "answer": "O",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-29",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-Mirror image of 'b' is?",
-      "options": [
-        "d",
-        "p",
-        "q",
-        "b"
-      ],
-      "answer": "d",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:-Which number comes next: 2, 4, 8, 16, ?",
-      "options": [
-        "24",
-        "30",
-        "32",
-        "36"
-      ],
-      "answer": "32",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q96:-Find the next letter: A, D, I, P, ?",
-      "options": [
-        "Y",
-        "Z",
-        "X",
-        "W"
-      ],
-      "answer": "Y",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-08",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Complete the series: A, D, G, J, ?",
-      "options": [
-        "K",
-        "L",
-        "M",
-        "N"
-      ],
-      "answer": "M",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q80:-Which day comes after Friday?",
-      "options": [
-        "Thursday",
-        "Saturday",
-        "Sunday",
-        "Monday"
-      ],
-      "answer": "Saturday",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-04",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q66:-Which number is a perfect cube?",
-      "options": [
-        "16",
-        "27",
-        "36",
-        "49"
-      ],
-      "answer": "27",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q95:-Find the odd one: Gold, Silver, Iron, Wood",
-      "options": [
-        "Gold",
-        "Silver",
-        "Iron",
-        "Wood"
-      ],
-      "answer": "Wood",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q55:-Water is to Thirst as Food is to ?",
-      "options": [
-        "Hunger",
-        "Taste",
-        "Energy",
-        "Stomach"
-      ],
-      "answer": "Hunger",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q76:-Find the missing number: 9, 18, 27, ?, 45",
-      "options": [
-        "30",
-        "33",
-        "36",
-        "39"
-      ],
-      "answer": "36",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q70:-Opposite of West is?",
-      "options": [
-        "North",
-        "South",
-        "East",
-        "North-East"
-      ],
-      "answer": "East",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-26",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q35:-Find the mirror image of number 3",
-      "options": [
-        "Ɛ",
-        "E",
-        "Ʒ",
-        "Z"
-      ],
-      "answer": "Ɛ",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q97:-Which number is prime?",
-      "options": [
-        "15",
-        "21",
-        "29",
-        "35"
-      ],
-      "answer": "29",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q22:-If A = 1, B = 2, then Z = ?",
-      "options": [
-        "24",
-        "25",
-        "26",
-        "27"
-      ],
-      "answer": "26",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q41:-Which letter comes next: D, H, L, P, ?",
-      "options": [
-        "S",
-        "T",
-        "U",
-        "V"
-      ],
-      "answer": "T",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q91:-Find the missing number: 5, 10, 20, 40, ?",
-      "options": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "answer": "80",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-07",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q73:-If 9 = 81, 8 = 64, then 7 = ?",
-      "options": [
-        "42",
-        "48",
-        "49",
-        "56"
-      ],
-      "answer": "49",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-27",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q32:-Which word is different: Pen, Pencil, Chalk, Eraser",
-      "options": [
-        "Pen",
-        "Pencil",
-        "Chalk",
-        "Eraser"
-      ],
-      "answer": "Eraser",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q61:-Find the missing number: 6, 13, 27, 55, ?",
-      "options": [
-        "111",
-        "109",
-        "113",
-        "115"
-      ],
-      "answer": "111",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-24",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q46:-Find the missing letter: A, E, I, M, ?",
-      "options": [
-        "N",
-        "O",
-        "Q",
-        "U"
-      ],
-      "answer": "Q",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-26",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q87:-Which figure has four equal sides?",
-      "options": [
-        "Rectangle",
-        "Square",
-        "Triangle",
-        "Circle"
-      ],
-      "answer": "Square",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-06",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q49:-Which is the odd number: 11, 13, 17, 21",
-      "options": [
-        "11",
-        "13",
-        "17",
-        "21"
-      ],
-      "answer": "21",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-27",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q16:-Find the next number: 3, 6, 12, 24, ?",
-      "options": [
-        "30",
-        "36",
-        "40",
-        "48"
-      ],
-      "answer": "48",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-13",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q6:-Which word cannot be formed from 'TRANSPORT'?",
-      "options": [
-        "PORT",
-        "TRAP",
-        "RANT",
-        "SPOON"
-      ],
-      "answer": "SPOON",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-16",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q78:-Find the odd letter group: AB, BC, CD, EF",
-      "options": [
-        "AB",
-        "BC",
-        "CD",
-        "EF"
-      ],
-      "answer": "EF",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-28",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q28:-Which number is the smallest?",
-      "options": [
-        "0.5",
-        "0.05",
-        "0.005",
-        "0.0005"
-      ],
-      "answer": "0.0005",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q24:-Which number replaces the question mark: 7, 14, 28, ?, 112",
-      "options": [
-        "42",
-        "49",
-        "56",
-        "64"
-      ],
-      "answer": "56",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q64:-What comes next: 11, 22, 44, 88, ?",
-      "options": [
-        "166",
-        "176",
-        "188",
-        "198"
-      ],
-      "answer": "176",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-31",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q68:-Which is the odd number: 14, 21, 28, 35",
-      "options": [
-        "14",
-        "21",
-        "28",
-        "35"
-      ],
-      "answer": "21",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q36:-Which number is odd?",
-      "options": [
-        "12",
-        "18",
-        "24",
-        "27"
-      ],
-      "answer": "27",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:-Which figure is different from the others?",
-      "options": [
-        "Circle",
-        "Square",
-        "Rectangle",
-        "Triangle"
-      ],
-      "answer": "Circle",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:-Find the odd one: 2, 3, 5, 7, 9, 11",
-      "options": [
-        "2",
-        "3",
-        "5",
-        "9"
-      ],
-      "answer": "9",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-14",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q92:-Which word is different: Dog, Cat, Cow, Chair",
-      "options": [
-        "Dog",
-        "Cat",
-        "Cow",
-        "Chair"
-      ],
-      "answer": "Chair",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-07",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Which pair is related: Book : Reading :: Pen : ?",
-      "options": [
-        "Writing",
-        "Drawing",
-        "Scribbling",
-        "Typing"
-      ],
-      "answer": "Writing",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q31:-What comes next: 1, 3, 6, 10, ?",
-      "options": [
-        "14",
-        "15",
-        "16",
-        "18"
-      ],
-      "answer": "15",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q50:-Opposite of South-East is?",
-      "options": [
-        "North-West",
-        "North-East",
-        "South-West",
-        "West"
-      ],
-      "answer": "North-West",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-27",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q62:-Which letter is 5th from the right in the alphabet?",
-      "options": [
-        "V",
-        "W",
-        "X",
-        "Y"
-      ],
-      "answer": "V",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-24",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q88:-Find the odd number: 8, 16, 32, 48",
-      "options": [
-        "8",
-        "16",
-        "32",
-        "48"
-      ],
-      "answer": "48",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-06",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q89:-If 10 = J, 11 = K, then 15 = ?",
-      "options": [
-        "M",
-        "N",
-        "O",
-        "P"
-      ],
-      "answer": "O",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q58:-Find the odd word: Table, Chair, Bed, Cup",
-      "options": [
-        "Table",
-        "Chair",
-        "Bed",
-        "Cup"
-      ],
-      "answer": "Cup",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q57:-Which number is not divisible by 3?",
-      "options": [
-        "21",
-        "27",
-        "32",
-        "39"
-      ],
-      "answer": "32",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q25:-Book is to Library as Car is to ?",
-      "options": [
-        "Garage",
-        "Road",
-        "Showroom",
-        "Driver"
-      ],
-      "answer": "Garage",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q83:-Find the odd one: January, March, May, June",
-      "options": [
-        "January",
-        "March",
-        "May",
-        "June"
-      ],
-      "answer": "June",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-05",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q43:-Find the odd word: Run, Walk, Jump, Sit",
-      "options": [
-        "Run",
-        "Walk",
-        "Jump",
-        "Sit"
-      ],
-      "answer": "Sit",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q53:-Find the odd one out: 3, 9, 27, 81, 108",
-      "options": [
-        "3",
-        "9",
-        "27",
-        "108"
-      ],
-      "answer": "108",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q23:-Find the odd one out: Crow, Sparrow, Parrot, Bat",
-      "options": [
-        "Crow",
-        "Sparrow",
-        "Parrot",
-        "Bat"
-      ],
-      "answer": "Bat",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q27:-Find the missing letter: B, E, H, K, ?",
-      "options": [
-        "L",
-        "M",
-        "N",
-        "O"
-      ],
-      "answer": "N",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q45:-Which shape has no corners?",
-      "options": [
-        "Square",
-        "Triangle",
-        "Circle",
-        "Rectangle"
-      ],
-      "answer": "Circle",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-26",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q38:-What comes next: 100, 90, 80, ?, 60",
-      "options": [
-        "75",
-        "72",
-        "70",
-        "65"
-      ],
-      "answer": "70",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q30:-Find the odd one: Square, Rectangle, Triangle, Cube",
-      "options": [
-        "Square",
-        "Rectangle",
-        "Triangle",
-        "Cube"
-      ],
-      "answer": "Cube",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-What comes next: Z, X, V, T, ?",
-      "options": [
-        "R",
-        "S",
-        "P",
-        "Q"
-      ],
-      "answer": "R",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-If CAT is coded as DBU, how is DOG coded?",
-      "options": [
-        "EPH",
-        "DPH",
-        "EPF",
-        "EOF"
-      ],
-      "answer": "EPH",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q85:-Opposite of Hot is?",
-      "options": [
-        "Warm",
-        "Cold",
-        "Cool",
-        "Heat"
-      ],
-      "answer": "Cold",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q75:-Which shape is a 3D figure?",
-      "options": [
-        "Square",
-        "Rectangle",
-        "Cube",
-        "Triangle"
-      ],
-      "answer": "Cube",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-03",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q98:-Opposite of East is?",
-      "options": [
-        "North",
-        "South",
-        "West",
-        "South-East"
-      ],
-      "answer": "West",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-03",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q39:-Which direction is to the left of East?",
-      "options": [
-        "North",
-        "South",
-        "West",
-        "North-East"
-      ],
-      "answer": "North",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-If SOUTH is coded as NRTQJ, how is NORTH coded?",
-      "options": [
-        "KRQJG",
-        "MQTJH",
-        "KRQJD",
-        "LRTJD"
-      ],
-      "answer": "KRQJD",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q42:-Which number is divisible by 9?",
-      "options": [
-        "234",
-        "345",
-        "456",
-        "567"
-      ],
-      "answer": "234",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-25",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Find the missing number: 5, 11, 17, ?, 29",
-      "options": [
-        "21",
-        "22",
-        "23",
-        "24"
-      ],
-      "answer": "23",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-11",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q84:-Which number is divisible by 11?",
-      "options": [
-        "121",
-        "132",
-        "143",
-        "154"
-      ],
-      "answer": "121",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q26:-Which letter is opposite to A in the English alphabet?",
-      "options": [
-        "X",
-        "Y",
-        "Z",
-        "W"
-      ],
-      "answer": "Z",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q81:-Find the missing number: 2, 3, 5, 8, 12, ?",
-      "options": [
-        "16",
-        "17",
-        "18",
-        "20"
-      ],
-      "answer": "17",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q34:-How many days are there in a leap year?",
-      "options": [
-        "365",
-        "366",
-        "364",
-        "367"
-      ],
-      "answer": "366",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q56:-Find the next letter: A, B, D, G, K, ?",
-      "options": [
-        "O",
-        "P",
-        "Q",
-        "R"
-      ],
-      "answer": "P",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-29",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q48:-What comes next: 5, 10, 20, 40, ?",
-      "options": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "answer": "80",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-21",
-      "shift": "Evening"
-    },
-    {
       "question": "Q86:-Find the next number: 7, 14, 21, 28, ?",
       "options": [
         "32",
@@ -922,244 +12,6 @@
       "category": "Reasoning",
       "source": "SSC CHSL 2024",
       "date": "2024-04-30",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q65:-Bird is to Fly as Fish is to ?",
-      "options": [
-        "Swim",
-        "Jump",
-        "Crawl",
-        "Dive"
-      ],
-      "answer": "Swim",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-25",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q33:-If 5 + 3 = 28 and 4 + 2 = 18, then 6 + 4 = ?",
-      "options": [
-        "40",
-        "42",
-        "44",
-        "48"
-      ],
-      "answer": "48",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q94:-How many sides does a pentagon have?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": "5",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-02",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q21:-Find the missing number: 1, 4, 9, 16, ?",
-      "options": [
-        "20",
-        "24",
-        "25",
-        "36"
-      ],
-      "answer": "25",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q63:-Find the odd one: Hydrogen, Oxygen, Nitrogen, Water",
-      "options": [
-        "Hydrogen",
-        "Oxygen",
-        "Nitrogen",
-        "Water"
-      ],
-      "answer": "Water",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-31",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q59:-If 8 + 2 = 82 and 7 + 3 = 73, then 6 + 4 = ?",
-      "options": [
-        "64",
-        "68",
-        "610",
-        "610"
-      ],
-      "answer": "610",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-30",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q51:-Find the missing number: 4, 9, 16, 25, ?",
-      "options": [
-        "30",
-        "36",
-        "49",
-        "64"
-      ],
-      "answer": "36",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q93:-If A = Z, B = Y, then C = ?",
-      "options": [
-        "X",
-        "W",
-        "V",
-        "U"
-      ],
-      "answer": "X",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-How many triangles are there in a hexagon?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": "6",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q71:-Find the next number: 1, 2, 6, 24, ?",
-      "options": [
-        "60",
-        "96",
-        "120",
-        "144"
-      ],
-      "answer": "120",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-02",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q29:-If DAY is coded as 410, how is MAY coded?",
-      "options": [
-        "312",
-        "314",
-        "315",
-        "317"
-      ],
-      "answer": "315",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q99:-Find the missing number: 1, 8, 27, 64, ?",
-      "options": [
-        "100",
-        "125",
-        "144",
-        "216"
-      ],
-      "answer": "125",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-09",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q69:-Find the missing letter: Z, X, U, Q, ?",
-      "options": [
-        "N",
-        "M",
-        "L",
-        "O"
-      ],
-      "answer": "L",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-26",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-Find the odd one out: Apple, Banana, Carrot, Mango",
-      "options": [
-        "Apple",
-        "Banana",
-        "Carrot",
-        "Mango"
-      ],
-      "answer": "Carrot",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q44:-If RED is coded as 27, how is BLUE coded?",
-      "options": [
-        "48",
-        "52",
-        "54",
-        "56"
-      ],
-      "answer": "52",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q77:-Which number is even?",
-      "options": [
-        "13",
-        "17",
-        "21",
-        "24"
-      ],
-      "answer": "24",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-28",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q40:-Find the missing number: 2, 6, 12, 20, ?",
-      "options": [
-        "28",
-        "30",
-        "32",
-        "36"
-      ],
-      "answer": "30",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
       "shift": "Evening"
     },
     {
@@ -1177,59 +29,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q72:-Which word is different: Rose, Lily, Lotus, Mango",
+      "question": "Q1:-If CAT is coded as DBU, how is DOG coded?",
       "options": [
-        "Rose",
-        "Lily",
-        "Lotus",
-        "Mango"
+        "EPH",
+        "DPH",
+        "EPF",
+        "EOF"
       ],
-      "answer": "Mango",
+      "answer": "EPH",
       "category": "Reasoning",
       "source": "SSC CGL 2024",
-      "date": "2024-06-02",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q90:-Which direction is to the right of South?",
-      "options": [
-        "East",
-        "West",
-        "North",
-        "South-East"
-      ],
-      "answer": "West",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-05-01",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q67:-Find the mirror image of letter 'L'",
-      "options": [
-        "Γ",
-        "⅃",
-        "┘",
-        "└"
-      ],
-      "answer": "⅃",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-01",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q79:-If EAST is coded as 1234, how is WEST coded?",
-      "options": [
-        "4321",
-        "3412",
-        "2143",
-        "3241"
-      ],
-      "answer": "4321",
-      "category": "Reasoning",
-      "source": "SSC CGL 2024",
-      "date": "2024-06-04",
+      "date": "2024-05-15",
       "shift": "Morning"
     },
     {
@@ -1247,102 +57,143 @@
       "shift": "Evening"
     },
     {
-      "question": "Q4:-If 1 = 3, 2 = 5, 3 = 7, then 4 = ?",
+      "question": "Q90:-Which direction is to the right of South?",
       "options": [
-        "7",
-        "9",
-        "11",
-        "13"
+        "East",
+        "West",
+        "North",
+        "South-East"
       ],
-      "answer": "9",
+      "answer": "West",
       "category": "Reasoning",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-10",
+      "date": "2024-05-01",
       "shift": "Evening"
     },
     {
-      "question": "Q74:-How many months have 31 days?",
+      "question": "Q9:-If SOUTH is coded as NRTQJ, how is NORTH coded?",
       "options": [
-        "5",
-        "6",
-        "7",
-        "8"
+        "KRQJG",
+        "MQTJH",
+        "KRQJD",
+        "LRTJD"
       ],
-      "answer": "7",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-27",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q54:-Which direction is opposite to North-West?",
-      "options": [
-        "South-East",
-        "South-West",
-        "North-East",
-        "West"
-      ],
-      "answer": "South-East",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-Find the odd one out: 121, 144, 169, 196, 225",
-      "options": [
-        "121",
-        "144",
-        "169",
-        "196",
-        "225"
-      ],
-      "answer": "196",
-      "category": "Reasoning",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-If CLOCK is coded as XOLGB, WATCH is coded as?",
-      "options": [
-        "DZGXS",
-        "DZGXB",
-        "DZGXZ",
-        "DZGXY"
-      ],
-      "answer": "DZGXB",
+      "answer": "KRQJD",
       "category": "Reasoning",
       "source": "SSC CGL 2024",
-      "date": "2024-05-19",
+      "date": "2024-05-17",
       "shift": "Morning"
     },
     {
-      "question": "Q52:-If MONDAY is coded as 123456, how is SUNDAY coded?",
+      "question": "Q10:-Which pair is related: Book : Reading :: Pen : ?",
       "options": [
-        "654321",
-        "761234",
-        "716234",
-        "765432"
+        "Writing",
+        "Drawing",
+        "Scribbling",
+        "Typing"
       ],
-      "answer": "765432",
+      "answer": "Writing",
       "category": "Reasoning",
       "source": "SSC CGL 2024",
-      "date": "2024-05-28",
+      "date": "2024-05-17",
       "shift": "Evening"
     },
     {
-      "question": "Q37:-Identify the odd one: Iron, Gold, Copper, Plastic",
+      "question": "Q64:-What comes next: 11, 22, 44, 88, ?",
       "options": [
-        "Iron",
-        "Gold",
-        "Copper",
-        "Plastic"
+        "166",
+        "176",
+        "188",
+        "198"
       ],
-      "answer": "Plastic",
+      "answer": "176",
       "category": "Reasoning",
       "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-05-31",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Which number comes next: 2, 4, 8, 16, ?",
+      "options": [
+        "24",
+        "30",
+        "32",
+        "36"
+      ],
+      "answer": "32",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q30:-Find the odd one: Square, Rectangle, Triangle, Cube",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Triangle",
+        "Cube"
+      ],
+      "answer": "Cube",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q75:-Which shape is a 3D figure?",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Cube",
+        "Triangle"
+      ],
+      "answer": "Cube",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q95:-Find the odd one: Gold, Silver, Iron, Wood",
+      "options": [
+        "Gold",
+        "Silver",
+        "Iron",
+        "Wood"
+      ],
+      "answer": "Wood",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q83:-Find the odd one: January, March, May, June",
+      "options": [
+        "January",
+        "March",
+        "May",
+        "June"
+      ],
+      "answer": "June",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-05",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q33:-If 5 + 3 = 28 and 4 + 2 = 18, then 6 + 4 = ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "48"
+      ],
+      "answer": "48",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
       "shift": "Morning"
     },
     {
@@ -1360,6 +211,230 @@
       "shift": "Morning"
     },
     {
+      "question": "Q61:-Find the missing number: 6, 13, 27, 55, ?",
+      "options": [
+        "111",
+        "109",
+        "113",
+        "115"
+      ],
+      "answer": "111",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q55:-Water is to Thirst as Food is to ?",
+      "options": [
+        "Hunger",
+        "Taste",
+        "Energy",
+        "Stomach"
+      ],
+      "answer": "Hunger",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-29",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:-Find the missing number: 5, 11, 17, ?, 29",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "answer": "23",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-11",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q41:-Which letter comes next: D, H, L, P, ?",
+      "options": [
+        "S",
+        "T",
+        "U",
+        "V"
+      ],
+      "answer": "T",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q25:-Book is to Library as Car is to ?",
+      "options": [
+        "Garage",
+        "Road",
+        "Showroom",
+        "Driver"
+      ],
+      "answer": "Garage",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q27:-Find the missing letter: B, E, H, K, ?",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "answer": "N",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q44:-If RED is coded as 27, how is BLUE coded?",
+      "options": [
+        "48",
+        "52",
+        "54",
+        "56"
+      ],
+      "answer": "52",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q31:-What comes next: 1, 3, 6, 10, ?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "answer": "15",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q84:-Which number is divisible by 11?",
+      "options": [
+        "121",
+        "132",
+        "143",
+        "154"
+      ],
+      "answer": "121",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q99:-Find the missing number: 1, 8, 27, 64, ?",
+      "options": [
+        "100",
+        "125",
+        "144",
+        "216"
+      ],
+      "answer": "125",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-09",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q63:-Find the odd one: Hydrogen, Oxygen, Nitrogen, Water",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Water"
+      ],
+      "answer": "Water",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-31",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q68:-Which is the odd number: 14, 21, 28, 35",
+      "options": [
+        "14",
+        "21",
+        "28",
+        "35"
+      ],
+      "answer": "21",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-01",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q72:-Which word is different: Rose, Lily, Lotus, Mango",
+      "options": [
+        "Rose",
+        "Lily",
+        "Lotus",
+        "Mango"
+      ],
+      "answer": "Mango",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-02",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q96:-Find the next letter: A, D, I, P, ?",
+      "options": [
+        "Y",
+        "Z",
+        "X",
+        "W"
+      ],
+      "answer": "Y",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-08",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-If 1 = 3, 2 = 5, 3 = 7, then 4 = ?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": "9",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q59:-If 8 + 2 = 82 and 7 + 3 = 73, then 6 + 4 = ?",
+      "options": [
+        "64",
+        "68",
+        "610",
+        "610"
+      ],
+      "answer": "610",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-30",
+      "shift": "Morning"
+    },
+    {
       "question": "Q18:-Identify the next letter: A, C, F, J, ?",
       "options": [
         "M",
@@ -1371,6 +446,468 @@
       "category": "Reasoning",
       "source": "SSC CGL 2024",
       "date": "2024-05-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q87:-Which figure has four equal sides?",
+      "options": [
+        "Rectangle",
+        "Square",
+        "Triangle",
+        "Circle"
+      ],
+      "answer": "Square",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-06",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-Which shape has 8 sides?",
+      "options": [
+        "Hexagon",
+        "Octagon",
+        "Pentagon",
+        "Heptagon"
+      ],
+      "answer": "Octagon",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-13",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q49:-Which is the odd number: 11, 13, 17, 21",
+      "options": [
+        "11",
+        "13",
+        "17",
+        "21"
+      ],
+      "answer": "21",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-27",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q98:-Opposite of East is?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "South-East"
+      ],
+      "answer": "West",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q57:-Which number is not divisible by 3?",
+      "options": [
+        "21",
+        "27",
+        "32",
+        "39"
+      ],
+      "answer": "32",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-23",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q23:-Find the odd one out: Crow, Sparrow, Parrot, Bat",
+      "options": [
+        "Crow",
+        "Sparrow",
+        "Parrot",
+        "Bat"
+      ],
+      "answer": "Bat",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-Which figure is different from the others?",
+      "options": [
+        "Circle",
+        "Square",
+        "Rectangle",
+        "Triangle"
+      ],
+      "answer": "Circle",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q69:-Find the missing letter: Z, X, U, Q, ?",
+      "options": [
+        "N",
+        "M",
+        "L",
+        "O"
+      ],
+      "answer": "L",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Mirror image of 'b' is?",
+      "options": [
+        "d",
+        "p",
+        "q",
+        "b"
+      ],
+      "answer": "d",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q67:-Find the mirror image of letter 'L'",
+      "options": [
+        "Γ",
+        "⅃",
+        "┘",
+        "└"
+      ],
+      "answer": "⅃",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q34:-How many days are there in a leap year?",
+      "options": [
+        "365",
+        "366",
+        "364",
+        "367"
+      ],
+      "answer": "366",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q53:-Find the odd one out: 3, 9, 27, 81, 108",
+      "options": [
+        "3",
+        "9",
+        "27",
+        "108"
+      ],
+      "answer": "108",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q40:-Find the missing number: 2, 6, 12, 20, ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "answer": "30",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q66:-Which number is a perfect cube?",
+      "options": [
+        "16",
+        "27",
+        "36",
+        "49"
+      ],
+      "answer": "27",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Find the odd one out: Apple, Banana, Carrot, Mango",
+      "options": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Mango"
+      ],
+      "answer": "Carrot",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q58:-Find the odd word: Table, Chair, Bed, Cup",
+      "options": [
+        "Table",
+        "Chair",
+        "Bed",
+        "Cup"
+      ],
+      "answer": "Cup",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q21:-Find the missing number: 1, 4, 9, 16, ?",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "36"
+      ],
+      "answer": "25",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q43:-Find the odd word: Run, Walk, Jump, Sit",
+      "options": [
+        "Run",
+        "Walk",
+        "Jump",
+        "Sit"
+      ],
+      "answer": "Sit",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q80:-Which day comes after Friday?",
+      "options": [
+        "Thursday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "answer": "Saturday",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-04",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:-Which word cannot be formed from 'TRANSPORT'?",
+      "options": [
+        "PORT",
+        "TRAP",
+        "RANT",
+        "SPOON"
+      ],
+      "answer": "SPOON",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q97:-Which number is prime?",
+      "options": [
+        "15",
+        "21",
+        "29",
+        "35"
+      ],
+      "answer": "29",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-03",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q85:-Opposite of Hot is?",
+      "options": [
+        "Warm",
+        "Cold",
+        "Cool",
+        "Heat"
+      ],
+      "answer": "Cold",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-30",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q88:-Find the odd number: 8, 16, 32, 48",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "48"
+      ],
+      "answer": "48",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-06",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q22:-If A = 1, B = 2, then Z = ?",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "answer": "26",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:-If 9 = 81, 8 = 64, then 7 = ?",
+      "options": [
+        "42",
+        "48",
+        "49",
+        "56"
+      ],
+      "answer": "49",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-27",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Find the next number: 3, 6, 12, 24, ?",
+      "options": [
+        "30",
+        "36",
+        "40",
+        "48"
+      ],
+      "answer": "48",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-13",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q93:-If A = Z, B = Y, then C = ?",
+      "options": [
+        "X",
+        "W",
+        "V",
+        "U"
+      ],
+      "answer": "X",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q51:-Find the missing number: 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "36",
+        "49",
+        "64"
+      ],
+      "answer": "36",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q74:-How many months have 31 days?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-27",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-If CLOCK is coded as XOLGB, WATCH is coded as?",
+      "options": [
+        "DZGXS",
+        "DZGXB",
+        "DZGXZ",
+        "DZGXY"
+      ],
+      "answer": "DZGXB",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q70:-Opposite of West is?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "North-East"
+      ],
+      "answer": "East",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-26",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-How many triangles are there in a hexagon?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q26:-Which letter is opposite to A in the English alphabet?",
+      "options": [
+        "X",
+        "Y",
+        "Z",
+        "W"
+      ],
+      "answer": "Z",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Evening"
     },
     {
@@ -1388,18 +925,481 @@
       "shift": "Evening"
     },
     {
-      "question": "Q15:-Which shape has 8 sides?",
+      "question": "Q82:-Which letter comes next: C, F, I, L, ?",
       "options": [
-        "Hexagon",
-        "Octagon",
-        "Pentagon",
-        "Heptagon"
+        "N",
+        "O",
+        "P",
+        "Q"
       ],
-      "answer": "Octagon",
+      "answer": "O",
       "category": "Reasoning",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-13",
+      "date": "2024-04-29",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q32:-Which word is different: Pen, Pencil, Chalk, Eraser",
+      "options": [
+        "Pen",
+        "Pencil",
+        "Chalk",
+        "Eraser"
+      ],
+      "answer": "Eraser",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q81:-Find the missing number: 2, 3, 5, 8, 12, ?",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "20"
+      ],
+      "answer": "17",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-29",
       "shift": "Morning"
+    },
+    {
+      "question": "Q92:-Which word is different: Dog, Cat, Cow, Chair",
+      "options": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Chair"
+      ],
+      "answer": "Chair",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-07",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q24:-Which number replaces the question mark: 7, 14, 28, ?, 112",
+      "options": [
+        "42",
+        "49",
+        "56",
+        "64"
+      ],
+      "answer": "56",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q94:-How many sides does a pentagon have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-02",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q79:-If EAST is coded as 1234, how is WEST coded?",
+      "options": [
+        "4321",
+        "3412",
+        "2143",
+        "3241"
+      ],
+      "answer": "4321",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-04",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q71:-Find the next number: 1, 2, 6, 24, ?",
+      "options": [
+        "60",
+        "96",
+        "120",
+        "144"
+      ],
+      "answer": "120",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-02",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-Find the odd one out: 121, 144, 169, 196, 225",
+      "options": [
+        "121",
+        "144",
+        "169",
+        "196",
+        "225"
+      ],
+      "answer": "196",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q28:-Which number is the smallest?",
+      "options": [
+        "0.5",
+        "0.05",
+        "0.005",
+        "0.0005"
+      ],
+      "answer": "0.0005",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q52:-If MONDAY is coded as 123456, how is SUNDAY coded?",
+      "options": [
+        "654321",
+        "761234",
+        "716234",
+        "765432"
+      ],
+      "answer": "765432",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q50:-Opposite of South-East is?",
+      "options": [
+        "North-West",
+        "North-East",
+        "South-West",
+        "West"
+      ],
+      "answer": "North-West",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-27",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q46:-Find the missing letter: A, E, I, M, ?",
+      "options": [
+        "N",
+        "O",
+        "Q",
+        "U"
+      ],
+      "answer": "Q",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-26",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q37:-Identify the odd one: Iron, Gold, Copper, Plastic",
+      "options": [
+        "Iron",
+        "Gold",
+        "Copper",
+        "Plastic"
+      ],
+      "answer": "Plastic",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q35:-Find the mirror image of number 3",
+      "options": [
+        "Ɛ",
+        "E",
+        "Ʒ",
+        "Z"
+      ],
+      "answer": "Ɛ",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Find the odd one: 2, 3, 5, 7, 9, 11",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "9"
+      ],
+      "answer": "9",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-14",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q78:-Find the odd letter group: AB, BC, CD, EF",
+      "options": [
+        "AB",
+        "BC",
+        "CD",
+        "EF"
+      ],
+      "answer": "EF",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-28",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q91:-Find the missing number: 5, 10, 20, 40, ?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-07",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q42:-Which number is divisible by 9?",
+      "options": [
+        "234",
+        "345",
+        "456",
+        "567"
+      ],
+      "answer": "234",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-25",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q45:-Which shape has no corners?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "answer": "Circle",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q39:-Which direction is to the left of East?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "North-East"
+      ],
+      "answer": "North",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:-What comes next: Z, X, V, T, ?",
+      "options": [
+        "R",
+        "S",
+        "P",
+        "Q"
+      ],
+      "answer": "R",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q77:-Which number is even?",
+      "options": [
+        "13",
+        "17",
+        "21",
+        "24"
+      ],
+      "answer": "24",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-28",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q65:-Bird is to Fly as Fish is to ?",
+      "options": [
+        "Swim",
+        "Jump",
+        "Crawl",
+        "Dive"
+      ],
+      "answer": "Swim",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-25",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q54:-Which direction is opposite to North-West?",
+      "options": [
+        "South-East",
+        "South-West",
+        "North-East",
+        "West"
+      ],
+      "answer": "South-East",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q38:-What comes next: 100, 90, 80, ?, 60",
+      "options": [
+        "75",
+        "72",
+        "70",
+        "65"
+      ],
+      "answer": "70",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q76:-Find the missing number: 9, 18, 27, ?, 45",
+      "options": [
+        "30",
+        "33",
+        "36",
+        "39"
+      ],
+      "answer": "36",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-06-03",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q89:-If 10 = J, 11 = K, then 15 = ?",
+      "options": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "answer": "O",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-05-01",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q29:-If DAY is coded as 410, how is MAY coded?",
+      "options": [
+        "312",
+        "314",
+        "315",
+        "317"
+      ],
+      "answer": "315",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-Complete the series: A, D, G, J, ?",
+      "options": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "answer": "M",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q48:-What comes next: 5, 10, 20, 40, ?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q56:-Find the next letter: A, B, D, G, K, ?",
+      "options": [
+        "O",
+        "P",
+        "Q",
+        "R"
+      ],
+      "answer": "P",
+      "category": "Reasoning",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-29",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q62:-Which letter is 5th from the right in the alphabet?",
+      "options": [
+        "V",
+        "W",
+        "X",
+        "Y"
+      ],
+      "answer": "V",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q36:-Which number is odd?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "27"
+      ],
+      "answer": "27",
+      "category": "Reasoning",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Evening"
     }
   ]
 }
