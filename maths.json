@@ -1,17 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q11:-The perimeter of a square of side 5 cm is:",
+      "question": "Q1:-What is the value of (2 + 3 × 4)?",
       "options": [
-        "20 cm",
-        "25 cm",
-        "30 cm",
-        "35 cm"
+        "20",
+        "14",
+        "24",
+        "18"
       ],
-      "answer": "20 cm",
+      "answer": "14",
       "category": "Maths",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-12",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q17:-What is the average of 10, 20, 30?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "20",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-19",
       "shift": "Morning"
     },
     {
@@ -29,6 +43,34 @@
       "shift": "Morning"
     },
     {
+      "question": "Q14:-Convert 0.75 to a fraction.",
+      "options": [
+        "3/4",
+        "2/3",
+        "1/2",
+        "4/5"
+      ],
+      "answer": "3/4",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-The LCM of 12 and 18 is:",
+      "options": [
+        "36",
+        "54",
+        "72",
+        "24"
+      ],
+      "answer": "36",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-15",
+      "shift": "Evening"
+    },
+    {
       "question": "Q12:-What is the next prime number after 19?",
       "options": [
         "21",
@@ -41,20 +83,6 @@
       "source": "SSC CHSL 2024",
       "date": "2024-04-12",
       "shift": "Evening"
-    },
-    {
-      "question": "Q19:-If a = 3, b = 4, find (a² + b²).",
-      "options": [
-        "12",
-        "25",
-        "7",
-        "5"
-      ],
-      "answer": "25",
-      "category": "Maths",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-14",
-      "shift": "Morning"
     },
     {
       "question": "Q15:-Find the value of 3² + 4².",
@@ -71,17 +99,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q4:-What is the square root of 144?",
+      "question": "Q16:-What is the cube of 5?",
       "options": [
-        "11",
-        "12",
-        "13",
-        "14"
+        "125",
+        "25",
+        "75",
+        "150"
       ],
-      "answer": "12",
+      "answer": "125",
       "category": "Maths",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-10",
+      "date": "2024-04-13",
       "shift": "Evening"
     },
     {
@@ -99,34 +127,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q6:-A man covers 60 km in 2 hours. His speed is:",
-      "options": [
-        "20 km/h",
-        "25 km/h",
-        "30 km/h",
-        "35 km/h"
-      ],
-      "answer": "30 km/h",
-      "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-16",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:-What is the value of (2 + 3 × 4)?",
-      "options": [
-        "20",
-        "14",
-        "24",
-        "18"
-      ],
-      "answer": "14",
-      "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-15",
-      "shift": "Morning"
-    },
-    {
       "question": "Q8:-A shopkeeper gains 10% on selling an item for ₹220. Cost price is:",
       "options": [
         "₹180",
@@ -141,102 +141,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q9:-If sin θ = 1/2, then θ is:",
+      "question": "Q11:-The perimeter of a square of side 5 cm is:",
       "options": [
-        "30°",
-        "45°",
-        "60°",
-        "90°"
+        "20 cm",
+        "25 cm",
+        "30 cm",
+        "35 cm"
       ],
-      "answer": "30°",
+      "answer": "20 cm",
       "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-17",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-12",
       "shift": "Morning"
     },
     {
-      "question": "Q5:-If x + y = 10 and x - y = 4, find x.",
+      "question": "Q6:-A man covers 60 km in 2 hours. His speed is:",
       "options": [
-        "6",
-        "7",
-        "8",
-        "5"
+        "20 km/h",
+        "25 km/h",
+        "30 km/h",
+        "35 km/h"
       ],
-      "answer": "7",
+      "answer": "30 km/h",
       "category": "Maths",
       "source": "SSC CGL 2024",
       "date": "2024-05-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-The LCM of 12 and 18 is:",
-      "options": [
-        "36",
-        "54",
-        "72",
-        "24"
-      ],
-      "answer": "36",
-      "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-15",
       "shift": "Evening"
-    },
-    {
-      "question": "Q16:-What is the cube of 5?",
-      "options": [
-        "125",
-        "25",
-        "75",
-        "150"
-      ],
-      "answer": "125",
-      "category": "Maths",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-13",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-Convert 0.75 to a fraction.",
-      "options": [
-        "3/4",
-        "2/3",
-        "1/2",
-        "4/5"
-      ],
-      "answer": "3/4",
-      "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-The simple interest on ₹1000 at 5% for 2 years is:",
-      "options": [
-        "₹100",
-        "₹150",
-        "₹200",
-        "₹250"
-      ],
-      "answer": "₹100",
-      "category": "Maths",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-14",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-What is the average of 10, 20, 30?",
-      "options": [
-        "15",
-        "20",
-        "25",
-        "30"
-      ],
-      "answer": "20",
-      "category": "Maths",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-19",
-      "shift": "Morning"
     },
     {
       "question": "Q3:-Simplify: 5/8 + 7/12",
@@ -267,6 +197,48 @@
       "shift": "Evening"
     },
     {
+      "question": "Q5:-If x + y = 10 and x - y = 4, find x.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "answer": "7",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-If sin θ = 1/2, then θ is:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "answer": "30°",
+      "category": "Maths",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-If a = 3, b = 4, find (a² + b²).",
+      "options": [
+        "12",
+        "25",
+        "7",
+        "5"
+      ],
+      "answer": "25",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-14",
+      "shift": "Morning"
+    },
+    {
       "question": "Q13:-If a:b = 2:3, b:c = 4:5, find a:c.",
       "options": [
         "8:15",
@@ -279,6 +251,34 @@
       "source": "SSC CGL 2024",
       "date": "2024-05-18",
       "shift": "Morning"
+    },
+    {
+      "question": "Q4:-What is the square root of 144?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q20:-The simple interest on ₹1000 at 5% for 2 years is:",
+      "options": [
+        "₹100",
+        "₹150",
+        "₹200",
+        "₹250"
+      ],
+      "answer": "₹100",
+      "category": "Maths",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-14",
+      "shift": "Evening"
     }
   ]
 }
