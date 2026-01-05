@@ -1,31 +1,17 @@
 {
   "questions": [
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
       "shift": "Afternoon"
     },
     {
@@ -43,20 +29,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
       "question": "Q3:- The smallest country in the world by area is:",
       "options": [
         "Monaco",
@@ -71,31 +43,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q4:-Who invented the telephone?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
       ],
-      "answer": "Saturn",
+      "answer": "Alexander Graham Bell",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
@@ -113,6 +71,34 @@
       "shift": "Evening"
     },
     {
+      "question": "Q87:-The second largest planet in our solar system is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn",
+      "category": "GK",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q27:-Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Sales Tax",
+        "Income Tax",
+        "Excise Duty"
+      ],
+      "answer": "Income Tax",
+      "category": "GK",
+      "source": "SSC CHSL 2022",
+      "date": "2022-04-18",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
         "Ag",
@@ -127,17 +113,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "answer": "Neptune",
+      "answer": "Mahatma Gandhi",
       "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
       "shift": "Afternoon"
     }
   ]
