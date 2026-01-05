@@ -1,59 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q3:-Who discovered the neutron?",
+      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
       "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "answer": "Chadwick",
+      "answer": "Vitamin D",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Which organ in the human body produces bile?",
-      "options": [
-        "Pancreas",
-        "Liver",
-        "Gallbladder",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
+      "date": "2024-04-16",
       "shift": "Evening"
     },
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
+      "question": "Q6:-Which part of the cell contains genetic material?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
       ],
-      "answer": "Nitrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-What is the chemical formula of washing soda?",
-      "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
-      ],
-      "answer": "Na2CO3",
+      "answer": "Nucleus",
       "category": "Science",
       "source": "SSC CGL 2024",
       "date": "2024-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
+      ],
+      "answer": "Convex mirror",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
       "shift": "Morning"
     },
     {
@@ -71,59 +57,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q14:-Which acid is present in lemon?",
+      "question": "Q12:-What is the main gas found in the air we breathe?",
       "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:-Which part of the eye controls the amount of light entering?",
-      "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
-      ],
-      "answer": "Pupil",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
-      "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
-      ],
-      "answer": "Barometer",
+      "answer": "Nitrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the lightest metal?",
-      "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
-      ],
-      "answer": "Lithium",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-04-17",
       "shift": "Evening"
     },
     {
@@ -141,6 +85,20 @@
       "shift": "Evening"
     },
     {
+      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Pupil",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Morning"
+    },
+    {
       "question": "Q17:-Which part of the brain controls balance?",
       "options": [
         "Cerebrum",
@@ -155,18 +113,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q6:-Which part of the cell contains genetic material?",
+      "question": "Q7:-What is the speed of light in vacuum?",
       "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
       ],
-      "answer": "Nucleus",
+      "answer": "3 × 10^8 m/s",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-Who discovered the neutron?",
+      "options": [
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
+      ],
+      "answer": "Chadwick",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
     },
     {
       "question": "Q1:-What is the SI unit of force?",
@@ -183,17 +155,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "question": "Q14:-Which acid is present in lemon?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
       ],
-      "answer": "Vitamin D",
+      "answer": "Citric acid",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
       "shift": "Evening"
     },
     {
@@ -225,17 +197,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q7:-What is the speed of light in vacuum?",
+      "question": "Q16:-Which element is common in all acids?",
       "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
       ],
-      "answer": "3 × 10^8 m/s",
+      "answer": "Hydrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "date": "2024-04-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
+      ],
+      "answer": "Barometer",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
       "shift": "Morning"
     },
     {
@@ -253,32 +253,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q16:-Which element is common in all acids?",
+      "question": "Q4:-Which organ in the human body produces bile?",
       "options": [
-        "Oxygen",
-        "Hydrogen",
-        "Nitrogen",
-        "Carbon"
+        "Pancreas",
+        "Liver",
+        "Gallbladder",
+        "Kidney"
       ],
-      "answer": "Hydrogen",
+      "answer": "Liver",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
+      "date": "2024-04-15",
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "question": "Q18:-Which is the lightest metal?",
       "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
       ],
-      "answer": "Convex mirror",
+      "answer": "Lithium",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Morning"
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
     }
   ]
 }
