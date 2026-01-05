@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
       "question": "Q15:-What is the chemical symbol for gold?",
       "options": [
         "Ag",
@@ -15,17 +29,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q4:-Who invented the telephone?",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Alexander Graham Bell",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
       "shift": "Evening"
     },
     {
@@ -57,17 +71,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
         "Mars",
         "Jupiter",
-        "Saturn",
+        "Neptune",
         "Uranus"
       ],
-      "answer": "Saturn",
+      "answer": "Neptune",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
+    },
+    {
+      "question": "Q4:-Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "GK",
+      "source": "SSC CHSL 2020",
+      "date": "2020-09-10",
       "shift": "Evening"
     },
     {
@@ -111,34 +139,6 @@
       "source": "SSC MTS 2024",
       "date": "2024-05-12",
       "shift": "Morning"
-    },
-    {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
     }
   ]
 }
