@@ -15,20 +15,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q29:- What is 20% of 150?",
-      "options": [
-        "25",
-        "30",
-        "35",
-        "20"
-      ],
-      "answer": "30",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Morning"
-    },
-    {
       "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
       "options": [
         "60%",
@@ -37,6 +23,20 @@
         "68%"
       ],
       "answer": "60%",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q29:- What is 20% of 150?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "20"
+      ],
+      "answer": "30",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-07-10",
