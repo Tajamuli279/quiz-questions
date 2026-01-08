@@ -1,46 +1,18 @@
 {
   "questions": [
     {
-      "question": "Q14:-Which acid is present in lemon?",
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
       "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
       ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-Who discovered the neutron?",
-      "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
-      ],
-      "answer": "Chadwick",
+      "answer": "Barometer",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
+      "date": "2024-04-19",
       "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Which blood cells help in clotting?",
-      "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma"
-      ],
-      "answer": "Platelets",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Evening"
     },
     {
       "question": "Q1:-What is the SI unit of force?",
@@ -54,6 +26,20 @@
       "category": "Science",
       "source": "SSC CGL 2024",
       "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Morning"
     },
     {
@@ -71,60 +57,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Which process converts sugar into alcohol?",
+      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
       "options": [
-        "Fermentation",
-        "Distillation",
-        "Evaporation",
-        "Sublimation"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "answer": "Fermentation",
+      "answer": "Vitamin D",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "date": "2024-04-16",
       "shift": "Evening"
-    },
-    {
-      "question": "Q9:-pH value of neutral solution is?",
-      "options": [
-        "5",
-        "7",
-        "9",
-        "11"
-      ],
-      "answer": "7",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Which organ in the human body produces bile?",
-      "options": [
-        "Pancreas",
-        "Liver",
-        "Gallbladder",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-Which part of the brain controls balance?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Medulla",
-        "Pons"
-      ],
-      "answer": "Cerebellum",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
-      "shift": "Morning"
     },
     {
       "question": "Q16:-Which element is common in all acids?",
@@ -155,46 +99,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q5:-What is the chemical formula of washing soda?",
+      "question": "Q17:-Which part of the brain controls balance?",
       "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Pons"
       ],
-      "answer": "Na2CO3",
+      "answer": "Cerebellum",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-21",
+      "date": "2024-05-24",
       "shift": "Morning"
     },
     {
-      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "question": "Q20:-Which process converts sugar into alcohol?",
       "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
+        "Fermentation",
+        "Distillation",
+        "Evaporation",
+        "Sublimation"
       ],
-      "answer": "Pupil",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
-      "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
-      ],
-      "answer": "Convex mirror",
+      "answer": "Fermentation",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Morning"
+      "date": "2024-04-19",
+      "shift": "Evening"
     },
     {
       "question": "Q2:-Which gas is used in the preparation of soda water?",
@@ -211,31 +141,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "question": "Q18:-Which is the lightest metal?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
       ],
-      "answer": "Vitamin D",
+      "answer": "Lithium",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
       "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
       ],
-      "answer": "Barometer",
+      "answer": "Convex mirror",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "date": "2024-04-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:-Which organ in the human body produces bile?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Gallbladder",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-pH value of neutral solution is?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "answer": "7",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
       "shift": "Morning"
     },
     {
@@ -253,6 +211,48 @@
       "shift": "Evening"
     },
     {
+      "question": "Q10:-Which blood cells help in clotting?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": "Platelets",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Pupil",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-Who discovered the neutron?",
+      "options": [
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
+      ],
+      "answer": "Chadwick",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
+    },
+    {
       "question": "Q15:-What is the boiling point of water?",
       "options": [
         "50°C",
@@ -267,17 +267,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the lightest metal?",
+      "question": "Q14:-Which acid is present in lemon?",
       "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
       ],
-      "answer": "Lithium",
+      "answer": "Citric acid",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-05-23",
       "shift": "Evening"
     }
   ]
