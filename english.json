@@ -1,129 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
       "options": [
-        "by",
-        "with",
-        "through",
-        "because"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "She is written a letter.",
+        "A letter wrote by her."
       ],
-      "answer": "through",
+      "answer": "A letter is written by her.",
       "category": "English",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-Select the correct spelling:",
-      "options": [
-        "Accomodation",
-        "Accommodation",
-        "Acommodation",
-        "Accommadation"
-      ],
-      "answer": "Accommodation",
-      "category": "English",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Choose the correct degree of comparison: 'Mount Everest is the ____ mountain in the world.'",
-      "options": [
-        "high",
-        "higher",
-        "highest",
-        "most high"
-      ],
-      "answer": "highest",
-      "category": "English",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
+      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
       ],
-      "answer": "taller",
+      "answer": "Noun",
       "category": "English",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
-      "options": [
-        "since",
-        "for",
-        "from",
-        "at"
-      ],
-      "answer": "for",
-      "category": "English",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Identify the synonym of 'Abundant':",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Tiny"
-      ],
-      "answer": "Plentiful",
-      "category": "English",
-      "source": "SSC CHSL 2013",
-      "date": "2013-12-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Choose the correct spelling:",
-      "options": [
-        "Definately",
-        "Definitely",
-        "Defanitely",
-        "Definetly"
-      ],
-      "answer": "Definitely",
-      "category": "English",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
       "shift": "Evening"
     },
     {
@@ -141,32 +43,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q12:-Find the antonym of 'Obscure':",
+      "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
       "options": [
-        "Clear",
-        "Vague",
-        "Hidden",
-        "Dark"
+        "a",
+        "an",
+        "the",
+        "no article"
       ],
-      "answer": "Clear",
+      "answer": "an",
       "category": "English",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
       "shift": "Evening"
     },
     {
-      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
+      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
       "options": [
-        "A letter is written by her.",
-        "A letter was written by her.",
-        "She is written a letter.",
-        "A letter wrote by her."
+        "She said that she is tired.",
+        "She said that she was tired.",
+        "She says that she was tired.",
+        "She says that she is tired."
       ],
-      "answer": "A letter is written by her.",
+      "answer": "She said that she was tired.",
       "category": "English",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Choose the correct spelling:",
+      "options": [
+        "Definately",
+        "Definitely",
+        "Defanitely",
+        "Definetly"
+      ],
+      "answer": "Definitely",
+      "category": "English",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
       "shift": "Evening"
+    },
+    {
+      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": "taller",
+      "category": "English",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Select the correct preposition: 'She is good ____ dancing.'",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": "at",
+      "category": "English",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
+      "shift": "Morning"
     },
     {
       "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
@@ -180,6 +124,62 @@
       "category": "English",
       "source": "SSC CGL 2008",
       "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Identify the synonym of 'Abundant':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Tiny"
+      ],
+      "answer": "Plentiful",
+      "category": "English",
+      "source": "SSC CHSL 2013",
+      "date": "2013-12-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-Select the correct spelling:",
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accommadation"
+      ],
+      "answer": "Accommodation",
+      "category": "English",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "options": [
+        "by",
+        "with",
+        "through",
+        "because"
+      ],
+      "answer": "through",
+      "category": "English",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Choose the correct degree of comparison: 'Mount Everest is the ____ mountain in the world.'",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "most high"
+      ],
+      "answer": "highest",
+      "category": "English",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
       "shift": "Evening"
     },
     {
@@ -197,60 +197,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q19:-Select the correct preposition: 'She is good ____ dancing.'",
+      "question": "Q12:-Find the antonym of 'Obscure':",
       "options": [
-        "at",
-        "on",
-        "in",
-        "for"
+        "Clear",
+        "Vague",
+        "Hidden",
+        "Dark"
       ],
-      "answer": "at",
+      "answer": "Clear",
       "category": "English",
-      "source": "SSC CGL 2005",
-      "date": "2005-08-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
-      "options": [
-        "She said that she is tired.",
-        "She said that she was tired.",
-        "She says that she was tired.",
-        "She says that she is tired."
-      ],
-      "answer": "She said that she was tired.",
-      "category": "English",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
-      "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
-      ],
-      "answer": "Adverb",
-      "category": "English",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-04",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q1:-What is the synonym of 'Rapid'?",
-      "options": [
-        "Slow",
-        "Fast",
-        "Late",
-        "Weak"
-      ],
-      "answer": "Fast",
-      "category": "English",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
-      "shift": "Morning"
     },
     {
       "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
@@ -267,18 +225,60 @@
       "shift": "Morning"
     },
     {
-      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
+      "question": "Q1:-What is the synonym of 'Rapid'?",
+      "options": [
+        "Slow",
+        "Fast",
+        "Late",
+        "Weak"
+      ],
+      "answer": "Fast",
+      "category": "English",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "category": "English",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
       "options": [
         "Adjective",
         "Verb",
         "Noun",
         "Adverb"
       ],
-      "answer": "Noun",
+      "answer": "Adverb",
       "category": "English",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-04",
       "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "answer": "for",
+      "category": "English",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
+      "shift": "Morning"
     }
   ]
 }
