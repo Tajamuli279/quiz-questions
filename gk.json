@@ -1,20 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
       "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
         "Mars",
@@ -26,6 +12,20 @@
       "category": "GK",
       "source": "SSC CHSL 2021",
       "date": "2021-04-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Fe"
+      ],
+      "answer": "Au",
+      "category": "GK",
+      "source": "SSC GD 2023",
+      "date": "2023-01-18",
       "shift": "Evening"
     },
     {
@@ -43,20 +43,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
-      "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
-      ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
-    },
-    {
       "question": "Q33:-The gas responsible for global warming is:",
       "options": [
         "Oxygen",
@@ -71,6 +57,20 @@
       "shift": "Afternoon"
     },
     {
+      "question": "Q81:- The 'Tsunami' is caused by:",
+      "options": [
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
+      ],
+      "answer": "Undersea earthquakes",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
+      "shift": "Evening"
+    },
+    {
       "question": "Q4:-Who invented the telephone?",
       "options": [
         "Alexander Graham Bell",
@@ -83,6 +83,34 @@
       "source": "SSC CHSL 2020",
       "date": "2020-09-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q55:-The planet farthest from the Sun is:",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Neptune",
+      "category": "GK",
+      "source": "SSC GD 2022",
+      "date": "2022-12-08",
+      "shift": "Afternoon"
     },
     {
       "question": "Q27:-Which of the following is a direct tax?",
@@ -111,34 +139,6 @@
       "source": "SSC MTS 2024",
       "date": "2024-05-12",
       "shift": "Morning"
-    },
-    {
-      "question": "Q55:-The planet farthest from the Sun is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
-      ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
     }
   ]
 }
