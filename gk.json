@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q33:-The gas responsible for global warming is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "category": "GK",
+      "source": "SSC CGL 2022",
+      "date": "2022-08-25",
+      "shift": "Afternoon"
+    },
+    {
       "question": "Q55:-The planet farthest from the Sun is:",
       "options": [
         "Mars",
@@ -43,17 +57,17 @@
       "shift": "Afternoon"
     },
     {
-      "question": "Q87:-The second largest planet in our solar system is:",
+      "question": "Q81:- The 'Tsunami' is caused by:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Strong winds",
+        "Undersea earthquakes",
+        "Volcanic eruptions",
+        "Heavy rainfall"
       ],
-      "answer": "Saturn",
+      "answer": "Undersea earthquakes",
       "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
+      "source": "SSC CGL 2025",
+      "date": "2025-06-10",
       "shift": "Evening"
     },
     {
@@ -71,20 +85,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
-    },
-    {
       "question": "Q4:-Who invented the telephone?",
       "options": [
         "Alexander Graham Bell",
@@ -96,6 +96,20 @@
       "category": "GK",
       "source": "SSC CHSL 2020",
       "date": "2020-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi",
+      "category": "GK",
+      "source": "SSC CGL 2025",
+      "date": "2025-04-20",
       "shift": "Evening"
     },
     {
@@ -113,32 +127,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Q87:-The second largest planet in our solar system is:",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
       ],
-      "answer": "Undersea earthquakes",
+      "answer": "Saturn",
       "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
+      "source": "SSC CHSL 2021",
+      "date": "2021-04-10",
       "shift": "Evening"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
     }
   ]
 }
