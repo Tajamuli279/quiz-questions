@@ -1,34 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q10:-Which blood cells help in clotting?",
-      "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma"
-      ],
-      "answer": "Platelets",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q6:-Which part of the cell contains genetic material?",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
-      ],
-      "answer": "Nucleus",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
       "question": "Q7:-What is the speed of light in vacuum?",
       "options": [
         "3 × 10^8 m/s",
@@ -57,59 +29,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
       ],
-      "answer": "Vitamin D",
+      "answer": "Barometer",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-Which part of the brain controls balance?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Medulla",
-        "Pons"
-      ],
-      "answer": "Cerebellum",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-04-19",
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
+      "question": "Q16:-Which element is common in all acids?",
       "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
       ],
-      "answer": "100°C",
+      "answer": "Hydrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-18",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is the lightest metal?",
-      "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
-      ],
-      "answer": "Lithium",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
       "shift": "Evening"
     },
     {
@@ -127,115 +71,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q9:-pH value of neutral solution is?",
+      "question": "Q10:-Which blood cells help in clotting?",
       "options": [
-        "5",
-        "7",
-        "9",
-        "11"
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
       ],
-      "answer": "7",
+      "answer": "Platelets",
       "category": "Science",
       "source": "SSC CGL 2024",
       "date": "2024-05-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-What is the SI unit of force?",
-      "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
-      ],
-      "answer": "Newton",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which gas is used in the preparation of soda water?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon dioxide",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-Which acid is present in lemon?",
-      "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
-      ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-What is the chemical formula of washing soda?",
-      "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
-      ],
-      "answer": "Na2CO3",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
-      "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
-      ],
-      "answer": "Barometer",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Nitrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q16:-Which element is common in all acids?",
-      "options": [
-        "Oxygen",
-        "Hydrogen",
-        "Nitrogen",
-        "Carbon"
-      ],
-      "answer": "Hydrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
       "shift": "Evening"
     },
     {
@@ -253,6 +99,48 @@
       "shift": "Morning"
     },
     {
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is the lightest metal?",
+      "options": [
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
       "question": "Q3:-Who discovered the neutron?",
       "options": [
         "Chadwick",
@@ -267,6 +155,90 @@
       "shift": "Morning"
     },
     {
+      "question": "Q1:-What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-What is the boiling point of water?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Which acid is present in lemon?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
+      ],
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Which part of the brain controls balance?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Pons"
+      ],
+      "answer": "Cerebellum",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-pH value of neutral solution is?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "answer": "7",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Morning"
+    },
+    {
       "question": "Q4:-Which organ in the human body produces bile?",
       "options": [
         "Pancreas",
@@ -278,6 +250,34 @@
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:-What is the main gas found in the air we breathe?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:-Which part of the cell contains genetic material?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
+      ],
+      "answer": "Nucleus",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Evening"
     }
   ]
