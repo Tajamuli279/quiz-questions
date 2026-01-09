@@ -1,31 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q19:-What does IP stand for in IP address?",
+      "question": "Q2:-Which one is an input device?",
       "options": [
-        "Internet Protocol",
-        "Internal Protocol",
-        "International Protocol",
-        "Internet Package"
+        "Printer",
+        "Monitor",
+        "Mouse",
+        "Speaker"
       ],
-      "answer": "Internet Protocol",
+      "answer": "Mouse",
       "category": "Computer",
-      "source": "SSC CGL 2005",
-      "date": "2005-08-29",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Which one is a web browser?",
+      "options": [
+        "Google Chrome",
+        "MS Word",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "answer": "Google Chrome",
+      "category": "Computer",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
       "shift": "Morning"
     },
     {
-      "question": "Q7:-Which device is used for printing?",
+      "question": "Q15:-Which is an example of an output device?",
       "options": [
-        "Scanner",
-        "Printer",
+        "Keyboard",
         "Mouse",
-        "Monitor"
+        "Speaker",
+        "Scanner"
       ],
-      "answer": "Printer",
+      "answer": "Speaker",
       "category": "Computer",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
       "shift": "Morning"
     },
     {
@@ -71,31 +85,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q9:-Which one is a web browser?",
+      "question": "Q19:-What does IP stand for in IP address?",
       "options": [
-        "Google Chrome",
-        "MS Word",
-        "Adobe Photoshop",
-        "Notepad"
+        "Internet Protocol",
+        "Internal Protocol",
+        "International Protocol",
+        "Internet Package"
       ],
-      "answer": "Google Chrome",
+      "answer": "Internet Protocol",
       "category": "Computer",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-What does CPU stand for?",
-      "options": [
-        "Central Processing Unit",
-        "Central Program Unit",
-        "Central Power Unit",
-        "Central Print Unit"
-      ],
-      "answer": "Central Processing Unit",
-      "category": "Computer",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
       "shift": "Morning"
     },
     {
@@ -113,48 +113,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q3:-Which memory is volatile?",
-      "options": [
-        "ROM",
-        "Hard Disk",
-        "RAM",
-        "CD-ROM"
-      ],
-      "answer": "RAM",
-      "category": "Computer",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-What does PDF stand for?",
-      "options": [
-        "Portable Document Format",
-        "Printable Document Format",
-        "Portable Data File",
-        "Printable Data File"
-      ],
-      "answer": "Portable Document Format",
-      "category": "Computer",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-What does HTTP stand for?",
-      "options": [
-        "HyperText Transfer Protocol",
-        "HighText Transfer Protocol",
-        "Hyper Transfer Text Protocol",
-        "HyperText Translate Protocol"
-      ],
-      "answer": "HyperText Transfer Protocol",
-      "category": "Computer",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
-    },
-    {
       "question": "Q16:-What is the full form of LAN?",
       "options": [
         "Large Area Network",
@@ -166,76 +124,6 @@
       "category": "Computer",
       "source": "SSC CGL 2008",
       "date": "2008-07-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q18:-Which is not a programming language?",
-      "options": [
-        "Python",
-        "HTML",
-        "Java",
-        "MS Excel"
-      ],
-      "answer": "MS Excel",
-      "category": "Computer",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Which part stores permanent data?",
-      "options": [
-        "RAM",
-        "Cache",
-        "ROM",
-        "Registers"
-      ],
-      "answer": "ROM",
-      "category": "Computer",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:-Which one is an input device?",
-      "options": [
-        "Printer",
-        "Monitor",
-        "Mouse",
-        "Speaker"
-      ],
-      "answer": "Mouse",
-      "category": "Computer",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-Which is NOT a type of network?",
-      "options": [
-        "WAN",
-        "LAN",
-        "PAN",
-        "CAN"
-      ],
-      "answer": "CAN",
-      "category": "Computer",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-What is phishing?",
-      "options": [
-        "Stealing sensitive info",
-        "Virus infection",
-        "Software update",
-        "File compression"
-      ],
-      "answer": "Stealing sensitive info",
-      "category": "Computer",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
       "shift": "Evening"
     },
     {
@@ -253,6 +141,48 @@
       "shift": "Evening"
     },
     {
+      "question": "Q18:-Which is not a programming language?",
+      "options": [
+        "Python",
+        "HTML",
+        "Java",
+        "MS Excel"
+      ],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which device is used for printing?",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Mouse",
+        "Monitor"
+      ],
+      "answer": "Printer",
+      "category": "Computer",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q17:-What does PDF stand for?",
+      "options": [
+        "Portable Document Format",
+        "Printable Document Format",
+        "Portable Data File",
+        "Printable Data File"
+      ],
+      "answer": "Portable Document Format",
+      "category": "Computer",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
+    },
+    {
       "question": "Q11:-Which software is used for calculations?",
       "options": [
         "MS Word",
@@ -267,18 +197,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-Which is an example of an output device?",
+      "question": "Q6:-What does HTTP stand for?",
       "options": [
-        "Keyboard",
-        "Mouse",
-        "Speaker",
-        "Scanner"
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "Hyper Transfer Text Protocol",
+        "HyperText Translate Protocol"
       ],
-      "answer": "Speaker",
+      "answer": "HyperText Transfer Protocol",
       "category": "Computer",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:-What is phishing?",
+      "options": [
+        "Stealing sensitive info",
+        "Virus infection",
+        "Software update",
+        "File compression"
+      ],
+      "answer": "Stealing sensitive info",
+      "category": "Computer",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Which memory is volatile?",
+      "options": [
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "CD-ROM"
+      ],
+      "answer": "RAM",
+      "category": "Computer",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q20:-Which is NOT a type of network?",
+      "options": [
+        "WAN",
+        "LAN",
+        "PAN",
+        "CAN"
+      ],
+      "answer": "CAN",
+      "category": "Computer",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Central Power Unit",
+        "Central Print Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "category": "Computer",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which part stores permanent data?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Registers"
+      ],
+      "answer": "ROM",
+      "category": "Computer",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
+      "shift": "Evening"
     }
   ]
 }
