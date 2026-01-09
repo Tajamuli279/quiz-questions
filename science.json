@@ -1,31 +1,101 @@
 {
   "questions": [
     {
-      "question": "Q7:-What is the speed of light in vacuum?",
+      "question": "Q9:-pH value of neutral solution is?",
       "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
+        "5",
+        "7",
+        "9",
+        "11"
       ],
-      "answer": "3 × 10^8 m/s",
+      "answer": "7",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
       "shift": "Morning"
     },
     {
-      "question": "Q3:-Who discovered the neutron?",
+      "question": "Q5:-What is the chemical formula of washing soda?",
       "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
       ],
-      "answer": "Chadwick",
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Which acid is present in lemon?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
+      ],
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
+      "date": "2024-04-16",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
+      ],
+      "answer": "Convex mirror",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:-What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-What is the boiling point of water?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
       "shift": "Morning"
     },
     {
@@ -57,18 +127,32 @@
       "shift": "Evening"
     },
     {
-      "question": "Q2:-Which gas is used in the preparation of soda water?",
+      "question": "Q7:-What is the speed of light in vacuum?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
       ],
-      "answer": "Carbon dioxide",
+      "answer": "3 × 10^8 m/s",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Evening"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
+      ],
+      "answer": "Barometer",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
+      "shift": "Morning"
     },
     {
       "question": "Q10:-Which blood cells help in clotting?",
@@ -85,45 +169,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q5:-What is the chemical formula of washing soda?",
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
       "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Na2CO3",
+      "answer": "Carbon dioxide",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
-      "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
-      ],
-      "answer": "Vitamin D",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "date": "2024-05-20",
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "question": "Q3:-Who discovered the neutron?",
       "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
       ],
-      "answer": "Barometer",
+      "answer": "Chadwick",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "date": "2024-04-15",
       "shift": "Morning"
     },
     {
@@ -141,20 +211,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Nitrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
       "question": "Q4:-Which organ in the human body produces bile?",
       "options": [
         "Pancreas",
@@ -169,45 +225,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q6:-Which part of the cell contains genetic material?",
+      "question": "Q12:-What is the main gas found in the air we breathe?",
       "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Nucleus",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
-      "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
-      ],
-      "answer": "Convex mirror",
+      "answer": "Nitrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-Which acid is present in lemon?",
-      "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
-      ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
       "shift": "Evening"
     },
     {
@@ -225,34 +253,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q9:-pH value of neutral solution is?",
-      "options": [
-        "5",
-        "7",
-        "9",
-        "11"
-      ],
-      "answer": "7",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-What is the SI unit of force?",
-      "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
-      ],
-      "answer": "Newton",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
-    },
-    {
       "question": "Q16:-Which element is common in all acids?",
       "options": [
         "Oxygen",
@@ -267,18 +267,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
+      "question": "Q6:-Which part of the cell contains genetic material?",
       "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
       ],
-      "answer": "100°C",
+      "answer": "Nucleus",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
-      "shift": "Morning"
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Evening"
     }
   ]
 }
