@@ -1,118 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q6:-What does HTTP stand for?",
-      "options": [
-        "HyperText Transfer Protocol",
-        "HighText Transfer Protocol",
-        "Hyper Transfer Text Protocol",
-        "HyperText Translate Protocol"
-      ],
-      "answer": "HyperText Transfer Protocol",
-      "category": "Computer",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-Which one is NOT an operating system?",
-      "options": [
-        "Windows",
-        "Linux",
-        "MacOS",
-        "Microsoft Word"
-      ],
-      "answer": "Microsoft Word",
-      "category": "Computer",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-What is phishing?",
-      "options": [
-        "Stealing sensitive info",
-        "Virus infection",
-        "Software update",
-        "File compression"
-      ],
-      "answer": "Stealing sensitive info",
-      "category": "Computer",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-What does PDF stand for?",
-      "options": [
-        "Portable Document Format",
-        "Printable Document Format",
-        "Portable Data File",
-        "Printable Data File"
-      ],
-      "answer": "Portable Document Format",
-      "category": "Computer",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which one is a web browser?",
-      "options": [
-        "Google Chrome",
-        "MS Word",
-        "Adobe Photoshop",
-        "Notepad"
-      ],
-      "answer": "Google Chrome",
-      "category": "Computer",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-Which memory is volatile?",
-      "options": [
-        "ROM",
-        "Hard Disk",
-        "RAM",
-        "CD-ROM"
-      ],
-      "answer": "RAM",
-      "category": "Computer",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which one is an input device?",
-      "options": [
-        "Printer",
-        "Monitor",
-        "Mouse",
-        "Speaker"
-      ],
-      "answer": "Mouse",
-      "category": "Computer",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-What is the brain of the computer?",
-      "options": [
-        "RAM",
-        "CPU",
-        "Monitor",
-        "Mouse"
-      ],
-      "answer": "CPU",
-      "category": "Computer",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
-      "shift": "Evening"
-    },
-    {
       "question": "Q4:-What is the shortcut for 'Copy'?",
       "options": [
         "Ctrl + C",
@@ -141,73 +29,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q16:-What is the full form of LAN?",
+      "question": "Q8:-What is the full form of URL?",
       "options": [
-        "Large Area Network",
-        "Local Area Network",
-        "Long Area Network",
-        "Linked Area Network"
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retrieval Locator",
+        "Universal Retrieval Locator"
       ],
-      "answer": "Local Area Network",
+      "answer": "Uniform Resource Locator",
       "category": "Computer",
-      "source": "SSC CGL 2008",
-      "date": "2008-07-23",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Which software is used for calculations?",
+      "question": "Q14:-What is the brain of the computer?",
       "options": [
-        "MS Word",
-        "MS Excel",
-        "MS PowerPoint",
-        "MS Outlook"
+        "RAM",
+        "CPU",
+        "Monitor",
+        "Mouse"
       ],
-      "answer": "MS Excel",
+      "answer": "CPU",
       "category": "Computer",
-      "source": "SSC CHSL 2013",
-      "date": "2013-12-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q1:-What does CPU stand for?",
-      "options": [
-        "Central Processing Unit",
-        "Central Program Unit",
-        "Central Power Unit",
-        "Central Print Unit"
-      ],
-      "answer": "Central Processing Unit",
-      "category": "Computer",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q20:-Which is NOT a type of network?",
-      "options": [
-        "WAN",
-        "LAN",
-        "PAN",
-        "CAN"
-      ],
-      "answer": "CAN",
-      "category": "Computer",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
       "shift": "Evening"
     },
     {
-      "question": "Q13:-Which key is used to refresh a webpage?",
+      "question": "Q17:-What does PDF stand for?",
       "options": [
-        "F1",
-        "F2",
-        "F5",
-        "F12"
+        "Portable Document Format",
+        "Printable Document Format",
+        "Portable Data File",
+        "Printable Data File"
       ],
-      "answer": "F5",
+      "answer": "Portable Document Format",
       "category": "Computer",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
       "shift": "Morning"
     },
     {
@@ -225,31 +85,73 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-Which is an example of an output device?",
+      "question": "Q20:-Which is NOT a type of network?",
       "options": [
-        "Keyboard",
-        "Mouse",
-        "Speaker",
-        "Scanner"
+        "WAN",
+        "LAN",
+        "PAN",
+        "CAN"
       ],
-      "answer": "Speaker",
+      "answer": "CAN",
       "category": "Computer",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Which one is a web browser?",
+      "options": [
+        "Google Chrome",
+        "MS Word",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "answer": "Google Chrome",
+      "category": "Computer",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the full form of URL?",
+      "question": "Q12:-What is phishing?",
       "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Locator",
-        "Uniform Retrieval Locator",
-        "Universal Retrieval Locator"
+        "Stealing sensitive info",
+        "Virus infection",
+        "Software update",
+        "File compression"
       ],
-      "answer": "Uniform Resource Locator",
+      "answer": "Stealing sensitive info",
       "category": "Computer",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q13:-Which key is used to refresh a webpage?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F12"
+      ],
+      "answer": "F5",
+      "category": "Computer",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q6:-What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "Hyper Transfer Text Protocol",
+        "HyperText Translate Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol",
+      "category": "Computer",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
       "shift": "Evening"
     },
     {
@@ -265,6 +167,104 @@
       "source": "SSC CGL 2014",
       "date": "2014-07-09",
       "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Central Power Unit",
+        "Central Print Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "category": "Computer",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-Which one is NOT an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "MacOS",
+        "Microsoft Word"
+      ],
+      "answer": "Microsoft Word",
+      "category": "Computer",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which one is an input device?",
+      "options": [
+        "Printer",
+        "Monitor",
+        "Mouse",
+        "Speaker"
+      ],
+      "answer": "Mouse",
+      "category": "Computer",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q11:-Which software is used for calculations?",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Outlook"
+      ],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC CHSL 2013",
+      "date": "2013-12-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-Which memory is volatile?",
+      "options": [
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "CD-ROM"
+      ],
+      "answer": "RAM",
+      "category": "Computer",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-What is the full form of LAN?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Long Area Network",
+        "Linked Area Network"
+      ],
+      "answer": "Local Area Network",
+      "category": "Computer",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Which is an example of an output device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Speaker",
+        "Scanner"
+      ],
+      "answer": "Speaker",
+      "category": "Computer",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
     },
     {
       "question": "Q7:-Which device is used for printing?",
