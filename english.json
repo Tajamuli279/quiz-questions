@@ -15,34 +15,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
-      "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": "taller",
-      "category": "English",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
-      "shift": "Evening"
-    },
-    {
       "question": "Q1:-What is the synonym of 'Rapid'?",
       "options": [
         "Slow",
@@ -57,32 +29,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
+      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
       "options": [
-        "The movie is being watched by them.",
-        "The movie was watched by them.",
-        "The movie is watched by them.",
-        "The movie was being watched by them."
+        "She said that she is tired.",
+        "She said that she was tired.",
+        "She says that she was tired.",
+        "She says that she is tired."
       ],
-      "answer": "The movie is being watched by them.",
+      "answer": "She said that she was tired.",
       "category": "English",
-      "source": "SSC CGL 2008",
-      "date": "2008-07-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-Find the antonym of 'Obscure':",
-      "options": [
-        "Clear",
-        "Vague",
-        "Hidden",
-        "Dark"
-      ],
-      "answer": "Clear",
-      "category": "English",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
-      "shift": "Evening"
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
     },
     {
       "question": "Q13:-Select the correct spelling:",
@@ -96,48 +54,6 @@
       "category": "English",
       "source": "SSC CGL 2011",
       "date": "2011-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Choose the correct degree of comparison: 'Mount Everest is the ____ mountain in the world.'",
-      "options": [
-        "high",
-        "higher",
-        "highest",
-        "most high"
-      ],
-      "answer": "highest",
-      "category": "English",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:-Choose the correct spelling:",
-      "options": [
-        "Definately",
-        "Definitely",
-        "Defanitely",
-        "Definetly"
-      ],
-      "answer": "Definitely",
-      "category": "English",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-Select the antonym of 'Generous':",
-      "options": [
-        "Kind",
-        "Stingy",
-        "Helpful",
-        "Liberal"
-      ],
-      "answer": "Stingy",
-      "category": "English",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
       "shift": "Morning"
     },
     {
@@ -155,32 +71,88 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
       "options": [
-        "by",
-        "with",
-        "through",
-        "because"
+        "The movie is being watched by them.",
+        "The movie was watched by them.",
+        "The movie is watched by them.",
+        "The movie was being watched by them."
       ],
-      "answer": "through",
+      "answer": "The movie is being watched by them.",
       "category": "English",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
+      ],
+      "answer": "Adverb",
+      "category": "English",
+      "source": "SSC CGL 2020",
+      "date": "2020-03-04",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
+      "options": [
+        "He said that he would help me.",
+        "He said that I would help him.",
+        "He says that he will help me.",
+        "He said he will help me."
+      ],
+      "answer": "He said that he would help me.",
+      "category": "English",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
+      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
       "options": [
-        "She said that she is tired.",
-        "She said that she was tired.",
-        "She says that she was tired.",
-        "She says that she is tired."
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
       ],
-      "answer": "She said that she was tired.",
+      "answer": "taller",
       "category": "English",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
-      "shift": "Morning"
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
+      ],
+      "answer": "Noun",
+      "category": "English",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:-Choose the correct degree of comparison: 'Mount Everest is the ____ mountain in the world.'",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "most high"
+      ],
+      "answer": "highest",
+      "category": "English",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
+      "shift": "Evening"
     },
     {
       "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
@@ -211,45 +183,87 @@
       "shift": "Morning"
     },
     {
-      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
+      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
       "options": [
-        "He said that he would help me.",
-        "He said that I would help him.",
-        "He says that he will help me.",
-        "He said he will help me."
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "She is written a letter.",
+        "A letter wrote by her."
       ],
-      "answer": "He said that he would help me.",
+      "answer": "A letter is written by her.",
       "category": "English",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
-      "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
-      ],
-      "answer": "Adverb",
-      "category": "English",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-04",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
       "shift": "Evening"
     },
     {
-      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
+      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
       "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
+        "a",
+        "an",
+        "the",
+        "no article"
       ],
-      "answer": "Noun",
+      "answer": "an",
       "category": "English",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "options": [
+        "by",
+        "with",
+        "through",
+        "because"
+      ],
+      "answer": "through",
+      "category": "English",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Choose the correct spelling:",
+      "options": [
+        "Definately",
+        "Definitely",
+        "Defanitely",
+        "Definetly"
+      ],
+      "answer": "Definitely",
+      "category": "English",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q3:-Select the antonym of 'Generous':",
+      "options": [
+        "Kind",
+        "Stingy",
+        "Helpful",
+        "Liberal"
+      ],
+      "answer": "Stingy",
+      "category": "English",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-Find the antonym of 'Obscure':",
+      "options": [
+        "Clear",
+        "Vague",
+        "Hidden",
+        "Dark"
+      ],
+      "answer": "Clear",
+      "category": "English",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
       "shift": "Evening"
     },
     {
@@ -265,20 +279,6 @@
       "source": "SSC CGL 2005",
       "date": "2005-08-29",
       "shift": "Morning"
-    },
-    {
-      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
-      "options": [
-        "A letter is written by her.",
-        "A letter was written by her.",
-        "She is written a letter.",
-        "A letter wrote by her."
-      ],
-      "answer": "A letter is written by her.",
-      "category": "English",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
     }
   ]
 }
