@@ -1,18 +1,60 @@
 {
   "questions": [
     {
-      "question": "Q13:-Which key is used to refresh a webpage?",
+      "question": "Q3:-Which memory is volatile?",
       "options": [
-        "F1",
-        "F2",
-        "F5",
-        "F12"
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "CD-ROM"
       ],
-      "answer": "F5",
+      "answer": "RAM",
       "category": "Computer",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q7:-Which device is used for printing?",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Mouse",
+        "Monitor"
+      ],
+      "answer": "Printer",
+      "category": "Computer",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Which one is an input device?",
+      "options": [
+        "Printer",
+        "Monitor",
+        "Mouse",
+        "Speaker"
+      ],
+      "answer": "Mouse",
+      "category": "Computer",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q12:-What is phishing?",
+      "options": [
+        "Stealing sensitive info",
+        "Virus infection",
+        "Software update",
+        "File compression"
+      ],
+      "answer": "Stealing sensitive info",
+      "category": "Computer",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
     },
     {
       "question": "Q15:-Which is an example of an output device?",
@@ -29,32 +71,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q3:-Which memory is volatile?",
+      "question": "Q19:-What does IP stand for in IP address?",
       "options": [
-        "ROM",
-        "Hard Disk",
-        "RAM",
-        "CD-ROM"
+        "Internet Protocol",
+        "Internal Protocol",
+        "International Protocol",
+        "Internet Package"
       ],
-      "answer": "RAM",
+      "answer": "Internet Protocol",
       "category": "Computer",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
       "shift": "Morning"
     },
     {
-      "question": "Q5:-Which one is NOT an operating system?",
+      "question": "Q14:-What is the brain of the computer?",
       "options": [
-        "Windows",
-        "Linux",
-        "MacOS",
-        "Microsoft Word"
+        "RAM",
+        "CPU",
+        "Monitor",
+        "Mouse"
       ],
-      "answer": "Microsoft Word",
+      "answer": "CPU",
       "category": "Computer",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
-      "shift": "Morning"
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
+      "shift": "Evening"
     },
     {
       "question": "Q11:-Which software is used for calculations?",
@@ -85,115 +127,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q1:-What does CPU stand for?",
+      "question": "Q5:-Which one is NOT an operating system?",
       "options": [
-        "Central Processing Unit",
-        "Central Program Unit",
-        "Central Power Unit",
-        "Central Print Unit"
+        "Windows",
+        "Linux",
+        "MacOS",
+        "Microsoft Word"
       ],
-      "answer": "Central Processing Unit",
+      "answer": "Microsoft Word",
       "category": "Computer",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-What is the brain of the computer?",
-      "options": [
-        "RAM",
-        "CPU",
-        "Monitor",
-        "Mouse"
-      ],
-      "answer": "CPU",
-      "category": "Computer",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q12:-What is phishing?",
-      "options": [
-        "Stealing sensitive info",
-        "Virus infection",
-        "Software update",
-        "File compression"
-      ],
-      "answer": "Stealing sensitive info",
-      "category": "Computer",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q10:-Which part stores permanent data?",
-      "options": [
-        "RAM",
-        "Cache",
-        "ROM",
-        "Registers"
-      ],
-      "answer": "ROM",
-      "category": "Computer",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Which device is used for printing?",
-      "options": [
-        "Scanner",
-        "Printer",
-        "Mouse",
-        "Monitor"
-      ],
-      "answer": "Printer",
-      "category": "Computer",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-Which one is a web browser?",
-      "options": [
-        "Google Chrome",
-        "MS Word",
-        "Adobe Photoshop",
-        "Notepad"
-      ],
-      "answer": "Google Chrome",
-      "category": "Computer",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q8:-What is the full form of URL?",
-      "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Locator",
-        "Uniform Retrieval Locator",
-        "Universal Retrieval Locator"
-      ],
-      "answer": "Uniform Resource Locator",
-      "category": "Computer",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q19:-What does IP stand for in IP address?",
-      "options": [
-        "Internet Protocol",
-        "Internal Protocol",
-        "International Protocol",
-        "Internet Package"
-      ],
-      "answer": "Internet Protocol",
-      "category": "Computer",
-      "source": "SSC CGL 2005",
-      "date": "2005-08-29",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
       "shift": "Morning"
     },
     {
@@ -211,18 +155,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q2:-Which one is an input device?",
+      "question": "Q8:-What is the full form of URL?",
       "options": [
-        "Printer",
-        "Monitor",
-        "Mouse",
-        "Speaker"
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retrieval Locator",
+        "Universal Retrieval Locator"
       ],
-      "answer": "Mouse",
+      "answer": "Uniform Resource Locator",
       "category": "Computer",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
       "shift": "Evening"
+    },
+    {
+      "question": "Q13:-Which key is used to refresh a webpage?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F12"
+      ],
+      "answer": "F5",
+      "category": "Computer",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-Which one is a web browser?",
+      "options": [
+        "Google Chrome",
+        "MS Word",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "answer": "Google Chrome",
+      "category": "Computer",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q1:-What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Central Power Unit",
+        "Central Print Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "category": "Computer",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
     },
     {
       "question": "Q6:-What does HTTP stand for?",
@@ -253,6 +239,20 @@
       "shift": "Evening"
     },
     {
+      "question": "Q20:-Which is NOT a type of network?",
+      "options": [
+        "WAN",
+        "LAN",
+        "PAN",
+        "CAN"
+      ],
+      "answer": "CAN",
+      "category": "Computer",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
       "question": "Q16:-What is the full form of LAN?",
       "options": [
         "Large Area Network",
@@ -267,17 +267,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Which is NOT a type of network?",
+      "question": "Q10:-Which part stores permanent data?",
       "options": [
-        "WAN",
-        "LAN",
-        "PAN",
-        "CAN"
+        "RAM",
+        "Cache",
+        "ROM",
+        "Registers"
       ],
-      "answer": "CAN",
+      "answer": "ROM",
       "category": "Computer",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
       "shift": "Evening"
     }
   ]
