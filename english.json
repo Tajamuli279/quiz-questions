@@ -1,48 +1,6 @@
 {
   "questions": [
     {
-      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
-      "options": [
-        "by",
-        "with",
-        "through",
-        "because"
-      ],
-      "answer": "through",
-      "category": "English",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
-      "options": [
-        "A letter is written by her.",
-        "A letter was written by her.",
-        "She is written a letter.",
-        "A letter wrote by her."
-      ],
-      "answer": "A letter is written by her.",
-      "category": "English",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q2:-Choose the correct spelling:",
-      "options": [
-        "Definately",
-        "Definitely",
-        "Defanitely",
-        "Definetly"
-      ],
-      "answer": "Definitely",
-      "category": "English",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
-      "shift": "Evening"
-    },
-    {
       "question": "Q19:-Select the correct preposition: 'She is good ____ dancing.'",
       "options": [
         "at",
@@ -54,90 +12,6 @@
       "category": "English",
       "source": "SSC CGL 2005",
       "date": "2005-08-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-Find the antonym of 'Obscure':",
-      "options": [
-        "Clear",
-        "Vague",
-        "Hidden",
-        "Dark"
-      ],
-      "answer": "Clear",
-      "category": "English",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
-      "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
-      ],
-      "answer": "Adverb",
-      "category": "English",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-04",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "with"
-      ],
-      "answer": "in",
-      "category": "English",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-Select the antonym of 'Generous':",
-      "options": [
-        "Kind",
-        "Stingy",
-        "Helpful",
-        "Liberal"
-      ],
-      "answer": "Stingy",
-      "category": "English",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q13:-Select the correct spelling:",
-      "options": [
-        "Accomodation",
-        "Accommodation",
-        "Acommodation",
-        "Accommadation"
-      ],
-      "answer": "Accommodation",
-      "category": "English",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
-      "options": [
-        "She said that she is tired.",
-        "She said that she was tired.",
-        "She says that she was tired.",
-        "She says that she is tired."
-      ],
-      "answer": "She said that she was tired.",
-      "category": "English",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
       "shift": "Morning"
     },
     {
@@ -155,20 +29,6 @@
       "shift": "Morning"
     },
     {
-      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
-      "options": [
-        "The movie is being watched by them.",
-        "The movie was watched by them.",
-        "The movie is watched by them.",
-        "The movie was being watched by them."
-      ],
-      "answer": "The movie is being watched by them.",
-      "category": "English",
-      "source": "SSC CGL 2008",
-      "date": "2008-07-23",
-      "shift": "Evening"
-    },
-    {
       "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
       "options": [
         "tall",
@@ -183,45 +43,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
+      "question": "Q4:-Identify the part of speech: 'She sings beautifully.' (Beautifully)",
       "options": [
-        "He said that he would help me.",
-        "He said that I would help him.",
-        "He says that he will help me.",
-        "He said he will help me."
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
       ],
-      "answer": "He said that he would help me.",
+      "answer": "Adverb",
       "category": "English",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
-      "shift": "Morning"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-04",
+      "shift": "Evening"
     },
     {
-      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
+      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
       "options": [
-        "since",
-        "for",
-        "from",
-        "at"
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
       ],
-      "answer": "for",
+      "answer": "Noun",
       "category": "English",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
       "shift": "Evening"
     },
     {
@@ -239,18 +85,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
+      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
       "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
+        "He said that he would help me.",
+        "He said that I would help him.",
+        "He says that he will help me.",
+        "He said he will help me."
       ],
-      "answer": "Noun",
+      "answer": "He said that he would help me.",
       "category": "English",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-Find the antonym of 'Obscure':",
+      "options": [
+        "Clear",
+        "Vague",
+        "Hidden",
+        "Dark"
+      ],
+      "answer": "Clear",
+      "category": "English",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
       "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "answer": "in",
+      "category": "English",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-Select the correct spelling:",
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accommadation"
+      ],
+      "answer": "Accommodation",
+      "category": "English",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "answer": "for",
+      "category": "English",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
+      "shift": "Morning"
     },
     {
       "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
@@ -279,6 +181,104 @@
       "source": "SSC CGL 2014",
       "date": "2014-07-09",
       "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "category": "English",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q2:-Choose the correct spelling:",
+      "options": [
+        "Definately",
+        "Definitely",
+        "Defanitely",
+        "Definetly"
+      ],
+      "answer": "Definitely",
+      "category": "English",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
+      "options": [
+        "She said that she is tired.",
+        "She said that she was tired.",
+        "She says that she was tired.",
+        "She says that she is tired."
+      ],
+      "answer": "She said that she was tired.",
+      "category": "English",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
+      "options": [
+        "The movie is being watched by them.",
+        "The movie was watched by them.",
+        "The movie is watched by them.",
+        "The movie was being watched by them."
+      ],
+      "answer": "The movie is being watched by them.",
+      "category": "English",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q6:-Choose the correct passive voice: 'She writes a letter.'",
+      "options": [
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "She is written a letter.",
+        "A letter wrote by her."
+      ],
+      "answer": "A letter is written by her.",
+      "category": "English",
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "options": [
+        "by",
+        "with",
+        "through",
+        "because"
+      ],
+      "answer": "through",
+      "category": "English",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-Select the antonym of 'Generous':",
+      "options": [
+        "Kind",
+        "Stingy",
+        "Helpful",
+        "Liberal"
+      ],
+      "answer": "Stingy",
+      "category": "English",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
+      "shift": "Morning"
     }
   ]
 }
