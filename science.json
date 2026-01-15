@@ -1,31 +1,45 @@
 {
   "questions": [
     {
-      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "question": "Q10:-Which blood cells help in clotting?",
       "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
       ],
-      "answer": "Pupil",
+      "answer": "Platelets",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-23",
+      "date": "2024-05-22",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
+      ],
+      "answer": "Barometer",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-19",
       "shift": "Morning"
     },
     {
-      "question": "Q7:-What is the speed of light in vacuum?",
+      "question": "Q1:-What is the SI unit of force?",
       "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
       ],
-      "answer": "3 × 10^8 m/s",
+      "answer": "Newton",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
@@ -43,46 +57,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q10:-Which blood cells help in clotting?",
+      "question": "Q6:-Which part of the cell contains genetic material?",
       "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma"
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
       ],
-      "answer": "Platelets",
+      "answer": "Nucleus",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q4:-Which organ in the human body produces bile?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Gallbladder",
+        "Kidney"
+      ],
+      "answer": "Liver",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-pH value of neutral solution is?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "answer": "7",
       "category": "Science",
       "source": "SSC CGL 2024",
       "date": "2024-05-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q17:-Which part of the brain controls balance?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Medulla",
-        "Pons"
-      ],
-      "answer": "Cerebellum",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the lightest metal?",
+      "question": "Q3:-Who discovered the neutron?",
       "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
       ],
-      "answer": "Lithium",
+      "answer": "Chadwick",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
-      "shift": "Evening"
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
     },
     {
       "question": "Q14:-Which acid is present in lemon?",
@@ -127,17 +155,31 @@
       "shift": "Morning"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
+      "question": "Q17:-Which part of the brain controls balance?",
       "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Pons"
       ],
-      "answer": "100°C",
+      "answer": "Cerebellum",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:-Which part of the eye controls the amount of light entering?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Pupil",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
       "shift": "Morning"
     },
     {
@@ -155,31 +197,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
       "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
       ],
-      "answer": "Barometer",
+      "answer": "Convex mirror",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "date": "2024-04-17",
       "shift": "Morning"
     },
     {
-      "question": "Q9:-pH value of neutral solution is?",
+      "question": "Q15:-What is the boiling point of water?",
       "options": [
-        "5",
-        "7",
-        "9",
-        "11"
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
       ],
-      "answer": "7",
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Which is the lightest metal?",
+      "options": [
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Lithium",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-22",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
+      ],
+      "answer": "3 × 10^8 m/s",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
       "shift": "Morning"
     },
     {
@@ -197,20 +267,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q6:-Which part of the cell contains genetic material?",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
-      ],
-      "answer": "Nucleus",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
       "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
       "options": [
         "Vitamin A",
@@ -223,62 +279,6 @@
       "source": "SSC CHSL 2024",
       "date": "2024-04-16",
       "shift": "Evening"
-    },
-    {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
-      "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
-      ],
-      "answer": "Convex mirror",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-Who discovered the neutron?",
-      "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
-      ],
-      "answer": "Chadwick",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:-Which organ in the human body produces bile?",
-      "options": [
-        "Pancreas",
-        "Liver",
-        "Gallbladder",
-        "Kidney"
-      ],
-      "answer": "Liver",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:-What is the SI unit of force?",
-      "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
-      ],
-      "answer": "Newton",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Morning"
     }
   ]
 }
