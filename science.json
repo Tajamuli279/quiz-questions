@@ -15,48 +15,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Nitrogen",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:-pH value of neutral solution is?",
-      "options": [
-        "5",
-        "7",
-        "9",
-        "11"
-      ],
-      "answer": "7",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q15:-What is the boiling point of water?",
-      "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
-      ],
-      "answer": "100°C",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
-      "shift": "Morning"
-    },
-    {
       "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
       "options": [
         "Thermometer",
@@ -68,62 +26,6 @@
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Which blood cells help in clotting?",
-      "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Plasma"
-      ],
-      "answer": "Platelets",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-22",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-What is the chemical formula of washing soda?",
-      "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
-      ],
-      "answer": "Na2CO3",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Which gas is used in the preparation of soda water?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon dioxide",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-20",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q3:-Who discovered the neutron?",
-      "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
-      ],
-      "answer": "Chadwick",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
       "shift": "Morning"
     },
     {
@@ -141,31 +43,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q7:-What is the speed of light in vacuum?",
+      "question": "Q12:-What is the main gas found in the air we breathe?",
       "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "3 × 10^8 m/s",
+      "answer": "Nitrogen",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Morning"
+      "date": "2024-04-17",
+      "shift": "Evening"
     },
     {
-      "question": "Q20:-Which process converts sugar into alcohol?",
+      "question": "Q2:-Which gas is used in the preparation of soda water?",
       "options": [
-        "Fermentation",
-        "Distillation",
-        "Evaporation",
-        "Sublimation"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Fermentation",
+      "answer": "Carbon dioxide",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q14:-Which acid is present in lemon?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
+      ],
+      "answer": "Citric acid",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is the lightest metal?",
+      "options": [
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
       "shift": "Evening"
     },
     {
@@ -183,18 +113,18 @@
       "shift": "Morning"
     },
     {
-      "question": "Q14:-Which acid is present in lemon?",
+      "question": "Q9:-pH value of neutral solution is?",
       "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
+        "5",
+        "7",
+        "9",
+        "11"
       ],
-      "answer": "Citric acid",
+      "answer": "7",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
+      "date": "2024-05-22",
+      "shift": "Morning"
     },
     {
       "question": "Q13:-Which part of the eye controls the amount of light entering?",
@@ -211,18 +141,74 @@
       "shift": "Morning"
     },
     {
-      "question": "Q18:-Which is the lightest metal?",
+      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
       "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None"
       ],
-      "answer": "Lithium",
+      "answer": "Convex mirror",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which blood cells help in clotting?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": "Platelets",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-05-22",
       "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q3:-Who discovered the neutron?",
+      "options": [
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
+      ],
+      "answer": "Chadwick",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q7:-What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
+      ],
+      "answer": "3 × 10^8 m/s",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
     },
     {
       "question": "Q8:-Which vitamin is produced in human skin by sunlight?",
@@ -239,18 +225,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Which mirror is used in vehicles as rear-view mirrors?",
+      "question": "Q20:-Which process converts sugar into alcohol?",
       "options": [
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror",
-        "None"
+        "Fermentation",
+        "Distillation",
+        "Evaporation",
+        "Sublimation"
       ],
-      "answer": "Convex mirror",
+      "answer": "Fermentation",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
-      "shift": "Morning"
+      "date": "2024-04-19",
+      "shift": "Evening"
     },
     {
       "question": "Q16:-Which element is common in all acids?",
@@ -267,17 +253,31 @@
       "shift": "Evening"
     },
     {
-      "question": "Q1:-What is the SI unit of force?",
+      "question": "Q15:-What is the boiling point of water?",
       "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
       ],
-      "answer": "Newton",
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": "Na2CO3",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-20",
+      "date": "2024-05-21",
       "shift": "Morning"
     }
   ]

@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q33:- Price of a shirt is ₹400. It was sold at 10% discount. What was the selling price?",
+      "options": [
+        "₹360",
+        "₹370",
+        "₹380",
+        "₹390"
+      ],
+      "answer": "₹360",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
+      "shift": "Morning"
+    },
+    {
       "question": "Q29:- What is 20% of 150?",
       "options": [
         "25",
@@ -13,34 +27,6 @@
       "source": "JKBOSE",
       "date": "2025-07-10",
       "shift": "Morning"
-    },
-    {
-      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
-      "options": [
-        "60%",
-        "62%",
-        "65%",
-        "68%"
-      ],
-      "answer": "60%",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
-      "options": [
-        "90",
-        "95",
-        "100",
-        "105"
-      ],
-      "answer": "100",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Evening"
     },
     {
       "question": "Q32:- If 45 is 75% of a number, what is the number?",
@@ -57,14 +43,28 @@
       "shift": "Evening"
     },
     {
-      "question": "Q33:- Price of a shirt is ₹400. It was sold at 10% discount. What was the selling price?",
+      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
       "options": [
-        "₹360",
-        "₹370",
-        "₹380",
-        "₹390"
+        "90",
+        "95",
+        "100",
+        "105"
       ],
-      "answer": "₹360",
+      "answer": "100",
+      "category": "Maths",
+      "source": "JKBOSE",
+      "date": "2025-07-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
+      "options": [
+        "60%",
+        "62%",
+        "65%",
+        "68%"
+      ],
+      "answer": "60%",
       "category": "Maths",
       "source": "JKBOSE",
       "date": "2025-07-10",
