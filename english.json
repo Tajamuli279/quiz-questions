@@ -1,31 +1,31 @@
 {
   "questions": [
     {
-      "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
+      "question": "Q3:-Select the antonym of 'Generous':",
       "options": [
-        "at",
-        "in",
-        "on",
-        "with"
+        "Kind",
+        "Stingy",
+        "Helpful",
+        "Liberal"
       ],
-      "answer": "in",
+      "answer": "Stingy",
       "category": "English",
-      "source": "SSC MTS 2015",
-      "date": "2015-11-22",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
       "shift": "Morning"
     },
     {
-      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
+      "question": "Q13:-Select the correct spelling:",
       "options": [
-        "She said that she is tired.",
-        "She said that she was tired.",
-        "She says that she was tired.",
-        "She says that she is tired."
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accommadation"
       ],
-      "answer": "She said that she was tired.",
+      "answer": "Accommodation",
       "category": "English",
-      "source": "SSC CHSL 2007",
-      "date": "2007-05-12",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
       "shift": "Morning"
     },
     {
@@ -43,146 +43,6 @@
       "shift": "Evening"
     },
     {
-      "question": "Q19:-Select the correct preposition: 'She is good ____ dancing.'",
-      "options": [
-        "at",
-        "on",
-        "in",
-        "for"
-      ],
-      "answer": "at",
-      "category": "English",
-      "source": "SSC CGL 2005",
-      "date": "2005-08-29",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:-Select the antonym of 'Generous':",
-      "options": [
-        "Kind",
-        "Stingy",
-        "Helpful",
-        "Liberal"
-      ],
-      "answer": "Stingy",
-      "category": "English",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:-Choose the correct spelling:",
-      "options": [
-        "Definately",
-        "Definitely",
-        "Defanitely",
-        "Definetly"
-      ],
-      "answer": "Definitely",
-      "category": "English",
-      "source": "SSC CHSL 2022",
-      "date": "2022-06-15",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q13:-Select the correct spelling:",
-      "options": [
-        "Accomodation",
-        "Accommodation",
-        "Acommodation",
-        "Accommadation"
-      ],
-      "answer": "Accommodation",
-      "category": "English",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": "an",
-      "category": "English",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q1:-What is the synonym of 'Rapid'?",
-      "options": [
-        "Slow",
-        "Fast",
-        "Late",
-        "Weak"
-      ],
-      "answer": "Fast",
-      "category": "English",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
-      "options": [
-        "He said that he would help me.",
-        "He said that I would help him.",
-        "He says that he will help me.",
-        "He said he will help me."
-      ],
-      "answer": "He said that he would help me.",
-      "category": "English",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:-Find the antonym of 'Obscure':",
-      "options": [
-        "Clear",
-        "Vague",
-        "Hidden",
-        "Dark"
-      ],
-      "answer": "Clear",
-      "category": "English",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
-      "options": [
-        "Adjective",
-        "Verb",
-        "Noun",
-        "Adverb"
-      ],
-      "answer": "Noun",
-      "category": "English",
-      "source": "SSC CHSL 2010",
-      "date": "2010-06-05",
-      "shift": "Evening"
-    },
-    {
       "question": "Q11:-Identify the synonym of 'Abundant':",
       "options": [
         "Scarce",
@@ -194,34 +54,6 @@
       "category": "English",
       "source": "SSC CHSL 2013",
       "date": "2013-12-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
-      "options": [
-        "by",
-        "with",
-        "through",
-        "because"
-      ],
-      "answer": "through",
-      "category": "English",
-      "source": "SSC MTS 2009",
-      "date": "2009-11-17",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
-      "options": [
-        "since",
-        "for",
-        "from",
-        "at"
-      ],
-      "answer": "for",
-      "category": "English",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
       "shift": "Morning"
     },
     {
@@ -239,17 +71,115 @@
       "shift": "Evening"
     },
     {
-      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
+      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
       "options": [
-        "The movie is being watched by them.",
-        "The movie was watched by them.",
-        "The movie is watched by them.",
-        "The movie was being watched by them."
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
       ],
-      "answer": "The movie is being watched by them.",
+      "answer": "taller",
       "category": "English",
-      "source": "SSC CGL 2008",
-      "date": "2008-07-23",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q1:-What is the synonym of 'Rapid'?",
+      "options": [
+        "Slow",
+        "Fast",
+        "Late",
+        "Weak"
+      ],
+      "answer": "Fast",
+      "category": "English",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:-Identify the part of speech: 'Honesty is the best policy.' (Honesty)",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
+      ],
+      "answer": "Noun",
+      "category": "English",
+      "source": "SSC CHSL 2010",
+      "date": "2010-06-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q5:-Fill in the blank: 'We have lived here ____ five years.'",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "answer": "for",
+      "category": "English",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:-Fill in the blank: 'He succeeded ____ hard work.'",
+      "options": [
+        "by",
+        "with",
+        "through",
+        "because"
+      ],
+      "answer": "through",
+      "category": "English",
+      "source": "SSC MTS 2009",
+      "date": "2009-11-17",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q12:-Find the antonym of 'Obscure':",
+      "options": [
+        "Clear",
+        "Vague",
+        "Hidden",
+        "Dark"
+      ],
+      "answer": "Clear",
+      "category": "English",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q17:-Change into indirect speech: She said, \"I am tired.\"",
+      "options": [
+        "She said that she is tired.",
+        "She said that she was tired.",
+        "She says that she was tired.",
+        "She says that she is tired."
+      ],
+      "answer": "She said that she was tired.",
+      "category": "English",
+      "source": "SSC CHSL 2007",
+      "date": "2007-05-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q18:-Choose the correct article: 'He bought ____ umbrella.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "category": "English",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
       "shift": "Evening"
     },
     {
@@ -267,18 +197,88 @@
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Choose the correct degree of comparison: 'He is ____ than his brother.'",
+      "question": "Q7:-Convert into indirect speech: He said, \"I will help you.\"",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "He said that he would help me.",
+        "He said that I would help him.",
+        "He says that he will help me.",
+        "He said he will help me."
       ],
-      "answer": "taller",
+      "answer": "He said that he would help me.",
       "category": "English",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q2:-Choose the correct spelling:",
+      "options": [
+        "Definately",
+        "Definitely",
+        "Defanitely",
+        "Definetly"
+      ],
+      "answer": "Definitely",
+      "category": "English",
+      "source": "SSC CHSL 2022",
+      "date": "2022-06-15",
       "shift": "Evening"
+    },
+    {
+      "question": "Q16:-Choose the correct passive voice: 'They are watching the movie.'",
+      "options": [
+        "The movie is being watched by them.",
+        "The movie was watched by them.",
+        "The movie is watched by them.",
+        "The movie was being watched by them."
+      ],
+      "answer": "The movie is being watched by them.",
+      "category": "English",
+      "source": "SSC CGL 2008",
+      "date": "2008-07-23",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:-Select the correct preposition: 'She is interested ____ music.'",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "answer": "in",
+      "category": "English",
+      "source": "SSC MTS 2015",
+      "date": "2015-11-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-Choose the correct article: 'He is ____ honest man.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "category": "English",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q19:-Select the correct preposition: 'She is good ____ dancing.'",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": "at",
+      "category": "English",
+      "source": "SSC CGL 2005",
+      "date": "2005-08-29",
+      "shift": "Morning"
     }
   ]
 }
