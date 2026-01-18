@@ -15,18 +15,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q1:-What does CPU stand for?",
+      "question": "Q3:-Which memory is volatile?",
       "options": [
-        "Central Processing Unit",
-        "Central Program Unit",
-        "Central Power Unit",
-        "Central Print Unit"
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "CD-ROM"
       ],
-      "answer": "Central Processing Unit",
+      "answer": "RAM",
       "category": "Computer",
-      "source": "SSC CGL 2023",
-      "date": "2023-08-12",
+      "source": "SSC MTS 2021",
+      "date": "2021-11-20",
       "shift": "Morning"
+    },
+    {
+      "question": "Q10:-Which part stores permanent data?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Registers"
+      ],
+      "answer": "ROM",
+      "category": "Computer",
+      "source": "SSC CGL 2014",
+      "date": "2014-07-09",
+      "shift": "Evening"
     },
     {
       "question": "Q16:-What is the full form of LAN?",
@@ -43,74 +57,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q6:-What does HTTP stand for?",
+      "question": "Q5:-Which one is NOT an operating system?",
       "options": [
-        "HyperText Transfer Protocol",
-        "HighText Transfer Protocol",
-        "Hyper Transfer Text Protocol",
-        "HyperText Translate Protocol"
+        "Windows",
+        "Linux",
+        "MacOS",
+        "Microsoft Word"
       ],
-      "answer": "HyperText Transfer Protocol",
+      "answer": "Microsoft Word",
       "category": "Computer",
-      "source": "SSC MTS 2018",
-      "date": "2018-09-17",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q4:-What is the shortcut for 'Copy'?",
-      "options": [
-        "Ctrl + C",
-        "Ctrl + V",
-        "Ctrl + X",
-        "Ctrl + Z"
-      ],
-      "answer": "Ctrl + C",
-      "category": "Computer",
-      "source": "SSC CGL 2020",
-      "date": "2020-03-04",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q20:-Which is NOT a type of network?",
-      "options": [
-        "WAN",
-        "LAN",
-        "PAN",
-        "CAN"
-      ],
-      "answer": "CAN",
-      "category": "Computer",
-      "source": "SSC CHSL 2004",
-      "date": "2004-06-11",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-Which device is used for printing?",
-      "options": [
-        "Scanner",
-        "Printer",
-        "Mouse",
-        "Monitor"
-      ],
-      "answer": "Printer",
-      "category": "Computer",
-      "source": "SSC CGL 2017",
-      "date": "2017-08-10",
+      "source": "SSC CHSL 2019",
+      "date": "2019-07-08",
       "shift": "Morning"
-    },
-    {
-      "question": "Q18:-Which is not a programming language?",
-      "options": [
-        "Python",
-        "HTML",
-        "Java",
-        "MS Excel"
-      ],
-      "answer": "MS Excel",
-      "category": "Computer",
-      "source": "SSC MTS 2006",
-      "date": "2006-09-18",
-      "shift": "Evening"
     },
     {
       "question": "Q14:-What is the brain of the computer?",
@@ -127,18 +85,18 @@
       "shift": "Evening"
     },
     {
-      "question": "Q5:-Which one is NOT an operating system?",
+      "question": "Q6:-What does HTTP stand for?",
       "options": [
-        "Windows",
-        "Linux",
-        "MacOS",
-        "Microsoft Word"
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "Hyper Transfer Text Protocol",
+        "HyperText Translate Protocol"
       ],
-      "answer": "Microsoft Word",
+      "answer": "HyperText Transfer Protocol",
       "category": "Computer",
-      "source": "SSC CHSL 2019",
-      "date": "2019-07-08",
-      "shift": "Morning"
+      "source": "SSC MTS 2018",
+      "date": "2018-09-17",
+      "shift": "Evening"
     },
     {
       "question": "Q17:-What does PDF stand for?",
@@ -169,46 +127,32 @@
       "shift": "Morning"
     },
     {
-      "question": "Q8:-What is the full form of URL?",
+      "question": "Q20:-Which is NOT a type of network?",
       "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Locator",
-        "Uniform Retrieval Locator",
-        "Universal Retrieval Locator"
+        "WAN",
+        "LAN",
+        "PAN",
+        "CAN"
       ],
-      "answer": "Uniform Resource Locator",
+      "answer": "CAN",
       "category": "Computer",
-      "source": "SSC CHSL 2016",
-      "date": "2016-10-05",
+      "source": "SSC CHSL 2004",
+      "date": "2004-06-11",
       "shift": "Evening"
     },
     {
-      "question": "Q11:-Which software is used for calculations?",
+      "question": "Q13:-Which key is used to refresh a webpage?",
       "options": [
-        "MS Word",
-        "MS Excel",
-        "MS PowerPoint",
-        "MS Outlook"
+        "F1",
+        "F2",
+        "F5",
+        "F12"
       ],
-      "answer": "MS Excel",
+      "answer": "F5",
       "category": "Computer",
-      "source": "SSC CHSL 2013",
-      "date": "2013-12-15",
+      "source": "SSC CGL 2011",
+      "date": "2011-08-20",
       "shift": "Morning"
-    },
-    {
-      "question": "Q10:-Which part stores permanent data?",
-      "options": [
-        "RAM",
-        "Cache",
-        "ROM",
-        "Registers"
-      ],
-      "answer": "ROM",
-      "category": "Computer",
-      "source": "SSC CGL 2014",
-      "date": "2014-07-09",
-      "shift": "Evening"
     },
     {
       "question": "Q9:-Which one is a web browser?",
@@ -225,31 +169,45 @@
       "shift": "Morning"
     },
     {
-      "question": "Q3:-Which memory is volatile?",
+      "question": "Q4:-What is the shortcut for 'Copy'?",
       "options": [
-        "ROM",
-        "Hard Disk",
-        "RAM",
-        "CD-ROM"
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
       ],
-      "answer": "RAM",
+      "answer": "Ctrl + C",
       "category": "Computer",
-      "source": "SSC MTS 2021",
-      "date": "2021-11-20",
-      "shift": "Morning"
+      "source": "SSC CGL 2020",
+      "date": "2020-03-04",
+      "shift": "Evening"
     },
     {
-      "question": "Q13:-Which key is used to refresh a webpage?",
+      "question": "Q12:-What is phishing?",
       "options": [
-        "F1",
-        "F2",
-        "F5",
-        "F12"
+        "Stealing sensitive info",
+        "Virus infection",
+        "Software update",
+        "File compression"
       ],
-      "answer": "F5",
+      "answer": "Stealing sensitive info",
       "category": "Computer",
-      "source": "SSC CGL 2011",
-      "date": "2011-08-20",
+      "source": "SSC MTS 2012",
+      "date": "2012-09-10",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-Which device is used for printing?",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Mouse",
+        "Monitor"
+      ],
+      "answer": "Printer",
+      "category": "Computer",
+      "source": "SSC CGL 2017",
+      "date": "2017-08-10",
       "shift": "Morning"
     },
     {
@@ -267,17 +225,59 @@
       "shift": "Evening"
     },
     {
-      "question": "Q12:-What is phishing?",
+      "question": "Q1:-What does CPU stand for?",
       "options": [
-        "Stealing sensitive info",
-        "Virus infection",
-        "Software update",
-        "File compression"
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Central Power Unit",
+        "Central Print Unit"
       ],
-      "answer": "Stealing sensitive info",
+      "answer": "Central Processing Unit",
       "category": "Computer",
-      "source": "SSC MTS 2012",
-      "date": "2012-09-10",
+      "source": "SSC CGL 2023",
+      "date": "2023-08-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q11:-Which software is used for calculations?",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Outlook"
+      ],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC CHSL 2013",
+      "date": "2013-12-15",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q8:-What is the full form of URL?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retrieval Locator",
+        "Universal Retrieval Locator"
+      ],
+      "answer": "Uniform Resource Locator",
+      "category": "Computer",
+      "source": "SSC CHSL 2016",
+      "date": "2016-10-05",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q18:-Which is not a programming language?",
+      "options": [
+        "Python",
+        "HTML",
+        "Java",
+        "MS Excel"
+      ],
+      "answer": "MS Excel",
+      "category": "Computer",
+      "source": "SSC MTS 2006",
+      "date": "2006-09-18",
       "shift": "Evening"
     }
   ]

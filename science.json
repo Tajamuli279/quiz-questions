@@ -1,6 +1,20 @@
 {
   "questions": [
     {
+      "question": "Q18:-Which is the lightest metal?",
+      "options": [
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Lithium",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-24",
+      "shift": "Evening"
+    },
+    {
       "question": "Q2:-Which gas is used in the preparation of soda water?",
       "options": [
         "Oxygen",
@@ -15,45 +29,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q17:-Which part of the brain controls balance?",
+      "question": "Q3:-Who discovered the neutron?",
       "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Medulla",
-        "Pons"
+        "Chadwick",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
       ],
-      "answer": "Cerebellum",
+      "answer": "Chadwick",
       "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-15",
       "shift": "Morning"
     },
     {
-      "question": "Q12:-What is the main gas found in the air we breathe?",
+      "question": "Q20:-Which process converts sugar into alcohol?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "Fermentation",
+        "Distillation",
+        "Evaporation",
+        "Sublimation"
       ],
-      "answer": "Nitrogen",
+      "answer": "Fermentation",
       "category": "Science",
       "source": "SSC CHSL 2024",
-      "date": "2024-04-17",
+      "date": "2024-04-19",
       "shift": "Evening"
     },
     {
-      "question": "Q15:-What is the boiling point of water?",
+      "question": "Q1:-What is the SI unit of force?",
       "options": [
-        "50°C",
-        "75°C",
-        "100°C",
-        "125°C"
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
       ],
-      "answer": "100°C",
+      "answer": "Newton",
       "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-18",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-20",
       "shift": "Morning"
     },
     {
@@ -69,76 +83,6 @@
       "source": "SSC CHSL 2024",
       "date": "2024-04-16",
       "shift": "Evening"
-    },
-    {
-      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
-      "options": [
-        "Thermometer",
-        "Barometer",
-        "Hygrometer",
-        "Ammeter"
-      ],
-      "answer": "Barometer",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-19",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q6:-Which part of the cell contains genetic material?",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Ribosome",
-        "Cytoplasm"
-      ],
-      "answer": "Nucleus",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:-What is the speed of light in vacuum?",
-      "options": [
-        "3 × 10^8 m/s",
-        "3 × 10^6 m/s",
-        "3 × 10^5 m/s",
-        "3 × 10^4 m/s"
-      ],
-      "answer": "3 × 10^8 m/s",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-16",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q14:-Which acid is present in lemon?",
-      "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Lactic acid",
-        "Oxalic acid"
-      ],
-      "answer": "Citric acid",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-23",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q5:-What is the chemical formula of washing soda?",
-      "options": [
-        "NaCl",
-        "Na2CO3",
-        "NaHCO3",
-        "NaOH"
-      ],
-      "answer": "Na2CO3",
-      "category": "Science",
-      "source": "SSC CGL 2024",
-      "date": "2024-05-21",
-      "shift": "Morning"
     },
     {
       "question": "Q13:-Which part of the eye controls the amount of light entering?",
@@ -169,17 +113,17 @@
       "shift": "Evening"
     },
     {
-      "question": "Q18:-Which is the lightest metal?",
+      "question": "Q14:-Which acid is present in lemon?",
       "options": [
-        "Lithium",
-        "Sodium",
-        "Potassium",
-        "Calcium"
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Oxalic acid"
       ],
-      "answer": "Lithium",
+      "answer": "Citric acid",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-24",
+      "date": "2024-05-23",
       "shift": "Evening"
     },
     {
@@ -197,18 +141,60 @@
       "shift": "Evening"
     },
     {
-      "question": "Q20:-Which process converts sugar into alcohol?",
+      "question": "Q12:-What is the main gas found in the air we breathe?",
       "options": [
-        "Fermentation",
-        "Distillation",
-        "Evaporation",
-        "Sublimation"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
       ],
-      "answer": "Fermentation",
+      "answer": "Nitrogen",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-17",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:-What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s",
+        "3 × 10^4 m/s"
+      ],
+      "answer": "3 × 10^8 m/s",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-16",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q9:-pH value of neutral solution is?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "answer": "7",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-22",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q19:-Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Ammeter"
+      ],
+      "answer": "Barometer",
       "category": "Science",
       "source": "SSC CHSL 2024",
       "date": "2024-04-19",
-      "shift": "Evening"
+      "shift": "Morning"
     },
     {
       "question": "Q4:-Which organ in the human body produces bile?",
@@ -225,17 +211,45 @@
       "shift": "Evening"
     },
     {
-      "question": "Q1:-What is the SI unit of force?",
+      "question": "Q6:-Which part of the cell contains genetic material?",
       "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Watt"
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Cytoplasm"
       ],
-      "answer": "Newton",
+      "answer": "Nucleus",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-20",
+      "date": "2024-05-21",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q15:-What is the boiling point of water?",
+      "options": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "answer": "100°C",
+      "category": "Science",
+      "source": "SSC CHSL 2024",
+      "date": "2024-04-18",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:-What is the chemical formula of washing soda?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": "Na2CO3",
+      "category": "Science",
+      "source": "SSC CGL 2024",
+      "date": "2024-05-21",
       "shift": "Morning"
     },
     {
@@ -253,31 +267,17 @@
       "shift": "Morning"
     },
     {
-      "question": "Q3:-Who discovered the neutron?",
+      "question": "Q17:-Which part of the brain controls balance?",
       "options": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr",
-        "Thomson"
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Pons"
       ],
-      "answer": "Chadwick",
-      "category": "Science",
-      "source": "SSC CHSL 2024",
-      "date": "2024-04-15",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q9:-pH value of neutral solution is?",
-      "options": [
-        "5",
-        "7",
-        "9",
-        "11"
-      ],
-      "answer": "7",
+      "answer": "Cerebellum",
       "category": "Science",
       "source": "SSC CGL 2024",
-      "date": "2024-05-22",
+      "date": "2024-05-24",
       "shift": "Morning"
     }
   ]
