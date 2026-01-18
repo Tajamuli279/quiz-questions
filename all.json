@@ -1,74 +1,216 @@
 {
   "questions": [
     {
-      "question": "Q33:- Price of a shirt is ₹400. It was sold at 10% discount. What was the selling price?",
+      "question": "Q1:- Which of the following is NOT a function of a Junior Assistant?",
       "options": [
-        "₹360",
-        "₹370",
-        "₹380",
-        "₹390"
+        "File noting",
+        "Record maintenance",
+        "Policy framing",
+        "Data entry"
       ],
-      "answer": "₹360",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
+      "answer": "Policy framing",
+      "category": "General Awareness",
+      "source": "JKSSB Junior Assistant",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q31:- A student scored 72 marks out of 120. What is his percentage?",
+      "question": "Q2:- Who is the current Lieutenant Governor of Jammu and Kashmir?",
       "options": [
-        "60%",
-        "62%",
-        "65%",
-        "68%"
+        "Manoj Sinha",
+        "Satya Pal Malik",
+        "Narendra Modi",
+        "Amit Shah"
       ],
-      "answer": "60%",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
+      "answer": "Manoj Sinha",
+      "category": "General Awareness",
+      "source": "JKSSB Junior Assistant",
+      "date": "2023-03-12",
       "shift": "Morning"
     },
     {
-      "question": "Q32:- If 45 is 75% of a number, what is the number?",
+      "question": "Q3:- If the cost price of an article is ₹800 and it is sold at a profit of 25%, what is the selling price?",
       "options": [
+        "₹900",
+        "₹950",
+        "₹1000",
+        "₹1050"
+      ],
+      "answer": "₹1000",
+      "category": "Maths",
+      "source": "JKSSB Junior Assistant",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q4:- Choose the correct spelling.",
+      "options": [
+        "Goverment",
+        "Governmant",
+        "Government",
+        "Goverenment"
+      ],
+      "answer": "Government",
+      "category": "English",
+      "source": "JKSSB Junior Assistant",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q5:- Which shortcut key is used to paste data in MS Word?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + Z"
+      ],
+      "answer": "Ctrl + V",
+      "category": "Computer",
+      "source": "JKSSB Junior Assistant",
+      "date": "2023-03-12",
+      "shift": "Morning"
+    },
+
+    {
+      "question": "Q6:- What is the capital of Jammu and Kashmir (summer)?",
+      "options": [
+        "Jammu",
+        "Srinagar",
+        "Leh",
+        "Anantnag"
+      ],
+      "answer": "Srinagar",
+      "category": "General Awareness",
+      "source": "JKSSB Junior Assistant",
+      "date": "2022-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q7:- Simplify: 15 × 12 ÷ 3",
+      "options": [
+        "40",
         "50",
-        "55",
         "60",
-        "65"
+        "70"
       ],
       "answer": "60",
       "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
+      "source": "JKSSB Junior Assistant",
+      "date": "2022-12-18",
       "shift": "Evening"
     },
     {
-      "question": "Q29:- What is 20% of 150?",
+      "question": "Q8:- Find the synonym of 'Abundant'.",
       "options": [
-        "25",
-        "30",
-        "35",
-        "20"
+        "Scarce",
+        "Plenty",
+        "Little",
+        "Rare"
       ],
-      "answer": "30",
-      "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
+      "answer": "Plenty",
+      "category": "English",
+      "source": "JKSSB Junior Assistant",
+      "date": "2022-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q9:- Which device is used to scan documents?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Monitor",
+        "Keyboard"
+      ],
+      "answer": "Scanner",
+      "category": "Computer",
+      "source": "JKSSB Junior Assistant",
+      "date": "2022-12-18",
+      "shift": "Evening"
+    },
+    {
+      "question": "Q10:- The Jammu & Kashmir Reorganisation Act came into force in which year?",
+      "options": [
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "answer": "2019",
+      "category": "General Awareness",
+      "source": "JKSSB Junior Assistant",
+      "date": "2022-12-18",
+      "shift": "Evening"
+    },
+
+    {
+      "question": "Q11:- What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Power Unit",
+        "Control Processing Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "category": "Computer",
+      "source": "JKSSB Junior Assistant",
+      "date": "2021-09-26",
       "shift": "Morning"
     },
     {
-      "question": "Q30:- If a number is increased by 25%, what is the new value of 80?",
+      "question": "Q12:- If 20% of a number is 50, what is the number?",
       "options": [
-        "90",
-        "95",
-        "100",
-        "105"
+        "200",
+        "250",
+        "300",
+        "150"
       ],
-      "answer": "100",
+      "answer": "250",
       "category": "Maths",
-      "source": "JKBOSE",
-      "date": "2025-07-10",
-      "shift": "Evening"
+      "source": "JKSSB Junior Assistant",
+      "date": "2021-09-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q13:- Antonym of 'Permanent' is:",
+      "options": [
+        "Lasting",
+        "Stable",
+        "Temporary",
+        "Fixed"
+      ],
+      "answer": "Temporary",
+      "category": "English",
+      "source": "JKSSB Junior Assistant",
+      "date": "2021-09-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q14:- Which of the following is a storage device?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Disk",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "category": "Computer",
+      "source": "JKSSB Junior Assistant",
+      "date": "2021-09-26",
+      "shift": "Morning"
+    },
+    {
+      "question": "Q15:- Who appoints the Lieutenant Governor of a Union Territory?",
+      "options": [
+        "Prime Minister",
+        "President of India",
+        "Chief Justice",
+        "Parliament"
+      ],
+      "answer": "President of India",
+      "category": "Polity",
+      "source": "JKSSB Junior Assistant",
+      "date": "2021-09-26",
+      "shift": "Morning"
     }
   ]
 }
