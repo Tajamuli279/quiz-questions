@@ -1,144 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q55:-The planet farthest from the Sun is:",
+      "question": "Which is the largest continent in the world by land area?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Neptune",
-        "Uranus"
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America"
       ],
-      "answer": "Neptune",
-      "category": "GK",
-      "source": "SSC GD 2022",
-      "date": "2022-12-08",
-      "shift": "Afternoon"
+      "answer": "Asia",
+      "explanation": "Asia is the largest continent in terms of land area and population.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 11"
     },
     {
-      "question": "Q3:- The smallest country in the world by area is:",
+      "question": "Who is known as the Father of the Indian Constitution?",
       "options": [
-        "Monaco",
-        "Vatican City",
-        "Nauru",
-        "San Marino"
-      ],
-      "answer": "Vatican City",
-      "category": "GK",
-      "source": "SSC MTS 2024",
-      "date": "2024-05-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q33:-The gas responsible for global warming is:",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Carbon Dioxide",
-      "category": "GK",
-      "source": "SSC CGL 2022",
-      "date": "2022-08-25",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q87:-The second largest planet in our solar system is:",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "answer": "Saturn",
-      "category": "GK",
-      "source": "SSC CHSL 2021",
-      "date": "2021-04-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q4:-Who invented the telephone?",
-      "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Guglielmo Marconi",
-        "Nikola Tesla"
-      ],
-      "answer": "Alexander Graham Bell",
-      "category": "GK",
-      "source": "SSC CHSL 2020",
-      "date": "2020-09-10",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q27:-Which of the following is a direct tax?",
-      "options": [
-        "GST",
-        "Sales Tax",
-        "Income Tax",
-        "Excise Duty"
-      ],
-      "answer": "Income Tax",
-      "category": "GK",
-      "source": "SSC CHSL 2022",
-      "date": "2022-04-18",
-      "shift": "Afternoon"
-    },
-    {
-      "question": "Q15:-What is the chemical symbol for gold?",
-      "options": [
-        "Ag",
-        "Au",
-        "Cu",
-        "Fe"
-      ],
-      "answer": "Au",
-      "category": "GK",
-      "source": "SSC GD 2023",
-      "date": "2023-01-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q38:- The 'Battle of Buxar' was fought in which year?",
-      "options": [
-        "1757",
-        "1761",
-        "1764",
-        "1773"
-      ],
-      "answer": "1764",
-      "category": "GK",
-      "source": "SSC CHSL 2024",
-      "date": "2024-06-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q73:- The 'Quit India Movement' slogan 'Do or Die' was given by:",
-      "options": [
-        "Subhas Chandra Bose",
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Dr. B. R. Ambedkar",
+        "Sardar Patel"
       ],
-      "answer": "Mahatma Gandhi",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-04-20",
-      "shift": "Evening"
+      "answer": "Dr. B. R. Ambedkar",
+      "explanation": "Dr. B. R. Ambedkar was the Chairman of the Drafting Committee of the Indian Constitution.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 11"
     },
     {
-      "question": "Q81:- The 'Tsunami' is caused by:",
+      "question": "Which river is the longest in India?",
       "options": [
-        "Strong winds",
-        "Undersea earthquakes",
-        "Volcanic eruptions",
-        "Heavy rainfall"
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Narmada"
       ],
-      "answer": "Undersea earthquakes",
-      "category": "GK",
-      "source": "SSC CGL 2025",
-      "date": "2025-06-10",
-      "shift": "Evening"
+      "answer": "Ganga",
+      "explanation": "The Ganga (Ganges) is the longest river in India.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 11"
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": [
+        "USA",
+        "Australia",
+        "Brazil",
+        "Canada"
+      ],
+      "answer": "Australia",
+      "explanation": "The Great Barrier Reef is located off the coast of Queensland, Australia.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 11"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh",
+        "Rajasthan"
+      ],
+      "answer": "Punjab",
+      "explanation": "Punjab is called the 'Land of Five Rivers' because the word Punjab means five waters.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 11"
+    },
+    {
+      "question": "Who was the first woman Prime Minister of India?",
+      "options": [
+        "Pratibha Patil",
+        "Sushma Swaraj",
+        "Indira Gandhi",
+        "Sarojini Naidu"
+      ],
+      "answer": "Indira Gandhi",
+      "explanation": "Indira Gandhi became the first woman Prime Minister of India in 1966.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 12"
+    },
+    {
+      "question": "Which planet is the largest in our Solar System?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "answer": "Jupiter",
+      "explanation": "Jupiter is the largest planet in the Solar System.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 12"
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "options": [
+        "1945",
+        "1946",
+        "1947",
+        "1950"
+      ],
+      "answer": "1947",
+      "explanation": "India became independent on 15 August 1947.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 12"
+    },
+    {
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Param Vir Chakra"
+      ],
+      "answer": "Bharat Ratna",
+      "explanation": "Bharat Ratna is the highest civilian award in India.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 12"
+    },
+    {
+      "question": "Which ocean is the largest in the world?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+      "category": "General Knowledge",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 12"
     }
   ]
 }
