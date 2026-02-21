@@ -1,216 +1,144 @@
 {
   "questions": [
     {
-      "question": "Q1:- Which of the following is NOT a function of a Junior Assistant?",
+      "question": "Which of the following is an example of an input device?",
       "options": [
-        "File noting",
-        "Record maintenance",
-        "Policy framing",
-        "Data entry"
-      ],
-      "answer": "Policy framing",
-      "category": "General Awareness",
-      "source": "JKSSB Junior Assistant",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q2:- Who is the current Lieutenant Governor of Jammu and Kashmir?",
-      "options": [
-        "Manoj Sinha",
-        "Satya Pal Malik",
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "answer": "Manoj Sinha",
-      "category": "General Awareness",
-      "source": "JKSSB Junior Assistant",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q3:- If the cost price of an article is ₹800 and it is sold at a profit of 25%, what is the selling price?",
-      "options": [
-        "₹900",
-        "₹950",
-        "₹1000",
-        "₹1050"
-      ],
-      "answer": "₹1000",
-      "category": "Maths",
-      "source": "JKSSB Junior Assistant",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q4:- Choose the correct spelling.",
-      "options": [
-        "Goverment",
-        "Governmant",
-        "Government",
-        "Goverenment"
-      ],
-      "answer": "Government",
-      "category": "English",
-      "source": "JKSSB Junior Assistant",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q5:- Which shortcut key is used to paste data in MS Word?",
-      "options": [
-        "Ctrl + C",
-        "Ctrl + X",
-        "Ctrl + V",
-        "Ctrl + Z"
-      ],
-      "answer": "Ctrl + V",
-      "category": "Computer",
-      "source": "JKSSB Junior Assistant",
-      "date": "2023-03-12",
-      "shift": "Morning"
-    },
-
-    {
-      "question": "Q6:- What is the capital of Jammu and Kashmir (summer)?",
-      "options": [
-        "Jammu",
-        "Srinagar",
-        "Leh",
-        "Anantnag"
-      ],
-      "answer": "Srinagar",
-      "category": "General Awareness",
-      "source": "JKSSB Junior Assistant",
-      "date": "2022-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q7:- Simplify: 15 × 12 ÷ 3",
-      "options": [
-        "40",
-        "50",
-        "60",
-        "70"
-      ],
-      "answer": "60",
-      "category": "Maths",
-      "source": "JKSSB Junior Assistant",
-      "date": "2022-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q8:- Find the synonym of 'Abundant'.",
-      "options": [
-        "Scarce",
-        "Plenty",
-        "Little",
-        "Rare"
-      ],
-      "answer": "Plenty",
-      "category": "English",
-      "source": "JKSSB Junior Assistant",
-      "date": "2022-12-18",
-      "shift": "Evening"
-    },
-    {
-      "question": "Q9:- Which device is used to scan documents?",
-      "options": [
-        "Printer",
-        "Scanner",
         "Monitor",
-        "Keyboard"
+        "Printer",
+        "Keyboard",
+        "Speaker"
       ],
-      "answer": "Scanner",
-      "category": "Computer",
-      "source": "JKSSB Junior Assistant",
-      "date": "2022-12-18",
-      "shift": "Evening"
+      "answer": "Keyboard",
+      "explanation": "A keyboard is used to enter data into a computer system, making it an input device.",
+      "category": "Computer Awareness",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 3"
     },
     {
-      "question": "Q10:- The Jammu & Kashmir Reorganisation Act came into force in which year?",
+      "question": "If a number is increased by 20% and becomes 240, what was the original number?",
       "options": [
-        "2018",
-        "2019",
-        "2020",
-        "2021"
-      ],
-      "answer": "2019",
-      "category": "General Awareness",
-      "source": "JKSSB Junior Assistant",
-      "date": "2022-12-18",
-      "shift": "Evening"
-    },
-
-    {
-      "question": "Q11:- What does CPU stand for?",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Power Unit",
-        "Control Processing Unit"
-      ],
-      "answer": "Central Processing Unit",
-      "category": "Computer",
-      "source": "JKSSB Junior Assistant",
-      "date": "2021-09-26",
-      "shift": "Morning"
-    },
-    {
-      "question": "Q12:- If 20% of a number is 50, what is the number?",
-      "options": [
+        "180",
         "200",
-        "250",
-        "300",
-        "150"
+        "220",
+        "250"
       ],
-      "answer": "250",
-      "category": "Maths",
-      "source": "JKSSB Junior Assistant",
-      "date": "2021-09-26",
-      "shift": "Morning"
+      "answer": "200",
+      "explanation": "Let the number be X. 120% of X = 240 → 1.2X = 240 → X = 200.",
+      "category": "Quantitative Aptitude",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 3"
     },
     {
-      "question": "Q13:- Antonym of 'Permanent' is:",
+      "question": "Choose the correct antonym of 'Expand'.",
       "options": [
-        "Lasting",
-        "Stable",
-        "Temporary",
-        "Fixed"
+        "Increase",
+        "Enlarge",
+        "Contract",
+        "Stretch"
       ],
-      "answer": "Temporary",
-      "category": "English",
-      "source": "JKSSB Junior Assistant",
-      "date": "2021-09-26",
-      "shift": "Morning"
+      "answer": "Contract",
+      "explanation": "'Contract' means to reduce in size, which is the opposite of expand.",
+      "category": "English Language",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 3"
     },
     {
-      "question": "Q14:- Which of the following is a storage device?",
+      "question": "Which Article of the Indian Constitution deals with the Right to Equality?",
       "options": [
-        "RAM",
-        "ROM",
-        "Hard Disk",
-        "All of these"
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
       ],
-      "answer": "All of these",
-      "category": "Computer",
-      "source": "JKSSB Junior Assistant",
-      "date": "2021-09-26",
-      "shift": "Morning"
+      "answer": "Article 14",
+      "explanation": "Article 14 guarantees equality before the law and equal protection of the laws.",
+      "category": "Indian Polity",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 3"
     },
     {
-      "question": "Q15:- Who appoints the Lieutenant Governor of a Union Territory?",
+      "question": "What is the square root of 144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "12 × 12 = 144, so the square root of 144 is 12.",
+      "category": "Quantitative Aptitude",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 3"
+    },
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Solar Energy",
+        "Natural Gas"
+      ],
+      "answer": "Solar Energy",
+      "explanation": "Solar energy is renewable because it is derived from sunlight, which is continuously available.",
+      "category": "General Science",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 4"
+    },
+    {
+      "question": "Identify the correctly punctuated sentence.",
+      "options": [
+        "Its a beautiful day.",
+        "It's a beautiful day.",
+        "Its' a beautiful day.",
+        "Its a beautiful day!"
+      ],
+      "answer": "It's a beautiful day.",
+      "explanation": "'It's' is the correct contraction of 'It is'.",
+      "category": "English Language",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 4"
+    },
+    {
+      "question": "Which key is used to refresh a webpage in most browsers?",
+      "options": [
+        "F2",
+        "F5",
+        "F7",
+        "F10"
+      ],
+      "answer": "F5",
+      "explanation": "F5 is commonly used to refresh or reload a webpage.",
+      "category": "Computer Awareness",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 4"
+    },
+    {
+      "question": "If the ratio of two numbers is 3:5 and their sum is 40, what is the larger number?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "25",
+      "explanation": "Let numbers be 3x and 5x. 3x + 5x = 40 → 8x = 40 → x = 5. Larger number = 5x = 25.",
+      "category": "Quantitative Aptitude",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 4"
+    },
+    {
+      "question": "Who is the head of the Union Executive in India?",
       "options": [
         "Prime Minister",
-        "President of India",
+        "President",
         "Chief Justice",
-        "Parliament"
+        "Speaker of Lok Sabha"
       ],
-      "answer": "President of India",
-      "category": "Polity",
-      "source": "JKSSB Junior Assistant",
-      "date": "2021-09-26",
-      "shift": "Morning"
+      "answer": "President",
+      "explanation": "The President of India is the constitutional head of the Union Executive.",
+      "category": "Indian Polity",
+      "source": "Practice Mock Test",
+      "shift": "Mock Shift 4"
     }
   ]
 }
